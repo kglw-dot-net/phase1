@@ -1,0 +1,9 @@
+[submodule "themes/juice"]
+	path = themes/juice
+	url = https://github.com/huhu/juice
+[submodule "themes/dose"]
+	path = themes/dose
+	url = https://github.com/oltdaniel/dose.git
+[submodule "themes/terminimal"]
+	path = themes/terminimal
+	url = https://github.com/pawroman/zola-theme-terminimal.git
