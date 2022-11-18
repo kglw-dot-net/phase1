@@ -4,7 +4,7 @@ title = "Home"
 
 [![logo](https://i.imgur.com/2BYHA6U.png)](https://github.com/kglw-dot-net "development on GitHub")
 
-[OFFICIAL BAND SITE](https://kinggizzardandthelizardwizard.com "King Gizzard official site") | [Gizzverse Guide](/gizzverse-guide "Gizzverse Guide: descriptions of King Gizzard studio albums") | [Get Into Gizz flowchart](https://get-into-gizz.com "flowchart-style intro to King Gizzard studio albums") | [Reddit: /r/KGATLW](https://www.reddit.com/r/KGATLW "KGATLW SubReddit")
+[Guide](/gizzverse-guide)
 
 ![color drawing of a Lizard Wizard, holding a staff with a crowned bird perched atop](https://i.imgur.com/O6IiXhz.png)
 

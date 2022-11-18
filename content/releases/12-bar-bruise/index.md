@@ -2,7 +2,7 @@
 title = "12 Bar Bruise"
 +++
 
-![cover of 12 Bar Bruise](./images/albums/12BB.jpg)
+![cover of 12 Bar Bruise](./cover.jpg)
 
 > Well I ain’t dumb  
 > But I ain’t that smart  
@@ -17,13 +17,9 @@ The album cover was the first by Jason Galea, now considered a member of the gro
 
 What to listen to next:
 
-*   [If you want a step up from the (literal) tin shed garage style production quality][#IIYMF]
-*   [If you liked the narrated track, Sam Cherry’s Last Shot][#ELTS]
+*   [If you want a step up from the (literal) tin shed garage style production quality](/releases/im-in-your-mind-fuzz)
+*   [If you liked the narrated track, Sam Cherry’s Last Shot](/releases/eyes-like-the-sky)
 
 I’m familiar with the main albums and want to go deeper:
 
-*   [If you want more like Cut Throat Boogie][#The-Murlocs]
-
-[#ELTS]: ./gizzverse-guide/elts
-[#IIYMF]: ./gizzverse-guide/iiymf
-[#The-Murlocs]: ./gizzverse-guide/the-murlocs
+*   [If you want more like Cut Throat Boogie](/releases/the-murlocs)
