@@ -1,2 +1,8 @@
+# TEMP don't announce new pages until they're ready (Soft Launch)
+sitemap.xml
+
+# don't store built files in the source
 /public
+
+# mac files
 .DS_Store
