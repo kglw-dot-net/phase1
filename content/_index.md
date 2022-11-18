@@ -8,6 +8,7 @@ title = "Home"
 
 ![color drawing of a Lizard Wizard, holding a staff with a crowned bird perched atop](https://i.imgur.com/O6IiXhz.png)
 
+<!--
 Setlists
 --------
 
@@ -107,4 +108,5 @@ Notes: end 9:59pm
 
 Gaia, Predator X, Self-Immolate, Tetrachromacy, Open Water, Static Electricity, East West Link, Minimum Brain Size, Ice V, The Garden Goblin, Blame It on the Weather, Magma, The Dripping Tap
 
-[https://www.youtube.com/watch?v=JH5zT3WgCgA](https://www.youtube.com/watch?v=JH5zT3WgCgA)
+[Youtube](https://www.youtube.com/watch?v=JH5zT3WgCgA)
+-->

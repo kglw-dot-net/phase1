@@ -16,5 +16,25 @@ highlight_code = false
 
 [extra]
 
-accent_color = "green"
 logo_text = "KGLW.net"
+copyright_html = "brought to you by the fans of Gizzard @ KGLW.net"
+
+accent_color = "green"
+favicon = "/logo.png"
+favicon_mimetype = "image/png"
+
+default_language = "en"
+
+menu_items = [
+  # each of these is optional, name and url are required
+  # $BASE_URL is going to be substituted by base_url from configuration
+
+  {name = "guide", url = "$BASE_URL/gizzverse-guide"},
+  {name = "band info", url = "$BASE_URL/band-bio"},
+  # {name = "releases", url = "$BASE_URL/releases"},
+  {name = "blog", url = "javascript:alert('coming soon')"},
+
+  # # set newtab to true to make the link open in new tab
+  {name = "twitter", url = "https://twitter.com/kglw_net", newtab = true},
+  {name = "github", url = "https://github.com/kglw-dot-net", newtab = true},
+]
