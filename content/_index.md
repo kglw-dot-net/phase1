@@ -4,7 +4,7 @@ title = "Home"
 
 [![logo](https://i.imgur.com/2BYHA6U.png)](https://github.com/kglw-dot-net "development on GitHub")
 
-[Guide](/gizzverse-guide)
+Welcome to KGLW.net, brought to you by fans of [King Gizzard and the Lizard Wizard](https://kinggizzardandthelizardwizard.com).
 
 ![color drawing of a Lizard Wizard, holding a staff with a crowned bird perched atop](https://i.imgur.com/O6IiXhz.png)
 
