@@ -13,13 +13,13 @@ After four studio albums and two international tours in 2017 alone, one would th
 
 What to listen to next:
 
-*   [If you want an earlier lo-fi eclectic concept-less album](/releases/oddments)
-*   [If you want the newest eclectic concept-less album](/releases/omnium-gatherium)
-*   [If you want an album full of heavy songs like ‘The Great Chain of Being’](/releases/infest-the-rats-nest)
-*   [If you want to hear the album ‘Superposition’ didn’t quite fit into](/releases/polygondwanaland)
-*   [If you want to hear the album ‘All Is Known’ would’ve been](/releases/nonagon-infinity) on if it wasn’t made during [this one](/releases/flying-microtonal-banana)
-*   [If you liked the laid-back Pop sounds of Beginner’s Luck, I’m Sleepin’ In, and The Wheel](/releases/changes)
+*   [If you want an earlier lo-fi eclectic concept-less album](./oddments)
+*   [If you want the newest eclectic concept-less album](./omnium-gatherium)
+*   [If you want an album full of heavy songs like ‘The Great Chain of Being’](./infest-the-rats-nest)
+*   [If you want to hear the album ‘Superposition’ didn’t quite fit into](./polygondwanaland)
+*   [If you want to hear the album ‘All Is Known’ would’ve been](./nonagon-infinity) on if it wasn’t made during [this one](./flying-microtonal-banana)
+*   [If you liked the laid-back Pop sounds of Beginner’s Luck, I’m Sleepin’ In, and The Wheel](./changes)
 
 I’m familiar with the main albums and want to go deeper:
 
-*   [If you want to hear more songs that lend a ‘peak behind the curtain’ of the creative process](/releases/demos1)
+*   [If you want to hear more songs that lend a ‘peak behind the curtain’ of the creative process](./demos1)

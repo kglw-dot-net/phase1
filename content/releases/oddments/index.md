@@ -15,8 +15,8 @@ The first opus of Jason Galea, this intricate artwork spreads over the triple ga
 
 What to listen to next:
 
-*   [If you want a newer more hi-fi eclectic concept-less album](/releases/gumboot-soup)
-*   [If you want the newest eclectic concept-less album](/releases/omnium-gatherium)
-*   [If you want to move on from the lo-fi early period](/releases/im-in-your-mind-fuzz)
-*   [If you want more chill songs](/releases/paper-mache-dream-balloon)
-*   [If you want another ‘fun’ album](/releases/fishing-for-fishies)
+*   [If you want a newer more hi-fi eclectic concept-less album](./gumboot-soup)
+*   [If you want the newest eclectic concept-less album](./omnium-gatherium)
+*   [If you want to move on from the lo-fi early period](./im-in-your-mind-fuzz)
+*   [If you want more chill songs](./paper-mache-dream-balloon)
+*   [If you want another ‘fun’ album](./fishing-for-fishies)

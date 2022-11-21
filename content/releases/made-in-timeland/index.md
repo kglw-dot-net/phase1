@@ -17,5 +17,5 @@ MIT is a deep, trance-like exploration into Techno and IDM production, and oddly
 
 What to listen to next:
 
-*   [If you want to hear the ‘spiritual successor’ to this album](/releases/laminated-denim)
-*   [If you want an album that has a song that kind of sounds like this (Acarine)](/releases/fishing-for-fishies)
+*   [If you want to hear the ‘spiritual successor’ to this album](./laminated-denim)
+*   [If you want an album that has a song that kind of sounds like this (Acarine)](./fishing-for-fishies)

@@ -15,9 +15,9 @@ Less sonically focused than ‘Explorations into Microtonal Tuning Vol. 1’, a 
 
 What to listen to next:
 
-*   [If you want Volume 1 of ‘Explorations into Microtonal Tuning’](/releases/flying-microtonal-banana)
-*   [If you want Volume 3 of ‘Explorations into Microtonal Tuning’ (counterpart to this album)](/releases/lw)
-*   [If you want another eclectic mix of genres with some microtonal songs](/releases/gumboot-soup)
-*   [If you like the folk vibes of Honey](/releases/paper-mache-dream-balloon)
-*   [If you like the Metal sound of The Hungry Wolf Of Fate](/releases/infest-the-rats-nest)
-*   [If you want more vocal rapping like on Oddlife](/releases/omnium-gatherium)
+*   [If you want Volume 1 of ‘Explorations into Microtonal Tuning’](./flying-microtonal-banana)
+*   [If you want Volume 3 of ‘Explorations into Microtonal Tuning’ (counterpart to this album)](./lw)
+*   [If you want another eclectic mix of genres with some microtonal songs](./gumboot-soup)
+*   [If you like the folk vibes of Honey](./paper-mache-dream-balloon)
+*   [If you like the Metal sound of The Hungry Wolf Of Fate](./infest-the-rats-nest)
+*   [If you want more vocal rapping like on Oddlife](./omnium-gatherium)

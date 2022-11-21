@@ -13,12 +13,12 @@ This refreshing psych-pop album was recorded almost entirely on acoustic instrum
 
 What to listen to next:
 
-*   [If you liked the brighter, positive sound](/releases/butterfly-3000)
-*   [If you want another Pop-based album](/releases/changes)
-*   [If you more relaxed 60s style](/releases/float-along-fill-your-lungs)
-*   [If you want a different ‘period’ sound](/releases/fishing-for-fishies)
-*   [If you prefer the tone of the music to match very dark, intense lyrics](/releases/infest-the-rats-nest)
+*   [If you liked the brighter, positive sound](./butterfly-3000)
+*   [If you want another Pop-based album](./changes)
+*   [If you more relaxed 60s style](./float-along-fill-your-lungs)
+*   [If you want a different ‘period’ sound](./fishing-for-fishies)
+*   [If you prefer the tone of the music to match very dark, intense lyrics](./infest-the-rats-nest)
 
 I’m familiar with the main albums and want to go deeper:
 
-*   [If the guy who sings The Bitter Boogie sounds cool and you want to hear more](/releases/the-murlocs)
+*   [If the guy who sings The Bitter Boogie sounds cool and you want to hear more](./the-murlocs)

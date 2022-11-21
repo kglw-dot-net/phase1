@@ -15,9 +15,9 @@ The strong environmental anti-consumerism theme deserves credit for spurring the
 
 What to listen to next:
 
-*   [If you want something else fun/not serious sounding](/releases/oddments)
-*   [If you want another bright sounding album with dark lyrics](/releases/paper-mache-dream-balloon)
-*   [If you want another easy-going album that gets weird](/releases/sketches-of-brunswick-east)
-*   [If you want another album that sounds last a past era](/releases/float-along-fill-your-lungs)
-*   [If you want another environmentalism themed album but more apocalyptic](/releases/flying-microtonal-banana)
-*   [If you didn’t like this and want to get into what the band is better known for](/releases/nonagon-infinity)
+*   [If you want something else fun/not serious sounding](./oddments)
+*   [If you want another bright sounding album with dark lyrics](./paper-mache-dream-balloon)
+*   [If you want another easy-going album that gets weird](./sketches-of-brunswick-east)
+*   [If you want another album that sounds last a past era](./float-along-fill-your-lungs)
+*   [If you want another environmentalism themed album but more apocalyptic](./flying-microtonal-banana)
+*   [If you didn’t like this and want to get into what the band is better known for](./nonagon-infinity)

@@ -13,10 +13,10 @@ The first true psychedelic album. A lo-fi throwback in sound to The Beatles’ I
 
 What to listen to next:
 
-*   [If you want an album of long, trippy jams](/releases/quarters)
-*   [If you want more of the ‘Eastern’ sound](/releases/flying-microtonal-banana)
-*   [If you want more of the chill 60s Psych-Pop vibe](/releases/paper-mache-dream-balloon)
-*   [If you want a bit more Rock in your Psych-Rock](/releases/im-in-your-mind-fuzz)
+*   [If you want an album of long, trippy jams](./quarters)
+*   [If you want more of the ‘Eastern’ sound](./flying-microtonal-banana)
+*   [If you want more of the chill 60s Psych-Pop vibe](./paper-mache-dream-balloon)
+*   [If you want a bit more Rock in your Psych-Rock](./im-in-your-mind-fuzz)
 
 I’m familiar with the main albums and want to go deeper:
 

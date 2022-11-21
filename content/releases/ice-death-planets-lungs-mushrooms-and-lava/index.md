@@ -15,9 +15,9 @@ The most collaboratively composed album to date; the band breeze through various
 
 What to listen to next:
 
-*   [If you like extended jazzy guitar jamming](/releases/quarters)
-*   [If you liked the unusual sound of _Gliese 710_ and want another album in a non-standard mode](/releases/flying-microtonal-banana)
-*   [If you want more dark, apocalyptic lyrics mismatched with jamming grooves](/releases/fishing-for-fishies)
+*   [If you like extended jazzy guitar jamming](./quarters)
+*   [If you liked the unusual sound of _Gliese 710_ and want another album in a non-standard mode](./flying-microtonal-banana)
+*   [If you want more dark, apocalyptic lyrics mismatched with jamming grooves](./fishing-for-fishies)
 
 I’m familiar with the main albums and want to go deeper:
 

@@ -15,9 +15,9 @@ This blurring is a product of the high volume of live show rehearsals by the ban
 
 What to listen to next:
 
-*   [If you want the first eclectic concept-less album](/releases/oddments)
-*   [If you want another eclectic concept-less album](/releases/gumboot-soup)
-*   [If you liked the heavy songs](/releases/infest-the-rats-nest)
+*   [If you want the first eclectic concept-less album](./oddments)
+*   [If you want another eclectic concept-less album](./gumboot-soup)
+*   [If you liked the heavy songs](./infest-the-rats-nest)
 
 I’m familiar with the main albums and want to go deeper:
 

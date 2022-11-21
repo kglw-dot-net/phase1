@@ -19,11 +19,11 @@ Such a special album was deemed to get a special release, so as a gift to the fa
 
 What to listen to next:
 
-*   [If you want the next Gizzverse album (technical and heavy)](/releases/infest-the-rats-nest)
-*   [If you want another strongly narrative driven multi-act album](/releases/murder-of-the-universe)
-*   [If you want more simple rhythmic interplay between synths and the band](/releases/butterfly-3000)
-*   [If you liked the hints of folk and want more of just that](/releases/paper-mache-dream-balloon)
-*   [If this was too ‘deep’ and you want to hear more of what led up to it](/releases/im-in-your-mind-fuzz)
+*   [If you want the next Gizzverse album (technical and heavy)](./infest-the-rats-nest)
+*   [If you want another strongly narrative driven multi-act album](./murder-of-the-universe)
+*   [If you want more simple rhythmic interplay between synths and the band](./butterfly-3000)
+*   [If you liked the hints of folk and want more of just that](./paper-mache-dream-balloon)
+*   [If this was too ‘deep’ and you want to hear more of what led up to it](./im-in-your-mind-fuzz)
 
 <!-- I’m familiar with the main albums and want to go deeper:
 

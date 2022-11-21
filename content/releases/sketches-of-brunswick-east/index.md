@@ -15,6 +15,6 @@ A collaborative album with Hypnagogic-psych-pop act [Mild High Club](https://www
 
 What to listen to next:
 
-*   [If you want more Jazz sounds](/releases/changes)
-*   [If you want jazzy, stoner-psych rock](/releases/quarters)
-*   [If you want more laid-back, ‘non-Western’ sounding songs](/releases/float-along-fill-your-lungs)
+*   [If you want more Jazz sounds](./changes)
+*   [If you want jazzy, stoner-psych rock](./quarters)
+*   [If you want more laid-back, ‘non-Western’ sounding songs](./float-along-fill-your-lungs)

@@ -13,9 +13,9 @@ This slow, chill, Jazz-Rock album consists of four jams with a duration of 10 mi
 
 What to listen to next:
 
-*   [If you want a stronger jazz influence](/releases/sketches-of-brunswick-east)
-*   [If you don’t mind long songs with stoner vibes](/releases/float-along-fill-your-lungs)
-*   [If you want more loose, jazzy guitar jamming](/releases/ice-death-planets-lungs-mushrooms-and-lava)
+*   [If you want a stronger jazz influence](./sketches-of-brunswick-east)
+*   [If you don’t mind long songs with stoner vibes](./float-along-fill-your-lungs)
+*   [If you want more loose, jazzy guitar jamming](./ice-death-planets-lungs-mushrooms-and-lava)
 
 I’m familiar with the main albums and want to go deeper:
 

@@ -13,10 +13,10 @@ Perhaps the most unique record in the catalogue, murder-of-the-universe is a dar
 
 What to listen to next:
 
-*   [If you want the next Gizzverse album (clean and proggy)](/releases/polygondwanaland)
-*   [If you want another heavy album but less weird](/releases/infest-the-rats-nest)
-*   [I feel like I missed whatever could have led up to this](/releases/nonagon-infinity)
-*   [If you want another narrated story](/releases/eyes-like-the-sky)
-*   [If you want to hear a little more from ‘The Reticent Raconteur’](/releases/polygondwanaland)
-*   [If you want another more subtle appearance from Han-Tyumi ‘The Confused Cyborg’](/releases/sketches-of-brunswick-east)
-*   [I didn’t like this, give me something completely different](/releases/paper-mache-dream-balloon)
+*   [If you want the next Gizzverse album (clean and proggy)](./polygondwanaland)
+*   [If you want another heavy album but less weird](./infest-the-rats-nest)
+*   [I feel like I missed whatever could have led up to this](./nonagon-infinity)
+*   [If you want another narrated story](./eyes-like-the-sky)
+*   [If you want to hear a little more from ‘The Reticent Raconteur’](./polygondwanaland)
+*   [If you want another more subtle appearance from Han-Tyumi ‘The Confused Cyborg’](./sketches-of-brunswick-east)
+*   [I didn’t like this, give me something completely different](./paper-mache-dream-balloon)
