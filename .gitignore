@@ -2,6 +2,7 @@
 sitemap.xml
 
 # don't store built files in the source
+/docs
 /public
 
 # mac files
