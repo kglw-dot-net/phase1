@@ -6,26 +6,26 @@ author = "@BoilerRhapsody"
 How to get into King Gizzard and the Lizard Wizard? Many hear a small sample of this incredible band, but are immediately turned off when faced with what to listen to next out of such a high volume of material. Even experienced fans may not be familiar with every release, where each has a particular history and significance unique from the rest.  
 This is the starting point of the Gizzverse Guide. Our catalogue of King Gizzard releases contains everything you need to get started, with introductory blurb for each release, objective information, and linkes that you can use to navigate to the next listening suggestion, based on what you already know or liked about the music.
 
-If you have already heard an album and don’t know where to go from there, navigate to it from the the [releases](/releases) <!-- link --> page.  
+If you have already heard an album and don’t know where to go from there, navigate to it from the the [releases](./releases) page.  
 If you are completely new to the band, and don’t know where to start, check out some tips:
 
 ## Essentials
 
-While always debatable, there is a path of ‘essential’ albums that most effectively show the core sounds, material, and stories that the band developed around. Many agree that [I’m in Your Mind Fuzz](/releases/im-in-your-mind-fuzz/) is the first of these essential albums, and the solid epoch-point of the Gizzverse. These albums are thereafter referred to as the ‘Gizzverse albums’ in the prompts through the guide.
+While always debatable, there is a path of ‘essential’ albums that most effectively show the core sounds, material, and stories that the band developed around. Many agree that [I’m in Your Mind Fuzz](./releases/im-in-your-mind-fuzz/) is the first of these essential albums, and the solid epoch-point of the Gizzverse. These albums are thereafter referred to as the ‘Gizzverse albums’ in the prompts through the guide.
 
 ## Chronologically
 
 Listening through a discography chronologically is the tried and true way of getting into a band, as it is the way that fans who have followed the band for the longest amount of time got to experience each release. While the sheer volume of albums may feel daunting, in most cases you can simply skip to the next release for a completely new sound or evolution.
 
-Their first album is [12 Bar Bruise](/releases/12-bar-bruise/); but if you have heard of the band by some of their newest material, then perhaps starting at the [current newest album](/releases/changes/) and working backwards may work.
+Their first album is [12 Bar Bruise](./releases/12-bar-bruise/); but if you have heard of the band by some of their newest material, then perhaps starting at the [current newest album](./releases/changes/) and working backwards may work.
 
 ## Tone
 
-Pick an album by title and cover. Each record has a distinct personality that is well conveyed in its title and artwork. [Murder of the Universe](/releases/murder-of-the-universe/) is as dark and despondent as it looks and sounds, [Paper Mâché Dream Balloon](/releases/paper-mache-dream-balloon/) as whimsical sounding as the scene on the front, so pick one that jumps out at you.
+Pick an album by title and cover. Each record has a distinct personality that is well conveyed in its title and artwork. [Murder of the Universe](./releases/murder-of-the-universe/) is as dark and despondent as it looks and sounds, [Paper Mâché Dream Balloon](./releases/paper-mache-dream-balloon/) as whimsical sounding as the scene on the front, so pick one that jumps out at you.
 
 ## Visuals
 
-If something isn’t quite ‘clicking’, try some of the visual work as well. Personally, the [video for Rattlesnake](https://www.youtube.com/watch?v=Q-i1XZc8ZwA) is what instantly made me a fan after years of the band just being a funny name on the radio with an occasional stand out track. [Nonagon Infinity](/releases/nonagon-infinity) and [Butterfly 3000](/releases/butterfly-3000) are albums with lots of high quality visual work behind them.
+If something isn’t quite ‘clicking’, try some of the visual work as well. Personally, the [video for Rattlesnake](https://www.youtube.com/watch?v=Q-i1XZc8ZwA) is what instantly made me a fan after years of the band just being a funny name on the radio with an occasional stand out track. [Nonagon Infinity](./releases/nonagon-infinity) and [Butterfly 3000](./releases/butterfly-3000) are albums with lots of high quality visual work behind them.
 
 The band have many great videos all available on their [Youtube Channel](https://www.youtube.com/playlist?list=PLjEpdah_kOgfhdncO5YfjdQY9hFzPq-2r).
 
@@ -56,7 +56,7 @@ We are currently in a renaissance of KGATLW live performance, and the 2022 NA to
 * [2019 – ITRN](https://www.youtube.com/watch?v=EnmFKS2eDBA)  
 * [2022 - IDPLMAL](https://www.youtube.com/watch?v=Jb8UMmrBlC8)  
 
-However, there are many publications of KGATLW live material out there, from fan made crowd recordings, ‘[official bootlegger](/releases#official-bootlegger-program)‘ band sanctioned soundboard recordings published by fans, and label published traditional [live show recordings](/releases/live-in-san-francisco-2016).
+However, there are many publications of KGATLW live material out there, from fan made crowd recordings, ‘[official bootlegger](./releases#official-bootlegger-program)‘ band sanctioned soundboard recordings published by fans, and label published traditional [live show recordings](./releases/live-in-san-francisco-2016).
 
 ## Other Guides
 
