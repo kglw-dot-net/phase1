@@ -15,7 +15,7 @@ Now with a more familiar platform, a half complete Bağlama based folk album was
 
 What to listen to next:
 
-*   [If you want Volume 2 of ‘Explorations into Microtonal Tuning’](./kg)
-*   [If you want more ‘non-Western’ sounding instruments](./float-along-fill-your-lungs)
-*   [If you want more environmental tones but heavier and more apocalyptic](./infest-the-rats-nest)
-*   [If you want more environmentalism but less stylised and less fictionalised](./fishing-for-fishies)
+*   [If you want Volume 2 of ‘Explorations into Microtonal Tuning’](../kg)
+*   [If you want more ‘non-Western’ sounding instruments](../float-along-fill-your-lungs)
+*   [If you want more environmental tones but heavier and more apocalyptic](../infest-the-rats-nest)
+*   [If you want more environmentalism but less stylised and less fictionalised](../fishing-for-fishies)

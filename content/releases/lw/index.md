@@ -13,6 +13,6 @@ Volume 3 of ‘Explorations into Microtonal Tuning’. This is the second of two
 
 What to listen to next:
   
-[If you want Volume 1 of ‘Explorations into Microtonal Tuning’](./flying-microtonal-banana)  
-[If you want Volume 2 of ‘Explorations into Microtonal Tuning’ (counterpart to this album)](./kg)  
-[If you want a full album of heavy songs a bit like K.G.L.W.](./infest-the-rats-nest)
+[If you want Volume 1 of ‘Explorations into Microtonal Tuning’](../flying-microtonal-banana)  
+[If you want Volume 2 of ‘Explorations into Microtonal Tuning’ (counterpart to this album)](../kg)  
+[If you want a full album of heavy songs a bit like K.G.L.W.](../infest-the-rats-nest)
