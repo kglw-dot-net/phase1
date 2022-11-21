@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://kglw.net"
+base_url = "https://alxndr.github.io/kglw-setlists" # TODO change to kglw.net
 
 theme = "terminimal"
 
@@ -29,9 +29,9 @@ menu_items = [
   # each of these is optional, name and url are required
   # $BASE_URL is going to be substituted by base_url from configuration
 
-  {name = "guide", url = "/gizzverse-guide"},
-  {name = "band info", url = "/band-bio"},
-  # {name = "releases", url = "/releases"},
+  {name = "setlists", url = "$BASE_URL/shows"},
+  {name = "releases", url = "$BASE_URL/gizzverse-guide"},
+  {name = "band info", url = "$BASE_URL/band-bio"},
   {name = "blog", url = "javascript:alert('coming soon')"},
 
   # # set newtab to true to make the link open in new tab

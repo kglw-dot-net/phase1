@@ -56,7 +56,7 @@ We are currently in a renaissance of KGATLW live performance, and the 2022 NA to
 * [2019 – ITRN](https://www.youtube.com/watch?v=EnmFKS2eDBA)  
 * [2022 - IDPLMAL](https://www.youtube.com/watch?v=Jb8UMmrBlC8)  
 
-However, there are many publications of KGATLW live material out there, from fan made crowd recordings, ‘[official bootlegger](https://boilerrhapsody.com/thegizzverseguide/?preview_id=947&preview_nonce=4340e51798&preview=true&_thumbnail_id=1003#Bootlegger)‘ band sanctioned soundboard recordings published by fans, and label published traditional [live show recordings](/releases/live-in-san-francisco-2016).
+However, there are many publications of KGATLW live material out there, from fan made crowd recordings, ‘[official bootlegger](/releases#official-bootlegger-program)‘ band sanctioned soundboard recordings published by fans, and label published traditional [live show recordings](/releases/live-in-san-francisco-2016).
 
 ## Other Guides
 
