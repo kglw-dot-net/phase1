@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://alxndr.github.io/kglw-setlists" # TODO change to kglw.net
+base_url = "https://alxndr.github.io/kglw-site" # TODO change to kglw.net
 
 theme = "terminimal"
 
