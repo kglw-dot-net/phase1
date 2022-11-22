@@ -29,7 +29,7 @@ menu_items = [
   # each of these is optional, name and url are required
   # $BASE_URL is going to be substituted by base_url from configuration
 
-  {name = "setlists", url = "$BASE_URL/shows"},
+  {name = "setlists", url = "$BASE_URL/show"},
   {name = "releases", url = "$BASE_URL/gizzverse-guide"},
   {name = "band info", url = "$BASE_URL/band-bio"},
   {name = "blog", url = "javascript:alert('coming soon')"},
