@@ -2,3 +2,10 @@
 
 # temporary — don't expose things
 sitemap.xml
+
+# Jekyll stuff
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
