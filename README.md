@@ -12,6 +12,9 @@ Set up asdf [+ ruby](https://github.com/asdf-vm/asdf-ruby); `asdf install`
 
 `asdf exec bundle install`
 
+run the server with `bundle exec jekyll serve`
+
+
 
 
 [Jekyll]: https://jekyllrb.com

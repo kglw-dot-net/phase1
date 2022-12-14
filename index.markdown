@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome to KGLW.net — a growing fan site all about the band [King Gizzard and the Lizard Wizard](https://kinggizzardandthelizardwizard.com)!

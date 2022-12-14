@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+KGLW.net is your site for King Gizzard & the Lizard Wizard setlists, guides to the Gizzverse, show reviews, and media related to the band. If you would like to contribute media, essays, show reviews, or other content, write to kglw.net@gmail.com. Our team will reply as soon as possible but please understand that we are a team of volunteers driven by our passion for the band and our desire to create a useful resource for the KGLW community. The site is and will remain free of charge, free of advertisements, and open to all.
