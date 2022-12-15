@@ -17,9 +17,9 @@ The album cover was the first by Jason Galea, now considered a member of the gro
 
 What to listen to next:
 
-*   [If you want a step up from the (literal) tin shed garage style production quality](./im-in-your-mind-fuzz)
-*   [If you liked the narrated track, Sam Cherry’s Last Shot](./eyes-like-the-sky)
+*   [If you want a step up from the (literal) tin shed garage style production quality](../im-in-your-mind-fuzz)
+*   [If you liked the narrated track, Sam Cherry’s Last Shot](../eyes-like-the-sky)
 
 I’m familiar with the main albums and want to go deeper:
 
-*   [If you want more like Cut Throat Boogie](./the-murlocs)
+*   [If you want more like Cut Throat Boogie](../../the-murlocs)

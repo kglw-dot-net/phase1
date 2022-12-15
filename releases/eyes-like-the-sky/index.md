@@ -11,6 +11,6 @@ This truly unique Spaghetti Western soundtrack uses spoken narration rather than
 
 What to listen to next:
 
-*   [If you want a totally different narration based album](./murder-of-the-universe)
-*   [If you want some more soundtrack style songs](./oddments)
-*   [If you want to hear the one other song that sounds like this](./12-bar-bruise)
+*   [If you want a totally different narration based album](../murder-of-the-universe)
+*   [If you want some more soundtrack style songs](../oddments)
+*   [If you want to hear the one other song that sounds like this](../12-bar-bruise)

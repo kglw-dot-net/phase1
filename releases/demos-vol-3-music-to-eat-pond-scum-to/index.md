@@ -1,6 +1,6 @@
-+++
-title = "Demos Vol. 3 – Music To Eat Pond Scum To (2022)"
-+++
+---
+title: "Demos Vol. 3 – Music To Eat Pond Scum To (2022)"
+---
 
 ![album cover of Demos Volume 3](./cover.jpg)
 

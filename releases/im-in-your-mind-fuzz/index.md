@@ -15,7 +15,7 @@ Traditionally recommended as the best starting point of the discography, it impl
 
 What to listen to next:
 
-*   [If you want the next ‘essential’ Gizzverse album](./nonagon-infinity)
-*   [If you liked the driving basslines of Krautrock influence](./flying-microtonal-banana)
-*   [If you prefer a minimal studio mix for a cleaner sound](./polygondwanaland)
-*   [If you like the ‘slow jam’ tracks](./quarters)
+*   [If you want the next ‘essential’ Gizzverse album](../nonagon-infinity)
+*   [If you liked the driving basslines of Krautrock influence](../flying-microtonal-banana)
+*   [If you prefer a minimal studio mix for a cleaner sound](../polygondwanaland)
+*   [If you like the ‘slow jam’ tracks](../quarters)

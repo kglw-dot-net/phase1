@@ -15,9 +15,9 @@ With a Satanic environmental apocalypse narrative – this is the mission that j
 
 What to listen to next:
 
-*   [If you liked the heaviness and don’t mind getting weirder](./murder-of-the-universe)
-*   [If you want the same amount of energy and less heaviness is okay](./nonagon-infinity)
-*   [If you want more down to Earth environmentalism](./flying-microtonal-banana)
+*   [If you liked the heaviness and don’t mind getting weirder](../murder-of-the-universe)
+*   [If you want the same amount of energy and less heaviness is okay](../nonagon-infinity)
+*   [If you want more down to Earth environmentalism](../flying-microtonal-banana)
 
 I’m familiar with the main albums and want to go deeper:
 

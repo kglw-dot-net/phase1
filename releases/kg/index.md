@@ -1,6 +1,6 @@
-+++
-title = "K.G. (2020)"
-+++
+---
+title: "K.G. (2020)"
+---
 
 ![album cover for K.G.](./cover.jpg)
 
