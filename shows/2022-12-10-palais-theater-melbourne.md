@@ -1,8 +1,11 @@
 ---
-date: "2022-11-02"
-title: "12/10/22 — Return to Oz"
+layout: setlist
+date: "2022-12-10"
+year: 2022
+title: "Return to Oz"
 venue: "Palais Theater, Melbourne, Australia"
 tour: "World Tour '22"
+modified_date: 2022-12-14
 ---
 
 1.  Crumbling Castle
