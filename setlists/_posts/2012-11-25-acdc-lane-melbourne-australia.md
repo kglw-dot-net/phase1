@@ -2,6 +2,7 @@
 layout: setlist
 date: "2012-11-25"
 venue: "ACDC Lane, Melbourne, Australia"
+title: "Cherryfest 2012"
 ---
 
  1. Lunch Meat
@@ -33,4 +34,6 @@ venue: "ACDC Lane, Melbourne, Australia"
 
 14. Uh Oh, I Called Mum
 
+### Recordings
 
+* [archive.org](https://archive.org/details/king-gizzard-the-lizard-wizard-live-at-cherry-fest-2012-audio)
