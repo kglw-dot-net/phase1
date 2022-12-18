@@ -1,5 +1,5 @@
 ---
-slug: "2013-10-16-unknown-venue-melbourne-australia"
+layout: setlist
 date: "2013-10-16"
 venue: "Unknown Venue, Melbourne, Australia"
 tour: "Float Along - Fill Your Lungs"

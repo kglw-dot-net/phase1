@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-12-01"
 venue: "Royal Melbourne Showgrounds, Melbourne, Australia"
 tour: "Australian Tour 2018"

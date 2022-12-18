@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-08-22"
 venue: "Goodgod Small Club, Sydney, Australia"
 tour: "SINO-AUS"

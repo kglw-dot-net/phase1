@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-24-alex-madonna-expo-center-san-luis-obispo-ca"
-date = "2022-04-24"
-title = "2022 April 24 @ Alex Madonna Expo Center"
-
-[extra]
-venue = "Alex Madonna Expo Center, San Luis Obispo, CA, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-24"
+venue: "Alex Madonna Expo Center, San Luis Obispo, CA, USA"
+tour: "World Tour '22"
+---
 
 
  1. Robot Stop

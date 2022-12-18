@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-21"
 venue: "Mission Ballroom, Denver, CO, USA"
 tour: "World Tour `19"

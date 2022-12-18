@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-10-03"
 venue: "Sister, Albuquerque, NM, USA"
 tour: "Murder of the Universe"

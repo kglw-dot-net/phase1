@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-09-03"
 venue: "Joy Theater, New Orleans, LA, USA"
 tour: "World Tour `19"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-14"
 venue: "Baby's All Right, Brooklyn, NY, USA"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-06-15"
 venue: "Happy Dog, Cleveland, OH, USA"
 ---

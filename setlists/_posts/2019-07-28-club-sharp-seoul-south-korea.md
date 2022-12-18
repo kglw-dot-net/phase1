@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-07-28"
 venue: "Club S.H.A.R.P., Seoul, South Korea"
 tour: "World Tour `19"

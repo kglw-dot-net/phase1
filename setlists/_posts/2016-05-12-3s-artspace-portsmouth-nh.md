@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-12"
 venue: "3S Artspace, Portsmouth, NH, USA"
 ---

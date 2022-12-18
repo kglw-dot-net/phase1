@@ -1,16 +1,14 @@
-+++
-slug = "2022-06-07-razzmatazz-barcelona-spain"
-date = "2022-06-07"
-title = "2022 June 7 @ Razzmatazz"
-
-[extra]
-venue = "Razzmatazz, Barcelona, Spain"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-06-07"
+venue: "Razzmatazz, Barcelona, Spain"
+tour: "World Tour '22"
+---
 
 
  1. Am I in Heaven?
     (With "Sadie Sorceress" & "Hot Water" teases)
+    (Technical issues with Cavs' drumkit)
 
  2. Inner Cell
 
@@ -37,6 +35,4 @@ tour = "World Tour '22"
     (With extended jam)
 
 
-Note: "Float Along-Fill Your Lungs" on printed setlist but not played.
-Technical issues with Cavs' drumkit during "Am I In Heaven" & Joey cut
-his finger right before starting the set.
+Note: Joey cut his finger right before starting the set.

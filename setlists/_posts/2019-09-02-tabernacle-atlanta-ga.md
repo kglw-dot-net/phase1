@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-09-02"
 venue: "Tabernacle, Atlanta, GA, USA"
 tour: "World Tour `19"

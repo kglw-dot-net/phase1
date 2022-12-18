@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-03-06"
 venue: "Paradiso Grote Zaal, Amsterdam, Netherlands"
 tour: "2018 UK/EU Tour"

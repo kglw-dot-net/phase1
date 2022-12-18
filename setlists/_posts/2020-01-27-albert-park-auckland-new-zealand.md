@@ -1,12 +1,9 @@
-+++
-slug = "2020-01-27-albert-park-auckland-new-zealand"
-date = "2020-01-27"
-title = "2020 January 27 @ Albert Park"
-
-[extra]
-venue = "Albert Park, Auckland, New Zealand"
-tour = "World Tour '20"
-+++
+---
+layout: setlist
+date: "2020-01-27"
+venue: "Albert Park, Auckland, New Zealand"
+tour: "World Tour '20"
+---
 
 
  1. Planet B
@@ -18,7 +15,6 @@ tour = "World Tour '20"
  4. Superbug
 
  5. Her and I (Slow Jam 2)
-    (first time since 2014)
 
  6. Venusian 1
 
@@ -31,7 +27,3 @@ tour = "World Tour '20"
 10. Hell
 
 11. Plastic Boogie
-
-
-Note: First King Gizzard & The Lizard Wizard live show for 2020. All
-songs are tour debuts.

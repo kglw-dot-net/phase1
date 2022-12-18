@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-17"
 venue: "AWO-Gelände, Netphen, Germany"
 tour: "Flying Microtonal Banana"

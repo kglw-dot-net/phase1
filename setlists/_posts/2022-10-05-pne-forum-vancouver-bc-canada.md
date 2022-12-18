@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-05-pne-forum-vancouver-bc-canada"
-date = "2022-10-05"
-title = "2022 October 5 @ PNE Forum"
-
-[extra]
-venue = "PNE Forum, Vancouver, BC, Canada"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-05"
+venue: "PNE Forum, Vancouver, BC, Canada"
+tour: "World Tour '22"
+---
 
 
  1. Venusian 2
@@ -31,7 +28,7 @@ tour = "World Tour '22"
  9. Ice V
 
 10. A New World
-    (with Leah Senior) (Live debut)
+    (with Leah Senior)
 
 11. Altered Beast I
     (with Leah Senior)

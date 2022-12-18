@@ -10,26 +10,27 @@ layout: default
 
     <p itemprop="performer" hidden>King Gizzard and the Lizard Wizard</p>
     
-    <h1 class="post-title p-name" itemprop="name">{{ page.title | escape }}</h1>
-
-    <p class="post-meta">
-
+    <h1 class="post-title p-name" itemprop="name">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="startDate">
         {{ page.date | date: date_format }}
       </time>
-
       {%- if page.venue -%}
         @ <span itemprop="location" itemscope itemtype="https://schema.org/Place">
           <span class="p-author h-card" itemprop="name">{{ page.venue }}</span>
         </span>
       {%- endif -%}
+    </h1>
 
+    {%- if page.title != page.venue -%}
+      <!-- <h2>{{ page.title | escape }}</h2> -->
+    {%- endif -%}
+      
+    <p class="post-meta">
       {%- if page.tour -%}
-        • <span itemprop="superEvent">
+        <span itemprop="superEvent">
           <span class="p-author h-card" itemprop="name">{{ page.tour }}</span>
         </span>
       {%- endif -%}
-
     </p>
 
   </header>
@@ -56,4 +57,4 @@ layout: default
 
 </article>
 
-**Something missing or wrong??** Please get in touch! kglw.net@gmail.com
+<b>Something missing or wrong??</b> Please get in touch! kglw.net@gmail.com

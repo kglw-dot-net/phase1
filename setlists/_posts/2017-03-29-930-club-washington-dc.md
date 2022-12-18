@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-03-29"
 venue: "9:30 Club, Washington, DC, USA"
 tour: "Flying Microtonal Banana"

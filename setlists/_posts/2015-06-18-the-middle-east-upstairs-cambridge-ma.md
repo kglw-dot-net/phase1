@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-06-18"
 venue: "The Middle East Upstairs, Cambridge, MA, USA"
 ---

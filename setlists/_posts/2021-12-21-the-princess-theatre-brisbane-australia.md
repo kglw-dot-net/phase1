@@ -1,12 +1,9 @@
-+++
-slug = "2021-12-21-the-princess-theatre-brisbane-australia"
-date = "2021-12-21"
-title = "2021 December 21 @ The Princess Theatre"
-
-[extra]
-venue = "The Princess Theatre, Brisbane, Australia"
-tour = "2021 Princess Theatre Residency"
-+++
+---
+layout: setlist
+date: "2021-12-21"
+venue: "The Princess Theatre, Brisbane, Australia"
+tour: "2021 Princess Theatre Residency"
+---
 
 
  1. KGLW

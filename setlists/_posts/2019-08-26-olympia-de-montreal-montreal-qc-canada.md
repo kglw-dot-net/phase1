@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-26"
 venue: "Olympia de Montréal, Montreal, QC, Canada"
 tour: "World Tour `19"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-14"
 venue: "Albert Hall, Manchester, England"
 tour: "Flying Microtonal Banana"

@@ -1,12 +1,9 @@
-+++
-slug = "2022-06-09-parc-del-forum-sant-adria-de-besos-spain"
-date = "2022-06-09"
-title = "2022 June 9 @ Parc del Fòrum"
-
-[extra]
-venue = "Parc del Fòrum, Sant Adrià de Besòs, Spain"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-06-09"
+venue: "Parc del Fòrum, Sant Adrià de Besòs, Spain"
+tour: "World Tour '22"
+---
 
 
  1. Crumbling Castle
@@ -39,5 +36,4 @@ tour = "World Tour '22"
     (with O.N.E. teases)
 
 
-Note: Tous stage. Last of 5 nights in Barcelona for Primavera Sound.
-Murder of the Universe medley with Juan-Tyumi (Spanish Han-Tyumi)
+Note: Last of 5 nights in Barcelona for Primavera Sound.

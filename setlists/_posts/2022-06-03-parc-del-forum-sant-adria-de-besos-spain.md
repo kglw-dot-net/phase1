@@ -1,12 +1,9 @@
-+++
-slug = "2022-06-03-parc-del-forum-sant-adria-de-besos-spain"
-date = "2022-06-03"
-title = "2022 June 3 @ Parc del Fòrum"
-
-[extra]
-venue = "Parc del Fòrum, Sant Adrià de Besòs, Spain"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-06-03"
+venue: "Parc del Fòrum, Sant Adrià de Besòs, Spain"
+tour: "World Tour '22"
+---
 
 
  1. Mars for the Rich
@@ -34,6 +31,4 @@ tour = "World Tour '22"
 
 
 Note: Michael Cavanagh's first show since Higher Ground, Burlington,
-5/26/22. First of five nights in Barcelona for Primavera Sound. The
-printed setlist had different order - 'Self Immolate' first and 'Mars
-for the rich' second.
+5/26/22.

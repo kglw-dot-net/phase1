@@ -1,5 +1,5 @@
 ---
-slug: "2013-04-13-tanks-arts-centre-cairns-australia"
+layout: setlist
 date: "2013-04-13"
 venue: "Tanks Arts Centre, Cairns, Australia"
 ---

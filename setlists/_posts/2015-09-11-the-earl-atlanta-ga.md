@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-09-11"
 venue: "The Earl, Atlanta, GA, USA"
 ---

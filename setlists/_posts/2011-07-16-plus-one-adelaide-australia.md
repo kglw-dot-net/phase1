@@ -1,5 +1,5 @@
 ---
-slug: "2011-07-16-plus-one-adelaide-australia"
+layout: setlist
 date: "2011-07-16"
 venue: "Plus One, Adelaide, Australia"
 tour: "Black Tooth"

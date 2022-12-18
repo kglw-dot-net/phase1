@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-07-26"
 venue: "Naeba Ski Resort, Yuzawa, Japan"
 tour: "World Tour `19"

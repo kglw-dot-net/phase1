@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-18-event-lawn-at-virgin-hotels-las-vegas-las-vegas-nv"
-date = "2022-04-18"
-title = "2022 April 18 @ Event Lawn at Virgin Hotels Las Vegas"
-
-[extra]
-venue = "Event Lawn at Virgin Hotels Las Vegas, Las Vegas, NV, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-18"
+venue: "Event Lawn at Virgin Hotels Las Vegas, Las Vegas, NV, USA"
+tour: "World Tour '22"
+---
 
 
  1. Self-Immolate
@@ -30,7 +27,6 @@ tour = "World Tour '22"
  9. Oddlife
 
 10. Ontology
-    (tour debut)
 
 11. The Lord of Lightning
     (ended with "Cellophane" motif)

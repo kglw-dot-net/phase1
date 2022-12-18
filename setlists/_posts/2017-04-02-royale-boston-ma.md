@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-02"
 venue: "Royale, Boston, MA, USA"
 tour: "Flying Microtonal Banana"

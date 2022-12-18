@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-10"
 venue: "Riviera Theatre, Chicago, IL, USA"
 tour: "2018 North American Tour"

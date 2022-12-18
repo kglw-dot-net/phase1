@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-19"
 venue: "Razzmatazz, Barcelona, Spain"
 tour: "World Tour `19"

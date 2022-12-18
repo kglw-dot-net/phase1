@@ -1,12 +1,9 @@
-+++
-slug = "2021-04-22-enmore-theatre-sydney-australia"
-date = "2021-04-22"
-title = "2021 April 22 @ Enmore Theatre"
-
-[extra]
-venue = "Enmore Theatre, Sydney, Australia"
-tour = "Micro Tour 2021"
-+++
+---
+layout: setlist
+date: "2021-04-22"
+venue: "Enmore Theatre, Sydney, Australia"
+tour: "Micro Tour 2021"
+---
 
 
  1. If Not Now, Then When?
@@ -42,5 +39,4 @@ tour = "Micro Tour 2021"
 16. K.G.L.W.
 
 
-Note: Filmed and recorded concert, released as the "Live in Sydney '21"
-album and film.
+Note: Filmed and recorded concert, released as the "Live in Sydney '21" album and film.

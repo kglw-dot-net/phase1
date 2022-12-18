@@ -1,12 +1,9 @@
-+++
-slug = "2021-02-24-croxton-park-hotel-melbourne-australia"
-date = "2021-02-24"
-title = "2021 February 24 @ Croxton Park Hotel"
-
-[extra]
-venue = "Croxton Park Hotel, Melbourne, Australia"
-tour = "Micro Tour 2021"
-+++
+---
+layout: setlist
+date: "2021-02-24"
+venue: "Croxton Park Hotel, Melbourne, Australia"
+tour: "Micro Tour 2021"
+---
 
 
  1. Fury
@@ -19,14 +16,12 @@ tour = "Micro Tour 2021"
  4. Nuclear Fusion
 
  5. Some of Us
-    (Live Debut)
 
  6. Honey
 
  7. Minimum Brain Size
 
  8. O.N.E.
-    (Live Debut)
 
  9. All Is Known
 

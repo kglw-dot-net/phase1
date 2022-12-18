@@ -1,5 +1,5 @@
 ---
-slug: "2013-10-19-corner-hotel-melbourne-australia"
+layout: setlist
 date: "2013-10-19"
 venue: "Corner Hotel, Melbourne, Australia"
 tour: "Float Along - Fill Your Lungs"

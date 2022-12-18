@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-01-24"
 venue: "Bakehouse Studios, Melbourne, Australia"
 ---

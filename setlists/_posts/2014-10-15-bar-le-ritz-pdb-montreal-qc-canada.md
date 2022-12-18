@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-10-15"
 venue: "Bar 'Le Ritz' P.D.B, Montreal, QC, Canada"
 tour: "I'm In Your Mind Fuzz USA 2014"

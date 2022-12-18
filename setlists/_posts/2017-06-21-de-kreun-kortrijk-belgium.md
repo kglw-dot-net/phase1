@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-21"
 venue: "De Kreun, Kortrijk, Belgium"
 tour: "Flying Microtonal Banana"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-12-06"
 venue: "Whammy Bar, Auckland, New Zealand"
 tour: "Murder of the Universe"

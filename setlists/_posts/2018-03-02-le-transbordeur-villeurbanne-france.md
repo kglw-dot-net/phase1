@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-03-02"
 venue: "Le Transbordeur, Villeurbanne, France"
 tour: "2018 UK/EU Tour"

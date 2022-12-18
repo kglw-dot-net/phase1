@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-05-30"
 venue: "The Observatory, Santa Ana, CA, USA"
 tour: "2018 North American Tour"

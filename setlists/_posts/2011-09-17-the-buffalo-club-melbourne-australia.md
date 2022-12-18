@@ -1,5 +1,5 @@
 ---
-slug: "2011-09-17-the-buffalo-club-melbourne-australia"
+layout: setlist
 date: "2011-09-17"
 venue: "The Buffalo Club, Melbourne, Australia"
 ---

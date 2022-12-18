@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-12-11"
 venue: "San Fran, Wellington, New Zealand"
 tour: "Murder of the Universe"

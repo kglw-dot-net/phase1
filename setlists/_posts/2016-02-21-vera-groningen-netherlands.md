@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-02-21"
 venue: "Vera, Groningen, Netherlands"
 ---

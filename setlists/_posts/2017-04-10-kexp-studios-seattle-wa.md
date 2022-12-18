@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-10"
 venue: "KEXP Studios, Seattle, WA, USA"
 tour: "Flying Microtonal Banana"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-09-28"
 venue: "One Eyed Jacks, New Orleans, LA, USA"
 tour: "Murder of the Universe"

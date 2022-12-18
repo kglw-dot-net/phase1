@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-18"
 venue: "Paradise Pool at Hard Rock Hotel, Las Vegas, NV, USA"
 tour: "Flying Microtonal Banana"

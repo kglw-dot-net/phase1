@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-09-30"
 venue: "Mohawk, Austin, TX, USA"
 tour: "Murder of the Universe"

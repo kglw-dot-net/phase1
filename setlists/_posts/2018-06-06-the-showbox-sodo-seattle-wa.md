@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-06"
 venue: "The Showbox SoDo, Seattle, WA, USA"
 tour: "2018 North American Tour"

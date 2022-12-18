@@ -1,5 +1,5 @@
 ---
-slug: "2013-09-11-electric-playground-brisbane-australia"
+layout: setlist
 date: "2013-09-11"
 venue: "Electric Playground, Brisbane, Australia"
 ---

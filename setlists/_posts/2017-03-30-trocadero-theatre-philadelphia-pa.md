@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-03-30"
 venue: "Trocadero Theatre, Philadelphia, PA, USA"
 tour: "Flying Microtonal Banana"

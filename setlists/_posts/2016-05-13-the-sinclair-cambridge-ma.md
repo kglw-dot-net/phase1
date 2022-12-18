@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-13"
 venue: "The Sinclair, Cambridge, MA, USA"
 ---

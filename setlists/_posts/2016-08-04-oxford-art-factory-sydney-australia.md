@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-08-04"
 venue: "Oxford Art Factory, Sydney, Australia"
 tour: "Nonagon Infinity"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-01"
 venue: "Parc del Fòrum, Sant Adrià de Besòs, Spain"
 tour: "Flying Microtonal Banana"

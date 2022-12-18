@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-06-27"
 venue: "Forum Theatre, Melbourne, Australia"
 tour: "World Tour `19"

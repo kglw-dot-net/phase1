@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-11-23"
 venue: "Big Top Luna Park, Sydney, Australia"
 tour: "Murder of the Universe"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-11"
 venue: "Alter Reitplatz, Haldern, Germany"
 tour: "2018 European Summer Tour"

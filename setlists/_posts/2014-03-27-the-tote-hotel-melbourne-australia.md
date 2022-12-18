@@ -1,5 +1,5 @@
 ---
-slug: "2014-03-27-the-tote-hotel-melbourne-australia"
+layout: setlist
 date: "2014-03-27"
 venue: "The Tote Hotel, Melbourne, Australia"
 tour: "Oddments"

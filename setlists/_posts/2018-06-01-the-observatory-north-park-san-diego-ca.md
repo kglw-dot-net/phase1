@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-01"
 venue: "The Observatory North Park, San Diego, CA, USA"
 tour: "2018 North American Tour"

@@ -1,5 +1,5 @@
 ---
-slug: "2013-01-25-sydney-town-hall-sydney-australia"
+layout: setlist
 date: "2013-01-25"
 venue: "Sydney Town Hall, Sydney, Australia"
 ---

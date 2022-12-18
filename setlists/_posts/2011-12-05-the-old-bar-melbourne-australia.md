@@ -1,5 +1,5 @@
 ---
-slug: "2011-12-05-the-old-bar-melbourne-australia"
+layout: setlist
 date: "2011-12-05"
 venue: "The Old Bar, Melbourne, Australia"
 ---

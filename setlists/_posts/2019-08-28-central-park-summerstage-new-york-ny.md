@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-28"
 venue: "Central Park SummerStage, New York, NY, USA"
 tour: "World Tour `19"

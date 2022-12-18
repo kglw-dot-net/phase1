@@ -1,12 +1,9 @@
-+++
-slug = "2022-05-04-showcenter-complex-san-pedro-garza-garcia-mexico"
-date = "2022-05-04"
-title = "2022 May 4 @ Showcenter Complex"
-
-[extra]
-venue = "Showcenter Complex, San Pedro Garza García, Mexico"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-05-04"
+venue: "Showcenter Complex, San Pedro Garza García, Mexico"
+tour: "World Tour '22"
+---
 
 
  1. Doom City
@@ -31,7 +28,6 @@ tour = "World Tour '22"
  9. Magenta Mountain
 
 10. Tezeta
-    (First time since 2019)
 
 11. The Garden Goblin
 

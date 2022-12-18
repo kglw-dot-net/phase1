@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-05"
 venue: "Danforth Music Hall, Toronto, ON, Canada"
 tour: "Flying Microtonal Banana"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-10-04"
 venue: "Escena, Monterrey, Mexico"
 tour: "Mexico Tour 2018"

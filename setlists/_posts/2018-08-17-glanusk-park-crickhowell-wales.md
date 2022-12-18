@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-17"
 venue: "Glanusk Park, Crickhowell, Wales"
 tour: "2018 European Summer Tour"

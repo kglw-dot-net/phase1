@@ -1,5 +1,5 @@
 ---
-slug: "2013-04-20-the-governor-hindmarsh-hotel-adelaide-australia"
+layout: setlist
 date: "2013-04-20"
 venue: "The Governor Hindmarsh Hotel, Adelaide, Australia"
 ---

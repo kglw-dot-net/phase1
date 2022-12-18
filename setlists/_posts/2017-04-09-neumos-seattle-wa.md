@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-09"
 venue: "Neumos, Seattle, WA, USA"
 tour: "Flying Microtonal Banana"

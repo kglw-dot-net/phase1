@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-07"
 venue: "Monk's Bar, Missoula, MT, USA"
 tour: "2018 North American Tour"

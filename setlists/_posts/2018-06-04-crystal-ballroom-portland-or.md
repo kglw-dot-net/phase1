@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-04"
 venue: "Crystal Ballroom, Portland, OR, USA"
 tour: "2018 North American Tour"

@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-17-event-lawn-at-virgin-hotels-las-vegas-las-vegas-nv"
-date = "2022-04-17"
-title = "2022 April 17 @ Event Lawn at Virgin Hotels Las Vegas"
-
-[extra]
-venue = "Event Lawn at Virgin Hotels Las Vegas, Las Vegas, NV, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-17"
+venue: "Event Lawn at Virgin Hotels Las Vegas, Las Vegas, NV, USA"
+tour: "World Tour '22"
+---
 
 
  1. KGLW

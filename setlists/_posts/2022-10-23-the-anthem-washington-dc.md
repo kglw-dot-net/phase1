@@ -1,16 +1,12 @@
-+++
-slug = "2022-10-23-the-anthem-washington-dc"
-date = "2022-10-23"
-title = "2022 October 23 @ The Anthem"
-
-[extra]
-venue = "The Anthem, Washington, DC, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-23"
+venue: "The Anthem, Washington, DC, USA"
+tour: "World Tour '22"
+---
 
 
  1. Hypertension
-    (Live debut)
 
  2. Blame It on the Weather
 

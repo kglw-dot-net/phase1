@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-10"
 venue: "Slottsskogen, Gothenburg, Sweden"
 tour: "2018 European Summer Tour"

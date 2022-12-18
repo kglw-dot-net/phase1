@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-03-04"
 venue: "Center Parcs De Eemhof, Zeewolde, Netherlands"
 ---

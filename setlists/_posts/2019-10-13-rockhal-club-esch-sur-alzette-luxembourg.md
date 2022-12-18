@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-13"
 venue: "Rockhal Club, Esch-sur-Alzette, Luxembourg"
 tour: "World Tour `19"

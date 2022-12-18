@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-09-01"
 venue: "New Belgium Brewing Company, Asheville, NC, USA"
 tour: "World Tour `19"

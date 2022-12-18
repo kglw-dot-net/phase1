@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-06"
 venue: "The Grey Eagle, Asheville, NC, USA"
 ---

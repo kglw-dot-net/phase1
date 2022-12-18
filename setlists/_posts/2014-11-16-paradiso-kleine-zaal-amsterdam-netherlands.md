@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-11-16"
 venue: "Paradiso Kleine Zaal, Amsterdam, Netherlands"
 tour: "I'm In Your Mind Fuzz Europe 2014"

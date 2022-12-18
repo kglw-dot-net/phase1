@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-02-17"
 venue: "Fleece, Bristol, England"
 ---

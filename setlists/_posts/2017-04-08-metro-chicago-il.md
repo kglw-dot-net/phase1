@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-08"
 venue: "Metro, Chicago, IL, USA"
 tour: "Flying Microtonal Banana"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-23"
 venue: "Riverside Theater, Milwaukee, WI, USA"
 tour: "World Tour `19"

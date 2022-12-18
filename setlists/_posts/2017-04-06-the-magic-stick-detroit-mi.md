@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-06"
 venue: "The Magic Stick, Detroit, MI, USA"
 tour: "Flying Microtonal Banana"

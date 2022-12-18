@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-01-01"
 venue: "North Byron Parklands, Byron Bay, Australia"
 tour: "Australian Tour 2018"

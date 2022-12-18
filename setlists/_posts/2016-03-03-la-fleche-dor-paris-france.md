@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-03-03"
 venue: "La Flèche d'Or, Paris, France"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-15"
 venue: "Alcatraz, Milan, Italy"
 tour: "World Tour `19"

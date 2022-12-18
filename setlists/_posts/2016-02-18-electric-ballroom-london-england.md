@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-02-18"
 venue: "Electric Ballroom, London, England"
 ---

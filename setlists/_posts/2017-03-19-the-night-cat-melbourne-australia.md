@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-03-19"
 venue: "The Night Cat, Melbourne, Australia"
 tour: "Flying Microtonal Banana"

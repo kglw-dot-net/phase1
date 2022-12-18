@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-25"
 venue: "Domaine national de Saint-Cloud, Saint-Cloud, France"
 tour: "2018 European Summer Tour"

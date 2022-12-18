@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-13"
 venue: "Concorde 2, Brighton, England"
 tour: "Flying Microtonal Banana"

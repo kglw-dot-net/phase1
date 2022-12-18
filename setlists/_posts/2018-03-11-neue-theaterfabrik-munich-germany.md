@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-03-11"
 venue: "Neue Theaterfabrik, Munich, Germany"
 tour: "2018 UK/EU Tour"

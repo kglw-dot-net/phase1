@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-12"
 venue: "Columbiahalle, Berlin, Germany"
 tour: "World Tour `19"

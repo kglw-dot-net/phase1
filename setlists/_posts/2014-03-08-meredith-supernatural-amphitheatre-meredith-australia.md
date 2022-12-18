@@ -1,5 +1,5 @@
 ---
-slug: "2014-03-08-meredith-supernatural-amphitheatre-meredith-australia"
+layout: setlist
 date: "2014-03-08"
 venue: "Meredith Supernatural Amphitheatre, Meredith, Australia"
 tour: "Oddments"

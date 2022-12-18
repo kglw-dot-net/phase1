@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-12-fox-theater-pomona-pomona-ca"
-date = "2022-04-12"
-title = "2022 April 12 @ Fox Theater Pomona"
-
-[extra]
-venue = "Fox Theater Pomona, Pomona, CA, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-12"
+venue: "Fox Theater Pomona, Pomona, CA, USA"
+tour: "World Tour '22"
+---
 
 
  1. I'm in Your Mind
@@ -37,7 +34,3 @@ tour = "World Tour '22"
 
 13. Rattlesnake
     (with elements of 'See Me' and 'O.N.E.')
-
-
-Note: 'See Me' and 'O.N.E.' were on the printed setlist, but not
-played.

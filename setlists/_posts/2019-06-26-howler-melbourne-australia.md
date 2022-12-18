@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-06-26"
 venue: "Howler, Melbourne, Australia"
 tour: "World Tour `19"

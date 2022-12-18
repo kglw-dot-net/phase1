@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-09"
 venue: "Pabst Theater, Milwaukee, WI, USA"
 tour: "2018 North American Tour"

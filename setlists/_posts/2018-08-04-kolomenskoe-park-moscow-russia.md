@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-04"
 venue: "Kolomenskoe Park, Moscow, Russia"
 tour: "2018 European Summer Tour"

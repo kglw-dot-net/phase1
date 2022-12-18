@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-06-19"
 venue: "Bowery Ballroom, New York, NY, USA"
 ---

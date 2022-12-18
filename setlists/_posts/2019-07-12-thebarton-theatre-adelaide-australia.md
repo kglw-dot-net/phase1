@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-07-12"
 venue: "Thebarton Theatre, Adelaide, Australia"
 tour: "World Tour `19"

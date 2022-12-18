@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-02-04"
 venue: "Sydney College of the Arts, Sydney, Australia"
 ---

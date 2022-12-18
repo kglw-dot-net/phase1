@@ -1,5 +1,5 @@
 ---
-slug: "2011-12-09-meredith-supernatural-amphitheatre-meredith-australia"
+layout: setlist
 date: "2011-12-09"
 venue: "Meredith Supernatural Amphitheatre, Meredith, Australia"
 ---

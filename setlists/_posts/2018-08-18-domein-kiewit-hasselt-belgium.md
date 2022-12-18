@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-18"
 venue: "Domein Kiewit, Hasselt, Belgium"
 tour: "2018 European Summer Tour"

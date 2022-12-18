@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-11"
 venue: "Revolution Hall, Portland, OR, USA"
 tour: "Flying Microtonal Banana"

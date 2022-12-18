@@ -1,5 +1,5 @@
 ---
-slug: "2014-04-06-barwon-club-hotel-geelong-australia"
+layout: setlist
 date: "2014-04-06"
 venue: "Barwon Club Hotel, Geelong, Australia"
 tour: "Oddments"

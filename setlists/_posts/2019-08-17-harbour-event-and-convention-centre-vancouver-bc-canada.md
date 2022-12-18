@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-17"
 venue: "Harbour Event & Convention Centre, Vancouver, BC, Canada"
 tour: "World Tour `19"

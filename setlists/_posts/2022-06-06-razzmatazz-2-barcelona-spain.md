@@ -1,12 +1,9 @@
-+++
-slug = "2022-06-06-razzmatazz-2-barcelona-spain"
-date = "2022-06-06"
-title = "2022 June 6 @ Razzmatazz 2"
-
-[extra]
-venue = "Razzmatazz 2, Barcelona, Spain"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-06-06"
+venue: "Razzmatazz 2, Barcelona, Spain"
+tour: "World Tour '22"
+---
 
 
  1. Organ Farmer
@@ -36,7 +33,4 @@ tour = "World Tour '22"
 11. K.G.L.W.
 
 
-Note: "K.G.L.W (Intro)" and "Doom City" were written on the printed
-setlist but were not played. Third of five shows for Primavera Sound in
-Barcelona. Second show with replacement guitars for Stu's Holy Explorer
-& Joey's Flying V.
+Note: Third of five shows for Primavera Sound in Barcelona.

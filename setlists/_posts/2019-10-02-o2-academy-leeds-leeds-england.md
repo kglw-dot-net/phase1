@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-02"
 venue: "O2 Academy Leeds, Leeds, England"
 tour: "World Tour `19"

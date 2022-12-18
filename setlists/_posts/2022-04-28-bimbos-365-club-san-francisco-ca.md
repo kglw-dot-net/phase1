@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-28-bimbos-365-club-san-francisco-ca"
-date = "2022-04-28"
-title = "2022 April 28 @ Bimbo's 365 Club"
-
-[extra]
-venue = "Bimbo's 365 Club, San Francisco, CA, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-28"
+venue: "Bimbo's 365 Club, San Francisco, CA, USA"
+tour: "World Tour '22"
+---
 
 
  1. Rattlesnake

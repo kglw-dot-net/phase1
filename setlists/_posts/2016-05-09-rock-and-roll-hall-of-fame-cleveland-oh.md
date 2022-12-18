@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-09"
 venue: "Rock & Roll Hall of Fame, Cleveland, OH, USA"
 ---

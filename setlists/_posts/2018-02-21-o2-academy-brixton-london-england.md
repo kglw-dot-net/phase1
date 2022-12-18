@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-02-21"
 venue: "O2 Academy Brixton, London, England"
 tour: "2018 UK/EU Tour"

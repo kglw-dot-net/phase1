@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-14"
 venue: "Empire Polo Club, Indio, CA, USA"
 tour: "Flying Microtonal Banana"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-11-19"
 venue: "Great Northern Hotel, Byron Bay, Australia"
 tour: "Murder of the Universe"

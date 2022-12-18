@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-17"
 venue: "The Roxy, West Hollywood, CA, USA"
 tour: "Flying Microtonal Banana"

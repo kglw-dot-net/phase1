@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-06-30"
 venue: "The Governor Hindmarsh Hotel, Adelaide, Australia"
 tour: "Nonagon Infinity"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-06-25"
 venue: "The Triffid, Brisbane, Australia"
 tour: "Nonagon Infinity"

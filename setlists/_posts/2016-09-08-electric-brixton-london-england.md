@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-09-08"
 venue: "Electric Brixton, London, England"
 tour: "Nonagon Infinity"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-09-30"
 venue: "Rock City, Nottingham, England"
 tour: "World Tour `19"

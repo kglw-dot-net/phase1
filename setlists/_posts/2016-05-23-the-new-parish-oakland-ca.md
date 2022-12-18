@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-23"
 venue: "The New Parish, Oakland, CA, USA"
 ---

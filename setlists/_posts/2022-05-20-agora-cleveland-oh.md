@@ -1,12 +1,9 @@
-+++
-slug = "2022-05-20-agora-cleveland-oh"
-date = "2022-05-20"
-title = "2022 May 20 @ Agora"
-
-[extra]
-venue = "Agora, Cleveland, OH, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-05-20"
+venue: "Agora, Cleveland, OH, USA"
+tour: "World Tour '22"
+---
 
 
  1. Crumbling Castle
@@ -24,7 +21,6 @@ tour = "World Tour '22"
  6. Sleepwalker
 
  7. Presumptuous
-    (Live debut)
 
  8. Sea of Trees
     (with Head On/Pill and Shanghai teases, >)
@@ -32,7 +28,6 @@ tour = "World Tour '22"
  9. Hot Water
 
 10. The Grim Reaper
-    (Live debut)
 
 11. The Dripping Tap
 

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-08-18"
 venue: "Glanusk Park, Crickhowell, Wales"
 tour: "Nonagon Infinity"

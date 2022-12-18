@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-03"
 venue: "Victoria Park, London, England"
 tour: "Flying Microtonal Banana"

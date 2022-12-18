@@ -1,16 +1,20 @@
-+++
-slug = "2022-04-15-empire-polo-club-indio-ca"
-date = "2022-04-15"
-title = "2022 April 15 @ Empire Polo Club"
+---
+layout: setlist
+date: "2022-04-15"
+venue: "Empire Polo Club, Indio, CA, USA"
+tour: "World Tour '22"
+---
 
-[extra]
-venue = "Empire Polo Club, Indio, CA, USA"
-tour = "World Tour '22"
-+++
+## Soundcheck
 
+1. Gaia
+2. The Dripping Tap
+3. Pleura
+4. Honey
+
+## Set
 
  1. Rattlesnake
-    (nearly 20-minute long version)
 
  2. Honey
 
@@ -25,4 +29,3 @@ tour = "World Tour '22"
  7. Gamma Knife
 
 
-Note: Soundchecked Gaia, The Dripping Tap, Pleura, and Honey.

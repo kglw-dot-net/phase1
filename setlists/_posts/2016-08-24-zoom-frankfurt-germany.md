@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-08-24"
 venue: "Zoom, Frankfurt, Germany"
 tour: "Nonagon Infinity"

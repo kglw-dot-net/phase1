@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-05-27"
 venue: "Prince Bandroom, Melbourne, Australia"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-11-23"
 venue: "Enmore Theatre, Sydney, Australia"
 tour: "Australian Tour 2018"

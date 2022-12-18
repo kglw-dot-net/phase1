@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-09-12"
 venue: "The Pour House Music Hall, Raleigh, NC, USA"
 ---

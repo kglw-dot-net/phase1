@@ -1,12 +1,9 @@
-+++
-slug = "2022-05-14-cerveceria-hercules-santiago-de-queretaro-mexico"
-date = "2022-05-14"
-title = "2022 May 14 @ Cervecería Hércules"
-
-[extra]
-venue = "Cervecería Hércules, Santiago de Querétaro, Mexico"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-05-14"
+venue: "Cervecería Hércules, Santiago de Querétaro, Mexico"
+tour: "World Tour '22"
+---
 
 
  1. Gaia

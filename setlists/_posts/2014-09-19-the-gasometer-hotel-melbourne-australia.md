@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-09-19"
 venue: "The Gasometer Hotel, Melbourne, Australia"
 tour: "SINO-AUS"

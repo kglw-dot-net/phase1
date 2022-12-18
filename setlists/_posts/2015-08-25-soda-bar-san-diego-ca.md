@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-08-25"
 venue: "Soda Bar, San Diego, CA, USA"
 ---

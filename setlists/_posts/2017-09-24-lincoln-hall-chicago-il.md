@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-09-24"
 venue: "Lincoln Hall, Chicago, IL, USA"
 tour: "Murder of the Universe"

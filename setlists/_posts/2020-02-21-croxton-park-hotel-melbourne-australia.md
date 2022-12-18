@@ -1,90 +1,85 @@
-+++
-slug = "2020-02-21-croxton-park-hotel-melbourne-australia"
-date = "2020-02-21"
-title = "2020 February 21 @ Croxton Park Hotel"
-
-[extra]
-venue = "Croxton Park Hotel, Melbourne, Australia"
-tour = "World Tour '20"
-+++
+---
+layout: setlist
+date: "2020-02-21"
+venue: "Croxton Park Hotel, Melbourne, Australia"
+tour: "World Tour '20"
+---
 
 
- 1. Song played from tape
-    Evil Star
+## Set 1:
 
- 2. Set 1:
- 3. Planet B
+ 1. Planet B
 
- 4. Mars for the Rich
+ 2. Mars for the Rich
 
- 5. I'm in Your Mind
+ 3. I'm in Your Mind
 
- 6. I'm Not in Your Mind
+ 4. I'm Not in Your Mind
 
- 7. Cellophane
+ 5. Cellophane
 
- 8. I'm in Your Mind Fuzz
+ 6. I'm in Your Mind Fuzz
 
- 9. Plastic Boogie
+ 7. Plastic Boogie
 
-10. The Great Chain of Being
+ 8. The Great Chain of Being
 
-11. Her and I (Slow Jam 2)
+ 9. Her and I (Slow Jam 2)
 
-12. Organ Farmer
+10. Organ Farmer
 
-13. Perihelion
+11. Perihelion
 
-14. People-Vultures
+12. People-Vultures
 
-15. Mr. Beat
+13. Mr. Beat
 
-16. Muddy Water
-    (Tour debut)
+14. Muddy Water
 
-17. Digital Black
+15. Digital Black
 
-18. Han-Tyumi the Confused Cyborg
-    (Tour debut)
+16. Han-Tyumi the Confused Cyborg
 
-19. Vomit Coffin
+17. Vomit Coffin
 
-20. Murder of the Universe
+18. Murder of the Universe
 
-21. Set 2:
-22. Self-Immolate
+## Set 2:
 
-23. Crumbling Castle
+ 1. Self-Immolate
 
-24. This Thing
+ 2. Crumbling Castle
 
-25. Sense
+ 3. This Thing
 
-26. Let Me Mend the Past
+ 4. Sense
 
-27. Boogieman Sam
+ 5. Let Me Mend the Past
 
-28. Cyboogie
+ 6. Boogieman Sam
 
-29. Wah Wah
+ 7. Cyboogie
 
-30. Road Train
+ 8. Wah Wah
 
-31. Willoughby's Beach
-    (First time since 2014)
+ 9. Road Train
 
-32. Sea of Trees
-    (First time since 2017)
+10. Willoughby's Beach
 
-33. Work This Time
+11. Sea of Trees
 
-34. Superbug
+12. Work This Time
 
-35. Hell
+13. Superbug
 
-36. Float Along - Fill Your Lungs
-    (Tour debut)
+14. Hell
+
+15. Float Along - Fill Your Lungs
+
+Note: First marathon-like concert, performed for the Australian bushfires.
+Last concert performed before COVID forced the delaying or rescheduling of all planned concerts.
 
 
-Note: First marathon-like concert, performed for the Australian
-bushfires.
+## Recordings
+
+* AUD: https://archive.org/details/kglw2020-02-21

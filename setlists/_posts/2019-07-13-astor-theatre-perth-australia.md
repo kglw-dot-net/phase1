@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-07-13"
 venue: "Astor Theatre, Perth, Australia"
 tour: "World Tour `19"

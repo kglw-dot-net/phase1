@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-02-16"
 venue: "Rescue Rooms, Nottingham, England"
 ---

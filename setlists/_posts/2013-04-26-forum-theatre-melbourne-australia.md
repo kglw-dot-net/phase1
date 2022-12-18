@@ -1,5 +1,5 @@
 ---
-slug: "2013-04-26-forum-theatre-melbourne-australia"
+layout: setlist
 date: "2013-04-26"
 venue: "Forum Theatre, Melbourne, Australia"
 ---

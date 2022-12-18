@@ -1,5 +1,5 @@
 ---
-slug: "2012-10-19-brisbane-hotel-hobart-australia"
+layout: setlist
 date: "2012-10-19"
 venue: "Brisbane Hotel, Hobart, Australia"
 ---

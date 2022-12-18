@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-03"
 venue: "O2 Victoria Warehouse, Manchester, England"
 tour: "World Tour `19"

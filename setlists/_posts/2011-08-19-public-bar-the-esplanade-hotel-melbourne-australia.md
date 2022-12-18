@@ -1,5 +1,5 @@
 ---
-slug: "2011-08-19-public-bar-the-esplanade-hotel-melbourne-australia"
+layout: setlist
 date: "2011-08-19"
 venue: "Public Bar, The Esplanade Hotel, Melbourne, Australia"
 tour: "Black Tooth"

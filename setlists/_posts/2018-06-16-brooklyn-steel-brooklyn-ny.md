@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-16"
 venue: "Brooklyn Steel, Brooklyn, NY, USA"
 tour: "2018 North American Tour"

@@ -1,5 +1,5 @@
 ---
-slug: "2013-08-21-bar-open-melbourne-australia"
+layout: setlist
 date: "2013-08-21"
 venue: "Bar Open, Melbourne, Australia"
 tour: "Float Along - Fill Your Lungs Preview Shows"

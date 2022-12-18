@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-06-28"
 venue: "Vakantiepark De Groene Heuvels, Beuningen, Netherlands"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-28"
 venue: "Rickshaw Theatre, Vancouver, BC, Canada"
 ---

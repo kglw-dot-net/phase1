@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-15"
 venue: "O2 Forum Kentish Town, London, England"
 tour: "Flying Microtonal Banana"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-30"
 venue: "The Gorge Amphitheatre, George, WA, USA"
 ---

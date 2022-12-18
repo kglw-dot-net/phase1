@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-02-18"
 venue: "Croxton Park Hotel, Melbourne, Australia"
 ---

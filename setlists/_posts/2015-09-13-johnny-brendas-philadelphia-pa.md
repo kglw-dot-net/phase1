@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-09-13"
 venue: "Johnny Brenda's, Philadelphia, PA, USA"
 ---

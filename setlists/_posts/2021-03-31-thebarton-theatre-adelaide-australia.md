@@ -1,12 +1,9 @@
-+++
-slug = "2021-03-31-thebarton-theatre-adelaide-australia"
-date = "2021-03-31"
-title = "2021 March 31 @ Thebarton Theatre"
-
-[extra]
-venue = "Thebarton Theatre, Adelaide, Australia"
-tour = "Micro Tour 2021"
-+++
+---
+layout: setlist
+date: "2021-03-31"
+venue: "Thebarton Theatre, Adelaide, Australia"
+tour: "Micro Tour 2021"
+---
 
 
  1. If Not Now, Then When?
@@ -28,7 +25,6 @@ tour = "Micro Tour 2021"
  9. Nuclear Fusion
 
 10. See Me
-    (Live Debut)
 
 11. Billabong Valley
 
@@ -41,7 +37,6 @@ tour = "Micro Tour 2021"
 15. Straws in the Wind
 
 16. The Hungry Wolf of Fate
-    (Live Debut)
 
 17. K.G.L.W.
     (L.W. Version)

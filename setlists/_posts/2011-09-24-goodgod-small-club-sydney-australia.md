@@ -1,5 +1,5 @@
 ---
-slug: "2011-09-24-goodgod-small-club-sydney-australia"
+layout: setlist
 date: "2011-09-24"
 venue: "Goodgod Small Club, Sydney, Australia"
 ---

@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-19-olympia-de-montreal-montreal-qc-canada"
-date = "2022-10-19"
-title = "2022 October 19 @ Olympia de Montréal"
-
-[extra]
-venue = "Olympia de Montréal, Montreal, QC, Canada"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-19"
+venue: "Olympia de Montréal, Montreal, QC, Canada"
+tour: "World Tour '22"
+---
 
 
  1. Open Water
@@ -26,7 +23,6 @@ tour = "World Tour '22"
  8. Hot Water
 
  9. Red Smoke
-    (Live debut)
 
 10. Robot Stop
 

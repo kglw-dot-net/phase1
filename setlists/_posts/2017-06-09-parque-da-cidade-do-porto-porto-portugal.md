@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-09"
 venue: "Parque da Cidade do Porto, Porto, Portugal"
 tour: "Flying Microtonal Banana"

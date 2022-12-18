@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-08-26"
 venue: "The Echo, Los Angeles, CA, USA"
 ---

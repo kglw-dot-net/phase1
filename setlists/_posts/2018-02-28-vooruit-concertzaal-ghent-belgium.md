@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-02-28"
 venue: "Vooruit Concertzaal, Ghent, Belgium"
 tour: "2018 UK/EU Tour"

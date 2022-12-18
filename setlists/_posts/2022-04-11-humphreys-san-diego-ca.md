@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-11-humphreys-san-diego-ca"
-date = "2022-04-11"
-title = "2022 April 11 @ Humphreys"
-
-[extra]
-venue = "Humphreys, San Diego, CA, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-11"
+venue: "Humphreys, San Diego, CA, USA"
+tour: "World Tour '22"
+---
 
 
  1. Mars for the Rich

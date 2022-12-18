@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-07-09"
 venue: "Scala, London, England"
 ---

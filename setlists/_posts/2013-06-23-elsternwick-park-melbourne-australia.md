@@ -1,5 +1,5 @@
 ---
-slug: "2013-06-23-elsternwick-park-melbourne-australia"
+layout: setlist
 date: "2013-06-23"
 venue: "Elsternwick Park, Melbourne, Australia"
 ---

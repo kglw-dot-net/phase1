@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-16"
 venue: "Roseland Theater, Portland, OR, USA"
 tour: "World Tour `19"

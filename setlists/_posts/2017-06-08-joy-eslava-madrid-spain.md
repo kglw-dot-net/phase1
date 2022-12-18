@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-08"
 venue: "Joy Eslava, Madrid, Spain"
 tour: "Flying Microtonal Banana"

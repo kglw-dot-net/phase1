@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-10-11"
 venue: "KEXP Studios, Seattle, WA, USA"
 tour: "Murder of the Universe"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-08-29"
 venue: "MOTH Club, London, England"
 tour: "Nonagon Infinity"

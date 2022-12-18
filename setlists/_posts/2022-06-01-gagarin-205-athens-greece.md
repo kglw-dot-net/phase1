@@ -1,12 +1,9 @@
-+++
-slug = "2022-06-01-gagarin-205-athens-greece"
-date = "2022-06-01"
-title = "2022 June 1 @ Gagarin 205"
-
-[extra]
-venue = "Gagarin 205, Athens, Greece"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-06-01"
+venue: "Gagarin 205, Athens, Greece"
+tour: "World Tour '22"
+---
 
 
  1. Magenta Mountain

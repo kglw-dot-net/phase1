@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-09-22"
 venue: "Bakehouse Studios, Melbourne, Australia"
 tour: "Nonagon Infinity"

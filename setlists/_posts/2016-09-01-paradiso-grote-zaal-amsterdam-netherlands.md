@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-09-01"
 venue: "Paradiso Grote Zaal, Amsterdam, Netherlands"
 tour: "Nonagon Infinity"

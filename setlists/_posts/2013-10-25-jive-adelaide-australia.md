@@ -1,5 +1,5 @@
 ---
-slug: "2013-10-25-jive-adelaide-australia"
+layout: setlist
 date: "2013-10-25"
 venue: "Jive, Adelaide, Australia"
 tour: "Float Along - Fill Your Lungs"

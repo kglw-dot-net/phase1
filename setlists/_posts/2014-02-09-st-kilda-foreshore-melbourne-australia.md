@@ -1,5 +1,5 @@
 ---
-slug: "2014-02-09-st-kilda-foreshore-melbourne-australia"
+layout: setlist
 date: "2014-02-09"
 venue: "St Kilda Foreshore, Melbourne, Australia"
 tour: "Float Along - Fill Your Lungs"

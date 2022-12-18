@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-10-14"
 venue: "Institute of Mentalphysics, Joshua Tree, CA, USA"
 tour: "Murder of the Universe"

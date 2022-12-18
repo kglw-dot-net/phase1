@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-13-arlington-theatre-santa-barbara-ca"
-date = "2022-04-13"
-title = "2022 April 13 @ Arlington Theatre"
-
-[extra]
-venue = "Arlington Theatre, Santa Barbara, CA, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-13"
+venue: "Arlington Theatre, Santa Barbara, CA, USA"
+tour: "World Tour '22"
+---
 
 
  1. The River
@@ -35,4 +32,4 @@ tour = "World Tour '22"
     (Mildlife bandmember playing bongos, Mind Left Body style jam)
 
 
-Note: Acoustic show. Sense was on the printed setlist but cut for time.
+Note: Acoustic show.

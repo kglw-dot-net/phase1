@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-18"
 venue: "La Riviera, Madrid, Spain"
 tour: "World Tour `19"

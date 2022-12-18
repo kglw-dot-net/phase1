@@ -1,12 +1,9 @@
-+++
-slug = "2021-04-23-riverstage-brisbane-australia"
-date = "2021-04-23"
-title = "2021 April 23 @ Riverstage"
-
-[extra]
-venue = "Riverstage, Brisbane, Australia"
-tour = "Micro Tour 2021"
-+++
+---
+layout: setlist
+date: "2021-04-23"
+venue: "Riverstage, Brisbane, Australia"
+tour: "Micro Tour 2021"
+---
 
 
  1. KGLW

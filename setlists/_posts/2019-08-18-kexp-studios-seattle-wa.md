@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-18"
 venue: "KEXP Studios, Seattle, WA, USA"
 ---

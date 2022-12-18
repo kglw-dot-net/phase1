@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-06"
 venue: "TivoliVredenburg Ronda, Utrecht, Netherlands"
 tour: "World Tour `19"

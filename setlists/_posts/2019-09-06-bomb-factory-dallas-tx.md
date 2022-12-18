@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-09-06"
 venue: "Bomb Factory, Dallas, TX, USA"
 tour: "World Tour `19"

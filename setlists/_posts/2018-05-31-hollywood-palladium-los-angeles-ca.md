@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-05-31"
 venue: "Hollywood Palladium, Los Angeles, CA, USA"
 tour: "2018 North American Tour"

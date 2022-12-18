@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-07-23"
 venue: "North Byron Parklands, Byron Bay, Australia"
 tour: "Nonagon Infinity"

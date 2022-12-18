@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-10-07"
 venue: "Neurolux, Boise, ID, USA"
 tour: "Murder of the Universe"

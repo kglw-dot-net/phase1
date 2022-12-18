@@ -1,13 +1,10 @@
+---
+layout: setlist
+date: "2022-10-27"
+venue: "Orpheum Theater, New Orleans, LA, USA"
+tour: "World Tour '22"
+---
 +++
-slug = "2022-10-27-orpheum-theater-new-orleans-la"
-date = "2022-10-27"
-title = "2022 October 27 @ Orpheum Theater"
-
-[extra]
-venue = "Orpheum Theater, New Orleans, LA, USA"
-tour = "World Tour '22"
-+++
-
 
  1. K.G.L.W.
     (Outro)

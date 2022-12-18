@@ -1,5 +1,5 @@
 ---
-slug: "2011-12-31-the-esplanade-hotel-melbourne-australia"
+layout: setlist
 date: "2011-12-31"
 venue: "The Esplanade Hotel, Melbourne, Australia"
 ---

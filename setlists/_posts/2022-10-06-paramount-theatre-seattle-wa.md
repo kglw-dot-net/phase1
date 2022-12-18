@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-06-paramount-theatre-seattle-wa"
-date = "2022-10-06"
-title = "2022 October 6 @ Paramount Theatre"
-
-[extra]
-venue = "Paramount Theatre, Seattle, WA, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-06"
+venue: "Paramount Theatre, Seattle, WA, USA"
+tour: "World Tour '22"
+---
 
 
  1. Pleura

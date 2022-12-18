@@ -1,11 +1,8 @@
-+++
-slug = "2022-03-07-enmore-theatre-sydney-australia"
-date = "2022-03-07"
-title = "2022 March 7 @ Enmore Theatre"
-
-[extra]
-venue = "Enmore Theatre, Sydney, Australia"
-+++
+---
+layout: setlist
+date: "2022-03-07"
+venue: "Enmore Theatre, Sydney, Australia"
+---
 
  1. I'm in Your Mind
 
@@ -26,10 +23,8 @@ venue = "Enmore Theatre, Sydney, Australia"
  9. The Garden Goblin
 
 10. Blame It on the Weather
-    (live debut)
 
 11. Mystery Jack
-    (first time since 2018)
 
 12. Doom City
 

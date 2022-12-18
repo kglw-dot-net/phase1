@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-11-25"
 venue: "Commonwealth Park, Canberra, Australia"
 tour: "Murder of the Universe"

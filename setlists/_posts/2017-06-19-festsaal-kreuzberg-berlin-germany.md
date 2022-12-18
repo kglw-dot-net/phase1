@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-19"
 venue: "Festsaal Kreuzberg, Berlin, Germany"
 tour: "Flying Microtonal Banana"

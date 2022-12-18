@@ -1,21 +1,51 @@
 ---
+layout: setlist
 date: "2022-11-02"
 title: "Red Rocks round 3"
 venue: "Red Rocks Amphitheatre, Morrison, CO, USA"
 tour: "World Tour '22"
-excerpt_separator: <!--excerpt-->
 ---
 
 The third show at Red Rocks in 2022!
-<!--excerpt-->
+<!--snippet-->
 
-(Soundcheck) Down the Sink
+## Soundcheck
 
-(Set 1) Murder of the Universe suite (Digital Black » Han-Tyumi the Confused Cyborg » Soy‐Protein Munt Machine » Vomit Coffin » Murder of the Universe), Blame It on the Weather, Work This Time, Lava, Cut Throat Boogie » Wah Wah<sup>1</sup> » Road Train, Sadie Sorceress<sup>2</sup>, Self-Immolate<sup>3</sup>, Her & I<sup>4</sup>, Hot Wax, Crumbling Castle » The Fourth Colour
+Down the Sink
 
-(Setbreak) Timeland
+## Set 1
 
-(Set 2) Head On/Pill<sup>5</sup> » Am I in Heaven?, Venusian 1 » Venusian 2, Billabong Valley, Minimum Brain Size, Static Electricity, Let Me Mend the Past<sup>6</sup>, Alter Me III<sup>7</sup> » Altered Beast IV<sup>8</sup>, Float Along — Fill Your Lungs
+1. Murder of the Universe suite (Digital Black » Han-Tyumi the Confused Cyborg » Soy‐Protein Munt Machine » Vomit Coffin » Murder of the Universe)
+2. Blame It on the Weather
+3. Work This Time
+4. Lava
+5. Cut Throat Boogie »
+6. Wah Wah<sup>1</sup> »
+7. Road Train
+8. Sadie Sorceress<sup>2</sup>
+9. Self-Immolate<sup>3</sup>
+10. Her & I<sup>4</sup>
+11. Hot Wax
+12. Crumbling Castle 
+13. The Fourth Colour
+
+## Setbreak
+
+Timeland
+
+## Set 2
+
+Head On/Pill<sup>5</sup> »
+Am I in Heaven?
+Venusian 1 »
+Venusian 2
+Billabong Valley
+Minimum Brain Size
+Static Electricity
+Let Me Mend the Past<sup>6</sup>
+Alter Me III<sup>7</sup> »
+Altered Beast IV<sup>8</sup>
+Float Along — Fill Your Lungs
 
 Notes:  
 1: The River tease  

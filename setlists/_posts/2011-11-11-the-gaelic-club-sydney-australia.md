@@ -1,5 +1,5 @@
 ---
-slug: "2011-11-11-the-gaelic-club-sydney-australia"
+layout: setlist
 date: "2011-11-11"
 venue: "The Gaelic Club, Sydney, Australia"
 ---

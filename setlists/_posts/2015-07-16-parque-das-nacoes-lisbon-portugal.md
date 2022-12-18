@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-07-16"
 venue: "Parque das Nações, Lisbon, Portugal"
 ---

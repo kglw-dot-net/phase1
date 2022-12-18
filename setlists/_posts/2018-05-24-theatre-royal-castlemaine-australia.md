@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-05-24"
 venue: "Theatre Royal, Castlemaine, Australia"
 ---

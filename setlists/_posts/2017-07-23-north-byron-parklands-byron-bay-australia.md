@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-07-23"
 venue: "North Byron Parklands, Byron Bay, Australia"
 tour: "Murder of the Universe"

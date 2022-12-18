@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-11-29"
 venue: "Big Top Luna Park, Sydney, Australia"
 ---

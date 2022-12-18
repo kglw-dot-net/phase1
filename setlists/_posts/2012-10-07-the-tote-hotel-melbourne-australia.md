@@ -1,5 +1,5 @@
 ---
-slug: "2012-10-07-the-tote-hotel-melbourne-australia"
+layout: setlist
 date: "2012-10-07"
 venue: "The Tote Hotel, Melbourne, Australia"
 ---

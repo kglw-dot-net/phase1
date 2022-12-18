@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-11-25"
 venue: "The Marquee, RNA Showgrounds, Brisbane, Australia"
 ---

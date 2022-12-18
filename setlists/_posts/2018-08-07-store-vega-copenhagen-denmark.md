@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-07"
 venue: "Store Vega, Copenhagen, Denmark"
 tour: "2018 European Summer Tour"

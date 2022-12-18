@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-11-23"
 venue: "Fort Canning Park, Singapore, Singapore"
 tour: "World Tour `19"

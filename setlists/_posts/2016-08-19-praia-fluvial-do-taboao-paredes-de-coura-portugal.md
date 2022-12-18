@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-08-19"
 venue: "Praia Fluvial do Taboão, Paredes de Coura, Portugal"
 tour: "Nonagon Infinity"

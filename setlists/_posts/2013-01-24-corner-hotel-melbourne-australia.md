@@ -1,5 +1,5 @@
 ---
-slug: "2013-01-24-corner-hotel-melbourne-australia"
+layout: setlist
 date: "2013-01-24"
 venue: "Corner Hotel, Melbourne, Australia"
 ---

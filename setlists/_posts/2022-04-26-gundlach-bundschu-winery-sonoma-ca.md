@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-26-gundlach-bundschu-winery-sonoma-ca"
-date = "2022-04-26"
-title = "2022 April 26 @ Gundlach-Bundschu Winery"
-
-[extra]
-venue = "Gundlach-Bundschu Winery, Sonoma, CA, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-26"
+venue: "Gundlach-Bundschu Winery, Sonoma, CA, USA"
+tour: "World Tour '22"
+---
 
 
  1. Organ Farmer

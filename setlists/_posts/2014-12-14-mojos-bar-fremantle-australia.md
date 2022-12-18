@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-12-14"
 venue: "Mojo's Bar, Fremantle, Australia"
 tour: "I'm In Your Mind Fuzz"

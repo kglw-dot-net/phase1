@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-07-06"
 venue: "Rescue Rooms, Nottingham, England"
 ---

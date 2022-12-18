@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-24"
 venue: "Moe's Alley, Santa Cruz, CA, USA"
 ---

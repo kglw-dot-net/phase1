@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-12-09"
 venue: "Meredith Supernatural Amphitheatre, Meredith, Australia"
 ---

@@ -1,5 +1,5 @@
 ---
-slug: "2013-04-29-sydney-opera-house-sydney-australia"
+layout: setlist
 date: "2013-04-29"
 venue: "Sydney Opera House, Sydney, Australia"
 ---

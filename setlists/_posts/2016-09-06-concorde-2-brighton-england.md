@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-09-06"
 venue: "Concorde 2, Brighton, England"
 tour: "Nonagon Infinity"

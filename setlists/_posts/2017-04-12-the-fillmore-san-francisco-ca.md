@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-12"
 venue: "The Fillmore, San Francisco, CA, USA"
 tour: "Flying Microtonal Banana"

@@ -1,12 +1,9 @@
-+++
-slug = "2022-06-17-great-stage-park-manchester-tn"
-date = "2022-06-17"
-title = "2022 June 17 @ Great Stage Park"
-
-[extra]
-venue = "Great Stage Park, Manchester, TN, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-06-17"
+venue: "Great Stage Park, Manchester, TN, USA"
+tour: "World Tour '22"
+---
 
 
  1. Robot Stop

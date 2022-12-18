@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-16"
 venue: "X-TRA, Zurich, Switzerland"
 tour: "World Tour `19"

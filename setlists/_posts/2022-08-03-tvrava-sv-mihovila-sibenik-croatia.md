@@ -1,12 +1,9 @@
-+++
-slug = "2022-08-03-tvrava-sv-mihovila-sibenik-croatia"
-date = "2022-08-03"
-title = "2022 August 3 @ Tvrd/ava sv. Mihovila"
-
-[extra]
-venue = "Tvrd/ava sv. Mihovila, Sibenik, Croatia"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-08-03"
+venue: "Tvrd/ava sv. Mihovila, Sibenik, Croatia"
+tour: "World Tour '22"
+---
 
 
  1. KGLW
@@ -37,8 +34,3 @@ tour = "World Tour '22"
 12. Am I in Heaven?
     (Including chunks of Dripping Tap, Magenta Mountain, Altered Beast,
     Crumbling Castle)
-
-
-Note: Alternate setlist contained Doom City, Oddlife, and O.N.E instead
-of Rattlesnake. Also had Ambergris after K.G.L.W (outro), and The Grim
-Reaper after Hot Water. Missing Crumbling Castle and Magenta Mountain.

@@ -1,5 +1,5 @@
 ---
-slug: "2012-05-04-the-national-hotel-geelong-australia"
+layout: setlist
 date: "2012-05-04"
 venue: "The National Hotel, Geelong, Australia"
 tour: "Bloody Ripper"

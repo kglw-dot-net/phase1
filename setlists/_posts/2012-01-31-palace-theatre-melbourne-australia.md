@@ -1,5 +1,5 @@
 ---
-slug: "2012-01-31-palace-theatre-melbourne-australia"
+layout: setlist
 date: "2012-01-31"
 venue: "Palace Theatre, Melbourne, Australia"
 ---

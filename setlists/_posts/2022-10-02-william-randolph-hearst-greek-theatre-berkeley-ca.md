@@ -1,82 +1,85 @@
-+++
-slug = "2022-10-02-william-randolph-hearst-greek-theatre-berkeley-ca"
-date = "2022-10-02"
-title = "2022 October 2 @ William Randolph Hearst Greek Theatre"
-
-[extra]
-venue = "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-02"
+venue: "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+tour: "World Tour '22"
+---
 
 
- 1. Set 1:
- 2. The Dripping Tap
+## Soundcheck
 
- 3. Wah Wah
+ 1. The Grim Reaper
+ 2. Ice V
+ 3. Ambergris
+ 4. The Fourth Color
+
+## Set 1:
+
+ 1. The Dripping Tap
+
+ 2. Wah Wah
     (with 'The River' teases during the intro & bridge) (>)
 
- 4. Road Train
+ 3. Road Train
 
- 5. Ice V
-    (live debut)
+ 4. Ice V
 
- 6. Black Tooth
+ 5. Black Tooth
 
- 7. Shanghai
+ 6. Shanghai
 
- 8. Venusian 2
+ 7. Venusian 2
 
- 9. The Great Chain of Being
+ 8. The Great Chain of Being
 
-10. Doom City
+ 9. Doom City
 
-11. Nuclear Fusion
+10. Nuclear Fusion
 
-12. O.N.E.
+11. O.N.E.
     (with 'Straws in the Wind' tease intro)
 
-13. All Is Known
+12. All Is Known
 
-14. Pleura
+13. Pleura
 
-15. Straws in the Wind
+14. Straws in the Wind
 
-17. Song played from tape
-    Smoke & Mirrors
-    (Visual with "Timeland" countdown)
+## Setbreak
 
-18. Set 2:
-19. Self-Immolate
+Smoke & Mirrors (album version; with "Timeland" countdown video)
 
-20. Gaia
+## Set 2:
+
+ 1. Self-Immolate
+
+ 2. Gaia
     (with extended drum solo)
 
-21. The Grim Reaper
+ 3. The Grim Reaper
     (>)
 
-22. Presumptuous
+ 4. Presumptuous
 
-23. Sleepwalker
+ 5. Sleepwalker
 
-24. Iron Lung
+ 6. Iron Lung
 
-25. Ambergris
+ 7. Ambergris
 
-26. The Reticent Raconteur
+ 8. The Reticent Raconteur
     (with Leah Senior) (>)
 
-27. The Lord of Lightning
+ 9. The Lord of Lightning
     (with Leah Senior)
 
-28. Crumbling Castle
+10. Crumbling Castle
     (>)
 
-29. The Fourth Colour
-    (first time since 2019)
+11. The Fourth Colour
 
-30. Am I in Heaven?
+12. Am I in Heaven?
     (with 'The Dripping Tap' teases)
 
 
-Soundcheck: "The Grim Reaper", "Ice V", "Ambergris", & "The Fourth
-Color"
+Note: Leah Senior opened

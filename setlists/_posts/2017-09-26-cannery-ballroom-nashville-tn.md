@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-09-26"
 venue: "Cannery Ballroom, Nashville, TN, USA"
 tour: "Murder of the Universe"

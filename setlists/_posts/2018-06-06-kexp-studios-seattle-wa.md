@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-06"
 venue: "KEXP Studios, Seattle, WA, USA"
 ---

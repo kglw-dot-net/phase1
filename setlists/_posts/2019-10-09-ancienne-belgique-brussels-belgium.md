@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-09"
 venue: "Ancienne Belgique, Brussels, Belgium"
 tour: "World Tour `19"

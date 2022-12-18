@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-15"
 venue: "Praia Fluvial do Taboão, Paredes de Coura, Portugal"
 tour: "2018 European Summer Tour"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-11"
 venue: "Carlswerk Victoria, Cologne, Germany"
 tour: "World Tour `19"

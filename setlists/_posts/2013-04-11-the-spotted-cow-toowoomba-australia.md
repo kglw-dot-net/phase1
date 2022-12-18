@@ -1,5 +1,5 @@
 ---
-slug: "2013-04-11-the-spotted-cow-toowoomba-australia"
+layout: setlist
 date: "2013-04-11"
 venue: "The Spotted Cow, Toowoomba, Australia"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-03-02"
 venue: "Ancienne Belgique Club, Brussels, Belgium"
 ---

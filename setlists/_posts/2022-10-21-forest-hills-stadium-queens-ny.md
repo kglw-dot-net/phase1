@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-21-forest-hills-stadium-queens-ny"
-date = "2022-10-21"
-title = "2022 October 21 @ Forest Hills Stadium"
-
-[extra]
-venue = "Forest Hills Stadium, Queens, NY, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-21"
+venue: "Forest Hills Stadium, Queens, NY, USA"
+tour: "World Tour '22"
+---
 
 
  1. The Dripping Tap

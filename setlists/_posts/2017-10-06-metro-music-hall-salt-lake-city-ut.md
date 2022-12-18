@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-10-06"
 venue: "Metro Music Hall, Salt Lake City, UT, USA"
 tour: "Murder of the Universe"

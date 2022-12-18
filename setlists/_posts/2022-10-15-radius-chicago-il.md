@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-15-radius-chicago-il"
-date = "2022-10-15"
-title = "2022 October 15 @ Radius"
-
-[extra]
-venue = "Radius, Chicago, IL, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-15"
+venue: "Radius, Chicago, IL, USA"
+tour: "World Tour '22"
+---
 
 
  1. Venusian 1
@@ -25,7 +22,6 @@ tour = "World Tour '22"
  7. Doom City
 
  8. Lava
-    (Live debut)
 
  9. Ambergris
     (Snippet- Wholly Ghost intro teaser)

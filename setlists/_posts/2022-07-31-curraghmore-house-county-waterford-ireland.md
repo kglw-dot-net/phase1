@@ -1,12 +1,9 @@
-+++
-slug = "2022-07-31-curraghmore-house-county-waterford-ireland"
-date = "2022-07-31"
-title = "2022 July 31 @ Curraghmore House"
-
-[extra]
-venue = "Curraghmore House, County Waterford, Ireland"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-07-31"
+venue: "Curraghmore House, County Waterford, Ireland"
+tour: "World Tour '22"
+---
 
 
  1. Mars for the Rich

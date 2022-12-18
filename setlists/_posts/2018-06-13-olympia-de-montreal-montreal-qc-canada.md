@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-13"
 venue: "Olympia de Montréal, Montreal, QC, Canada"
 tour: "2018 North American Tour"

@@ -1,5 +1,5 @@
 ---
-slug: "2012-04-08-bruzzys-farm-tallarook-australia"
+layout: setlist
 date: "2012-04-08"
 venue: "Bruzzy's Farm, Tallarook, Australia"
 tour: "Bloody Ripper"

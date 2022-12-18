@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-24"
 venue: "Spazio 211, Turin, Italy"
 tour: "2018 European Summer Tour"

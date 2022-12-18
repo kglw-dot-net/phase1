@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-02-23"
 venue: "Debaser Hornstull Strand, Stockholm, Sweden"
 ---

@@ -1,5 +1,5 @@
 ---
-slug: "2013-08-28-northcote-social-club-melbourne-australia"
+layout: setlist
 date: "2013-08-28"
 venue: "Northcote Social Club, Melbourne, Australia"
 tour: "Float Along - Fill Your Lungs Preview Shows"

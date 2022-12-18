@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-24-rabbit-rabbit-asheville-nc"
-date = "2022-10-24"
-title = "2022 October 24 @ Rabbit Rabbit"
-
-[extra]
-venue = "Rabbit Rabbit, Asheville, NC, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-24"
+venue: "Rabbit Rabbit, Asheville, NC, USA"
+tour: "World Tour '22"
+---
 
 
  1. Venusian 2
@@ -16,10 +13,10 @@ tour = "World Tour '22"
  3. Predator X
 
  4. Slow Jam 1
-    (Ice V quotes, Magenta Mountain teases)
+    (Ice V quotes; Magenta Mountain teases)
 
  5. Magenta Mountain
-    (Scat singing, dedicated to Robert Moog)
+    (with scat singing; dedicated to Robert Moog, who taught music in Asheville)
 
  6. O.N.E.
 

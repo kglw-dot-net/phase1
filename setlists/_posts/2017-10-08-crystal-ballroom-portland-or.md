@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-10-08"
 venue: "Crystal Ballroom, Portland, OR, USA"
 tour: "Murder of the Universe"

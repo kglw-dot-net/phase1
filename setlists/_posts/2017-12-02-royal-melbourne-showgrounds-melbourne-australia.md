@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-12-02"
 venue: "Royal Melbourne Showgrounds, Melbourne, Australia"
 tour: "Murder of the Universe"

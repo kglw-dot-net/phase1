@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-08-31"
 venue: "Doornroosje, Nijmegen, Netherlands"
 tour: "Nonagon Infinity"

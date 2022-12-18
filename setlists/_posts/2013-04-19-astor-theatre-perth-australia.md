@@ -1,5 +1,5 @@
 ---
-slug: "2013-04-19-astor-theatre-perth-australia"
+layout: setlist
 date: "2013-04-19"
 venue: "Astor Theatre, Perth, Australia"
 ---

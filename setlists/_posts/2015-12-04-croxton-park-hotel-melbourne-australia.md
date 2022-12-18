@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-12-04"
 venue: "Croxton Park Hotel, Melbourne, Australia"
 tour: "Goat Australian Tour 2015"

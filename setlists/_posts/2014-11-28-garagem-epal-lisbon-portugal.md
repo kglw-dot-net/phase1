@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-11-28"
 venue: "Garagem Epal, Lisbon, Portugal"
 tour: "I'm In Your Mind Fuzz Europe 2014"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-02-22"
 venue: "Manchester Academy 1, University of Manchester, Manchester, England"
 tour: "2018 UK/EU Tour"

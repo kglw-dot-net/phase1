@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-22"
 venue: "Cabaret Sauvage, Paris, France"
 tour: "Flying Microtonal Banana"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-06-16"
 venue: "Adelaide Hall, Toronto, ON, Canada"
 ---

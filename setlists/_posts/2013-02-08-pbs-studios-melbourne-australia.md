@@ -1,5 +1,5 @@
 ---
-slug: "2013-02-08-pbs-studios-melbourne-australia"
+layout: setlist
 date: "2013-02-08"
 venue: "PBS Studios, Melbourne, Australia"
 ---

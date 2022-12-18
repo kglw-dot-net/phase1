@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-11-26"
 venue: "Coburg Velodrome, Melbourne, Australia"
 ---

@@ -1,21 +1,16 @@
-+++
-slug = "2021-12-13-brunswick-ballroom-melbourne-australia"
-date = "2021-12-13"
-title = "2021 December 13 @ Brunswick Ballroom"
-
-[extra]
-venue = "Brunswick Ballroom, Melbourne, Australia"
-+++
+---
+layout: setlist
+date: "2021-12-13"
+venue: "Brunswick Ballroom, Melbourne, Australia"
+---
 
  1. The River
 
  2. It's Got Old
-    (First time since 2015)
 
  3. Hot Water
 
  4. Sleepwalker
-    (First time since 2016)
 
  5. The Wheel
 
@@ -28,7 +23,6 @@ venue = "Brunswick Ballroom, Melbourne, Australia"
  9. Muddy Water
 
 10. Most of What I Like
-    (Live debut)
 
 11. Sense
     (extended jam)

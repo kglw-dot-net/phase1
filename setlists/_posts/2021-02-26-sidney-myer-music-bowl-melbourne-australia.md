@@ -1,12 +1,9 @@
-+++
-slug = "2021-02-26-sidney-myer-music-bowl-melbourne-australia"
-date = "2021-02-26"
-title = "2021 February 26 @ Sidney Myer Music Bowl"
-
-[extra]
-venue = "Sidney Myer Music Bowl, Melbourne, Australia"
-tour = "Micro Tour 2021"
-+++
+---
+layout: setlist
+date: "2021-02-26"
+venue: "Sidney Myer Music Bowl, Melbourne, Australia"
+tour: "Micro Tour 2021"
+---
 
 
  1. Fury

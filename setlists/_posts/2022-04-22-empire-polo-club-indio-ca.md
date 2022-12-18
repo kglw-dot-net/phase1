@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-22-empire-polo-club-indio-ca"
-date = "2022-04-22"
-title = "2022 April 22 @ Empire Polo Club"
-
-[extra]
-venue = "Empire Polo Club, Indio, CA, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-22"
+venue: "Empire Polo Club, Indio, CA, USA"
+tour: "World Tour '22"
+---
 
 
  1. Digital Black

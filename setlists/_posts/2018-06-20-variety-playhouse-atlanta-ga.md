@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-20"
 venue: "Variety Playhouse, Atlanta, GA, USA"
 tour: "2018 North American Tour"

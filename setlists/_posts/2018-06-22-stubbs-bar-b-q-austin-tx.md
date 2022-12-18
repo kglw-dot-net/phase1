@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-22"
 venue: "Stubb's Bar-B-Q, Austin, TX, USA"
 tour: "2018 North American Tour"

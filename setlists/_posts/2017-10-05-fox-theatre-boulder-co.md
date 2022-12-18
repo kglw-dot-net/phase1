@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-10-05"
 venue: "Fox Theatre, Boulder, CO, USA"
 tour: "Murder of the Universe"

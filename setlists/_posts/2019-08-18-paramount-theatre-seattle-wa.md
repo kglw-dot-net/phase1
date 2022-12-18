@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-18"
 venue: "Paramount Theatre, Seattle, WA, USA"
 tour: "World Tour `19"

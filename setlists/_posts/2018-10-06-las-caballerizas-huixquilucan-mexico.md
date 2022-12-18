@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-10-06"
 venue: "Las Caballerizas, Huixquilucan, Mexico"
 tour: "Mexico Tour 2018"

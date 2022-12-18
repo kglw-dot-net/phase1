@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-02-23"
 venue: "Olympia Theatre, Dublin, Ireland"
 tour: "2018 UK/EU Tour"

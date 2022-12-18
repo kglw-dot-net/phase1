@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-12-31"
 venue: "Marion Bay Falls Festival Site, Marion Bay, Australia"
 ---

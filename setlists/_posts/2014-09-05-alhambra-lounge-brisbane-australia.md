@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-09-05"
 venue: "Alhambra Lounge, Brisbane, Australia"
 tour: "SINO-AUS"

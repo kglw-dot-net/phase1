@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-07-06"
 venue: "UNSW Roundhouse, Sydney, Australia"
 tour: "World Tour `19"

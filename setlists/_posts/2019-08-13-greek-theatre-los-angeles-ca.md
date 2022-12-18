@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-13"
 venue: "Greek Theatre, Los Angeles, CA, USA"
 tour: "World Tour `19"

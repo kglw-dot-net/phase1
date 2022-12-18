@@ -1,12 +1,9 @@
-+++
-slug = "2022-06-11-maimarktgelande-mannheim-germany"
-date = "2022-06-11"
-title = "2022 June 11 @ Maimarktgelände"
-
-[extra]
-venue = "Maimarktgelände, Mannheim, Germany"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-06-11"
+venue: "Maimarktgelände, Mannheim, Germany"
+tour: "World Tour '22"
+---
 
 
  1. Head On/Pill
@@ -31,6 +28,3 @@ tour = "World Tour '22"
 10. Pleura
 
 11. The Dripping Tap
-
-
-Note: The Garden Goblin was on the setlist but was not played

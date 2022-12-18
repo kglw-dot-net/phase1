@@ -1,5 +1,5 @@
 ---
-slug: "2012-10-12-the-edinburgh-castle-hotel-adelaide-australia"
+layout: setlist
 date: "2012-10-12"
 venue: "The Edinburgh Castle Hotel, Adelaide, Australia"
 ---

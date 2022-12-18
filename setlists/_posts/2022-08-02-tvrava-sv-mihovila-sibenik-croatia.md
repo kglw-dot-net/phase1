@@ -1,12 +1,9 @@
-+++
-slug = "2022-08-02-tvrava-sv-mihovila-sibenik-croatia"
-date = "2022-08-02"
-title = "2022 August 2 @ Tvrd/ava sv. Mihovila"
-
-[extra]
-venue = "Tvrd/ava sv. Mihovila, Sibenik, Croatia"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-08-02"
+venue: "Tvrd/ava sv. Mihovila, Sibenik, Croatia"
+tour: "World Tour '22"
+---
 
 
  1. Gaia
@@ -29,7 +26,7 @@ tour = "World Tour '22"
  9. Straws in the Wind
 
 10. The Garden Goblin
-    (with a pause in the middle caused by PA problems)
+    (with technical issues)
 
 11. Blame It on the Weather
 
@@ -48,6 +45,5 @@ tour = "World Tour '22"
     (>)
 
 17. Cut Throat Boogie
-    (was not planned in setlist)
 
 

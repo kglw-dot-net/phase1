@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-05-14"
 venue: "Kung Fu Necktie, Philadelphia, PA, USA"
 tour: "USA Tour May 2014"

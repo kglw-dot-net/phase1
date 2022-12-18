@@ -1,5 +1,5 @@
 ---
-slug: "2012-05-09-fbi-social-at-kings-cross-hotel-sydney-australia"
+layout: setlist
 date: "2012-05-09"
 venue: "FBi Social at Kings Cross Hotel, Sydney, Australia"
 tour: "Bloody Ripper"

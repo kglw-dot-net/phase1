@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-10-13"
 venue: "Moreno Beach, Perris, CA, USA"
 tour: "Mexico Tour 2018"

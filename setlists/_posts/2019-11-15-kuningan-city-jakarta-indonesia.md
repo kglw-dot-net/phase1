@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-11-15"
 venue: "Kuningan City, Jakarta, Indonesia"
 tour: "World Tour `19"

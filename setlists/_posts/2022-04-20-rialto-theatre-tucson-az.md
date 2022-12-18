@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-20-rialto-theatre-tucson-az"
-date = "2022-04-20"
-title = "2022 April 20 @ Rialto Theatre"
-
-[extra]
-venue = "Rialto Theatre, Tucson, AZ, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-20"
+venue: "Rialto Theatre, Tucson, AZ, USA"
+tour: "World Tour '22"
+---
 
 
  1. Digital Black
@@ -30,7 +27,6 @@ tour = "World Tour '22"
 10. Gaia
 
 11. Predator X
-    (Live debut)
 
 12. Venusian 2
 

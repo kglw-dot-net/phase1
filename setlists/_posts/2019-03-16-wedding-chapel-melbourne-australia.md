@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-03-16"
 venue: "Wedding Chapel, Melbourne, Australia"
 ---

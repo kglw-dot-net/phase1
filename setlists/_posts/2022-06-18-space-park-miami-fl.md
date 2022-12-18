@@ -1,12 +1,9 @@
-+++
-slug = "2022-06-18-space-park-miami-fl"
-date = "2022-06-18"
-title = "2022 June 18 @ Space Park"
-
-[extra]
-venue = "Space Park, Miami, FL, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-06-18"
+venue: "Space Park, Miami, FL, USA"
+tour: "World Tour '22"
+---
 
 
  1. Self-Immolate
@@ -38,6 +35,3 @@ tour = "World Tour '22"
 14. O.N.E.
 
 15. Rattlesnake
-
-
-Note: The Lord of Lightning was on the printed setlist but not played.

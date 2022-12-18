@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-15"
 venue: "Underground Arts, Philadelphia, PA, USA"
 ---

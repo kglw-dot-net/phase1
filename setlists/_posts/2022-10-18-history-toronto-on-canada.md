@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-18-history-toronto-on-canada"
-date = "2022-10-18"
-title = "2022 October 18 @ History"
-
-[extra]
-venue = "History, Toronto, ON, Canada"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-18"
+venue: "History, Toronto, ON, Canada"
+tour: "World Tour '22"
+---
 
 
  1. Rattlesnake

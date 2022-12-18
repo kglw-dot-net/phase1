@@ -1,16 +1,14 @@
-+++
-slug = "2022-05-31-gagarin-205-athens-greece"
-date = "2022-05-31"
-title = "2022 May 31 @ Gagarin 205"
+---
+layout: setlist
+date: "2022-05-31"
+venue: "Gagarin 205, Athens, Greece"
+tour: "World Tour '22"
+---
 
-[extra]
-venue = "Gagarin 205, Athens, Greece"
-tour = "World Tour '22"
-+++
 
+Soundcheck: Let Me Mend The Past, Rattlesnake, Hot Water, Work This Time
 
  1. Sense
-    (Tour debut)
 
  2. Let Me Mend the Past
 
@@ -38,5 +36,4 @@ tour = "World Tour '22"
 
 Note: Cavs unable to play due to COVID. The band played with a drum
 machine. Joey mentioned they would have gotten a fan on the drums if
-not for COVID restrictions. Soundchecked Let Me Mend The Past,
-Rattlesnake, Hot Water, and Work This Time.
+not for COVID restrictions.

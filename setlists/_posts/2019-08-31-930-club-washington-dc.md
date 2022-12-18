@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-31"
 venue: "9:30 Club, Washington, DC, USA"
 tour: "World Tour `19"

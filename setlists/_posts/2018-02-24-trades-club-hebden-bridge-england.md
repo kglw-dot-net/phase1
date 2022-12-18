@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-02-24"
 venue: "Trades Club, Hebden Bridge, England"
 tour: "2018 UK/EU Tour"

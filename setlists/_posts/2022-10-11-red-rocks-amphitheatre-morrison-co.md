@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-11-red-rocks-amphitheatre-morrison-co"
-date = "2022-10-11"
-title = "2022 October 11 @ Red Rocks Amphitheatre"
-
-[extra]
-venue = "Red Rocks Amphitheatre, Morrison, CO, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-11"
+venue: "Red Rocks Amphitheatre, Morrison, CO, USA"
+tour: "World Tour '22"
+---
 
 
  ## Set 1 (8:15-9:49)
@@ -23,7 +20,6 @@ tour = "World Tour '22"
  5. Pleura
 
  6. Oddlife
-    (Nicholas Roderick Craig's favorite song)
 
  7. Doom City
     (>)
@@ -37,16 +33,15 @@ tour = "World Tour '22"
 10. Sleepwalker
 
 11. Sea of Trees
-    (with 'Head On/Pill' tease; Lucas's favorite song) (>)
+    (with 'Head On/Pill' tease) (>)
 
 12. The Bitter Boogie
 
-## Setbreak
+## Setbreak music
 
- 1. Hypertension
-    (prerecorded)
+Hypertension (album version)
 
-## Set 2 (10:05-11:25):
+## Set 2 (10:05-11:25)
 
  1. Perihelion
 

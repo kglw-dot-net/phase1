@@ -1,11 +1,8 @@
-+++
-slug = "2021-10-30-sidney-myer-music-bowl-melbourne-australia"
-date = "2021-10-30"
-title = "2021 October 30 @ Sidney Myer Music Bowl"
-
-[extra]
-venue = "Sidney Myer Music Bowl, Melbourne, Australia"
-+++
+---
+layout: setlist
+date: "2021-10-30"
+venue: "Sidney Myer Music Bowl, Melbourne, Australia"
+---
 
  1. I'm in Your Mind
 
@@ -16,7 +13,6 @@ venue = "Sidney Myer Music Bowl, Melbourne, Australia"
  4. I'm in Your Mind Fuzz
 
  5. Shanghai
-    (live debut)
 
  6. Gamma Knife
 
@@ -31,7 +27,6 @@ venue = "Sidney Myer Music Bowl, Melbourne, Australia"
 11. Mars for the Rich
 
 12. Gaia
-    (live debut)
 
 13. Self-Immolate
 

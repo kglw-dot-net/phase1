@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-10-red-rocks-amphitheatre-morrison-co"
-date = "2022-10-10"
-title = "2022 October 10 @ Red Rocks Amphitheatre"
-
-[extra]
-venue = "Red Rocks Amphitheatre, Morrison, CO, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-10"
+venue: "Red Rocks Amphitheatre, Morrison, CO, USA"
+tour: "World Tour '22"
+---
 
 
  ## Set 1: 8:15-9:45
@@ -41,7 +38,7 @@ tour = "World Tour '22"
 
 ##  Setbreak
 
- 1. The Land Before Timeland (prerecorded)
+ 1. The Land Before Timeland (album version)
 
 ## Set 2: 10:00-11:30
 

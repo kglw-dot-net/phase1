@@ -1,5 +1,5 @@
 ---
-slug: "2012-11-25-acdc-lane-melbourne-australia"
+layout: setlist
 date: "2012-11-25"
 venue: "ACDC Lane, Melbourne, Australia"
 ---

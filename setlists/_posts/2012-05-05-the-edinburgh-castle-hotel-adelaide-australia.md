@@ -1,5 +1,5 @@
 ---
-slug: "2012-05-05-the-edinburgh-castle-hotel-adelaide-australia"
+layout: setlist
 date: "2012-05-05"
 venue: "The Edinburgh Castle Hotel, Adelaide, Australia"
 tour: "Bloody Ripper"

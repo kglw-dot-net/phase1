@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-10-10"
 venue: "Neptune Theatre, Seattle, WA, USA"
 tour: "Murder of the Universe"

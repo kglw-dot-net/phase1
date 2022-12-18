@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-10-07"
 venue: "Foro Indie Rocks!, Mexico City, Mexico"
 tour: "Mexico Tour 2018"

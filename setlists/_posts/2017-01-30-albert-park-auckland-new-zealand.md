@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-01-30"
 venue: "Albert Park, Auckland, New Zealand"
 ---

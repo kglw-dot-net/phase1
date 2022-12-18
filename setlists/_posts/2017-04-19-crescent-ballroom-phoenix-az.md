@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-19"
 venue: "Crescent Ballroom, Phoenix, AZ, USA"
 tour: "Flying Microtonal Banana"

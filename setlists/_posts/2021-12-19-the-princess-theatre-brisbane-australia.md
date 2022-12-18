@@ -1,12 +1,9 @@
-+++
-slug = "2021-12-19-the-princess-theatre-brisbane-australia"
-date = "2021-12-19"
-title = "2021 December 19 @ The Princess Theatre"
-
-[extra]
-venue = "The Princess Theatre, Brisbane, Australia"
-tour = "2021 Princess Theatre Residency"
-+++
+---
+layout: setlist
+date: "2021-12-19"
+venue: "The Princess Theatre, Brisbane, Australia"
+tour: "2021 Princess Theatre Residency"
+---
 
 
  1. The River

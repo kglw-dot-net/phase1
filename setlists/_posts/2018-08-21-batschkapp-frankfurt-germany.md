@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-21"
 venue: "Batschkapp, Frankfurt, Germany"
 tour: "2018 European Summer Tour"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-07-13"
 venue: "Kobetamendi, Bilbao, Spain"
 tour: "2018 European Summer Tour"

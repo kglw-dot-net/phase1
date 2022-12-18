@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-03-15"
 venue: "Salon IKSV, Istanbul, Turkey"
 tour: "2018 UK/EU Tour"

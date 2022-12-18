@@ -1,5 +1,5 @@
 ---
-slug: "2012-01-28-enmore-theatre-sydney-australia"
+layout: setlist
 date: "2012-01-28"
 venue: "Enmore Theatre, Sydney, Australia"
 ---

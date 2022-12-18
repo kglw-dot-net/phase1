@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-03-07"
 venue: "Astra, Berlin, Germany"
 tour: "2018 UK/EU Tour"

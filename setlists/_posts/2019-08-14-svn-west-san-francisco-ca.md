@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-14"
 venue: "SVN West, San Francisco, CA, USA"
 tour: "World Tour `19"

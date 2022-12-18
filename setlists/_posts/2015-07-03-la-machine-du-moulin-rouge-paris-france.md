@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-07-03"
 venue: "La Machine du Moulin Rouge, Paris, France"
 ---

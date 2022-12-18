@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-30"
 venue: "Franklin Music Hall, Philadelphia, PA, USA"
 tour: "World Tour `19"

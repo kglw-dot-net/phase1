@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-11-16"
 venue: "Live Park Rama 9, Bangkok, Thailand"
 tour: "World Tour `19"

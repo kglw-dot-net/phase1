@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-06-12"
 venue: "Great Stage Park, Manchester, TN, USA"
 ---

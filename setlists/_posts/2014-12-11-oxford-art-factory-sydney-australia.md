@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-12-11"
 venue: "Oxford Art Factory, Sydney, Australia"
 tour: "I'm In Your Mind Fuzz"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-02-03"
 venue: "Harts Mill, Adelaide, Australia"
 ---

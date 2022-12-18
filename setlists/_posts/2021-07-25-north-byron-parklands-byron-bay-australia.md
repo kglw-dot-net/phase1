@@ -1,11 +1,8 @@
-+++
-slug = "2021-07-25-north-byron-parklands-byron-bay-australia"
-date = "2021-07-25"
-title = "2021 July 25 @ North Byron Parklands"
-
-[extra]
-venue = "North Byron Parklands, Byron Bay, Australia"
-+++
+---
+layout: setlist
+date: "2021-07-25"
+venue: "North Byron Parklands, Byron Bay, Australia"
+---
 
  1. Oddlife
 
@@ -20,7 +17,6 @@ venue = "North Byron Parklands, Byron Bay, Australia"
  6. Straws in the Wind
 
  7. Slow Jam 1
-    (first time since 2014)
 
  8. Mars for the Rich
 

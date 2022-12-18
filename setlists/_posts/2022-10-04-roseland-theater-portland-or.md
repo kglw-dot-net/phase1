@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-04-roseland-theater-portland-or"
-date = "2022-10-04"
-title = "2022 October 4 @ Roseland Theater"
-
-[extra]
-venue = "Roseland Theater, Portland, OR, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-04"
+venue: "Roseland Theater, Portland, OR, USA"
+tour: "World Tour '22"
+---
 
 
  1. Gaia
@@ -35,7 +32,6 @@ tour = "World Tour '22"
 11. Iron Lung
 
 12. Magma
-    (Live debut)
 
 13. Rattlesnake
     (Microtonal medley with teases from "Honey", "O.N.E", "Billabong

@@ -1,12 +1,9 @@
-+++
-slug = "2021-04-01-fremantle-arts-centre-fremantle-australia"
-date = "2021-04-01"
-title = "2021 April 1 @ Fremantle Arts Centre"
-
-[extra]
-venue = "Fremantle Arts Centre, Fremantle, Australia"
-tour = "Micro Tour 2021"
-+++
+---
+layout: setlist
+date: "2021-04-01"
+venue: "Fremantle Arts Centre, Fremantle, Australia"
+tour: "Micro Tour 2021"
+---
 
 
  1. KGLW
@@ -40,7 +37,3 @@ tour = "Micro Tour 2021"
 15. Honey
 
 16. K.G.L.W.
-
-
-Note: Open Water was on the setlist after Static Electricity but was
-not played

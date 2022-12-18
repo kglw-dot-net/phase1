@@ -1,5 +1,5 @@
 ---
-slug: "2012-05-10-goodgod-small-club-sydney-australia"
+layout: setlist
 date: "2012-05-10"
 venue: "Goodgod Small Club, Sydney, Australia"
 tour: "Bloody Ripper"

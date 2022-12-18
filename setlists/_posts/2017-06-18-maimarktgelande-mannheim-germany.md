@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-18"
 venue: "Maimarktgelände, Mannheim, Germany"
 tour: "Flying Microtonal Banana"

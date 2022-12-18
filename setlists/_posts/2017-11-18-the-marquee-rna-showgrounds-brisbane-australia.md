@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-11-18"
 venue: "The Marquee, RNA Showgrounds, Brisbane, Australia"
 tour: "Murder of the Universe"

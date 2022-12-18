@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-14-palace-theatre-st-paul-mn"
-date = "2022-10-14"
-title = "2022 October 14 @ Palace Theatre"
-
-[extra]
-venue = "Palace Theatre, St. Paul, MN, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-14"
+venue: "Palace Theatre, St. Paul, MN, USA"
+tour: "World Tour '22"
+---
 
 
  1. Gaia

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-02"
 venue: "The Warfield, San Francisco, CA, USA"
 tour: "2018 North American Tour"

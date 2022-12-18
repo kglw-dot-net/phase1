@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-07"
 venue: "HI-FI Indy, Indianapolis, IN, USA"
 ---

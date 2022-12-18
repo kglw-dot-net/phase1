@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-05-30"
 venue: "The Factory Theatre, Sydney, Australia"
 ---

@@ -1,5 +1,5 @@
 ---
-slug: "2014-03-26-the-old-bar-melbourne-australia"
+layout: setlist
 date: "2014-03-26"
 venue: "The Old Bar, Melbourne, Australia"
 tour: "Oddments"

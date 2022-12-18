@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-22"
 venue: "Manufaktur, Schorndorf, Germany"
 tour: "2018 European Summer Tour"

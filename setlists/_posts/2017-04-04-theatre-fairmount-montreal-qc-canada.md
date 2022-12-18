@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-04"
 venue: "Théâtre Fairmount, Montreal, QC, Canada"
 tour: "Flying Microtonal Banana"

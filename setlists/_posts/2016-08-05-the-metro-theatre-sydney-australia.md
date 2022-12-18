@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-08-05"
 venue: "The Metro Theatre, Sydney, Australia"
 tour: "Nonagon Infinity"

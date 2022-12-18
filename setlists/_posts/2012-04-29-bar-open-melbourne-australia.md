@@ -1,5 +1,5 @@
 ---
-slug: "2012-04-29-bar-open-melbourne-australia"
+layout: setlist
 date: "2012-04-29"
 venue: "Bar Open, Melbourne, Australia"
 tour: "Bloody Ripper"

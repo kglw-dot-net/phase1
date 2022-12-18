@@ -1,12 +1,9 @@
-+++
-slug = "2020-02-09-esplanade-reserve-fremantle-australia"
-date = "2020-02-09"
-title = "2020 February 9 @ Esplanade Reserve"
-
-[extra]
-venue = "Esplanade Reserve, Fremantle, Australia"
-tour = "World Tour '20"
-+++
+---
+layout: setlist
+date: "2020-02-09"
+venue: "Esplanade Reserve, Fremantle, Australia"
+tour: "World Tour '20"
+---
 
 
  1. Venusian 2
@@ -18,13 +15,10 @@ tour = "World Tour '20"
  4. Mr. Beat
 
  5. Evil Death Roll
-    (Tour debut)
 
  6. The Bird Song
-    (Tour debut)
 
  7. Work This Time
-    (Tour debut)
 
  8. Planet B
 
@@ -37,6 +31,5 @@ tour = "World Tour '20"
 12. Cellophane
 
 13. I'm in Your Mind Fuzz
-    (Tour debut)
 
 

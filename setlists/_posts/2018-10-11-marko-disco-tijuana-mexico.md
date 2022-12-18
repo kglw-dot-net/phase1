@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-10-11"
 venue: "Marko Disco, Tijuana, Mexico"
 tour: "Mexico Tour 2018"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-06-14"
 venue: "Warsaw, Brooklyn, NY, USA"
 ---

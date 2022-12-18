@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-09-17"
 venue: "The Workers Club, Melbourne, Australia"
 tour: "SINO-AUS"

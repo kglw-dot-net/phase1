@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-05"
 venue: "Malkin Bowl, Vancouver, BC, Canada"
 tour: "2018 North American Tour"

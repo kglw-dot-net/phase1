@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-06"
 venue: "Hana-Bi, Ravenna, Italy"
 tour: "Flying Microtonal Banana"

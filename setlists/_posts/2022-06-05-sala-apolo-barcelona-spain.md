@@ -1,12 +1,9 @@
-+++
-slug = "2022-06-05-sala-apolo-barcelona-spain"
-date = "2022-06-05"
-title = "2022 June 5 @ Sala Apolo"
-
-[extra]
-venue = "Sala Apolo, Barcelona, Spain"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-06-05"
+venue: "Sala Apolo, Barcelona, Spain"
+tour: "World Tour '22"
+---
 
 
  1. I'm in Your Mind
@@ -49,6 +46,5 @@ tour = "World Tour '22"
     left out)
 
 
-Note: 'The Lord of Lightning' was on setlist but not played. Stu's
-Gibson Holy Explorer and Joey's Gibson Flying V were crushed by a lift
-between shows. First non-acoustic show without them since their
+Note: Stu's Gibson Holy Explorer and Joey's Gibson Flying V were crushed by a lift
+before the show. (?)

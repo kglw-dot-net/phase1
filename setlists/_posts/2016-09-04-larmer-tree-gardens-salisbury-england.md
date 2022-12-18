@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-09-04"
 venue: "Larmer Tree Gardens, Salisbury, England"
 tour: "Nonagon Infinity"

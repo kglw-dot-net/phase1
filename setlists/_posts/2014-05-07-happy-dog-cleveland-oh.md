@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-05-07"
 venue: "Happy Dog, Cleveland, OH, USA"
 tour: "USA Tour May 2014"

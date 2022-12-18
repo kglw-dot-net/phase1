@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-24"
 venue: "Worthy Farm, Pilton, England"
 tour: "Murder of the Universe"

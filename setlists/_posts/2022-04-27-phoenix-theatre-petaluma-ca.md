@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-27-phoenix-theatre-petaluma-ca"
-date = "2022-04-27"
-title = "2022 April 27 @ Phoenix Theatre"
-
-[extra]
-venue = "Phoenix Theatre, Petaluma, CA, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-27"
+venue: "Phoenix Theatre, Petaluma, CA, USA"
+tour: "World Tour '22"
+---
 
 
  1. Self-Immolate
@@ -37,11 +34,5 @@ tour = "World Tour '22"
 13. Muddy Water
 
 14. Persistence
-    (live debut)
 
 15. Crumbling Castle
-    (First time since 2020 & with one drummer)
-
-
-Note: "The Lord of Lightning" was on the list between "K.G.L.W." and
-"Muddy Water" but skipped for time contraints.

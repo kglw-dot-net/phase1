@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-07-01"
 venue: "Darupvej, Roskilde, Denmark"
 ---

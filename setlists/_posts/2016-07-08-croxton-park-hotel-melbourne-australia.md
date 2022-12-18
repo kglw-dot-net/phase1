@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-07-08"
 venue: "Croxton Park Hotel, Melbourne, Australia"
 tour: "Nonagon Infinity"

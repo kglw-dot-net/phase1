@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-02-25"
 venue: "O2 ABC, Glasgow, Scotland"
 tour: "2018 UK/EU Tour"

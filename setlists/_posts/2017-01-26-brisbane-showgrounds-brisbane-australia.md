@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-01-26"
 venue: "Brisbane Showgrounds, Brisbane, Australia"
 ---

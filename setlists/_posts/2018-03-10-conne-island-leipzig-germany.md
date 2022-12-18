@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-03-10"
 venue: "Conne Island, Leipzig, Germany"
 tour: "2018 UK/EU Tour"

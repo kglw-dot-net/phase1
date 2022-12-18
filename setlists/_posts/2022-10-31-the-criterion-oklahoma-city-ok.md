@@ -1,84 +1,81 @@
 ---
+layout: setlist
 date: "2022-10-31"
 title: "Halloween at the Criterion, OKC"
 venue: "The Criterion, Oklahoma City, OK, USA"
 tour: "World Tour '22"
-excerpt_separator: <!--excerpt-->
 ---
 
 Note: Each band member came on stage in costume to a snippet of a prerecorded song.
-<!--excerpt-->
+<!--snippet-->
 
- 1. Song played from tape
-    Halloween Theme/Main Title
+## intro
+
+ 1. Halloween Theme/Main Title
     (John Carpenter)
 
- 2. Song played from tape
-    P.I.M.P
-    (50 Cent; Amby/Pimp)
+ 2. Amby/Pimp: P.I.M.P
+    (50 Cent)
 
- 3. Song played from tape
-    Mother
-    (Danzig; Cavs/Glenn Danzig)
+ 3. Cavs/Glenn Danzig: Mother
+    (Danzig)
 
- 4. Song played from tape
-    Youve Got a Friend in Me
-    (Randy Newman; Lucas/Buzz Lightyear)
+ 4. Lucas/Buzz Lightyear: You've Got a Friend in Me
+    (Randy Newman)
 
- 5. Song played from tape
-    C is for Cookie
-    (Sesame Street; Cookie/Cookie)
+ 5. Cookie/Cookie: C is for Cookie
+    (Sesame Street)
 
- 6. Song played from tape
-    Oompa Loompa #1/Augustus
-    (Willy Wonka & the Chocolate Factory; Joey/Oompa Loompa)
+ 6. Joey/Oompa Loompa: Oompa Loompa #1/Augustus
+    (Willy Wonka & the Chocolate Factory)
 
- 7. Song played from tape
-    Hollaback Girl
-    (Gwen Stefani; Stu/Banana)
+ 7. Stu/Banana: Hollaback Girl
+    (Gwen Stefani)
 
- 8. Robot Stop
+# Set 1
+
+ 1. Robot Stop
     (>)
 
- 9. Gamma Knife
+ 2. Gamma Knife
     (> Altered Beast tease >)
 
-10. People-Vultures
+ 3. People-Vultures
     (>)
 
-11. Mr. Beat
+ 4. Mr. Beat
     (Persistence tease, >)
 
-12. Ice V
+ 5. Ice V
 
-13. Alter Me II
+ 6. Alter Me II
     (with Leah Senior) (>)
 
-14. Altered Beast III
+ 7. Altered Beast III
     (with Leah Senior) (>)
 
-15. Alter Me III
+ 8. Alter Me III
     (with Leah Senior) (>)
 
-16. Altered Beast IV
+ 9. Altered Beast IV
     (with Leah Senior)
 
-17. Lava
+10. Lava
 
-18. Let Me Mend the Past
+11. Let Me Mend the Past
 
-19. Doom City
+12. Doom City
 
-20. Minimum Brain Size
+13. Minimum Brain Size
 
-21. Oddlife
+14. Oddlife
 
-22. Magenta Mountain
+15. Magenta Mountain
 
-23. Self-Immolate
+16. Self-Immolate
 
-24. Gaia
+17. Gaia
 
 
-Recordings:
+## Recordings
 * AUD: [colesondilbeck (Shure MV88)](https://archive.org/details/kglw2022-10-31) (audio issues)

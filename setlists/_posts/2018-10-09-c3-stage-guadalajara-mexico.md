@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-10-09"
 venue: "C3 Stage, Guadalajara, Mexico"
 tour: "Mexico Tour 2018"

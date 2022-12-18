@@ -1,5 +1,5 @@
 ---
-slug: "2012-05-25-the-tote-hotel-melbourne-australia"
+layout: setlist
 date: "2012-05-25"
 venue: "The Tote Hotel, Melbourne, Australia"
 tour: "Bloody Ripper"

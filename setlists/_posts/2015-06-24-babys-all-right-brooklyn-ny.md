@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-06-24"
 venue: "Baby's All Right, Brooklyn, NY, USA"
 ---

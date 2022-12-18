@@ -1,12 +1,9 @@
-+++
-slug = "2022-05-26-higher-ground-showcase-lounge-south-burlington-vt"
-date = "2022-05-26"
-title = "2022 May 26 @ Higher Ground Showcase Lounge"
-
-[extra]
-venue = "Higher Ground Showcase Lounge, South Burlington, VT, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-05-26"
+venue: "Higher Ground Showcase Lounge, South Burlington, VT, USA"
+tour: "World Tour '22"
+---
 
 
  1. Self-Immolate
@@ -34,7 +31,6 @@ tour = "World Tour '22"
 11. Crumbling Castle
 
 12. Tetrachromacy
-    (Live debut)
 
 13. Head On/Pill
     (The Dripping Tap, Alter Me, Persistence, Am I In Heaven?, Blame It

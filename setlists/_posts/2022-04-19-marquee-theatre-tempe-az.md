@@ -1,12 +1,9 @@
-+++
-slug = "2022-04-19-marquee-theatre-tempe-az"
-date = "2022-04-19"
-title = "2022 April 19 @ Marquee Theatre"
-
-[extra]
-venue = "Marquee Theatre, Tempe, AZ, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-04-19"
+venue: "Marquee Theatre, Tempe, AZ, USA"
+tour: "World Tour '22"
+---
 
 
  1. The Dripping Tap

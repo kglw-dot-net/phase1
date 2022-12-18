@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-10-01"
 venue: "Barrowland, Glasgow, Scotland"
 tour: "World Tour `19"

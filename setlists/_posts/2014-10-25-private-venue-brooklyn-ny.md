@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-10-25"
 venue: "Private Venue, Brooklyn, NY, USA"
 tour: "I'm In Your Mind Fuzz USA 2014"

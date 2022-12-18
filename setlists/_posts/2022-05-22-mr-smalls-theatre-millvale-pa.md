@@ -1,12 +1,9 @@
-+++
-slug = "2022-05-22-mr-smalls-theatre-millvale-pa"
-date = "2022-05-22"
-title = "2022 May 22 @ Mr. Smalls Theatre"
-
-[extra]
-venue = "Mr. Smalls Theatre, Millvale, PA, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-05-22"
+venue: "Mr. Smalls Theatre, Millvale, PA, USA"
+tour: "World Tour '22"
+---
 
 
  1. Self-Immolate

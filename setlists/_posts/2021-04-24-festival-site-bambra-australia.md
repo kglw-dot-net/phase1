@@ -1,12 +1,9 @@
-+++
-slug = "2021-04-24-festival-site-bambra-australia"
-date = "2021-04-24"
-title = "2021 April 24 @ Festival Site"
-
-[extra]
-venue = "Festival Site, Bambra, Australia"
-tour = "Micro Tour 2021"
-+++
+---
+layout: setlist
+date: "2021-04-24"
+venue: "Festival Site, Bambra, Australia"
+tour: "Micro Tour 2021"
+---
 
 
  1. Rattlesnake

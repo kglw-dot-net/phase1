@@ -1,12 +1,9 @@
-+++
-slug = "2022-08-05-divadlo-archa-prague-czechia"
-date = "2022-08-05"
-title = "2022 August 5 @ Divadlo Archa"
-
-[extra]
-venue = "Divadlo Archa, Prague, Czechia"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-08-05"
+venue: "Divadlo Archa, Prague, Czechia"
+tour: "World Tour '22"
+---
 
 
  1. The Dripping Tap
@@ -43,7 +40,3 @@ tour = "World Tour '22"
 14. Billabong Valley
 
 15. Float Along - Fill Your Lungs
-
-
-Note: Last show before Stu's Crohn's disease obligated a cancellation
-of following EU and UK dates.

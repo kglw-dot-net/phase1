@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-10-01"
 venue: "Trees, Dallas, TX, USA"
 tour: "Murder of the Universe"

@@ -1,12 +1,9 @@
-+++
-slug = "2022-06-14-tempodrom-berlin-germany"
-date = "2022-06-14"
-title = "2022 June 14 @ Tempodrom"
-
-[extra]
-venue = "Tempodrom, Berlin, Germany"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-06-14"
+venue: "Tempodrom, Berlin, Germany"
+tour: "World Tour '22"
+---
 
 
  1. Self-Immolate
@@ -20,7 +17,6 @@ tour = "World Tour '22"
  5. Magenta Mountain
 
  6. Ambergris
-    (Live debut)
 
  7. Robot Stop
     (with Hot Water jam)

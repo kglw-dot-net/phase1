@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-08-20"
 venue: "Domein Kiewit, Hasselt, Belgium"
 tour: "Nonagon Infinity"

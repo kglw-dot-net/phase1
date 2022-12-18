@@ -1,12 +1,9 @@
-+++
-slug = "2021-12-22-the-princess-theatre-brisbane-australia"
-date = "2021-12-22"
-title = "2021 December 22 @ The Princess Theatre"
-
-[extra]
-venue = "The Princess Theatre, Brisbane, Australia"
-tour = "2021 Princess Theatre Residency"
-+++
+---
+layout: setlist
+date: "2021-12-22"
+venue: "The Princess Theatre, Brisbane, Australia"
+tour: "2021 Princess Theatre Residency"
+---
 
 
  1. The Lord of Lightning
@@ -30,7 +27,6 @@ tour = "2021 Princess Theatre Residency"
 10. Evil Death Roll
 
 11. Black Tooth
-    (First time since 2015)
 
 12. Wah Wah
 

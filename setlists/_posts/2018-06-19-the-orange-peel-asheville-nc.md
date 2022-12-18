@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-19"
 venue: "The Orange Peel, Asheville, NC, USA"
 tour: "2018 North American Tour"

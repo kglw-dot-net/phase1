@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-07-12"
 venue: "Baby's All Right, Brooklyn, NY, USA"
 tour: "Oddments"

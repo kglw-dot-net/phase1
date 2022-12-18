@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-12-20"
 venue: "The Hi-Fi, Melbourne, Australia"
 tour: "I'm In Your Mind Fuzz"

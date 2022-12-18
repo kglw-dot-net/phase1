@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-21"
 venue: "Republic NOLA, New Orleans, LA, USA"
 tour: "2018 North American Tour"

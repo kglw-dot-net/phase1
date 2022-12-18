@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-25"
 venue: "REBEL, Toronto, ON, Canada"
 tour: "World Tour `19"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-13"
 venue: "Akvárium Klub, Budapest, Hungary"
 tour: "2018 European Summer Tour"

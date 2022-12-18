@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-08-31"
 venue: "Mississippi Studios, Portland, OR, USA"
 ---

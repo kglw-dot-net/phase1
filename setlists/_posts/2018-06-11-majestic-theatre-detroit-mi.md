@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-11"
 venue: "Majestic Theatre, Detroit, MI, USA"
 tour: "2018 North American Tour"

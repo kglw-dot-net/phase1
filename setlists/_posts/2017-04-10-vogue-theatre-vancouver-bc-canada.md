@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-04-10"
 venue: "Vogue Theatre, Vancouver, BC, Canada"
 tour: "Flying Microtonal Banana"

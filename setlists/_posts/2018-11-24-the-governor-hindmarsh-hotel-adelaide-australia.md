@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-11-24"
 venue: "The Governor Hindmarsh Hotel, Adelaide, Australia"
 tour: "Australian Tour 2018"

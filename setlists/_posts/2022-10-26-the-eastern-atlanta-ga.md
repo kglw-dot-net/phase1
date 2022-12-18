@@ -1,16 +1,14 @@
-+++
-slug = "2022-10-26-the-eastern-atlanta-ga"
-date = "2022-10-26"
-title = "2022 October 26 @ The Eastern"
+---
+layout: setlist
+date: "2022-10-26"
+venue: "The Eastern, Atlanta, GA, USA"
+tour: "World Tour '22"
+---
 
-[extra]
-venue = "The Eastern, Atlanta, GA, USA"
-tour = "World Tour '22"
-+++
-
+Silly string for Stu's birthday!
 
  1. Perihelion
-    (preceded by Stu's birthday announcement) (>)
+    (>)
 
  2. Hell
 
@@ -55,9 +53,7 @@ tour = "World Tour '22"
 
 18. Lava
 
-Note: Show prefaced by announcement regarding mosh pit etiquette. Stu
-was silly stringed at the end of the show, the crowd then sang happy
-birthday to Stu.
+Stu was silly stringed at the end of the show, and then the crowd sang Happy Birthday to him.
 
 Recordings
 * AUD: [vwmule (Gefell M21)](https://archive.org/details/kglw2022-10-26.vwmule)

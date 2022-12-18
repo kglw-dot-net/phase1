@@ -1,17 +1,14 @@
-+++
-slug = "2022-10-16-masonic-temple-theatre-detroit-mi"
-date = "2022-10-16"
-title = "2022 October 16 @ Masonic Temple Theatre"
+---
+layout: setlist
+date: "2022-10-16"
+venue: "Masonic Temple Theatre, Detroit, MI, USA"
+tour: "World Tour '22"
+---
 
-[extra]
-venue = "Masonic Temple Theatre, Detroit, MI, USA"
-tour = "World Tour '22"
-+++
 
+(Technical difficulties at intro)
 
  1. Gaia
-    (Preceded by Drum Solo due to technical difficulties with guitar
-    amp)
 
  2. Self-Immolate
 

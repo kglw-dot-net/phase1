@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-07-17"
 venue: "Henham Park, Southwold, England"
 ---

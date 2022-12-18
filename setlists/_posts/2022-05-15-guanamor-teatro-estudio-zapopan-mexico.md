@@ -1,12 +1,9 @@
-+++
-slug = "2022-05-15-guanamor-teatro-estudio-zapopan-mexico"
-date = "2022-05-15"
-title = "2022 May 15 @ Guanamor Teatro Estudio"
-
-[extra]
-venue = "Guanamor Teatro Estudio, Zapopan, Mexico"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-05-15"
+venue: "Guanamor Teatro Estudio, Zapopan, Mexico"
+tour: "World Tour '22"
+---
 
 
  1. Robot Stop
@@ -30,7 +27,7 @@ tour = "World Tour '22"
  8. Trapdoor
 
  9. Sadie Sorceress
-    (Live debut, guitar solo)
+    (guitar solo)
 
 10. Static Electricity
     (>)

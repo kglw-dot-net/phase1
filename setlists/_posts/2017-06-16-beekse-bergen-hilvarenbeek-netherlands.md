@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-16"
 venue: "Beekse Bergen, Hilvarenbeek, Netherlands"
 tour: "Flying Microtonal Banana"

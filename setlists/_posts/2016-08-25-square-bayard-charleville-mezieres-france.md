@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-08-25"
 venue: "Square Bayard, Charleville-Mézières, France"
 tour: "Nonagon Infinity"

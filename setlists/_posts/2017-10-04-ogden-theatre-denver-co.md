@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-10-04"
 venue: "Ogden Theatre, Denver, CO, USA"
 tour: "Murder of the Universe"

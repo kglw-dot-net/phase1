@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2019-08-27"
 venue: "College Street Music Hall, New Haven, CT, USA"
 tour: "World Tour `19"

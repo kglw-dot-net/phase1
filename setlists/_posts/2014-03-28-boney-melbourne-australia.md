@@ -1,5 +1,5 @@
 ---
-slug: "2014-03-28-boney-melbourne-australia"
+layout: setlist
 date: "2014-03-28"
 venue: "Boney, Melbourne, Australia"
 tour: "Oddments"

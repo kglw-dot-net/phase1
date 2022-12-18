@@ -1,12 +1,9 @@
-+++
-slug = "2022-06-12-beekse-bergen-hilvarenbeek-netherlands"
-date = "2022-06-12"
-title = "2022 June 12 @ Beekse Bergen"
-
-[extra]
-venue = "Beekse Bergen, Hilvarenbeek, Netherlands"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-06-12"
+venue: "Beekse Bergen, Hilvarenbeek, Netherlands"
+tour: "World Tour '22"
+---
 
 
  1. Mars for the Rich

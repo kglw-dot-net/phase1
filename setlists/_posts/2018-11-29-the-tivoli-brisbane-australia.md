@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-11-29"
 venue: "The Tivoli, Brisbane, Australia"
 tour: "Australian Tour 2018"

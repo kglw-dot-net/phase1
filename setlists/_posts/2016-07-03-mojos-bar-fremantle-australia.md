@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-07-03"
 venue: "Mojo's Bar, Fremantle, Australia"
 tour: "Nonagon Infinity"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-11"
 venue: "Paloma, Nîmes, France"
 tour: "Flying Microtonal Banana"

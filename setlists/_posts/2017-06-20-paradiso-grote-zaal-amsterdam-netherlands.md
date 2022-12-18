@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-06-20"
 venue: "Paradiso Grote Zaal, Amsterdam, Netherlands"
 tour: "Flying Microtonal Banana"

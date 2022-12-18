@@ -1,19 +1,15 @@
-+++
-slug = "2022-05-24-water-street-music-hall-rochester-ny"
-date = "2022-05-24"
-title = "2022 May 24 @ Water Street Music Hall"
-
-[extra]
-venue = "Water Street Music Hall, Rochester, NY, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-05-24"
+venue: "Water Street Music Hall, Rochester, NY, USA"
+tour: "World Tour '22"
+---
 
 
  1. The Dripping Tap
     (w/ Robot Stop tease)
 
  2. Venusian 1
-    (Tour debut, first since Jan 2020)
 
  3. Venusian 2
 
@@ -43,7 +39,7 @@ tour = "World Tour '22"
 12. The Grim Reaper
 
 13. Down the Sink
-    (Tour debut, first since 2019, extended jam)
+    (extended jam)
 
 14. Straws in the Wind
     (Including Ambrose's increasingly unhinged attempts at a singalong)
@@ -53,4 +49,4 @@ tour = "World Tour '22"
     Drifter, and Honey teases)
 
 
-Note: Down the Sink was soundchecked before the show.
+Soundcheck included Down the Sink

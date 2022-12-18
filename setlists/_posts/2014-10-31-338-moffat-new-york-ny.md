@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-10-31"
 venue: "338 Moffat, New York, NY, USA"
 tour: "I'm In Your Mind Fuzz USA 2014"

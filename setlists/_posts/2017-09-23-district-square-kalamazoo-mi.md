@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-09-23"
 venue: "District Square, Kalamazoo, MI, USA"
 tour: "Murder of the Universe"

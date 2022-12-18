@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-01-21"
 venue: "The Meadow, Singapore, Singapore"
 ---

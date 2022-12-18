@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-08-23"
 venue: "LA Sports Arena & Exposition Park, Los Angeles, CA, USA"
 ---

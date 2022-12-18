@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-06-26"
 venue: "Worthy Farm, Pilton, England"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-12"
 venue: "Danforth Music Hall, Toronto, ON, Canada"
 tour: "2018 North American Tour"

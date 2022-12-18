@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-10"
 venue: "Velvet Underground, Toronto, ON, Canada"
 ---

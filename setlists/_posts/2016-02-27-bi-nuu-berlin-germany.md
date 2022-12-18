@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-02-27"
 venue: "Bi Nuu, Berlin, Germany"
 ---

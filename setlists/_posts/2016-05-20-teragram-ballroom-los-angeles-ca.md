@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-20"
 venue: "Teragram Ballroom, Los Angeles, CA, USA"
 ---

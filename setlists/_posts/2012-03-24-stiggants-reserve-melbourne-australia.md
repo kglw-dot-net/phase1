@@ -1,5 +1,5 @@
 ---
-slug: "2012-03-24-stiggants-reserve-melbourne-australia"
+layout: setlist
 date: "2012-03-24"
 venue: "Stiggants Reserve, Melbourne, Australia"
 ---

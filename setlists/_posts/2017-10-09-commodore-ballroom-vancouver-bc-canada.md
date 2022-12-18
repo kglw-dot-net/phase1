@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-10-09"
 venue: "Commodore Ballroom, Vancouver, BC, Canada"
 tour: "Murder of the Universe"

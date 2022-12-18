@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-04"
 venue: "Mercy Lounge, Nashville, TN, USA"
 ---

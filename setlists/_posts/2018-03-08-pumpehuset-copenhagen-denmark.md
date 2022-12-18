@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-03-08"
 venue: "Pumpehuset, Copenhagen, Denmark"
 tour: "2018 UK/EU Tour"

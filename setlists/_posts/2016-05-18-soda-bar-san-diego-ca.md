@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-18"
 venue: "Soda Bar, San Diego, CA, USA"
 ---

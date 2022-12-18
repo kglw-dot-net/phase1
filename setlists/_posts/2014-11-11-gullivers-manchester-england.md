@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2014-11-11"
 venue: "Gullivers, Manchester, England"
 tour: "I'm In Your Mind Fuzz Europe 2014"

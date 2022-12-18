@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-06-18"
 venue: "Union Transfer, Philadelphia, PA, USA"
 tour: "2018 North American Tour"

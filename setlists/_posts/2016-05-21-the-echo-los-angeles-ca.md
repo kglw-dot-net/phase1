@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-05-21"
 venue: "The Echo, Los Angeles, CA, USA"
 ---

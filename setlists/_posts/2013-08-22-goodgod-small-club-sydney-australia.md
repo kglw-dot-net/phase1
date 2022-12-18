@@ -1,5 +1,5 @@
 ---
-slug: "2013-08-22-goodgod-small-club-sydney-australia"
+layout: setlist
 date: "2013-08-22"
 venue: "Goodgod Small Club, Sydney, Australia"
 tour: "Float Along - Fill Your Lungs Preview Shows"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2018-08-05"
 venue: "Maçka Küçükçiftlik Park, Istanbul, Turkey"
 tour: "2018 European Summer Tour"

@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2016-09-09"
 venue: "O2 Ritz, Manchester, England"
 tour: "Nonagon Infinity"

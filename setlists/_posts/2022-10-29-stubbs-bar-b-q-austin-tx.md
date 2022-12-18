@@ -1,12 +1,9 @@
-+++
-slug = "2022-10-29-stubbs-bar-b-q-austin-tx"
-date = "2022-10-29"
-title = "2022 October 29 @ Stubb's Bar-B-Q"
-
-[extra]
-venue = "Stubb's Bar-B-Q, Austin, TX, USA"
-tour = "World Tour '22"
-+++
+---
+layout: setlist
+date: "2022-10-29"
+venue: "Stubb's Bar-B-Q, Austin, TX, USA"
+tour: "World Tour '22"
+---
 
 
  1. Rattlesnake

@@ -1,5 +1,5 @@
 ---
-slug: "2014-03-22-rosemount-hotel-perth-australia"
+layout: setlist
 date: "2014-03-22"
 venue: "Rosemount Hotel, Perth, Australia"
 tour: "Oddments"

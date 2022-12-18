@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2015-12-09"
 venue: "The Metro Theatre, Sydney, Australia"
 tour: "Goat Australian Tour 2015"

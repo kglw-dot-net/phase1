@@ -1,4 +1,5 @@
 ---
+layout: setlist
 date: "2017-09-27"
 venue: "Variety Playhouse, Atlanta, GA, USA"
 tour: "Murder of the Universe"
