@@ -1,0 +1,54 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  color: #ccc;
+  background: #111;
+}
+
+a {
+  color: #49c;
+  &:hover,
+  &:active,
+  &:visited {
+    color: #87d;
+  }
+}
+
+pre,
+code {
+  background: #333;
+}
+
+.site-header {
+  border: 0;
+  background: #f39;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+
+.site-title {
+  font-size: 1.1em;
+  color: #aaa;
+}
+
+.post-meta {
+  color: #aaa;
+}
+
+.corrections {
+  width: 75%;
+  margin: 0 auto;
+  padding: 5px 15px;
+  border-radius: 1em;
+  background: #273;
+  text-align: center;
+  font-size: 0.9em;
+
+  a {
+    color: #c63;
+    text-decoration: underline;
+  }
+}

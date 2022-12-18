@@ -16,6 +16,8 @@ run the server with `bundle exec jekyll serve`
 
 control how links are built using the `baseurl` command-line flag: https://jekyllrb.com/docs/github-pages/#running-and-testing-locally
 
+Note that the theme is [v2.5 of Minima](https://github.com/jekyll/minima/tree/2.5-stable) (not the latest 3.0 branch)
+
 
 
 [Jekyll]: https://jekyllrb.com

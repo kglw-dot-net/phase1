@@ -24,24 +24,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   brought to you by fans of King Gizzard
 baseurl: "/kglw-site" # the subpath of your site, e.g. /blog
 url: "https://alxndr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: kglw_net
+instagram_username: kglw_net
 github_username: kglw-dot-net
-
-# header_pages:
-#   - gizzverse-guide.md
-#   - releases/index.md
-# footer_pages:
-#   - about.markdown
-#   - legal.md
+twitter_username: kglw_net
 
 show_excerpts: true
 excerpt_separator: <!--snippet-->
 
 # Build settings
-theme: minima
+theme: minima # v2
 minima:
-  # skin: "dark" # doesn't work??
-  date_format: "%-d %b %Y" # ...but this does
+  date_format: "%-d %b %Y"
 
 collections:
   category: # ...is this needed??
