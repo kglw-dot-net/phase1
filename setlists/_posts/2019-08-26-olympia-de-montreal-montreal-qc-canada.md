@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-26-olympia-de-montreal-montreal-qc-canada"
-date = "2019-08-26"
-title = "2019 August 26 @ Olympia de Montréal"
-
-[extra]
-venue = "Olympia de Montréal, Montreal, QC, Canada"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-26"
+venue: "Olympia de Montréal, Montreal, QC, Canada"
+tour: "World Tour `19"
+---
 
 
  1. Planet B

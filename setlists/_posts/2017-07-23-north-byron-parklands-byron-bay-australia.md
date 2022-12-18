@@ -1,12 +1,8 @@
-+++
-slug = "2017-07-23-north-byron-parklands-byron-bay-australia"
-date = "2017-07-23"
-title = "2017 July 23 @ North Byron Parklands"
-
-[extra]
-venue = "North Byron Parklands, Byron Bay, Australia"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-07-23"
+venue: "North Byron Parklands, Byron Bay, Australia"
+tour: "Murder of the Universe"
+---
 
 
  1. Rattlesnake

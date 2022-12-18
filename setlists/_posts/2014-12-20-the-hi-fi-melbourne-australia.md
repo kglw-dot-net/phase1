@@ -1,12 +1,8 @@
-+++
-slug = "2014-12-20-the-hi-fi-melbourne-australia"
-date = "2014-12-20"
-title = "2014 December 20 @ The Hi-Fi"
-
-[extra]
-venue = "The Hi-Fi, Melbourne, Australia"
-tour = "I'm In Your Mind Fuzz"
-+++
+---
+date: "2014-12-20"
+venue: "The Hi-Fi, Melbourne, Australia"
+tour: "I'm In Your Mind Fuzz"
+---
 
 
  1. Her and I (Slow Jam 2)

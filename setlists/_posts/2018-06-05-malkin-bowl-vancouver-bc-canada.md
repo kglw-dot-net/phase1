@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-05-malkin-bowl-vancouver-bc-canada"
-date = "2018-06-05"
-title = "2018 June 5 @ Malkin Bowl"
-
-[extra]
-venue = "Malkin Bowl, Vancouver, BC, Canada"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-05"
+venue: "Malkin Bowl, Vancouver, BC, Canada"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black

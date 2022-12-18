@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-01-trees-dallas-tx"
-date = "2017-10-01"
-title = "2017 October 1 @ Trees"
-
-[extra]
-venue = "Trees, Dallas, TX, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-01"
+venue: "Trees, Dallas, TX, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. Lonely Steel Sheet Flyer

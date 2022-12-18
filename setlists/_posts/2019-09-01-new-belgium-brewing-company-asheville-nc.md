@@ -1,50 +1,43 @@
-+++
-slug = "2019-09-01-new-belgium-brewing-company-asheville-nc"
-date = "2019-09-01"
-title = "2019 September 1 @ New Belgium Brewing Company"
-
-[extra]
-venue = "New Belgium Brewing Company, Asheville, NC, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-09-01"
+venue: "New Belgium Brewing Company, Asheville, NC, USA"
+tour: "World Tour `19"
+---
 
 
- 1. Song played from tape
-    Evil Star
+ 1. Self-Immolate
 
- 2. Self-Immolate
+ 2. Venusian 1
 
- 3. Venusian 1
+ 3. Alter Me III
 
- 4. Alter Me III
+ 4. Altered Beast IV
 
- 5. Altered Beast IV
+ 5. People-Vultures
 
- 6. People-Vultures
+ 6. This Thing
 
- 7. This Thing
+ 7. Beginner's Luck
 
- 8. Beginner's Luck
+ 8. Rattlesnake
 
- 9. Rattlesnake
+ 9. Cyboogie
 
-10. Cyboogie
+10. Loyalty
 
-11. Loyalty
+11. Horology
 
-12. Horology
+12. Boogieman Sam
 
-13. Boogieman Sam
+13. Plastic Boogie
 
-14. Plastic Boogie
+14. Mars for the Rich
 
-15. Mars for the Rich
+15. Hell
 
-16. Hell
+16. The Lord of Lightning
 
-17. The Lord of Lightning
-
-18. The Bitter Boogie
+17. The Bitter Boogie
 
 
 Note: This concert was recorded and released as the "Live in Asheville

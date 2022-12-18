@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-01-barrowland-glasgow-scotland"
-date = "2019-10-01"
-title = "2019 October 1 @ Barrowland"
-
-[extra]
-venue = "Barrowland, Glasgow, Scotland"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-01"
+venue: "Barrowland, Glasgow, Scotland"
+tour: "World Tour `19"
+---
 
 
  1. Planet B
@@ -16,7 +12,6 @@ tour = "World Tour `19"
  3. People-Vultures
 
  4. Mr. Beat
-    (tour debut) (first time since January 2017)
 
  5. Evil Death Roll
 

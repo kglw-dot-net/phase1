@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-25-domaine-national-de-saint-cloud-saint-cloud-france"
-date = "2018-08-25"
-title = "2018 August 25 @ Domaine national de Saint-Cloud"
-
-[extra]
-venue = "Domaine national de Saint-Cloud, Saint-Cloud, France"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-25"
+venue: "Domaine national de Saint-Cloud, Saint-Cloud, France"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

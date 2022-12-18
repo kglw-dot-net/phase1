@@ -1,12 +1,8 @@
-+++
-slug = "2018-07-13-kobetamendi-bilbao-spain"
-date = "2018-07-13"
-title = "2018 July 13 @ Kobetamendi"
-
-[extra]
-venue = "Kobetamendi, Bilbao, Spain"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-07-13"
+venue: "Kobetamendi, Bilbao, Spain"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

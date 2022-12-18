@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-25-worthy-farm-pilton-england"
-date = "2017-06-25"
-title = "2017 June 25 @ Worthy Farm"
-
-[extra]
-venue = "Worthy Farm, Pilton, England"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-06-25"
+venue: "Worthy Farm, Pilton, England"
+tour: "Murder of the Universe"
+---
 
 
  1. Rattlesnake

@@ -1,12 +1,8 @@
-+++
-slug = "2016-08-23-so36-berlin-germany"
-date = "2016-08-23"
-title = "2016 August 23 @ SO36"
-
-[extra]
-venue = "SO36, Berlin, Germany"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-08-23"
+venue: "SO36, Berlin, Germany"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

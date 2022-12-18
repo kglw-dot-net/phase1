@@ -1,12 +1,8 @@
-+++
-slug = "2017-03-30-trocadero-theatre-philadelphia-pa"
-date = "2017-03-30"
-title = "2017 March 30 @ Trocadero Theatre"
-
-[extra]
-venue = "Trocadero Theatre, Philadelphia, PA, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-03-30"
+venue: "Trocadero Theatre, Philadelphia, PA, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Open Water

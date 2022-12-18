@@ -1,11 +1,7 @@
-+++
-slug = "2016-12-09-meredith-supernatural-amphitheatre-meredith-australia"
-date = "2016-12-09"
-title = "2016 December 9 @ Meredith Supernatural Amphitheatre"
-
-[extra]
-venue = "Meredith Supernatural Amphitheatre, Meredith, Australia"
-+++
+---
+date: "2016-12-09"
+venue: "Meredith Supernatural Amphitheatre, Meredith, Australia"
+---
 
  1. Gamma Knife
 

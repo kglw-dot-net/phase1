@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-03-o2-victoria-warehouse-manchester-england"
-date = "2019-10-03"
-title = "2019 October 3 @ O2 Victoria Warehouse"
-
-[extra]
-venue = "O2 Victoria Warehouse, Manchester, England"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-03"
+venue: "O2 Victoria Warehouse, Manchester, England"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate
@@ -24,7 +20,7 @@ tour = "World Tour `19"
  7. Let Me Mend the Past
 
  8. Cut Throat Boogie
-    (with The Cruel Millennial outro) (tour debut)
+    (with The Cruel Millennial outro)
 
  9. Alter Me III
 
@@ -45,7 +41,7 @@ tour = "World Tour `19"
 17. Wah Wah
 
 18. Road Train
-    (featured in the 'Chunky Shrapnel' concert film)
+    (this performance is featured in the 'Chunky Shrapnel' concert film)
 
 19. The River
 

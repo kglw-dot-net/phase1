@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-11-majestic-theatre-detroit-mi"
-date = "2018-06-11"
-title = "2018 June 11 @ Majestic Theatre"
-
-[extra]
-venue = "Majestic Theatre, Detroit, MI, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-11"
+venue: "Majestic Theatre, Detroit, MI, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Rattlesnake

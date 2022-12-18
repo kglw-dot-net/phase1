@@ -1,11 +1,7 @@
-+++
-slug = "2018-05-27-prince-bandroom-melbourne-australia"
-date = "2018-05-27"
-title = "2018 May 27 @ Prince Bandroom"
-
-[extra]
-venue = "Prince Bandroom, Melbourne, Australia"
-+++
+---
+date: "2018-05-27"
+venue: "Prince Bandroom, Melbourne, Australia"
+---
 
  1. Digital Black
 

@@ -1,12 +1,8 @@
-+++
-slug = "2018-03-02-le-transbordeur-villeurbanne-france"
-date = "2018-03-02"
-title = "2018 March 2 @ Le Transbordeur"
-
-[extra]
-venue = "Le Transbordeur, Villeurbanne, France"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-03-02"
+venue: "Le Transbordeur, Villeurbanne, France"
+tour: "2018 UK/EU Tour"
+---
 
 
  1. Rattlesnake
@@ -38,6 +34,3 @@ tour = "2018 UK/EU Tour"
 14. Gamma Knife
 
 15. The River
-
-
-Note: Probably incomplete

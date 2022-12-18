@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-14-lolympia-bruno-coquatrix-paris-france"
-date = "2019-10-14"
-title = "2019 October 14 @ L'Olympia Bruno Coquatrix"
-
-[extra]
-venue = "L'Olympia Bruno Coquatrix, Paris, France"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-14"
+venue: "L'Olympia Bruno Coquatrix, Paris, France"
+tour: "World Tour `19"
+---
 
 
  1. Song played from tape

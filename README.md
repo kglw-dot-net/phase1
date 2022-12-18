@@ -14,6 +14,7 @@ Set up asdf [+ ruby](https://github.com/asdf-vm/asdf-ruby); `asdf install`
 
 run the server with `bundle exec jekyll serve`
 
+control how links are built using the `baseurl` command-line flag: https://jekyllrb.com/docs/github-pages/#running-and-testing-locally
 
 
 

@@ -1,12 +1,8 @@
-+++
-slug = "2017-04-02-royale-boston-ma"
-date = "2017-04-02"
-title = "2017 April 2 @ Royale"
-
-[extra]
-venue = "Royale, Boston, MA, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-02"
+venue: "Royale, Boston, MA, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Open Water

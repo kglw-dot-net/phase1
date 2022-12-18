@@ -1,12 +1,8 @@
-+++
-slug = "2015-12-09-the-metro-theatre-sydney-australia"
-date = "2015-12-09"
-title = "2015 December 9 @ The Metro Theatre"
-
-[extra]
-venue = "The Metro Theatre, Sydney, Australia"
-tour = "Goat Australian Tour 2015"
-+++
+---
+date: "2015-12-09"
+venue: "The Metro Theatre, Sydney, Australia"
+tour: "Goat Australian Tour 2015"
+---
 
 
  1. Robot Stop

@@ -1,12 +1,8 @@
-+++
-slug = "2017-04-14-empire-polo-club-indio-ca"
-date = "2017-04-14"
-title = "2017 April 14 @ Empire Polo Club"
-
-[extra]
-venue = "Empire Polo Club, Indio, CA, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-14"
+venue: "Empire Polo Club, Indio, CA, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Alter Me I

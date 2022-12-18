@@ -1,11 +1,7 @@
-+++
-slug = "2015-05-30-the-factory-theatre-sydney-australia"
-date = "2015-05-30"
-title = "2015 May 30 @ The Factory Theatre"
-
-[extra]
-venue = "The Factory Theatre, Sydney, Australia"
-+++
+---
+date: "2015-05-30"
+venue: "The Factory Theatre, Sydney, Australia"
+---
 
  1. I'm in Your Mind
 
@@ -17,8 +13,8 @@ venue = "The Factory Theatre, Sydney, Australia"
 
  5. Hot Wax
 
- 6. (Unknown)
-    (New Song (Next Album))
+ 6. (unknown new song)
+
  7. Hot Water
 
  8. Evil Death Roll

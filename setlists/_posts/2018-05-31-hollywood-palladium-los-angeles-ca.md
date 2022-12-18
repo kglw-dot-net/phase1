@@ -1,55 +1,47 @@
-+++
-slug = "2018-05-31-hollywood-palladium-los-angeles-ca"
-date = "2018-05-31"
-title = "2018 May 31 @ Hollywood Palladium"
-
-[extra]
-venue = "Hollywood Palladium, Los Angeles, CA, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-05-31"
+venue: "Hollywood Palladium, Los Angeles, CA, USA"
+tour: "2018 North American Tour"
+---
 
 
- 1. Song played from tape
-    Riff Raff
-    (AC/DC song)
+ 1. Digital Black
 
- 2. Digital Black
+ 2. Vomit Coffin
 
- 3. Vomit Coffin
+ 3. The Lord of Lightning
 
- 4. The Lord of Lightning
+ 4. Cellophane
 
- 5. Cellophane
+ 5. Altered Beast I
 
- 6. Altered Beast I
+ 6. Rattlesnake
 
- 7. Rattlesnake
+ 7. Doom City
 
- 8. Doom City
+ 8. Sleep Drifter
 
- 9. Sleep Drifter
+ 9. Nuclear Fusion
 
-10. Nuclear Fusion
+10. All Is Known
 
-11. All Is Known
+11. Billabong Valley
 
-12. Billabong Valley
+12. Crumbling Castle
 
-13. Crumbling Castle
+13. The Fourth Colour
 
-14. The Fourth Colour
+14. Deserted Dunes Welcome Weary Feet
 
-15. Deserted Dunes Welcome Weary Feet
+15. The Castle in the Air
 
-16. The Castle in the Air
+16. Muddy Water
 
-17. Muddy Water
+17. The Wheel
 
-18. The Wheel
-
-19. Robot Stop
+18. Robot Stop
     (Trapdoor intro)
 
-20. Gamma Knife
+19. Gamma Knife
 
 

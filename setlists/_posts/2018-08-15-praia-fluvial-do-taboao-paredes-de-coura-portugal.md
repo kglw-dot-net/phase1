@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-15-praia-fluvial-do-taboao-paredes-de-coura-portugal"
-date = "2018-08-15"
-title = "2018 August 15 @ Praia Fluvial do Taboão"
-
-[extra]
-venue = "Praia Fluvial do Taboão, Paredes de Coura, Portugal"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-15"
+venue: "Praia Fluvial do Taboão, Paredes de Coura, Portugal"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black
@@ -37,5 +33,4 @@ tour = "2018 European Summer Tour"
 13. People-Vultures
 
 
-Note: They performed the soundcheck, right before the start ot the
-show, where «Big Fig Wasp» was played
+(Soundcheck included Big Fig Wasp)

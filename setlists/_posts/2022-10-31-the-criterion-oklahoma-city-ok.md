@@ -1,13 +1,13 @@
-+++
-slug = "2022-10-31-the-criterion-oklahoma-city-ok"
-date = "2022-10-31"
-title = "2022 October 31 @ The Criterion"
+---
+date: "2022-10-31"
+title: "Halloween at the Criterion, OKC"
+venue: "The Criterion, Oklahoma City, OK, USA"
+tour: "World Tour '22"
+excerpt_separator: <!--excerpt-->
+---
 
-[extra]
-venue = "The Criterion, Oklahoma City, OK, USA"
-tour = "World Tour '22"
-+++
-
+Note: Each band member came on stage in costume to a snippet of a prerecorded song.
+<!--excerpt-->
 
  1. Song played from tape
     Halloween Theme/Main Title
@@ -79,9 +79,6 @@ tour = "World Tour '22"
 
 24. Gaia
 
-
-Note: Each band member came on stage in costume to a snippet of a
-prerecorded song.
 
 Recordings:
 * AUD: [colesondilbeck (Shure MV88)](https://archive.org/details/kglw2022-10-31) (audio issues)

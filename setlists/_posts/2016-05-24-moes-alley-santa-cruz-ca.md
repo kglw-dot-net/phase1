@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-24-moes-alley-santa-cruz-ca"
-date = "2016-05-24"
-title = "2016 May 24 @ Moe's Alley"
-
-[extra]
-venue = "Moe's Alley, Santa Cruz, CA, USA"
-+++
+---
+date: "2016-05-24"
+venue: "Moe's Alley, Santa Cruz, CA, USA"
+---
 
  1. Robot Stop
 

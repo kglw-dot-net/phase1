@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-25-the-independent-san-francisco-ca"
-date = "2016-05-25"
-title = "2016 May 25 @ The Independent"
-
-[extra]
-venue = "The Independent, San Francisco, CA, USA"
-+++
+---
+date: "2016-05-25"
+venue: "The Independent, San Francisco, CA, USA"
+---
 
  1. Robot Stop
 

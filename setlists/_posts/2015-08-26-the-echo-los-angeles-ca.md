@@ -1,11 +1,7 @@
-+++
-slug = "2015-08-26-the-echo-los-angeles-ca"
-date = "2015-08-26"
-title = "2015 August 26 @ The Echo"
-
-[extra]
-venue = "The Echo, Los Angeles, CA, USA"
-+++
+---
+date: "2015-08-26"
+venue: "The Echo, Los Angeles, CA, USA"
+---
 
  1. I'm in Your Mind
 

@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-21-republic-nola-new-orleans-la"
-date = "2018-06-21"
-title = "2018 June 21 @ Republic NOLA"
-
-[extra]
-venue = "Republic NOLA, New Orleans, LA, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-21"
+venue: "Republic NOLA, New Orleans, LA, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black
@@ -40,7 +36,6 @@ tour = "2018 North American Tour"
 15. Rattlesnake
 
 16. Mystery Jack
-    (First time live since 2013)
 
 17. The River
 

@@ -1,12 +1,8 @@
-+++
-slug = "2017-09-26-cannery-ballroom-nashville-tn"
-date = "2017-09-26"
-title = "2017 September 26 @ Cannery Ballroom"
-
-[extra]
-venue = "Cannery Ballroom, Nashville, TN, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-09-26"
+venue: "Cannery Ballroom, Nashville, TN, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. Rolling Stoned

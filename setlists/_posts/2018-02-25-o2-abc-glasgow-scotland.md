@@ -1,12 +1,8 @@
-+++
-slug = "2018-02-25-o2-abc-glasgow-scotland"
-date = "2018-02-25"
-title = "2018 February 25 @ O2 ABC"
-
-[extra]
-venue = "O2 ABC, Glasgow, Scotland"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-02-25"
+venue: "O2 ABC, Glasgow, Scotland"
+tour: "2018 UK/EU Tour"
+---
 
 
  1. Rattlesnake

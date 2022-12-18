@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-15-brooklyn-steel-brooklyn-ny"
-date = "2018-06-15"
-title = "2018 June 15 @ Brooklyn Steel"
-
-[extra]
-venue = "Brooklyn Steel, Brooklyn, NY, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-15"
+venue: "Brooklyn Steel, Brooklyn, NY, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black

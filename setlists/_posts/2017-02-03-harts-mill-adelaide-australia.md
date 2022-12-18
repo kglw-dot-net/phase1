@@ -1,11 +1,7 @@
-+++
-slug = "2017-02-03-harts-mill-adelaide-australia"
-date = "2017-02-03"
-title = "2017 February 3 @ Harts Mill"
-
-[extra]
-venue = "Harts Mill, Adelaide, Australia"
-+++
+---
+date: "2017-02-03"
+venue: "Harts Mill, Adelaide, Australia"
+---
 
  1. Gamma Knife
 
@@ -13,8 +9,8 @@ venue = "Harts Mill, Adelaide, Australia"
 
  3. The Lord of Lightning
 
- 4. (Unknown)
-    (New song)
+ 4. (New song)
+
  5. Nuclear Fusion
 
  6. Rattlesnake

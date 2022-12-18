@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-12-obudai-sziget-budapest-hungary"
-date = "2018-08-12"
-title = "2018 August 12 @ Óbudai-Sziget"
-
-[extra]
-venue = "Óbudai-Sziget, Budapest, Hungary"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-12"
+venue: "Óbudai-Sziget, Budapest, Hungary"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black
@@ -38,6 +34,3 @@ tour = "2018 European Summer Tour"
 14. People-Vultures
 
 15. The River
-
-
-Note: First show in Hungary

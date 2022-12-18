@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-04-ogden-theatre-denver-co"
-date = "2017-10-04"
-title = "2017 October 4 @ Ogden Theatre"
-
-[extra]
-venue = "Ogden Theatre, Denver, CO, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-04"
+venue: "Ogden Theatre, Denver, CO, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures

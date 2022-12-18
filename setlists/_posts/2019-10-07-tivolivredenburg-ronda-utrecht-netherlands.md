@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-07-tivolivredenburg-ronda-utrecht-netherlands"
-date = "2019-10-07"
-title = "2019 October 7 @ TivoliVredenburg Ronda"
-
-[extra]
-venue = "TivoliVredenburg Ronda, Utrecht, Netherlands"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-07"
+venue: "TivoliVredenburg Ronda, Utrecht, Netherlands"
+tour: "World Tour `19"
+---
 
 
  1. Planet B

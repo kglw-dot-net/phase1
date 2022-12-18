@@ -1,11 +1,7 @@
-+++
-slug = "2016-03-04-center-parcs-de-eemhof-zeewolde-netherlands"
-date = "2016-03-04"
-title = "2016 March 4 @ Center Parcs De Eemhof"
-
-[extra]
-venue = "Center Parcs De Eemhof, Zeewolde, Netherlands"
-+++
+---
+date: "2016-03-04"
+venue: "Center Parcs De Eemhof, Zeewolde, Netherlands"
+---
 
  1. It's Got Old
 

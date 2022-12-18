@@ -1,12 +1,8 @@
-+++
-slug = "2018-03-03-laeronef-lille-france"
-date = "2018-03-03"
-title = "2018 March 3 @ L'Aéronef"
-
-[extra]
-venue = "L'Aéronef, Lille, France"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-03-03"
+venue: "L'Aéronef, Lille, France"
+tour: "2018 UK/EU Tour"
+---
 
 
  1. Rattlesnake
@@ -33,7 +29,6 @@ tour = "2018 UK/EU Tour"
 11. The Lord of Lightning
 
 12. Beginner's Luck
-    (Live Debut)
 
 13. Crumbling Castle
 

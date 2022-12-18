@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-11-kexp-studios-seattle-wa"
-date = "2017-10-11"
-title = "2017 October 11 @ KEXP Studios"
-
-[extra]
-venue = "KEXP Studios, Seattle, WA, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-11"
+venue: "KEXP Studios, Seattle, WA, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. Welcome to an Altered Future

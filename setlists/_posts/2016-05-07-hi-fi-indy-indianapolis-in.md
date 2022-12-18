@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-07-hi-fi-indy-indianapolis-in"
-date = "2016-05-07"
-title = "2016 May 7 @ HI-FI Indy"
-
-[extra]
-venue = "HI-FI Indy, Indianapolis, IN, USA"
-+++
+---
+date: "2016-05-07"
+venue: "HI-FI Indy, Indianapolis, IN, USA"
+---
 
  1. Robot Stop
 
@@ -32,6 +28,3 @@ venue = "HI-FI Indy, Indianapolis, IN, USA"
 12. Evil Death Roll
 
 13. Hot Wax
-
-
-Note: First King Gizzard & The Lizard Wizard live show in Indianapolis

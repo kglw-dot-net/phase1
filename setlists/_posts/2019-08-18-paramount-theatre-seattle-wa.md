@@ -1,58 +1,50 @@
-+++
-slug = "2019-08-18-paramount-theatre-seattle-wa"
-date = "2019-08-18"
-title = "2019 August 18 @ Paramount Theatre"
-
-[extra]
-venue = "Paramount Theatre, Seattle, WA, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-18"
+venue: "Paramount Theatre, Seattle, WA, USA"
+tour: "World Tour `19"
+---
 
 
- 1. Song played from tape
-    The Rockafeller Skank
-    (Fatboy Slim song) (Played by Joey from a bluetooth speaker)
+ 1. Self-Immolate
 
- 2. Self-Immolate
+ 2. Venusian 2
 
- 3. Venusian 2
+ 3. The Great Chain of Being
 
- 4. The Great Chain of Being
+ 4. Plastic Boogie
 
- 5. Plastic Boogie
+ 5. Crumbling Castle
 
- 6. Crumbling Castle
+ 6. The Fourth Colour
 
- 7. The Fourth Colour
+ 7. This Thing
 
- 8. This Thing
+ 8. Let Me Mend the Past
 
- 9. Let Me Mend the Past
+ 9. Work This Time
 
-10. Work This Time
+10. Doom City
 
-11. Doom City
-
-12. Nuclear Fusion
+11. Nuclear Fusion
     (Han Tyumi says "Hello Seattle")
 
-13. Boogieman Sam
+12. Boogieman Sam
 
-14. Digital Black
+13. Digital Black
 
-15. Vomit Coffin
+14. Vomit Coffin
 
-16. Murder of the Universe
+15. Murder of the Universe
 
-17. Wah Wah
+16. Wah Wah
     (with The River tease)
 
-18. Road Train
+17. Road Train
 
-19. Planet B
+18. Planet B
 
-20. Organ Farmer
+19. Organ Farmer
 
-21. Mars for the Rich
+20. Mars for the Rich
 
 

@@ -1,12 +1,8 @@
-+++
-slug = "2019-11-16-live-park-rama-9-bangkok-thailand"
-date = "2019-11-16"
-title = "2019 November 16 @ Live Park Rama 9"
-
-[extra]
-venue = "Live Park Rama 9, Bangkok, Thailand"
-tour = "World Tour `19"
-+++
+---
+date: "2019-11-16"
+venue: "Live Park Rama 9, Bangkok, Thailand"
+tour: "World Tour `19"
+---
 
 
  1. I'm in Your Mind

@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-21-batschkapp-frankfurt-germany"
-date = "2018-08-21"
-title = "2018 August 21 @ Batschkapp"
-
-[extra]
-venue = "Batschkapp, Frankfurt, Germany"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-21"
+venue: "Batschkapp, Frankfurt, Germany"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

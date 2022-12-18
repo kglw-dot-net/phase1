@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-09-rock-and-roll-hall-of-fame-cleveland-oh"
-date = "2016-05-09"
-title = "2016 May 9 @ Rock & Roll Hall of Fame"
-
-[extra]
-venue = "Rock & Roll Hall of Fame, Cleveland, OH, USA"
-+++
+---
+date: "2016-05-09"
+venue: "Rock & Roll Hall of Fame, Cleveland, OH, USA"
+---
 
  1. Robot Stop
 

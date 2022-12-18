@@ -1,59 +1,57 @@
-+++
-slug = "2017-03-23-the-night-cat-melbourne-australia"
-date = "2017-03-23"
-title = "2017 March 23 @ The Night Cat"
-
-[extra]
-venue = "The Night Cat, Melbourne, Australia"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-03-23"
+venue: "The Night Cat, Melbourne, Australia"
+tour: "Flying Microtonal Banana"
+---
 
 
- 1. Microtonal Set
- 2. Open Water
+## Microtonal Set
 
- 3. Doom City
+ 1. Open Water
 
- 4. Anoxia
+ 2. Doom City
 
- 5. All Is Known
+ 3. Anoxia
 
- 6. Billabong Valley
+ 4. All Is Known
 
- 7. Sleep Drifter
+ 5. Billabong Valley
 
- 8. Nuclear Fusion
+ 6. Sleep Drifter
 
- 9. Rattlesnake
+ 7. Nuclear Fusion
 
-10. Rock Set
-11. Alter Me I
+ 8. Rattlesnake
 
-12. Altered Beast II
+## Rock Set
 
-13. Alter Me II
+ 1. Alter Me I
 
-14. Altered Beast III
+ 2. Altered Beast II
 
-15. Robot Stop
+ 3. Alter Me II
 
-16. Evil Death Roll
+ 4. Altered Beast III
 
-17. Invisible Face
+ 5. Robot Stop
 
-18. The River
+ 6. Evil Death Roll
 
-19. Gamma Knife
+ 7. Invisible Face
 
-20. People-Vultures
+ 8. The River
 
-21. The Lord of Lightning
+ 9. Gamma Knife
 
-22. Cellophane
+10. People-Vultures
 
-23. The Balrog
+11. The Lord of Lightning
 
-24. Am I in Heaven?
+12. Cellophane
+
+13. The Balrog
+
+14. Am I in Heaven?
     (with Cellophane/Alter Me/Hot Water/Head On/Pill/Sea of Trees
     Medley Interlude)
 

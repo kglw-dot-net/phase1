@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-04-kolomenskoe-park-moscow-russia"
-date = "2018-08-04"
-title = "2018 August 4 @ Kolomenskoe Park"
-
-[extra]
-venue = "Kolomenskoe Park, Moscow, Russia"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-04"
+venue: "Kolomenskoe Park, Moscow, Russia"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

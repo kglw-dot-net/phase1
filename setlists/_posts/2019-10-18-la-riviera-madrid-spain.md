@@ -1,55 +1,48 @@
-+++
-slug = "2019-10-18-la-riviera-madrid-spain"
-date = "2019-10-18"
-title = "2019 October 18 @ La Riviera"
-
-[extra]
-venue = "La Riviera, Madrid, Spain"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-18"
+venue: "La Riviera, Madrid, Spain"
+tour: "World Tour `19"
+---
 
 
- 1. Song played from tape
-    Evil Star
+ 1. Self-Immolate
 
- 2. Self-Immolate
+ 2. Planet B
 
- 3. Planet B
+ 3. Stressin'
 
- 4. Stressin'
+ 4. Rattlesnake
 
- 5. Rattlesnake
+ 5. Sleep Drifter
 
- 6. Sleep Drifter
+ 6. All Is Known
 
- 7. All Is Known
+ 7. Dirt
 
- 8. Dirt
+ 8. Sense
 
- 9. Sense
+ 9. Let Me Mend the Past
 
-10. Let Me Mend the Past
+10. The Lord of Lightning
 
-11. The Lord of Lightning
-
-12. Cut Throat Boogie
+11. Cut Throat Boogie
     (with The Cruel Millennial outro)
 
-13. Wah Wah
+12. Wah Wah
 
-14. Road Train
+13. Road Train
 
-15. Cyboogie
+14. Cyboogie
 
-16. Loyalty
+15. Loyalty
 
-17. Horology
+16. Horology
 
-18. Mars for the Rich
+17. Mars for the Rich
 
-19. Perihelion
+18. Perihelion
 
-20. Am I in Heaven?
+19. Am I in Heaven?
     (Robot Stop / I'm in Your Mind / Head On/Pill snippets)
 
 

@@ -1,12 +1,8 @@
-+++
-slug = "2016-08-20-evenemententerrein-walibi-holland-biddinghuizen-netherlands"
-date = "2016-08-20"
-title = "2016 August 20 @ Evenemententerrein Walibi Holland"
-
-[extra]
-venue = "Evenemententerrein Walibi Holland, Biddinghuizen, Netherlands"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-08-20"
+venue: "Evenemententerrein Walibi Holland, Biddinghuizen, Netherlands"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

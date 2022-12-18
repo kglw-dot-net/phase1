@@ -1,12 +1,9 @@
-+++
-slug = "2013-08-22-goodgod-small-club-sydney-australia"
-date = "2013-08-22"
-title = "2013 August 22 @ Goodgod Small Club"
-
-[extra]
-venue = "Goodgod Small Club, Sydney, Australia"
-tour = "Float Along - Fill Your Lungs Preview Shows"
-+++
+---
+slug: "2013-08-22-goodgod-small-club-sydney-australia"
+date: "2013-08-22"
+venue: "Goodgod Small Club, Sydney, Australia"
+tour: "Float Along - Fill Your Lungs Preview Shows"
+---
 
 
  1. Float Along - Fill Your Lungs
@@ -26,17 +23,18 @@ tour = "Float Along - Fill Your Lungs Preview Shows"
 
  9. Float Along - Fill Your Lungs
 
-10. Audience requests
-11. Cut Throat Boogie
+    (Audience requests)
 
-12. Muckraker
+10. Cut Throat Boogie
 
-13. Footy Footy
+11. Muckraker
 
-14. Black Tooth
+12. Footy Footy
 
-15. Danger $$$
+13. Black Tooth
 
-16. Sea of Trees
+14. Danger $$$
+
+15. Sea of Trees
 
 

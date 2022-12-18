@@ -1,12 +1,8 @@
-+++
-slug = "2017-12-06-whammy-bar-auckland-new-zealand"
-date = "2017-12-06"
-title = "2017 December 6 @ Whammy Bar"
-
-[extra]
-venue = "Whammy Bar, Auckland, New Zealand"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-12-06"
+venue: "Whammy Bar, Auckland, New Zealand"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures

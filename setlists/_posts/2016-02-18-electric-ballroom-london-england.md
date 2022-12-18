@@ -1,11 +1,7 @@
-+++
-slug = "2016-02-18-electric-ballroom-london-england"
-date = "2016-02-18"
-title = "2016 February 18 @ Electric Ballroom"
-
-[extra]
-venue = "Electric Ballroom, London, England"
-+++
+---
+date: "2016-02-18"
+venue: "Electric Ballroom, London, England"
+---
 
  1. Danger $$$
 
@@ -39,7 +35,6 @@ venue = "Electric Ballroom, London, England"
 
 16. I'm in Your Mind Fuzz
 
-18. Encore:
-19. Am I in Heaven?
-
+17. Am I in Heaven?
+    (encore)
 

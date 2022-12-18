@@ -1,12 +1,8 @@
-+++
-slug = "2015-12-06-howler-melbourne-australia"
-date = "2015-12-06"
-title = "2015 December 6 @ Howler"
-
-[extra]
-venue = "Howler, Melbourne, Australia"
-tour = "Goat Australian Tour 2015"
-+++
+---
+date: "2015-12-06"
+venue: "Howler, Melbourne, Australia"
+tour: "Goat Australian Tour 2015"
+---
 
 
  1. Robot Stop

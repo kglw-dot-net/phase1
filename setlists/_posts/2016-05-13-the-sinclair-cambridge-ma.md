@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-13-the-sinclair-cambridge-ma"
-date = "2016-05-13"
-title = "2016 May 13 @ The Sinclair"
-
-[extra]
-venue = "The Sinclair, Cambridge, MA, USA"
-+++
+---
+date: "2016-05-13"
+venue: "The Sinclair, Cambridge, MA, USA"
+---
 
  1. Robot Stop
 

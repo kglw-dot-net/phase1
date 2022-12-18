@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-14-albert-hall-manchester-england"
-date = "2017-06-14"
-title = "2017 June 14 @ Albert Hall"
-
-[extra]
-venue = "Albert Hall, Manchester, England"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-14"
+venue: "Albert Hall, Manchester, England"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

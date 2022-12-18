@@ -1,12 +1,8 @@
-+++
-slug = "2018-02-23-olympia-theatre-dublin-ireland"
-date = "2018-02-23"
-title = "2018 February 23 @ Olympia Theatre"
-
-[extra]
-venue = "Olympia Theatre, Dublin, Ireland"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-02-23"
+venue: "Olympia Theatre, Dublin, Ireland"
+tour: "2018 UK/EU Tour"
+---
 
 
  1. Welcome to an Altered Future
@@ -48,6 +44,5 @@ tour = "2018 UK/EU Tour"
 19. The River
 
 20. God Is in the Rhythm
-    (Full band live debut)
 
 

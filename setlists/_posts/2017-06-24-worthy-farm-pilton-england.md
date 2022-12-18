@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-24-worthy-farm-pilton-england"
-date = "2017-06-24"
-title = "2017 June 24 @ Worthy Farm"
-
-[extra]
-venue = "Worthy Farm, Pilton, England"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-06-24"
+venue: "Worthy Farm, Pilton, England"
+tour: "Murder of the Universe"
+---
 
 
  1. Alter Me I

@@ -1,12 +1,9 @@
-+++
-slug = "2013-08-28-northcote-social-club-melbourne-australia"
-date = "2013-08-28"
-title = "2013 August 28 @ Northcote Social Club"
-
-[extra]
-venue = "Northcote Social Club, Melbourne, Australia"
-tour = "Float Along - Fill Your Lungs Preview Shows"
-+++
+---
+slug: "2013-08-28-northcote-social-club-melbourne-australia"
+date: "2013-08-28"
+venue: "Northcote Social Club, Melbourne, Australia"
+tour: "Float Along - Fill Your Lungs Preview Shows"
+---
 
 
  1. Float Along - Fill Your Lungs
@@ -26,17 +23,18 @@ tour = "Float Along - Fill Your Lungs Preview Shows"
 
  9. Float Along - Fill Your Lungs
 
-10. Audience requests
-11. Willoughby's Beach
+    (Audience requests)
 
-12. Black Tooth
+10. Willoughby's Beach
 
-13. Elbow
+11. Black Tooth
 
-14. Dead-Beat
+12. Elbow
 
-15. Footy Footy
+13. Dead-Beat
 
-16. Muckraker
+14. Footy Footy
+
+15. Muckraker
 
 

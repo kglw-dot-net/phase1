@@ -1,12 +1,8 @@
-+++
-slug = "2016-08-04-oxford-art-factory-sydney-australia"
-date = "2016-08-04"
-title = "2016 August 4 @ Oxford Art Factory"
-
-[extra]
-venue = "Oxford Art Factory, Sydney, Australia"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-08-04"
+venue: "Oxford Art Factory, Sydney, Australia"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

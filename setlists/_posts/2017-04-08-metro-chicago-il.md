@@ -1,55 +1,47 @@
-+++
-slug = "2017-04-08-metro-chicago-il"
-date = "2017-04-08"
-title = "2017 April 8 @ Metro"
-
-[extra]
-venue = "Metro, Chicago, IL, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-08"
+venue: "Metro, Chicago, IL, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
- 1. Song played from tape
-    Jailbreak
-    (AC/DC song)
+ 1. Open Water
 
- 2. Open Water
+ 2. Sleep Drifter
 
- 3. Sleep Drifter
+ 3. Anoxia
 
- 4. Anoxia
+ 4. Billabong Valley
 
- 5. Billabong Valley
+ 5. Nuclear Fusion
 
- 6. Nuclear Fusion
+ 6. Rattlesnake
 
- 7. Rattlesnake
+ 7. Doom City
 
- 8. Doom City
+ 8. Alter Me I
 
- 9. Alter Me I
+ 9. Altered Beast II
 
-10. Altered Beast II
+10. Alter Me II
 
-11. Alter Me II
+11. Altered Beast III
 
-12. Altered Beast III
+12. Robot Stop
 
-13. Robot Stop
+13. The River
 
-14. The River
+14. Gamma Knife
 
-15. Gamma Knife
+15. People-Vultures
 
-16. People-Vultures
+16. The Lord of Lightning
 
-17. The Lord of Lightning
+17. Vomit Coffin
 
-18. Vomit Coffin
+18. Cellophane
 
-19. Cellophane
-
-20. Am I in Heaven?
+19. Am I in Heaven?
     (Medley: Sea of Trees / Head On/Pill / I'm in Your Mind / Alter Me
     / Robot Stop)
 

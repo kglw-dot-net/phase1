@@ -1,12 +1,8 @@
-+++
-slug = "2016-06-30-the-governor-hindmarsh-hotel-adelaide-australia"
-date = "2016-06-30"
-title = "2016 June 30 @ The Governor Hindmarsh Hotel"
-
-[extra]
-venue = "The Governor Hindmarsh Hotel, Adelaide, Australia"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-06-30"
+venue: "The Governor Hindmarsh Hotel, Adelaide, Australia"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop
@@ -27,8 +23,8 @@ tour = "Nonagon Infinity"
 
  9. I'm in Your Mind Fuzz
 
-10. (Unknown)
-    (new song)
+10. (new song)
+
 11. Mr. Beat
 
 12. Evil Death Roll

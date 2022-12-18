@@ -1,12 +1,8 @@
-+++
-slug = "2017-09-24-lincoln-hall-chicago-il"
-date = "2017-09-24"
-title = "2017 September 24 @ Lincoln Hall"
-
-[extra]
-venue = "Lincoln Hall, Chicago, IL, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-09-24"
+venue: "Lincoln Hall, Chicago, IL, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. Some Context

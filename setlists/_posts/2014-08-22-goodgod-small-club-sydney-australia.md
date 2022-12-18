@@ -1,12 +1,8 @@
-+++
-slug = "2014-08-22-goodgod-small-club-sydney-australia"
-date = "2014-08-22"
-title = "2014 August 22 @ Goodgod Small Club"
-
-[extra]
-venue = "Goodgod Small Club, Sydney, Australia"
-tour = "SINO-AUS"
-+++
+---
+date: "2014-08-22"
+venue: "Goodgod Small Club, Sydney, Australia"
+tour: "SINO-AUS"
+---
 
 
  1. I'm in Your Mind

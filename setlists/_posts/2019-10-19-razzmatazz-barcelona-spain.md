@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-19-razzmatazz-barcelona-spain"
-date = "2019-10-19"
-title = "2019 October 19 @ Razzmatazz"
-
-[extra]
-venue = "Razzmatazz, Barcelona, Spain"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-19"
+venue: "Razzmatazz, Barcelona, Spain"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2

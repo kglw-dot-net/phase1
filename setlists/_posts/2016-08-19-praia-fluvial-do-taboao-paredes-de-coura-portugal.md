@@ -1,12 +1,8 @@
-+++
-slug = "2016-08-19-praia-fluvial-do-taboao-paredes-de-coura-portugal"
-date = "2016-08-19"
-title = "2016 August 19 @ Praia Fluvial do Taboão"
-
-[extra]
-venue = "Praia Fluvial do Taboão, Paredes de Coura, Portugal"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-08-19"
+venue: "Praia Fluvial do Taboão, Paredes de Coura, Portugal"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

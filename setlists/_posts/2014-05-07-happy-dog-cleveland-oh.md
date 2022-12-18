@@ -1,12 +1,8 @@
-+++
-slug = "2014-05-07-happy-dog-cleveland-oh"
-date = "2014-05-07"
-title = "2014 May 7 @ Happy Dog"
-
-[extra]
-venue = "Happy Dog, Cleveland, OH, USA"
-tour = "USA Tour May 2014"
-+++
+---
+date: "2014-05-07"
+venue: "Happy Dog, Cleveland, OH, USA"
+tour: "USA Tour May 2014"
+---
 
 
  1. I'm in Your Mind

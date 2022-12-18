@@ -1,11 +1,7 @@
-+++
-slug = "2016-02-14-the-lexington-london-england"
-date = "2016-02-14"
-title = "2016 February 14 @ The Lexington"
-
-[extra]
-venue = "The Lexington, London, England"
-+++
+---
+date: "2016-02-14"
+venue: "The Lexington, London, England"
+---
 
  1. Robot Stop
 

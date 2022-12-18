@@ -1,50 +1,42 @@
-+++
-slug = "2018-10-06-las-caballerizas-huixquilucan-mexico"
-date = "2018-10-06"
-title = "2018 October 6 @ Las Caballerizas"
-
-[extra]
-venue = "Las Caballerizas, Huixquilucan, Mexico"
-tour = "Mexico Tour 2018"
-+++
+---
+date: "2018-10-06"
+venue: "Las Caballerizas, Huixquilucan, Mexico"
+tour: "Mexico Tour 2018"
+---
 
 
- 1. Song played from tape
-    Riff Raff
-    (AC/DC song)
+ 1. Rattlesnake
 
- 2. Rattlesnake
-
- 3. Sleep Drifter
+ 2. Sleep Drifter
     (w/ snippet of Billabong Valley)
 
- 4. Crumbling Castle
+ 3. Crumbling Castle
 
- 5. The Fourth Colour
+ 4. The Fourth Colour
 
- 6. Deserted Dunes Welcome Weary Feet
+ 5. Deserted Dunes Welcome Weary Feet
 
- 7. The Castle in the Air
+ 6. The Castle in the Air
 
- 8. Digital Black
+ 7. Digital Black
 
- 9. Vomit Coffin
+ 8. Vomit Coffin
 
-10. The Lord of Lightning
+ 9. The Lord of Lightning
 
-11. Robot Stop
+10. Robot Stop
 
-12. Gamma Knife
+11. Gamma Knife
 
-13. The River
+12. The River
 
-14. Wah Wah
+13. Wah Wah
 
-15. I'm in Your Mind
+14. I'm in Your Mind
 
-16. I'm Not in Your Mind
+15. I'm Not in Your Mind
     (w/ Snippet of Altered Beast)
 
-17. Head On/Pill
+16. Head On/Pill
 
 

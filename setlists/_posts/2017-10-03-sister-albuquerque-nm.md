@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-03-sister-albuquerque-nm"
-date = "2017-10-03"
-title = "2017 October 3 @ Sister"
-
-[extra]
-venue = "Sister, Albuquerque, NM, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-03"
+venue: "Sister, Albuquerque, NM, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. Lonely Steel Sheet Flyer
@@ -50,6 +46,3 @@ tour = "Murder of the Universe"
 20. The Lord of Lightning
 
 21. Cellophane
-
-
-Note: First King Gizzard & The Lizard Wizard live show in Albuquerque

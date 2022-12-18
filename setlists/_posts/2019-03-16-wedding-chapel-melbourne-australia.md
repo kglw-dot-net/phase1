@@ -1,11 +1,7 @@
-+++
-slug = "2019-03-16-wedding-chapel-melbourne-australia"
-date = "2019-03-16"
-title = "2019 March 16 @ Wedding Chapel"
-
-[extra]
-venue = "Wedding Chapel, Melbourne, Australia"
-+++
+---
+date: "2019-03-16"
+venue: "Wedding Chapel, Melbourne, Australia"
+---
 
  1. Proud Mary
     (Creedence Clearwater Revival cover)

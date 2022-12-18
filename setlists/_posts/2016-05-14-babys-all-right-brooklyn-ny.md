@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-14-babys-all-right-brooklyn-ny"
-date = "2016-05-14"
-title = "2016 May 14 @ Baby's All Right"
-
-[extra]
-venue = "Baby's All Right, Brooklyn, NY, USA"
-+++
+---
+date: "2016-05-14"
+venue: "Baby's All Right, Brooklyn, NY, USA"
+---
 
  1. Evil Death Roll
 

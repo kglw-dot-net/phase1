@@ -1,11 +1,7 @@
-+++
-slug = "2016-03-02-ancienne-belgique-club-brussels-belgium"
-date = "2016-03-02"
-title = "2016 March 2 @ Ancienne Belgique Club"
-
-[extra]
-venue = "Ancienne Belgique Club, Brussels, Belgium"
-+++
+---
+date: "2016-03-02"
+venue: "Ancienne Belgique Club, Brussels, Belgium"
+---
 
  1. Head On/Pill
 

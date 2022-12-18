@@ -1,12 +1,9 @@
-+++
-slug = "2013-08-21-bar-open-melbourne-australia"
-date = "2013-08-21"
-title = "2013 August 21 @ Bar Open"
-
-[extra]
-venue = "Bar Open, Melbourne, Australia"
-tour = "Float Along - Fill Your Lungs Preview Shows"
-+++
+---
+slug: "2013-08-21-bar-open-melbourne-australia"
+date: "2013-08-21"
+venue: "Bar Open, Melbourne, Australia"
+tour: "Float Along - Fill Your Lungs Preview Shows"
+---
 
 
  1. Head On/Pill

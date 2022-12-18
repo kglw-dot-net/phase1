@@ -1,12 +1,8 @@
-+++
-slug = "2019-07-04-the-tivoli-brisbane-australia"
-date = "2019-07-04"
-title = "2019 July 4 @ The Tivoli"
-
-[extra]
-venue = "The Tivoli, Brisbane, Australia"
-tour = "World Tour `19"
-+++
+---
+date: "2019-07-04"
+venue: "The Tivoli, Brisbane, Australia"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2
@@ -22,13 +18,10 @@ tour = "World Tour `19"
  6. Horology
 
  7. Altered Beast I
-    (Tour Debut)
 
  8. Alter Me I
-    (Tour Debut)
 
  9. Altered Beast II
-    (Tour Debut)
 
 10. Acarine
 
@@ -49,11 +42,9 @@ tour = "World Tour `19"
 18. Robot Stop
 
 19. Big Fig Wasp
-    (Tour Debut)
 
 20. Gamma Knife
 
 21. The Wheel
-    (Tour Debut)
 
 

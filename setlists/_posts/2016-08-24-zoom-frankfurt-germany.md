@@ -1,12 +1,8 @@
-+++
-slug = "2016-08-24-zoom-frankfurt-germany"
-date = "2016-08-24"
-title = "2016 August 24 @ Zoom"
-
-[extra]
-venue = "Zoom, Frankfurt, Germany"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-08-24"
+venue: "Zoom, Frankfurt, Germany"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop
@@ -21,8 +17,8 @@ tour = "Nonagon Infinity"
 
  6. The Lord of Lightning
 
- 7. (Unknown)
-    (new song)
+ 7. (new song)
+
  8. I'm in Your Mind
 
  9. I'm Not in Your Mind

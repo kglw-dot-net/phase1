@@ -1,49 +1,41 @@
-+++
-slug = "2017-04-10-vogue-theatre-vancouver-bc-canada"
-date = "2017-04-10"
-title = "2017 April 10 @ Vogue Theatre"
-
-[extra]
-venue = "Vogue Theatre, Vancouver, BC, Canada"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-10"
+venue: "Vogue Theatre, Vancouver, BC, Canada"
+tour: "Flying Microtonal Banana"
+---
 
 
- 1. Song played from tape
-    Jailbreak
-    (AC/DC song)
+ 1. Open Water
 
- 2. Open Water
+ 2. Anoxia
 
- 3. Anoxia
+ 3. Billabong Valley
 
- 4. Billabong Valley
+ 4. Nuclear Fusion
 
- 5. Nuclear Fusion
+ 5. Rattlesnake
 
- 6. Rattlesnake
+ 6. Doom City
 
- 7. Doom City
+ 7. Alter Me I
 
- 8. Alter Me I
+ 8. Altered Beast II
 
- 9. Altered Beast II
+ 9. Robot Stop
 
-10. Robot Stop
+10. The River
 
-11. The River
+11. Gamma Knife
 
-12. Gamma Knife
+12. People-Vultures
 
-13. People-Vultures
-
-14. The Lord of Lightning
+13. The Lord of Lightning
     (stopped and restarted when security threw a fan off the stage)
 
-15. Cellophane
+14. Cellophane
     (medley with several songs)
 
-16. Song played from tape
+15. Song played from tape
     Han-Tyumi & The Murder Of The Universe
     (video played after band left the stage)
 

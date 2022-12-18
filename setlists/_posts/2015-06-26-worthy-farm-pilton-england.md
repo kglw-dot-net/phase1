@@ -1,11 +1,7 @@
-+++
-slug = "2015-06-26-worthy-farm-pilton-england"
-date = "2015-06-26"
-title = "2015 June 26 @ Worthy Farm"
-
-[extra]
-venue = "Worthy Farm, Pilton, England"
-+++
+---
+date: "2015-06-26"
+venue: "Worthy Farm, Pilton, England"
+---
 
  1. I'm in Your Mind Fuzz
 

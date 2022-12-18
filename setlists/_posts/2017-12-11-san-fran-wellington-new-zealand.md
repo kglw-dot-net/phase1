@@ -1,12 +1,8 @@
-+++
-slug = "2017-12-11-san-fran-wellington-new-zealand"
-date = "2017-12-11"
-title = "2017 December 11 @ San Fran"
-
-[extra]
-venue = "San Fran, Wellington, New Zealand"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-12-11"
+venue: "San Fran, Wellington, New Zealand"
+tour: "Murder of the Universe"
+---
 
 
  1. The River

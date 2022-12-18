@@ -1,12 +1,8 @@
-+++
-slug = "2019-01-01-north-byron-parklands-byron-bay-australia"
-date = "2019-01-01"
-title = "2019 January 1 @ North Byron Parklands"
-
-[extra]
-venue = "North Byron Parklands, Byron Bay, Australia"
-tour = "Australian Tour 2018"
-+++
+---
+date: "2019-01-01"
+venue: "North Byron Parklands, Byron Bay, Australia"
+tour: "Australian Tour 2018"
+---
 
 
  1. Rattlesnake
@@ -34,6 +30,3 @@ tour = "Australian Tour 2018"
 12. The Balrog
 
 13. The Bitter Boogie
-
-
-Note: First King Gizzard & The Lizard Wizard live show of 2019

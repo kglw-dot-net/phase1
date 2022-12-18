@@ -1,11 +1,7 @@
-+++
-slug = "2016-03-01-mascotte-zurich-switzerland"
-date = "2016-03-01"
-title = "2016 March 1 @ Mascotte"
-
-[extra]
-venue = "Mascotte, Zurich, Switzerland"
-+++
+---
+date: "2016-03-01"
+venue: "Mascotte, Zurich, Switzerland"
+---
 
  1. Head On/Pill
     (w/ Am I in Heaven? snippet)
@@ -34,7 +30,7 @@ venue = "Mascotte, Zurich, Switzerland"
 
 13. I'm in Your Mind Fuzz
 
-15. Encore:
-16. Am I in Heaven?
+14. Am I in Heaven?
+    (Encore)
 
 

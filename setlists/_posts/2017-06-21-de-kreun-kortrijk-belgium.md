@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-21-de-kreun-kortrijk-belgium"
-date = "2017-06-21"
-title = "2017 June 21 @ De Kreun"
-
-[extra]
-venue = "De Kreun, Kortrijk, Belgium"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-21"
+venue: "De Kreun, Kortrijk, Belgium"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

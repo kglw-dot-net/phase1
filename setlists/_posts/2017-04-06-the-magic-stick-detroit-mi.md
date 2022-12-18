@@ -1,50 +1,45 @@
-+++
-slug = "2017-04-06-the-magic-stick-detroit-mi"
-date = "2017-04-06"
-title = "2017 April 6 @ The Magic Stick"
-
-[extra]
-venue = "The Magic Stick, Detroit, MI, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-06"
+venue: "The Magic Stick, Detroit, MI, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
- 1. Microtonal Set
- 2. Open Water
+## Microtonal Set
 
- 3. Anoxia
+ 1. Open Water
 
- 4. Doom City
+ 2. Anoxia
 
- 5. Sleep Drifter
+ 3. Doom City
 
- 6. Nuclear Fusion
+ 4. Sleep Drifter
 
- 7. Rattlesnake
+ 5. Nuclear Fusion
 
- 8. Billabong Valley
+ 6. Rattlesnake
 
- 9. Non-Microtonal set
-10. Gamma Knife
+ 7. Billabong Valley
 
-11. People-Vultures
+## Non-Microtonal set
 
-12. Invisible Face
+ 1. Gamma Knife
 
-13. The River
+ 2. People-Vultures
 
-14. Alter Me I
+ 3. Invisible Face
 
-15. Altered Beast II
+ 4. The River
 
-16. Alter Me II
+ 5. Alter Me I
 
-17. Altered Beast III
+ 6. Altered Beast II
 
-18. Vomit Coffin
+ 7. Alter Me II
 
-19. Am I in Heaven?
+ 8. Altered Beast III
+
+ 9. Vomit Coffin
+
+10. Am I in Heaven?
     (with snippet of Sea of Trees)
-
-
-Note: First King Gizzard & The Lizard Wizard live show in Detroit.

@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-01-parc-del-forum-sant-adria-de-besos-spain"
-date = "2017-06-01"
-title = "2017 June 1 @ Parc del Fòrum"
-
-[extra]
-venue = "Parc del Fòrum, Sant Adrià de Besòs, Spain"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-01"
+venue: "Parc del Fòrum, Sant Adrià de Besòs, Spain"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

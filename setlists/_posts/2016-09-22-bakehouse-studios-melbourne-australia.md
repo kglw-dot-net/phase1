@@ -1,12 +1,8 @@
-+++
-slug = "2016-09-22-bakehouse-studios-melbourne-australia"
-date = "2016-09-22"
-title = "2016 September 22 @ Bakehouse Studios"
-
-[extra]
-venue = "Bakehouse Studios, Melbourne, Australia"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-09-22"
+venue: "Bakehouse Studios, Melbourne, Australia"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

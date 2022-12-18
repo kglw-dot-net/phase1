@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-21-the-echo-los-angeles-ca"
-date = "2016-05-21"
-title = "2016 May 21 @ The Echo"
-
-[extra]
-venue = "The Echo, Los Angeles, CA, USA"
-+++
+---
+date: "2016-05-21"
+venue: "The Echo, Los Angeles, CA, USA"
+---
 
  1. Robot Stop
 

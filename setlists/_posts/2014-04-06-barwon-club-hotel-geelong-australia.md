@@ -1,12 +1,9 @@
-+++
-slug = "2014-04-06-barwon-club-hotel-geelong-australia"
-date = "2014-04-06"
-title = "2014 April 6 @ Barwon Club Hotel"
-
-[extra]
-venue = "Barwon Club Hotel, Geelong, Australia"
-tour = "Oddments"
-+++
+---
+slug: "2014-04-06-barwon-club-hotel-geelong-australia"
+date: "2014-04-06"
+venue: "Barwon Club Hotel, Geelong, Australia"
+tour: "Oddments"
+---
 
 
  1. Her and I (Slow Jam 2)

@@ -1,11 +1,7 @@
-+++
-slug = "2015-07-07-belgrave-music-hall-leeds-england"
-date = "2015-07-07"
-title = "2015 July 7 @ Belgrave Music Hall"
-
-[extra]
-venue = "Belgrave Music Hall, Leeds, England"
-+++
+---
+date: "2015-07-07"
+venue: "Belgrave Music Hall, Leeds, England"
+---
 
  1. I'm in Your Mind
 

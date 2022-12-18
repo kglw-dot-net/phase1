@@ -1,12 +1,8 @@
-+++
-slug = "2019-07-05-unsw-roundhouse-sydney-australia"
-date = "2019-07-05"
-title = "2019 July 5 @ UNSW Roundhouse"
-
-[extra]
-venue = "UNSW Roundhouse, Sydney, Australia"
-tour = "World Tour `19"
-+++
+---
+date: "2019-07-05"
+venue: "UNSW Roundhouse, Sydney, Australia"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate
@@ -36,7 +32,6 @@ tour = "World Tour `19"
 13. Murder of the Universe
 
 14. The Lord of Lightning
-    (Tour debut)
 
 15. Tezeta
 

@@ -1,12 +1,8 @@
-+++
-slug = "2019-07-12-thebarton-theatre-adelaide-australia"
-date = "2019-07-12"
-title = "2019 July 12 @ Thebarton Theatre"
-
-[extra]
-venue = "Thebarton Theatre, Adelaide, Australia"
-tour = "World Tour `19"
-+++
+---
+date: "2019-07-12"
+venue: "Thebarton Theatre, Adelaide, Australia"
+tour: "World Tour `19"
+---
 
 
  1. Song played from tape
@@ -21,10 +17,9 @@ tour = "World Tour `19"
  5. Cyboogie
 
  6. Real's Not Real
-    (live debut)
 
  7. Hot Water
-    (tour debut) (Adam Halliwell plays flute)
+    (Adam Halliwell plays flute)
 
  8. Open Water
 
@@ -47,7 +42,7 @@ tour = "World Tour `19"
 17. Self-Immolate
 
 18. Head On/Pill
-    (tour debut) (Halliwell on flute) (w/ Hot Water/Altered
+    (Halliwell on flute) (w/ Hot Water/Altered
     Beast/Cellophane/Mind Fuzz/Heaven/Rattlesnake)
 
 

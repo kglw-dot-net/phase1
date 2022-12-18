@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-05-fox-theatre-boulder-co"
-date = "2017-10-05"
-title = "2017 October 5 @ Fox Theatre"
-
-[extra]
-venue = "Fox Theatre, Boulder, CO, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-05"
+venue: "Fox Theatre, Boulder, CO, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures

@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-16-brooklyn-steel-brooklyn-ny"
-date = "2018-06-16"
-title = "2018 June 16 @ Brooklyn Steel"
-
-[extra]
-venue = "Brooklyn Steel, Brooklyn, NY, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-16"
+venue: "Brooklyn Steel, Brooklyn, NY, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Rattlesnake

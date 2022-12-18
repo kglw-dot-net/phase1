@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-19-evenemententerrein-walibi-holland-biddinghuizen-netherlands"
-date = "2018-08-19"
-title = "2018 August 19 @ Evenemententerrein Walibi Holland"
-
-[extra]
-venue = "Evenemententerrein Walibi Holland, Biddinghuizen, Netherlands"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-19"
+venue: "Evenemententerrein Walibi Holland, Biddinghuizen, Netherlands"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

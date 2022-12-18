@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-14-svn-west-san-francisco-ca"
-date = "2019-08-14"
-title = "2019 August 14 @ SVN West"
-
-[extra]
-venue = "SVN West, San Francisco, CA, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-14"
+venue: "SVN West, San Francisco, CA, USA"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2
@@ -22,10 +18,9 @@ tour = "World Tour `19"
  6. I'm Not in Your Mind
 
  7. Cellophane
-    (Tour debut, with "Alter Me" snippets)
+    (with "Alter Me" snippets)
 
  8. I'm in Your Mind Fuzz
-    (Tour debut)
 
  9. Inner Cell
 

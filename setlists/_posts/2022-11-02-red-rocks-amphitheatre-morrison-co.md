@@ -1,12 +1,13 @@
-+++
-slug = "2022-11-02-red-rocks-amphitheatre-morrison-co"
-date = "2022-11-02"
-title = "2022 November 2 @ Red Rocks Amphitheatre"
+---
+date: "2022-11-02"
+title: "Red Rocks round 3"
+venue: "Red Rocks Amphitheatre, Morrison, CO, USA"
+tour: "World Tour '22"
+excerpt_separator: <!--excerpt-->
+---
 
-[extra]
-venue = "Red Rocks Amphitheatre, Morrison, CO, USA"
-tour = "World Tour '22"
-+++
+The third show at Red Rocks in 2022!
+<!--excerpt-->
 
 (Soundcheck) Down the Sink
 

@@ -1,12 +1,8 @@
-+++
-slug = "2018-03-01-le-bataclan-paris-france"
-date = "2018-03-01"
-title = "2018 March 1 @ Le Bataclan"
-
-[extra]
-venue = "Le Bataclan, Paris, France"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-03-01"
+venue: "Le Bataclan, Paris, France"
+tour: "2018 UK/EU Tour"
+---
 
 
  1. Rattlesnake

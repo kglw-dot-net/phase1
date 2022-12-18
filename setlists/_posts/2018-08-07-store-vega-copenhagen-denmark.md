@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-07-store-vega-copenhagen-denmark"
-date = "2018-08-07"
-title = "2018 August 7 @ Store Vega"
-
-[extra]
-venue = "Store Vega, Copenhagen, Denmark"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-07"
+venue: "Store Vega, Copenhagen, Denmark"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

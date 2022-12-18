@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-01-the-observatory-north-park-san-diego-ca"
-date = "2018-06-01"
-title = "2018 June 1 @ The Observatory North Park"
-
-[extra]
-venue = "The Observatory North Park, San Diego, CA, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-01"
+venue: "The Observatory North Park, San Diego, CA, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black

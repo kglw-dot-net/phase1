@@ -1,11 +1,7 @@
-+++
-slug = "2015-07-08-sound-control-manchester-england"
-date = "2015-07-08"
-title = "2015 July 8 @ Sound Control"
-
-[extra]
-venue = "Sound Control, Manchester, England"
-+++
+---
+date: "2015-07-08"
+venue: "Sound Control, Manchester, England"
+---
 
  1. I'm in Your Mind
 

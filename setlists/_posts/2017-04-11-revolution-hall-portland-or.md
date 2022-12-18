@@ -1,45 +1,37 @@
-+++
-slug = "2017-04-11-revolution-hall-portland-or"
-date = "2017-04-11"
-title = "2017 April 11 @ Revolution Hall"
-
-[extra]
-venue = "Revolution Hall, Portland, OR, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-11"
+venue: "Revolution Hall, Portland, OR, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
- 1. Song played from tape
-    Jailbreak
-    (AC/DC song)
+ 1. Open Water
 
- 2. Open Water
+ 2. Billabong Valley
 
- 3. Billabong Valley
+ 3. Anoxia
 
- 4. Anoxia
+ 4. Sleep Drifter
 
- 5. Sleep Drifter
+ 5. Nuclear Fusion
 
- 6. Nuclear Fusion
+ 6. Rattlesnake
 
- 7. Rattlesnake
+ 7. Doom City
 
- 8. Doom City
+ 8. Altered Beast III
 
- 9. Altered Beast III
+ 9. Robot Stop
 
-10. Robot Stop
+10. The River
 
-11. The River
+11. Gamma Knife
 
-12. Gamma Knife
+12. The Lord of Lightning
 
-13. The Lord of Lightning
+13. Vomit Coffin
 
-14. Vomit Coffin
-
-15. Am I in Heaven?
+14. Am I in Heaven?
     (Medley: Altered Beast / Cellophane / Rattlesnake)
 
 

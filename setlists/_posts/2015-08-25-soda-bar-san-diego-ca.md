@@ -1,11 +1,7 @@
-+++
-slug = "2015-08-25-soda-bar-san-diego-ca"
-date = "2015-08-25"
-title = "2015 August 25 @ Soda Bar"
-
-[extra]
-venue = "Soda Bar, San Diego, CA, USA"
-+++
+---
+date: "2015-08-25"
+venue: "Soda Bar, San Diego, CA, USA"
+---
 
  1. I'm in Your Mind
 

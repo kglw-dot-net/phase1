@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-22-cabaret-sauvage-paris-france"
-date = "2017-06-22"
-title = "2017 June 22 @ Cabaret Sauvage"
-
-[extra]
-venue = "Cabaret Sauvage, Paris, France"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-22"
+venue: "Cabaret Sauvage, Paris, France"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

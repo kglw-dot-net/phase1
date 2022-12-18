@@ -1,12 +1,8 @@
-+++
-slug = "2019-06-27-forum-theatre-melbourne-australia"
-date = "2019-06-27"
-title = "2019 June 27 @ Forum Theatre"
-
-[extra]
-venue = "Forum Theatre, Melbourne, Australia"
-tour = "World Tour `19"
-+++
+---
+date: "2019-06-27"
+venue: "Forum Theatre, Melbourne, Australia"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2
@@ -18,13 +14,10 @@ tour = "World Tour `19"
  4. Plastic Boogie
 
  5. Rattlesnake
-    (Tour Debut)
 
  6. Doom City
-    (Tour Debut)
 
  7. Nuclear Fusion
-    (Tour Debut)
 
  8. This Thing
 
@@ -35,16 +28,13 @@ tour = "World Tour `19"
 11. Beginner's Luck
 
 12. I'm in Your Mind
-    (Tour Debut)
 
 13. I'm Not in Your Mind
-    (Tour Debut)
 
 14. The Balrog
-    (Tour Debut)
 
 15. Evil Death Roll
-    (Tour Debut, W/ Invisible Face interpolation)
+    (w/ Invisible Face interpolation)
 
 16. Inner Cell
 

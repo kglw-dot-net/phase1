@@ -1,12 +1,8 @@
-+++
-slug = "2018-11-24-the-governor-hindmarsh-hotel-adelaide-australia"
-date = "2018-11-24"
-title = "2018 November 24 @ The Governor Hindmarsh Hotel"
-
-[extra]
-venue = "The Governor Hindmarsh Hotel, Adelaide, Australia"
-tour = "Australian Tour 2018"
-+++
+---
+date: "2018-11-24"
+venue: "The Governor Hindmarsh Hotel, Adelaide, Australia"
+tour: "Australian Tour 2018"
+---
 
 
  1. Rattlesnake
@@ -43,7 +39,6 @@ tour = "Australian Tour 2018"
     (First time live since 2013)
 
 15. Tezeta
-    (Live Debut)
 
 16. The River
 

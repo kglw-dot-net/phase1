@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-13-concorde-2-brighton-england"
-date = "2017-06-13"
-title = "2017 June 13 @ Concorde 2"
-
-[extra]
-venue = "Concorde 2, Brighton, England"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-13"
+venue: "Concorde 2, Brighton, England"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

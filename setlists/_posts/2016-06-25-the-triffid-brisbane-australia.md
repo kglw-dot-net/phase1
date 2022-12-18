@@ -1,12 +1,8 @@
-+++
-slug = "2016-06-25-the-triffid-brisbane-australia"
-date = "2016-06-25"
-title = "2016 June 25 @ The Triffid"
-
-[extra]
-venue = "The Triffid, Brisbane, Australia"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-06-25"
+venue: "The Triffid, Brisbane, Australia"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop
@@ -19,8 +15,8 @@ tour = "Nonagon Infinity"
 
  5. Mr. Beat
 
- 6. (Unknown)
-    (new song)
+ 6. (new song)
+
  7. I'm in Your Mind
 
  8. I'm Not in Your Mind

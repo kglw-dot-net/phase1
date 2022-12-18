@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-10-riviera-theatre-chicago-il"
-date = "2018-06-10"
-title = "2018 June 10 @ Riviera Theatre"
-
-[extra]
-venue = "Riviera Theatre, Chicago, IL, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-10"
+venue: "Riviera Theatre, Chicago, IL, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black
@@ -45,6 +41,6 @@ tour = "2018 North American Tour"
     (with Matthew Roberts from Mild High Club on auxiliary percussion)
 
 18. Beginner's Luck
-    (Tour debut, with Malcolm Brown from Whitney on keyboards)
+    (with Malcolm Brown from Whitney on keyboards)
 
 

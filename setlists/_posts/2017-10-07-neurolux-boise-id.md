@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-07-neurolux-boise-id"
-date = "2017-10-07"
-title = "2017 October 7 @ Neurolux"
-
-[extra]
-venue = "Neurolux, Boise, ID, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-07"
+venue: "Neurolux, Boise, ID, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. Am I in Heaven?
@@ -47,6 +43,3 @@ tour = "Murder of the Universe"
 17. Gamma Knife
 
 18. Lonely Steel Sheet Flyer
-
-
-Note: First King Gizzard & The Lizard Wizard live show in Boise

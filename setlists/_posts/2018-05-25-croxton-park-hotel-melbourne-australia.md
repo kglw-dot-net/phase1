@@ -1,11 +1,7 @@
-+++
-slug = "2018-05-25-croxton-park-hotel-melbourne-australia"
-date = "2018-05-25"
-title = "2018 May 25 @ Croxton Park Hotel"
-
-[extra]
-venue = "Croxton Park Hotel, Melbourne, Australia"
-+++
+---
+date: "2018-05-25"
+venue: "Croxton Park Hotel, Melbourne, Australia"
+---
 
  1. Digital Black
 

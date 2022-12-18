@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-09-ancienne-belgique-brussels-belgium"
-date = "2019-10-09"
-title = "2019 October 9 @ Ancienne Belgique"
-
-[extra]
-venue = "Ancienne Belgique, Brussels, Belgium"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-09"
+venue: "Ancienne Belgique, Brussels, Belgium"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate

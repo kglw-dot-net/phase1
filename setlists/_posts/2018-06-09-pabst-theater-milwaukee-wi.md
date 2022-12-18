@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-09-pabst-theater-milwaukee-wi"
-date = "2018-06-09"
-title = "2018 June 9 @ Pabst Theater"
-
-[extra]
-venue = "Pabst Theater, Milwaukee, WI, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-09"
+venue: "Pabst Theater, Milwaukee, WI, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Rattlesnake
@@ -43,7 +39,3 @@ tour = "2018 North American Tour"
 16. Gamma Knife
 
 17. The River
-    (Tour debut)
-
-
-Note: First King Gizzard & The Lizard Wizard live show in Milwaukee

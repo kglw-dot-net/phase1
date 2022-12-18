@@ -1,12 +1,8 @@
-+++
-slug = "2017-04-01-webster-hall-new-york-ny"
-date = "2017-04-01"
-title = "2017 April 1 @ Webster Hall"
-
-[extra]
-venue = "Webster Hall, New York, NY, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-01"
+venue: "Webster Hall, New York, NY, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Doom City

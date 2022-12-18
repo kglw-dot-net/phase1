@@ -1,50 +1,48 @@
-+++
-slug = "2017-03-29-930-club-washington-dc"
-date = "2017-03-29"
-title = "2017 March 29 @ 9:30 Club"
-
-[extra]
-venue = "9:30 Club, Washington, DC, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-03-29"
+venue: "9:30 Club, Washington, DC, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
- 1. Microtonal Set
- 2. Doom City
+## Microtonal Set
 
- 3. Anoxia
+ 1. Doom City
 
- 4. All Is Known
+ 2. Anoxia
 
- 5. Billabong Valley
+ 3. All Is Known
 
- 6. Sleep Drifter
+ 4. Billabong Valley
 
- 7. Nuclear Fusion
+ 5. Sleep Drifter
 
- 8. Rattlesnake
+ 6. Nuclear Fusion
 
- 9. Rock Set
-10. Alter Me I
+ 7. Rattlesnake
 
-11. Altered Beast II
+## Rock Set
 
-12. Alter Me II
+1. Alter Me I
 
-13. Altered Beast III
+2. Altered Beast II
 
-14. Robot Stop
+3. Alter Me II
 
-15. The River
+4. Altered Beast III
 
-16. Gamma Knife
+5. Robot Stop
 
-17. People-Vultures
+6. The River
 
-18. The Lord of Lightning
+7. Gamma Knife
 
-19. Cellophane
+8. People-Vultures
 
-20. Am I in Heaven?
+9. The Lord of Lightning
+
+10. Cellophane
+
+11. Am I in Heaven?
 
 

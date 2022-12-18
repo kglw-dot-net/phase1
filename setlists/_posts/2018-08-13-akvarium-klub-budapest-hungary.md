@@ -1,70 +1,62 @@
-+++
-slug = "2018-08-13-akvarium-klub-budapest-hungary"
-date = "2018-08-13"
-title = "2018 August 13 @ Akvárium Klub"
-
-[extra]
-venue = "Akvárium Klub, Budapest, Hungary"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-13"
+venue: "Akvárium Klub, Budapest, Hungary"
+tour: "2018 European Summer Tour"
+---
 
 
- 1. Song played from tape
-    Back in Black
-    (AC/DC song)
+ 1. Digital Black
 
- 2. Digital Black
+ 2. Vomit Coffin
 
- 3. Vomit Coffin
+ 3. The Lord of Lightning
 
- 4. The Lord of Lightning
+ 4. I'm in Your Mind
 
- 5. I'm in Your Mind
+ 5. Cellophane
 
- 6. Cellophane
+ 6. Altered Beast I
 
- 7. Altered Beast I
+ 7. Alter Me I
 
- 8. Alter Me I
+ 8. Altered Beast II
 
- 9. Altered Beast II
+ 9. Sleep Drifter
 
-10. Sleep Drifter
+10. Rattlesnake
 
-11. Rattlesnake
-
-12. The River
+11. The River
     (Parts I, II, III)
 
-13. Wah Wah
+12. Wah Wah
 
-14. I'm in Your Mind Fuzz
+13. I'm in Your Mind Fuzz
 
-15. The Balrog
+14. The Balrog
 
-16. Evil Death Roll
+15. Evil Death Roll
 
-17. Robot Stop
+16. Robot Stop
 
-18. Gamma Knife
+17. Gamma Knife
 
-19. Crumbling Castle
+18. Crumbling Castle
 
-20. The Fourth Colour
+19. The Fourth Colour
 
-21. Deserted Dunes Welcome Weary Feet
+20. Deserted Dunes Welcome Weary Feet
 
-22. The Castle in the Air
+21. The Castle in the Air
 
-23. Muddy Water
+22. Muddy Water
 
-24. The Wheel
+23. The Wheel
 
-25. Head On/Pill
+24. Head On/Pill
     (With snippets of Am I In Heaven, Rattlesnake, Cellophane, Robot
     Stop, etc.)
 
-26. The River
+25. The River
     (Part IV)
 
 

@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-12-the-fillmore-san-francisco-ca"
-date = "2017-10-12"
-title = "2017 October 12 @ The Fillmore"
-
-[extra]
-venue = "The Fillmore, San Francisco, CA, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-12"
+venue: "The Fillmore, San Francisco, CA, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures

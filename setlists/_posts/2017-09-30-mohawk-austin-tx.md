@@ -1,12 +1,8 @@
-+++
-slug = "2017-09-30-mohawk-austin-tx"
-date = "2017-09-30"
-title = "2017 September 30 @ Mohawk"
-
-[extra]
-venue = "Mohawk, Austin, TX, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-09-30"
+venue: "Mohawk, Austin, TX, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. Some Context

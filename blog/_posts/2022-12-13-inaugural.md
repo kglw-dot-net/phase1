@@ -3,8 +3,9 @@ title: Inaugural kglw.net Meta-Post
 ---
 
 Welcome to <!-- maybe not quite yet?-->Phase 1 of kglw.net.  
+<!--snippet-->
 
-While the site has been running in a prototype state since October 19th 2022 to define goals and mobilize the team, we have now achieved a baseline of features that allow the site to function as intended.  
+While the site has been running in a prototype state since October 19th 2022 to define goals and mobilize the team, we have now achieved a baseline of features that allow the site to function as intended<!-- spread like lava rise like bread -->.
 
 Assembled by a passionate core, a team of web developers, artists, live show enthusiasts, and writers have come together out of the woodwork of the King Gizzard and The Lizard Wizard fan base to produce this first dedicated hub. Scattered far and wide across the realms of social media and forums, many have envisioned similar projects, but it has taken a larger unified community effort to finally make the successful launch of a project that can serve its own purpose, with its own means, on its own terms.  
 

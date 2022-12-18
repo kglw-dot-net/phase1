@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-15-o2-forum-kentish-town-london-england"
-date = "2017-06-15"
-title = "2017 June 15 @ O2 Forum Kentish Town"
-
-[extra]
-venue = "O2 Forum Kentish Town, London, England"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-15"
+venue: "O2 Forum Kentish Town, London, England"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

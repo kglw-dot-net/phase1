@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-14-royale-boston-ma"
-date = "2018-06-14"
-title = "2018 June 14 @ Royale"
-
-[extra]
-venue = "Royale, Boston, MA, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-14"
+venue: "Royale, Boston, MA, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black

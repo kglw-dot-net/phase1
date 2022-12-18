@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-13-rockhal-club-esch-sur-alzette-luxembourg"
-date = "2019-10-13"
-title = "2019 October 13 @ Rockhal Club"
-
-[extra]
-venue = "Rockhal Club, Esch-sur-Alzette, Luxembourg"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-13"
+venue: "Rockhal Club, Esch-sur-Alzette, Luxembourg"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate

@@ -1,12 +1,8 @@
-+++
-slug = "2017-11-18-the-marquee-rna-showgrounds-brisbane-australia"
-date = "2017-11-18"
-title = "2017 November 18 @ The Marquee"
-
-[extra]
-venue = "The Marquee, RNA Showgrounds, Brisbane, Australia"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-11-18"
+venue: "The Marquee, RNA Showgrounds, Brisbane, Australia"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures

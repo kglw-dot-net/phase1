@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-30-franklin-music-hall-philadelphia-pa"
-date = "2019-08-30"
-title = "2019 August 30 @ Franklin Music Hall"
-
-[extra]
-venue = "Franklin Music Hall, Philadelphia, PA, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-30"
+venue: "Franklin Music Hall, Philadelphia, PA, USA"
+tour: "World Tour `19"
+---
 
 
  1. Planet B
@@ -34,7 +30,6 @@ tour = "World Tour `19"
 12. The Bird Song
 
 13. Let Me Mend the Past
-    (`Sense' was on the setlist in this spot)
 
 14. Billabong Valley
 

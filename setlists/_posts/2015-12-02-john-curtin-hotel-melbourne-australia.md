@@ -1,11 +1,7 @@
-+++
-slug = "2015-12-02-john-curtin-hotel-melbourne-australia"
-date = "2015-12-02"
-title = "2015 December 2 @ John Curtin Hotel"
-
-[extra]
-venue = "John Curtin Hotel, Melbourne, Australia"
-+++
+---
+date: "2015-12-02"
+venue: "John Curtin Hotel, Melbourne, Australia"
+---
 
  1. Robot Stop
 

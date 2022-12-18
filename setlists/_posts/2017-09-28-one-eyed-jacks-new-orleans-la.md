@@ -1,12 +1,8 @@
-+++
-slug = "2017-09-28-one-eyed-jacks-new-orleans-la"
-date = "2017-09-28"
-title = "2017 September 28 @ One Eyed Jacks"
-
-[extra]
-venue = "One Eyed Jacks, New Orleans, LA, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-09-28"
+venue: "One Eyed Jacks, New Orleans, LA, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. Some Context

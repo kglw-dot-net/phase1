@@ -1,55 +1,47 @@
-+++
-slug = "2019-10-15-alcatraz-milan-italy"
-date = "2019-10-15"
-title = "2019 October 15 @ Alcatraz"
-
-[extra]
-venue = "Alcatraz, Milan, Italy"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-15"
+venue: "Alcatraz, Milan, Italy"
+tour: "World Tour `19"
+---
 
 
- 1. Song played from tape
-    Evil Star
+ 1. Self-Immolate
 
- 2. Self-Immolate
+ 2. Organ Farmer
 
- 3. Organ Farmer
+ 3. Plastic Boogie
 
- 4. Plastic Boogie
+ 4. Inner Cell
 
- 5. Inner Cell
+ 5. Loyalty
 
- 6. Loyalty
+ 6. Horology
 
- 7. Horology
+ 7. This Thing
 
- 8. This Thing
+ 8. The Bird Song
 
- 9. The Bird Song
+ 9. Cyboogie
 
-10. Cyboogie
+10. The Great Chain of Being
 
-11. The Great Chain of Being
+11. Venusian 2
 
-12. Venusian 2
+12. Hell
 
-13. Hell
+13. Hot Water
 
-14. Hot Water
+14. Evil Death Roll
 
-15. Evil Death Roll
+15. The Bitter Boogie
 
-16. The Bitter Boogie
+16. Digital Black
 
-17. Digital Black
+17. Han-Tyumi the Confused Cyborg
 
-18. Han-Tyumi the Confused Cyborg
-    (Tour debut)
+18. Vomit Coffin
 
-19. Vomit Coffin
-
-20. Murder of the Universe
+19. Murder of the Universe
 
 
 Note: 'The Great Chain of Being' was on the printed setlist before 'Hot

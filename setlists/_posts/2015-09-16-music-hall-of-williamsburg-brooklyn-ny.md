@@ -1,11 +1,7 @@
-+++
-slug = "2015-09-16-music-hall-of-williamsburg-brooklyn-ny"
-date = "2015-09-16"
-title = "2015 September 16 @ Music Hall of Williamsburg"
-
-[extra]
-venue = "Music Hall of Williamsburg, Brooklyn, NY, USA"
-+++
+---
+date: "2015-09-16"
+venue: "Music Hall of Williamsburg, Brooklyn, NY, USA"
+---
 
  1. Gamma Knife
 

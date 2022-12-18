@@ -1,12 +1,8 @@
-+++
-slug = "2019-11-15-kuningan-city-jakarta-indonesia"
-date = "2019-11-15"
-title = "2019 November 15 @ Kuningan City"
-
-[extra]
-venue = "Kuningan City, Jakarta, Indonesia"
-tour = "World Tour `19"
-+++
+---
+date: "2019-11-15"
+venue: "Kuningan City, Jakarta, Indonesia"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate

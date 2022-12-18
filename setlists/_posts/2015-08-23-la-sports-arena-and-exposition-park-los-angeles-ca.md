@@ -1,11 +1,9 @@
-+++
-slug = "2015-08-23-la-sports-arena-and-exposition-park-los-angeles-ca"
-date = "2015-08-23"
-title = "2015 August 23 @ LA Sports Arena & Exposition Park"
+---
+date: "2015-08-23"
+venue: "LA Sports Arena & Exposition Park, Los Angeles, CA, USA"
+---
 
-[extra]
-venue = "LA Sports Arena & Exposition Park, Los Angeles, CA, USA"
-+++
+(incomplete / incorrect order)
 
  1. I'm in Your Mind
 
@@ -18,6 +16,3 @@ venue = "LA Sports Arena & Exposition Park, Los Angeles, CA, USA"
  5. Hot Water
 
  6. Trapdoor
-
-
-Note: Setlist incomplete and out of order

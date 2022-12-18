@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-15-underground-arts-philadelphia-pa"
-date = "2016-05-15"
-title = "2016 May 15 @ Underground Arts"
-
-[extra]
-venue = "Underground Arts, Philadelphia, PA, USA"
-+++
+---
+date: "2016-05-15"
+venue: "Underground Arts, Philadelphia, PA, USA"
+---
 
  1. Robot Stop
 

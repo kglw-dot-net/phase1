@@ -1,50 +1,48 @@
-+++
-slug = "2018-03-14-salon-iksv-istanbul-turkey"
-date = "2018-03-14"
-title = "2018 March 14 @ Salon IKSV"
-
-[extra]
-venue = "Salon IKSV, Istanbul, Turkey"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-03-14"
+venue: "Salon IKSV, Istanbul, Turkey"
+tour: "2018 UK/EU Tour"
+---
 
 
- 1. Microtonal
- 2. Rattlesnake
+## Microtonal
 
- 3. Nuclear Fusion
+ 1. Rattlesnake
 
- 4. All Is Known
+ 2. Nuclear Fusion
 
- 5. Billabong Valley
+ 3. All Is Known
 
- 6. Doom City
+ 4. Billabong Valley
 
- 7. D-Day
+ 5. Doom City
 
- 8. Sleep Drifter
+ 6. D-Day
 
- 9. Normal
-10. Welcome to an Altered Future
+ 7. Sleep Drifter
 
-11. Digital Black
+## Normal
 
-12. Han-Tyumi the Confused Cyborg
+ 1. Welcome to an Altered Future
 
-13. The Lord of Lightning
+ 2. Digital Black
 
-14. Cellophane
+ 3. Han-Tyumi the Confused Cyborg
 
-15. Crumbling Castle
+ 4. The Lord of Lightning
 
-16. The Fourth Colour
+ 5. Cellophane
 
-17. Robot Stop
+ 6. Crumbling Castle
 
-18. Big Fig Wasp
+ 7. The Fourth Colour
 
-19. Gamma Knife
+ 8. Robot Stop
 
-20. The River
+ 9. Big Fig Wasp
+
+10. Gamma Knife
+
+11. The River
 
 

@@ -1,11 +1,7 @@
-+++
-slug = "2016-11-26-coburg-velodrome-melbourne-australia"
-date = "2016-11-26"
-title = "2016 November 26 @ Coburg Velodrome"
-
-[extra]
-venue = "Coburg Velodrome, Melbourne, Australia"
-+++
+---
+date: "2016-11-26"
+venue: "Coburg Velodrome, Melbourne, Australia"
+---
 
  1. Gamma Knife
 
@@ -19,8 +15,8 @@ venue = "Coburg Velodrome, Melbourne, Australia"
 
  6. Cellophane
 
- 7. (Unknown)
-    (new song)
+ 7. (new song)
+
  8. Evil Death Roll
 
  9. Invisible Face

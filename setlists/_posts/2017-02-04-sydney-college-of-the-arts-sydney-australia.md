@@ -1,11 +1,7 @@
-+++
-slug = "2017-02-04-sydney-college-of-the-arts-sydney-australia"
-date = "2017-02-04"
-title = "2017 February 4 @ Sydney College of the Arts"
-
-[extra]
-venue = "Sydney College of the Arts, Sydney, Australia"
-+++
+---
+date: "2017-02-04"
+venue: "Sydney College of the Arts, Sydney, Australia"
+---
 
  1. Gamma Knife
 

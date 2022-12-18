@@ -1,56 +1,47 @@
-+++
-slug = "2019-08-23-riverside-theater-milwaukee-wi"
-date = "2019-08-23"
-title = "2019 August 23 @ Riverside Theater"
-
-[extra]
-venue = "Riverside Theater, Milwaukee, WI, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-23"
+venue: "Riverside Theater, Milwaukee, WI, USA"
+tour: "World Tour `19"
+---
 
 
- 1. Song played from tape
-    Evil Star
+ 1. Venusian 2
 
- 2. Venusian 2
+ 2. Venusian 1
 
- 3. Venusian 1
+ 3. The Great Chain of Being
 
- 4. The Great Chain of Being
+ 4. Stressin'
 
- 5. Stressin'
+ 5. Inner Cell
 
- 6. Inner Cell
+ 6. Loyalty
 
- 7. Loyalty
+ 7. Horology
 
- 8. Horology
+ 8. This Thing
 
- 9. This Thing
+ 9. Down the Sink
 
-10. Down the Sink
-    (Live Debut)
-
-11. Wah Wah
+10. Wah Wah
     (with The River intro)
 
-12. Road Train
+11. Road Train
 
-13. Acarine
+12. Acarine
 
-14. Murder of the Universe
-    (not played in full due to Han-Tyumi synth not working)
+13. Murder of the Universe
+    (incomplete; Han-Tyumi synth not working)
 
-15. Cyboogie
+14. Cyboogie
 
-16. Self-Immolate
+15. Self-Immolate
 
-17. Mars for the Rich
-    (not listed on printed setlist)
+16. Mars for the Rich
 
-18. Perihelion
+17. Perihelion
 
-19. Head On/Pill
+18. Head On/Pill
     (w/ Hot Water/Hot Wax/Rattlesnake/Alter Me/Heaven?/Mind
     Fuzz/Cellophane/Stressin' snippets)
 

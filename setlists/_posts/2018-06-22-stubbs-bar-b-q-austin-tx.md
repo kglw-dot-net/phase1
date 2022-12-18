@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-22-stubbs-bar-b-q-austin-tx"
-date = "2018-06-22"
-title = "2018 June 22 @ Stubb's Bar-B-Q"
-
-[extra]
-venue = "Stubb's Bar-B-Q, Austin, TX, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-22"
+venue: "Stubb's Bar-B-Q, Austin, TX, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black
@@ -42,7 +38,7 @@ tour = "2018 North American Tour"
 16. Rattlesnake
 
 17. The River
-    (partial)
+    (incomplete)
 
 18. Wah Wah
 

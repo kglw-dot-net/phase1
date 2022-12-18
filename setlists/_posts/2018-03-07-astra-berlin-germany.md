@@ -1,55 +1,53 @@
-+++
-slug = "2018-03-07-astra-berlin-germany"
-date = "2018-03-07"
-title = "2018 March 7 @ Astra"
-
-[extra]
-venue = "Astra, Berlin, Germany"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-03-07"
+venue: "Astra, Berlin, Germany"
+tour: "2018 UK/EU Tour"
+---
 
 
- 1. Microtonal Set:
- 2. Rattlesnake
+## set 1 microtonal
 
- 3. Greenhouse Heat Death
+ 1. Rattlesnake
 
- 4. Nuclear Fusion
+ 2. Greenhouse Heat Death
 
- 5. D-Day
+ 3. Nuclear Fusion
 
- 6. All Is Known
+ 4. D-Day
 
- 7. Sleep Drifter
+ 5. All Is Known
 
- 8. The Book
+ 6. Sleep Drifter
+
+ 7. The Book
     (Instrumental)
 
- 9. Regular Tuning:
-10. Welcome to an Altered Future
+## set 2
 
-11. Digital Black
+ 1. Welcome to an Altered Future
 
-12. Han-Tyumi the Confused Cyborg
+ 2. Digital Black
 
-13. The Lord of Lightning
+ 3. Han-Tyumi the Confused Cyborg
 
-14. Polygondwanaland
+ 4. The Lord of Lightning
 
-15. Crumbling Castle
+ 5. Polygondwanaland
 
-16. The Fourth Colour
+ 6. Crumbling Castle
 
-17. Robot Stop
+ 7. The Fourth Colour
+
+ 8. Robot Stop
     (Am I In Heaven, Hot Water and Master of the Universe Intro)
 
-18. Big Fig Wasp
+ 9. Big Fig Wasp
 
-19. Gamma Knife
+10. Gamma Knife
 
-20. The River
+11. The River
 
-21. God Is in the Rhythm
+12. God Is in the Rhythm
     (with King Khan) (King Khan improvised lyrics over the song)
 
 

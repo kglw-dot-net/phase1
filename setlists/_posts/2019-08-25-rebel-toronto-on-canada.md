@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-25-rebel-toronto-on-canada"
-date = "2019-08-25"
-title = "2019 August 25 @ REBEL"
-
-[extra]
-venue = "REBEL, Toronto, ON, Canada"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-25"
+venue: "REBEL, Toronto, ON, Canada"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate

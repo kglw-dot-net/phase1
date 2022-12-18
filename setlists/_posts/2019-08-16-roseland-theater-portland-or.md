@@ -1,50 +1,48 @@
-+++
-slug = "2019-08-16-roseland-theater-portland-or"
-date = "2019-08-16"
-title = "2019 August 16 @ Roseland Theater"
-
-[extra]
-venue = "Roseland Theater, Portland, OR, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-16"
+venue: "Roseland Theater, Portland, OR, USA"
+tour: "World Tour `19"
+---
 
 
- 1. Set 1: Infest the Rats' Nest
- 2. Planet B
+## Set 1: Infest the Rats' Nest
 
- 3. Mars for the Rich
+ 1. Planet B
 
- 4. Organ Farmer
+ 2. Mars for the Rich
 
- 5. Superbug
+ 3. Organ Farmer
 
- 6. Venusian 1
+ 4. Superbug
 
- 7. Perihelion
+ 5. Venusian 1
 
- 8. Venusian 2
+ 6. Perihelion
 
- 9. Self-Immolate
+ 7. Venusian 2
 
-10. Hell
+ 8. Self-Immolate
 
-11. Set 2:
-12. Plastic Boogie
+ 9. Hell
 
-13. This Thing
+## Set 2:
 
-14. Tezeta
+ 1. Plastic Boogie
 
-15. Billabong Valley
+ 2. This Thing
 
-16. Open Water
+ 3. Tezeta
 
-17. Cyboogie
+ 4. Billabong Valley
 
-18. Am I in Heaven?
-    (with Altered Beast, Robot Stop, Cellophane tease)
+ 5. Open Water
 
-19. The River
+ 6. Cyboogie
+
+ 7. Am I in Heaven?
+     (with Altered Beast, Robot Stop, Cellophane tease)
+
+ 8. The River
 
 
 Note: "Infest the Rats' Nest" album was released on that day.

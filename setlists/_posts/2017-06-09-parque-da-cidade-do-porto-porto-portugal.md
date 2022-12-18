@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-09-parque-da-cidade-do-porto-porto-portugal"
-date = "2017-06-09"
-title = "2017 June 9 @ Parque da Cidade do Porto"
-
-[extra]
-venue = "Parque da Cidade do Porto, Porto, Portugal"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-09"
+venue: "Parque da Cidade do Porto, Porto, Portugal"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-19-festsaal-kreuzberg-berlin-germany"
-date = "2017-06-19"
-title = "2017 June 19 @ Festsaal Kreuzberg"
-
-[extra]
-venue = "Festsaal Kreuzberg, Berlin, Germany"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-19"
+venue: "Festsaal Kreuzberg, Berlin, Germany"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

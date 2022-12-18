@@ -1,11 +1,7 @@
-+++
-slug = "2015-06-16-adelaide-hall-toronto-on-canada"
-date = "2015-06-16"
-title = "2015 June 16 @ Adelaide Hall"
-
-[extra]
-venue = "Adelaide Hall, Toronto, ON, Canada"
-+++
+---
+date: "2015-06-16"
+venue: "Adelaide Hall, Toronto, ON, Canada"
+---
 
  1. I'm in Your Mind
 

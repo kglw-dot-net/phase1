@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-04-mercy-lounge-nashville-tn"
-date = "2016-05-04"
-title = "2016 May 4 @ Mercy Lounge"
-
-[extra]
-venue = "Mercy Lounge, Nashville, TN, USA"
-+++
+---
+date: "2016-05-04"
+venue: "Mercy Lounge, Nashville, TN, USA"
+---
 
  1. Robot Stop
 
@@ -35,7 +31,7 @@ venue = "Mercy Lounge, Nashville, TN, USA"
 
 14. Evil Death Roll
 
-16. Encore:
-17. Head On/Pill
+15. Head On/Pill
+    (Encore)
 
 

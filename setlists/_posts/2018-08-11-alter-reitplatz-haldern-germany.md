@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-11-alter-reitplatz-haldern-germany"
-date = "2018-08-11"
-title = "2018 August 11 @ Alter Reitplatz"
-
-[extra]
-venue = "Alter Reitplatz, Haldern, Germany"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-11"
+venue: "Alter Reitplatz, Haldern, Germany"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

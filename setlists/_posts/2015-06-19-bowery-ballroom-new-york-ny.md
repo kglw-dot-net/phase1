@@ -1,11 +1,7 @@
-+++
-slug = "2015-06-19-bowery-ballroom-new-york-ny"
-date = "2015-06-19"
-title = "2015 June 19 @ Bowery Ballroom"
-
-[extra]
-venue = "Bowery Ballroom, New York, NY, USA"
-+++
+---
+date: "2015-06-19"
+venue: "Bowery Ballroom, New York, NY, USA"
+---
 
  1. I'm in Your Mind
 

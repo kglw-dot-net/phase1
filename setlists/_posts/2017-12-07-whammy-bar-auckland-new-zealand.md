@@ -1,12 +1,8 @@
-+++
-slug = "2017-12-07-whammy-bar-auckland-new-zealand"
-date = "2017-12-07"
-title = "2017 December 7 @ Whammy Bar"
-
-[extra]
-venue = "Whammy Bar, Auckland, New Zealand"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-12-07"
+venue: "Whammy Bar, Auckland, New Zealand"
+tour: "Murder of the Universe"
+---
 
 
  1. Welcome to an Altered Future

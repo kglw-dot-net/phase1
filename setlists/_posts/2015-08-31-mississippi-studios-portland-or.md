@@ -1,11 +1,7 @@
-+++
-slug = "2015-08-31-mississippi-studios-portland-or"
-date = "2015-08-31"
-title = "2015 August 31 @ Mississippi Studios"
-
-[extra]
-venue = "Mississippi Studios, Portland, OR, USA"
-+++
+---
+date: "2015-08-31"
+venue: "Mississippi Studios, Portland, OR, USA"
+---
 
  1. I'm in Your Mind
 

@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-18-soda-bar-san-diego-ca"
-date = "2016-05-18"
-title = "2016 May 18 @ Soda Bar"
-
-[extra]
-venue = "Soda Bar, San Diego, CA, USA"
-+++
+---
+date: "2016-05-18"
+venue: "Soda Bar, San Diego, CA, USA"
+---
 
  1. Robot Stop
 

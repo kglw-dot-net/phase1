@@ -1,12 +1,8 @@
-+++
-slug = "2018-10-09-c3-stage-guadalajara-mexico"
-date = "2018-10-09"
-title = "2018 October 9 @ C3 Stage"
-
-[extra]
-venue = "C3 Stage, Guadalajara, Mexico"
-tour = "Mexico Tour 2018"
-+++
+---
+date: "2018-10-09"
+venue: "C3 Stage, Guadalajara, Mexico"
+tour: "Mexico Tour 2018"
+---
 
 
  1. Rattlesnake

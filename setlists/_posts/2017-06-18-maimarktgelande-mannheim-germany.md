@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-18-maimarktgelande-mannheim-germany"
-date = "2017-06-18"
-title = "2017 June 18 @ Maimarktgelände"
-
-[extra]
-venue = "Maimarktgelände, Mannheim, Germany"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-18"
+venue: "Maimarktgelände, Mannheim, Germany"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

@@ -1,12 +1,8 @@
-+++
-slug = "2014-12-12-the-roller-den-sydney-australia"
-date = "2014-12-12"
-title = "2014 December 12 @ The Roller Den"
-
-[extra]
-venue = "The Roller Den, Sydney, Australia"
-tour = "I'm In Your Mind Fuzz"
-+++
+---
+date: "2014-12-12"
+venue: "The Roller Den, Sydney, Australia"
+tour: "I'm In Your Mind Fuzz"
+---
 
 
  1. I'm in Your Mind

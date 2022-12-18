@@ -1,71 +1,64 @@
-+++
-slug = "2018-02-21-o2-academy-brixton-london-england"
-date = "2018-02-21"
-title = "2018 February 21 @ O2 Academy Brixton"
-
-[extra]
-venue = "O2 Academy Brixton, London, England"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-02-21"
+venue: "O2 Academy Brixton, London, England"
+tour: "2018 UK/EU Tour"
+---
 
 
- 1. Song played from tape
-    The Coffee Cola Song
-    (Francis Bebey song)
+## set 1 Microtonal
 
- 2. Microtonal
- 3. Rattlesnake
+ 2. Rattlesnake
 
- 4. Greenhouse Heat Death
+ 3. Greenhouse Heat Death
 
- 5. Nuclear Fusion
+ 4. Nuclear Fusion
 
- 6. Open Water
+ 5. Open Water
 
- 7. All Is Known
+ 6. All Is Known
 
- 8. Anoxia
+ 7. Anoxia
 
- 9. D-Day
+ 8. D-Day
 
-10. Sleep Drifter
+ 9. Sleep Drifter
 
-11. The Book
+10. The Book
     (Instrumental Only)
 
-12. Billabong Valley
+11. Billabong Valley
 
-13. Doom City
+12. Doom City
     (With `Crumbling Castle ` outro)
 
-14. Song played from tape
-    Sister Ray
-    (The Velvet Underground song) (Played with a 15 minute
-    countdown on the screen, during the intermission.)
+## intermission
 
-15. Set 2
-16. Evil Death Roll
+"Sister Ray" (The Velvet Underground song) played with a 15 minute countdown on the screen
 
-17. Welcome to an Altered Future
+## set 2
 
-18. Digital Black
+ 1. Evil Death Roll
 
-19. Han-Tyumi the Confused Cyborg
+ 2. Welcome to an Altered Future
 
-20. The Lord of Lightning
+ 3. Digital Black
 
-21. Cellophane
+ 4. Han-Tyumi the Confused Cyborg
 
-22. Polygondwanaland
+ 5. The Lord of Lightning
 
-23. Crumbling Castle
+ 6. Cellophane
 
-24. The Fourth Colour
+ 7. Polygondwanaland
 
-25. Robot Stop
+ 8. Crumbling Castle
 
-26. Big Fig Wasp
+ 9. The Fourth Colour
 
-27. Gamma Knife
+10. Robot Stop
+
+11. Big Fig Wasp
+
+12. Gamma Knife
 
 

@@ -1,12 +1,8 @@
-+++
-slug = "2019-09-04-stubbs-bar-b-q-austin-tx"
-date = "2019-09-04"
-title = "2019 September 4 @ Stubb's Bar-B-Q"
-
-[extra]
-venue = "Stubb's Bar-B-Q, Austin, TX, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-09-04"
+venue: "Stubb's Bar-B-Q, Austin, TX, USA"
+tour: "World Tour `19"
+---
 
 
  1. Planet B
@@ -46,7 +42,3 @@ tour = "World Tour `19"
 
 18. Am I in Heaven?
     (with snippets of Altered Beast and Robot Stop)
-
-
-Note: Perihelion also on physical setlist after Self-Immolate but
-skipped due to time constraints

@@ -1,12 +1,8 @@
-+++
-slug = "2016-09-08-electric-brixton-london-england"
-date = "2016-09-08"
-title = "2016 September 8 @ Electric Brixton"
-
-[extra]
-venue = "Electric Brixton, London, England"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-09-08"
+venue: "Electric Brixton, London, England"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-05-macka-kucukciftlik-park-istanbul-turkey"
-date = "2018-08-05"
-title = "2018 August 5 @ Maçka Küçükçiftlik Park"
-
-[extra]
-venue = "Maçka Küçükçiftlik Park, Istanbul, Turkey"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-05"
+venue: "Maçka Küçükçiftlik Park, Istanbul, Turkey"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

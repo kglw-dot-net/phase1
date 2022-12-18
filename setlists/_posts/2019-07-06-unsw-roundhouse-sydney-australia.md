@@ -1,12 +1,8 @@
-+++
-slug = "2019-07-06-unsw-roundhouse-sydney-australia"
-date = "2019-07-06"
-title = "2019 July 6 @ UNSW Roundhouse"
-
-[extra]
-venue = "UNSW Roundhouse, Sydney, Australia"
-tour = "World Tour `19"
-+++
+---
+date: "2019-07-06"
+venue: "UNSW Roundhouse, Sydney, Australia"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2
@@ -29,18 +25,14 @@ tour = "World Tour `19"
  9. Cyboogie
 
 10. Altered Beast III
-    (Tour debut)
 
 11. Alter Me III
-    (Tour debut)
 
 12. Altered Beast IV
-    (Tour debut)
 
 13. Evil Death Roll
 
 14. Muddy Water
-    (Tour debut)
 
 15. Melting
 

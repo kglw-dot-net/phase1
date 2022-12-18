@@ -1,58 +1,49 @@
-+++
-slug = "2016-07-08-croxton-park-hotel-melbourne-australia"
-date = "2016-07-08"
-title = "2016 July 8 @ Croxton Park Hotel"
-
-[extra]
-venue = "Croxton Park Hotel, Melbourne, Australia"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-07-08"
+venue: "Croxton Park Hotel, Melbourne, Australia"
+tour: "Nonagon Infinity"
+---
 
 
- 1. Song played from tape
-    Overkill
-    (Motörhead song)
+ 1. Robot Stop
 
- 2. Robot Stop
+ 2. Big Fig Wasp
 
- 3. Big Fig Wasp
+ 3. Gamma Knife
 
- 4. Gamma Knife
+ 4. People-Vultures
 
- 5. People-Vultures
+ 5. Mr. Beat
 
- 6. Mr. Beat
+ 6. The Lord of Lightning
 
- 7. The Lord of Lightning
+ 7. I'm in Your Mind
+
+ 8. I'm Not in Your Mind
+
+ 9. Cellophane
+
+10. I'm in Your Mind Fuzz
+
+11. The Balrog
     (New song)
 
- 8. I'm in Your Mind
+12. Trapdoor
 
- 9. I'm Not in Your Mind
+13. Evil Death Roll
 
-10. Cellophane
+14. Invisible Face
 
-11. I'm in Your Mind Fuzz
-
-12. The Balrog
-    (New song)
-
-13. Trapdoor
-
-14. Evil Death Roll
-
-15. Invisible Face
-
-16. The River
+15. The River
     (Shortened)
 
-17. Wah Wah
+16. Wah Wah
 
-18. Road Train
+17. Road Train
 
-19. Hot Water
+18. Hot Water
 
-20. Robot Stop
+19. Robot Stop
     (Reprise)
 
 

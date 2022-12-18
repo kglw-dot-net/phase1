@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-20-alter-schlachthof-dresden-germany"
-date = "2018-08-20"
-title = "2018 August 20 @ Alter Schlachthof"
-
-[extra]
-venue = "Alter Schlachthof, Dresden, Germany"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-20"
+venue: "Alter Schlachthof, Dresden, Germany"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

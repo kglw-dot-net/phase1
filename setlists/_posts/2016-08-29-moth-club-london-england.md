@@ -1,12 +1,8 @@
-+++
-slug = "2016-08-29-moth-club-london-england"
-date = "2016-08-29"
-title = "2016 August 29 @ MOTH Club"
-
-[extra]
-venue = "MOTH Club, London, England"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-08-29"
+venue: "MOTH Club, London, England"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

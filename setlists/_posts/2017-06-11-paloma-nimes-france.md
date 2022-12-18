@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-11-paloma-nimes-france"
-date = "2017-06-11"
-title = "2017 June 11 @ Paloma"
-
-[extra]
-venue = "Paloma, Nîmes, France"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-11"
+venue: "Paloma, Nîmes, France"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

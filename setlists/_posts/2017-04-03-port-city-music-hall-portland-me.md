@@ -1,12 +1,8 @@
-+++
-slug = "2017-04-03-port-city-music-hall-portland-me"
-date = "2017-04-03"
-title = "2017 April 3 @ Port City Music Hall"
-
-[extra]
-venue = "Port City Music Hall, Portland, ME, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-03"
+venue: "Port City Music Hall, Portland, ME, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Doom City
@@ -43,7 +39,6 @@ tour = "Flying Microtonal Banana"
 16. The Lord of Lightning
 
 17. Vomit Coffin
-    (New Song)
 
 18. Am I in Heaven?
     (medley:Cellophane/The River/Head On/Pill/I'm In Your Mind/Sea of

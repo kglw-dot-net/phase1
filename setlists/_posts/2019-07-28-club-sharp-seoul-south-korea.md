@@ -1,12 +1,8 @@
-+++
-slug = "2019-07-28-club-sharp-seoul-south-korea"
-date = "2019-07-28"
-title = "2019 July 28 @ Club S.H.A.R.P."
-
-[extra]
-venue = "Club S.H.A.R.P., Seoul, South Korea"
-tour = "World Tour `19"
-+++
+---
+date: "2019-07-28"
+venue: "Club S.H.A.R.P., Seoul, South Korea"
+tour: "World Tour `19"
+---
 
 
  1. Infest the Rats' Nest:
@@ -17,7 +13,6 @@ tour = "World Tour `19"
  4. Organ Farmer
 
  5. Superbug
-    (Live debut)
 
  6. Venusian 1
 
@@ -29,8 +24,8 @@ tour = "World Tour `19"
 
 10. Hell
 
-11. Encore:
-12. The Great Chain of Being
+11. The Great Chain of Being
+    (encore)
 
 
-Note: Secret gig after Jisan Forest Resort gig was cancelled. Last gig
+Note: Secret gig after Jisan Forest Resort gig was cancelled.

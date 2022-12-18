@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-24-spazio-211-turin-italy"
-date = "2018-08-24"
-title = "2018 August 24 @ Spazio 211"
-
-[extra]
-venue = "Spazio 211, Turin, Italy"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-24"
+venue: "Spazio 211, Turin, Italy"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

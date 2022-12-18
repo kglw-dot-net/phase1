@@ -1,12 +1,8 @@
-+++
-slug = "2016-08-31-doornroosje-nijmegen-netherlands"
-date = "2016-08-31"
-title = "2016 August 31 @ Doornroosje"
-
-[extra]
-venue = "Doornroosje, Nijmegen, Netherlands"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-08-31"
+venue: "Doornroosje, Nijmegen, Netherlands"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

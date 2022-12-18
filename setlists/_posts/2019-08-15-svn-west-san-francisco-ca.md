@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-15-svn-west-san-francisco-ca"
-date = "2019-08-15"
-title = "2019 August 15 @ SVN West"
-
-[extra]
-venue = "SVN West, San Francisco, CA, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-15"
+venue: "SVN West, San Francisco, CA, USA"
+tour: "World Tour `19"
+---
 
 
  1. Planet B
@@ -32,7 +28,6 @@ tour = "World Tour `19"
 11. Work This Time
 
 12. Let Me Mend the Past
-    (Tour debut)
 
 13. Anoxia
 
@@ -45,7 +40,6 @@ tour = "World Tour `19"
 17. Hell
 
 18. The Bitter Boogie
-    (Tour debut; Boogie medley with elements of Cyboogie and Boogieman
-    Sam)
+    (Boogie medley with elements of Cyboogie and Boogieman Sam)
 
 

@@ -1,12 +1,8 @@
-+++
-slug = "2019-09-06-bomb-factory-dallas-tx"
-date = "2019-09-06"
-title = "2019 September 6 @ Bomb Factory"
-
-[extra]
-venue = "Bomb Factory, Dallas, TX, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-09-06"
+venue: "Bomb Factory, Dallas, TX, USA"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate

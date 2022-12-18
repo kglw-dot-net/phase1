@@ -1,12 +1,8 @@
-+++
-slug = "2019-09-02-tabernacle-atlanta-ga"
-date = "2019-09-02"
-title = "2019 September 2 @ Tabernacle"
-
-[extra]
-venue = "Tabernacle, Atlanta, GA, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-09-02"
+venue: "Tabernacle, Atlanta, GA, USA"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2

@@ -1,12 +1,8 @@
-+++
-slug = "2016-07-23-north-byron-parklands-byron-bay-australia"
-date = "2016-07-23"
-title = "2016 July 23 @ North Byron Parklands"
-
-[extra]
-venue = "North Byron Parklands, Byron Bay, Australia"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-07-23"
+venue: "North Byron Parklands, Byron Bay, Australia"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

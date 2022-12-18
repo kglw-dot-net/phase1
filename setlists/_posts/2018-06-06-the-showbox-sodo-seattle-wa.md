@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-06-the-showbox-sodo-seattle-wa"
-date = "2018-06-06"
-title = "2018 June 6 @ The Showbox SoDo"
-
-[extra]
-venue = "The Showbox SoDo, Seattle, WA, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-06"
+venue: "The Showbox SoDo, Seattle, WA, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black

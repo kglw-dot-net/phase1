@@ -1,12 +1,14 @@
 ---
-layout: setlist
 date: "2022-12-10"
 year: 2022
-title: "Return to Oz"
 venue: "Palais Theater, Melbourne, Australia"
 tour: "World Tour '22"
 modified_date: 2022-12-14
+excerpt_separator: <!--excerpt-->
 ---
+
+Back to Oz!
+<!--excerpt-->
 
 1.  Crumbling Castle
     (>) <!-- todo use https://jekyllrb.com/docs/includes/#passing-parameters-to-includes for footnotes & segues -->

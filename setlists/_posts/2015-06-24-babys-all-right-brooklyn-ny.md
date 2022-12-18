@@ -1,11 +1,7 @@
-+++
-slug = "2015-06-24-babys-all-right-brooklyn-ny"
-date = "2015-06-24"
-title = "2015 June 24 @ Baby's All Right"
-
-[extra]
-venue = "Baby's All Right, Brooklyn, NY, USA"
-+++
+---
+date: "2015-06-24"
+venue: "Baby's All Right, Brooklyn, NY, USA"
+---
 
  1. I'm in Your Mind
 

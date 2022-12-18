@@ -1,12 +1,8 @@
-+++
-slug = "2014-11-16-paradiso-kleine-zaal-amsterdam-netherlands"
-date = "2014-11-16"
-title = "2014 November 16 @ Paradiso Kleine Zaal"
-
-[extra]
-venue = "Paradiso Kleine Zaal, Amsterdam, Netherlands"
-tour = "I'm In Your Mind Fuzz Europe 2014"
-+++
+---
+date: "2014-11-16"
+venue: "Paradiso Kleine Zaal, Amsterdam, Netherlands"
+tour: "I'm In Your Mind Fuzz Europe 2014"
+---
 
 
  1. I'm in Your Mind

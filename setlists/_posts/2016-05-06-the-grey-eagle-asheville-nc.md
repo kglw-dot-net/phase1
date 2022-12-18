@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-06-the-grey-eagle-asheville-nc"
-date = "2016-05-06"
-title = "2016 May 6 @ The Grey Eagle"
-
-[extra]
-venue = "The Grey Eagle, Asheville, NC, USA"
-+++
+---
+date: "2016-05-06"
+venue: "The Grey Eagle, Asheville, NC, USA"
+---
 
  1. Robot Stop
 
@@ -31,7 +27,7 @@ venue = "The Grey Eagle, Asheville, NC, USA"
 
 12. Evil Death Roll
 
-14. Encore:
-15. Head On/Pill
+13. Head On/Pill
+    (Encore)
 
 

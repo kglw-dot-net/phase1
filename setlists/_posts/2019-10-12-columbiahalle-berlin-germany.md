@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-12-columbiahalle-berlin-germany"
-date = "2019-10-12"
-title = "2019 October 12 @ Columbiahalle"
-
-[extra]
-venue = "Columbiahalle, Berlin, Germany"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-12"
+venue: "Columbiahalle, Berlin, Germany"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2

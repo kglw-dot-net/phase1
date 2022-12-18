@@ -1,12 +1,8 @@
-+++
-slug = "2017-04-17-the-roxy-west-hollywood-ca"
-date = "2017-04-17"
-title = "2017 April 17 @ The Roxy"
-
-[extra]
-venue = "The Roxy, West Hollywood, CA, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-17"
+venue: "The Roxy, West Hollywood, CA, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Open Water

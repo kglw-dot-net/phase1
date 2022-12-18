@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-24-aragon-ballroom-chicago-il"
-date = "2019-08-24"
-title = "2019 August 24 @ Aragon Ballroom"
-
-[extra]
-venue = "Aragon Ballroom, Chicago, IL, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-24"
+venue: "Aragon Ballroom, Chicago, IL, USA"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate

@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-23-the-new-parish-oakland-ca"
-date = "2016-05-23"
-title = "2016 May 23 @ The New Parish"
-
-[extra]
-venue = "The New Parish, Oakland, CA, USA"
-+++
+---
+date: "2016-05-23"
+venue: "The New Parish, Oakland, CA, USA"
+---
 
  1. Robot Stop
 

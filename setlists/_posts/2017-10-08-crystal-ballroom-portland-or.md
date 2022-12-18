@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-08-crystal-ballroom-portland-or"
-date = "2017-10-08"
-title = "2017 October 8 @ Crystal Ballroom"
-
-[extra]
-venue = "Crystal Ballroom, Portland, OR, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-08"
+venue: "Crystal Ballroom, Portland, OR, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures

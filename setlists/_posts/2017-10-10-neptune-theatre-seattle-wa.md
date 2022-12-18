@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-10-neptune-theatre-seattle-wa"
-date = "2017-10-10"
-title = "2017 October 10 @ Neptune Theatre"
-
-[extra]
-venue = "Neptune Theatre, Seattle, WA, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-10"
+venue: "Neptune Theatre, Seattle, WA, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures

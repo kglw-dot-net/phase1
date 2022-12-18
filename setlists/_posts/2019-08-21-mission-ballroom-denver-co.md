@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-21-mission-ballroom-denver-co"
-date = "2019-08-21"
-title = "2019 August 21 @ Mission Ballroom"
-
-[extra]
-venue = "Mission Ballroom, Denver, CO, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-21"
+venue: "Mission Ballroom, Denver, CO, USA"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate

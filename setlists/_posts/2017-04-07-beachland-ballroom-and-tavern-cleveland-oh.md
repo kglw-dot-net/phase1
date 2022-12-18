@@ -1,12 +1,8 @@
-+++
-slug = "2017-04-07-beachland-ballroom-and-tavern-cleveland-oh"
-date = "2017-04-07"
-title = "2017 April 7 @ Beachland Ballroom and Tavern"
-
-[extra]
-venue = "Beachland Ballroom and Tavern, Cleveland, OH, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-07"
+venue: "Beachland Ballroom and Tavern, Cleveland, OH, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Open Water

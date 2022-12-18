@@ -1,51 +1,49 @@
-+++
-slug = "2018-02-28-vooruit-concertzaal-ghent-belgium"
-date = "2018-02-28"
-title = "2018 February 28 @ Vooruit Concertzaal"
-
-[extra]
-venue = "Vooruit Concertzaal, Ghent, Belgium"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-02-28"
+venue: "Vooruit Concertzaal, Ghent, Belgium"
+tour: "2018 UK/EU Tour"
+---
 
 
- 1. Microtonal
- 2. Rattlesnake
+## set 1 Microtonal
 
- 3. Greenhouse Heat Death
+ 1. Rattlesnake
 
- 4. Open Water
+ 2. Greenhouse Heat Death
 
- 5. Anoxia
+ 3. Open Water
 
- 6. D-Day
+ 4. Anoxia
 
- 7. All Is Known
+ 5. D-Day
 
- 8. Sleep Drifter
+ 6. All Is Known
 
- 9. Normal
-10. Welcome to an Altered Future
+ 7. Sleep Drifter
 
-11. Digital Black
+## set 2
 
-12. Han-Tyumi the Confused Cyborg
+ 1. Welcome to an Altered Future
 
-13. The Lord of Lightning
+ 2. Digital Black
 
-14. Crumbling Castle
+ 3. Han-Tyumi the Confused Cyborg
 
-15. The Fourth Colour
+ 4. The Lord of Lightning
 
-16. Robot Stop
+ 5. Crumbling Castle
 
-17. Big Fig Wasp
+ 6. The Fourth Colour
 
-18. Gamma Knife
+ 7. Robot Stop
 
-19. The River
+ 8. Big Fig Wasp
 
-20. God Is in the Rhythm
+ 9. Gamma Knife
+
+10. The River
+
+11. God Is in the Rhythm
     (snippet)
 
 

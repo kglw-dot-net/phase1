@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-12-danforth-music-hall-toronto-on-canada"
-date = "2018-06-12"
-title = "2018 June 12 @ Danforth Music Hall"
-
-[extra]
-venue = "Danforth Music Hall, Toronto, ON, Canada"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-12"
+venue: "Danforth Music Hall, Toronto, ON, Canada"
+tour: "2018 North American Tour"
+---
 
 
  1. Robot Stop

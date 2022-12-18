@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-13-greek-theatre-los-angeles-ca"
-date = "2019-08-13"
-title = "2019 August 13 @ Greek Theatre"
-
-[extra]
-venue = "Greek Theatre, Los Angeles, CA, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-13"
+venue: "Greek Theatre, Los Angeles, CA, USA"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate
@@ -53,7 +49,3 @@ tour = "World Tour `19"
 21. Perihelion
 
 22. Hell
-
-
-'Venusian 1' and 'Organ Farmer' were listed after 'Hell', probably as
-alternatives.

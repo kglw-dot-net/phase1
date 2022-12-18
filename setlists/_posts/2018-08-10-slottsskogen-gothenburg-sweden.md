@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-10-slottsskogen-gothenburg-sweden"
-date = "2018-08-10"
-title = "2018 August 10 @ Slottsskogen"
-
-[extra]
-venue = "Slottsskogen, Gothenburg, Sweden"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-10"
+venue: "Slottsskogen, Gothenburg, Sweden"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

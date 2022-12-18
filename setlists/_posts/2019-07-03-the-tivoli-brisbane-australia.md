@@ -1,12 +1,8 @@
-+++
-slug = "2019-07-03-the-tivoli-brisbane-australia"
-date = "2019-07-03"
-title = "2019 July 3 @ The Tivoli"
-
-[extra]
-venue = "The Tivoli, Brisbane, Australia"
-tour = "World Tour `19"
-+++
+---
+date: "2019-07-03"
+venue: "The Tivoli, Brisbane, Australia"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate
@@ -18,14 +14,11 @@ tour = "World Tour `19"
  4. Organ Farmer
 
  5. Am I in Heaven?
-    (Medley: Alter Me, Robot Stop, Cellophane, Rattlesnake, Head
-    On/Pill; tour debut)
+    (Medley: Alter Me, Robot Stop, Cellophane, Rattlesnake, Head On/Pill)
 
  6. Open Water
-    (Tour debut)
 
  7. Anoxia
-    (Tour debut)
 
  8. Nuclear Fusion
 
@@ -42,14 +35,11 @@ tour = "World Tour `19"
 14. The Cruel Millennial
 
 15. Digital Black
-    (Tour debut)
 
 16. Vomit Coffin
-    (Tour debut)
 
 17. Murder of the Universe
 
 18. The River
-    (Tour debut)
 
 

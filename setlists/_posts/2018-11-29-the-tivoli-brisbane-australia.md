@@ -1,12 +1,8 @@
-+++
-slug = "2018-11-29-the-tivoli-brisbane-australia"
-date = "2018-11-29"
-title = "2018 November 29 @ The Tivoli"
-
-[extra]
-venue = "The Tivoli, Brisbane, Australia"
-tour = "Australian Tour 2018"
-+++
+---
+date: "2018-11-29"
+venue: "The Tivoli, Brisbane, Australia"
+tour: "Australian Tour 2018"
+---
 
 
  1. I'm in Your Mind
@@ -35,7 +31,6 @@ tour = "Australian Tour 2018"
 12. Rattlesnake
 
 13. Work This Time
-    (Live debut)
 
 14. Let Me Mend the Past
 

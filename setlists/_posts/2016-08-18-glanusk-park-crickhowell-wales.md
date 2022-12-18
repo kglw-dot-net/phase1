@@ -1,12 +1,8 @@
-+++
-slug = "2016-08-18-glanusk-park-crickhowell-wales"
-date = "2016-08-18"
-title = "2016 August 18 @ Glanusk Park"
-
-[extra]
-venue = "Glanusk Park, Crickhowell, Wales"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-08-18"
+venue: "Glanusk Park, Crickhowell, Wales"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop
@@ -29,6 +25,3 @@ tour = "Nonagon Infinity"
 
 10. Robot Stop
     (Reprise)
-
-
-Note: Incomplete Setlist

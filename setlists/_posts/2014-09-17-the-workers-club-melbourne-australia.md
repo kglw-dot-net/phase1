@@ -1,12 +1,8 @@
-+++
-slug = "2014-09-17-the-workers-club-melbourne-australia"
-date = "2014-09-17"
-title = "2014 September 17 @ The Workers Club"
-
-[extra]
-venue = "The Workers Club, Melbourne, Australia"
-tour = "SINO-AUS"
-+++
+---
+date: "2014-09-17"
+venue: "The Workers Club, Melbourne, Australia"
+tour: "SINO-AUS"
+---
 
 
  1. I'm in Your Mind

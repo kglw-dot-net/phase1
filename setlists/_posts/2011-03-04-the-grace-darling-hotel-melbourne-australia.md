@@ -1,7 +1,6 @@
 ---
 layout: setlist
 date: "2011-03-04"
-title: "2011 March 4 @ The Grace Darling Hotel"
 venue: "The Grace Darling Hotel, Melbourne, Australia"
 ---
 

@@ -1,12 +1,8 @@
-+++
-slug = "2014-09-19-the-gasometer-hotel-melbourne-australia"
-date = "2014-09-19"
-title = "2014 September 19 @ The Gasometer Hotel"
-
-[extra]
-venue = "The Gasometer Hotel, Melbourne, Australia"
-tour = "SINO-AUS"
-+++
+---
+date: "2014-09-19"
+venue: "The Gasometer Hotel, Melbourne, Australia"
+tour: "SINO-AUS"
+---
 
 
  1. I'm in Your Mind

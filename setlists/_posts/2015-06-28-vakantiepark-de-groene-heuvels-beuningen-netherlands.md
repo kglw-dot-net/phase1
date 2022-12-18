@@ -1,11 +1,7 @@
-+++
-slug = "2015-06-28-vakantiepark-de-groene-heuvels-beuningen-netherlands"
-date = "2015-06-28"
-title = "2015 June 28 @ Vakantiepark De Groene Heuvels"
-
-[extra]
-venue = "Vakantiepark De Groene Heuvels, Beuningen, Netherlands"
-+++
+---
+date: "2015-06-28"
+venue: "Vakantiepark De Groene Heuvels, Beuningen, Netherlands"
+---
 
  1. I'm in Your Mind
 

@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-28-central-park-summerstage-new-york-ny"
-date = "2019-08-28"
-title = "2019 August 28 @ Central Park SummerStage"
-
-[extra]
-venue = "Central Park SummerStage, New York, NY, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-28"
+venue: "Central Park SummerStage, New York, NY, USA"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate
@@ -38,7 +34,6 @@ tour = "World Tour `19"
 14. The Bird Song
 
 15. Planet B
-    (Not on the written setlist)
 
 16. Mars for the Rich
 
@@ -46,6 +41,3 @@ tour = "World Tour `19"
 
 18. Am I in Heaven?
     (Medley with Altered Beast, Rattlesnake, Boogieman Sam, Cellophane)
-
-
-Note: Tezeta and Venusian 2 were on the written setlist but not played

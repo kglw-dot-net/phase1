@@ -1,12 +1,8 @@
-+++
-slug = "2017-04-19-crescent-ballroom-phoenix-az"
-date = "2017-04-19"
-title = "2017 April 19 @ Crescent Ballroom"
-
-[extra]
-venue = "Crescent Ballroom, Phoenix, AZ, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-19"
+venue: "Crescent Ballroom, Phoenix, AZ, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Open Water

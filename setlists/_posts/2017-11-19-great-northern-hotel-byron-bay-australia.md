@@ -1,12 +1,8 @@
-+++
-slug = "2017-11-19-great-northern-hotel-byron-bay-australia"
-date = "2017-11-19"
-title = "2017 November 19 @ Great Northern Hotel"
-
-[extra]
-venue = "Great Northern Hotel, Byron Bay, Australia"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-11-19"
+venue: "Great Northern Hotel, Byron Bay, Australia"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures

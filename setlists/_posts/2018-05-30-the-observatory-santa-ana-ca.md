@@ -1,12 +1,8 @@
-+++
-slug = "2018-05-30-the-observatory-santa-ana-ca"
-date = "2018-05-30"
-title = "2018 May 30 @ The Observatory"
-
-[extra]
-venue = "The Observatory, Santa Ana, CA, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-05-30"
+venue: "The Observatory, Santa Ana, CA, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black

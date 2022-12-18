@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-01-barracuda-austin-tx"
-date = "2016-05-01"
-title = "2016 May 1 @ Barracuda"
-
-[extra]
-venue = "Barracuda, Austin, TX, USA"
-+++
+---
+date: "2016-05-01"
+venue: "Barracuda, Austin, TX, USA"
+---
 
  1. Robot Stop
 
@@ -33,5 +29,4 @@ venue = "Barracuda, Austin, TX, USA"
 12. Cut Throat Boogie
 
 
-Note: Released on 10 December 2021 as the live album "Live at
-Levitation `16".
+Note: Released on 10 December 2021 as the live album "Live at Levitation `16".

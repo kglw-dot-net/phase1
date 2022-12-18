@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-17-glanusk-park-crickhowell-wales"
-date = "2018-08-17"
-title = "2018 August 17 @ Glanusk Park"
-
-[extra]
-venue = "Glanusk Park, Crickhowell, Wales"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-17"
+venue: "Glanusk Park, Crickhowell, Wales"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

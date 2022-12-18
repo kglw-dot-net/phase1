@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-20-the-depot-salt-lake-city-ut"
-date = "2019-08-20"
-title = "2019 August 20 @ The Depot"
-
-[extra]
-venue = "The Depot, Salt Lake City, UT, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-20"
+venue: "The Depot, Salt Lake City, UT, USA"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2
@@ -40,7 +36,6 @@ tour = "World Tour `19"
 15. People-Vultures
 
 16. Alter Me II
-    (Tour debut)
 
 17. Altered Beast III
 

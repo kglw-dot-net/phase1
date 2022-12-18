@@ -1,11 +1,7 @@
-+++
-slug = "2016-02-17-fleece-bristol-england"
-date = "2016-02-17"
-title = "2016 February 17 @ Fleece"
-
-[extra]
-venue = "Fleece, Bristol, England"
-+++
+---
+date: "2016-02-17"
+venue: "Fleece, Bristol, England"
+---
 
  1. Robot Stop
 

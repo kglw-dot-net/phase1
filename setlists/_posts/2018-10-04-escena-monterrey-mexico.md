@@ -1,12 +1,8 @@
-+++
-slug = "2018-10-04-escena-monterrey-mexico"
-date = "2018-10-04"
-title = "2018 October 4 @ Escena"
-
-[extra]
-venue = "Escena, Monterrey, Mexico"
-tour = "Mexico Tour 2018"
-+++
+---
+date: "2018-10-04"
+venue: "Escena, Monterrey, Mexico"
+tour: "Mexico Tour 2018"
+---
 
 
  1. Digital Black
@@ -38,7 +34,6 @@ tour = "Mexico Tour 2018"
 14. Danger $$$
 
 15. Elbow
-    (First time live since 2013)
 
 16. The River
 

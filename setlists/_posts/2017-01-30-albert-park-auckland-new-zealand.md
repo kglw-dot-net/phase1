@@ -1,11 +1,7 @@
-+++
-slug = "2017-01-30-albert-park-auckland-new-zealand"
-date = "2017-01-30"
-title = "2017 January 30 @ Albert Park"
-
-[extra]
-venue = "Albert Park, Auckland, New Zealand"
-+++
+---
+date: "2017-01-30"
+venue: "Albert Park, Auckland, New Zealand"
+---
 
  1. Gamma Knife
 

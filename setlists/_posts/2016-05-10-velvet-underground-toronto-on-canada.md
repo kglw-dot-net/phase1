@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-10-velvet-underground-toronto-on-canada"
-date = "2016-05-10"
-title = "2016 May 10 @ Velvet Underground"
-
-[extra]
-venue = "Velvet Underground, Toronto, ON, Canada"
-+++
+---
+date: "2016-05-10"
+venue: "Velvet Underground, Toronto, ON, Canada"
+---
 
  1. Robot Stop
 

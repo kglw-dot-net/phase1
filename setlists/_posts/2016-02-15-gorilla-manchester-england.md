@@ -1,11 +1,7 @@
-+++
-slug = "2016-02-15-gorilla-manchester-england"
-date = "2016-02-15"
-title = "2016 February 15 @ Gorilla"
-
-[extra]
-venue = "Gorilla, Manchester, England"
-+++
+---
+date: "2016-02-15"
+venue: "Gorilla, Manchester, England"
+---
 
  1. Robot Stop
     (With 'Hot Water' snippet)
@@ -36,8 +32,7 @@ venue = "Gorilla, Manchester, England"
 
 14. Danger $$$
 
-16. Encore:
-17. Vegemite
-    (Stu solo)
+16. Vegemite
+    (encore) (Stu solo)
 
 

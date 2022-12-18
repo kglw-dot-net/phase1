@@ -1,12 +1,8 @@
-+++
-slug = "2017-12-02-royal-melbourne-showgrounds-melbourne-australia"
-date = "2017-12-02"
-title = "2017 December 2 @ Royal Melbourne Showgrounds"
-
-[extra]
-venue = "Royal Melbourne Showgrounds, Melbourne, Australia"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-12-02"
+venue: "Royal Melbourne Showgrounds, Melbourne, Australia"
+tour: "Murder of the Universe"
+---
 
 
  1. Some Context

@@ -1,12 +1,8 @@
-+++
-slug = "2016-09-01-paradiso-grote-zaal-amsterdam-netherlands"
-date = "2016-09-01"
-title = "2016 September 1 @ Paradiso Grote Zaal"
-
-[extra]
-venue = "Paradiso Grote Zaal, Amsterdam, Netherlands"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-09-01"
+venue: "Paradiso Grote Zaal, Amsterdam, Netherlands"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

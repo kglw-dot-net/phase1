@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-06-hana-bi-ravenna-italy"
-date = "2017-06-06"
-title = "2017 June 6 @ Hana-Bi"
-
-[extra]
-venue = "Hana-Bi, Ravenna, Italy"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-06"
+venue: "Hana-Bi, Ravenna, Italy"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

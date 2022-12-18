@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-20-paradiso-grote-zaal-amsterdam-netherlands"
-date = "2017-06-20"
-title = "2017 June 20 @ Paradiso Grote Zaal"
-
-[extra]
-venue = "Paradiso Grote Zaal, Amsterdam, Netherlands"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-20"
+venue: "Paradiso Grote Zaal, Amsterdam, Netherlands"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

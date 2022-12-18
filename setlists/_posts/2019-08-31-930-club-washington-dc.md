@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-31-930-club-washington-dc"
-date = "2019-08-31"
-title = "2019 August 31 @ 9:30 Club"
-
-[extra]
-venue = "9:30 Club, Washington, DC, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-31"
+venue: "9:30 Club, Washington, DC, USA"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2
@@ -45,7 +41,6 @@ tour = "World Tour `19"
 17. This Thing
 
 18. Sense
-    (Live Debut)
 
 19. Work This Time
 

@@ -1,12 +1,8 @@
-+++
-slug = "2017-03-22-the-night-cat-melbourne-australia"
-date = "2017-03-22"
-title = "2017 March 22 @ The Night Cat"
-
-[extra]
-venue = "The Night Cat, Melbourne, Australia"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-03-22"
+venue: "The Night Cat, Melbourne, Australia"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Alter Me I

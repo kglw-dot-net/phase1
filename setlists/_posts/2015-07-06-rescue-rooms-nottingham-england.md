@@ -1,11 +1,7 @@
-+++
-slug = "2015-07-06-rescue-rooms-nottingham-england"
-date = "2015-07-06"
-title = "2015 July 6 @ Rescue Rooms"
-
-[extra]
-venue = "Rescue Rooms, Nottingham, England"
-+++
+---
+date: "2015-07-06"
+venue: "Rescue Rooms, Nottingham, England"
+---
 
  1. I'm in Your Mind
 

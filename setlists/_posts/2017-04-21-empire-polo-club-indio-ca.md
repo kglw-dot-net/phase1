@@ -1,12 +1,8 @@
-+++
-slug = "2017-04-21-empire-polo-club-indio-ca"
-date = "2017-04-21"
-title = "2017 April 21 @ Empire Polo Club"
-
-[extra]
-venue = "Empire Polo Club, Indio, CA, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-21"
+venue: "Empire Polo Club, Indio, CA, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

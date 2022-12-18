@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-12-3s-artspace-portsmouth-nh"
-date = "2016-05-12"
-title = "2016 May 12 @ 3S Artspace"
-
-[extra]
-venue = "3S Artspace, Portsmouth, NH, USA"
-+++
+---
+date: "2016-05-12"
+venue: "3S Artspace, Portsmouth, NH, USA"
+---
 
  1. Robot Stop
 
@@ -34,6 +30,3 @@ venue = "3S Artspace, Portsmouth, NH, USA"
 13. Evil Death Roll
 
 14. Head On/Pill
-
-
-Note: First King Gizzard & The Lizard Wizard live show in Portsmouth

@@ -1,49 +1,42 @@
-+++
-slug = "2019-10-05-alexandra-palace-london-england"
-date = "2019-10-05"
-title = "2019 October 5 @ Alexandra Palace"
-
-[extra]
-venue = "Alexandra Palace, London, England"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-05"
+venue: "Alexandra Palace, London, England"
+tour: "World Tour `19"
+---
 
 
- 1. Song played from tape
-    Evil Star
+ 1. Self-Immolate
 
- 2. Self-Immolate
+ 2. Mars for the Rich
 
- 3. Mars for the Rich
+ 3. I'm in Your Mind
 
- 4. I'm in Your Mind
+ 4. I'm Not in Your Mind
 
- 5. I'm Not in Your Mind
-
- 6. Cellophane
+ 5. Cellophane
     (Altered Beast Intro)
 
- 7. The Great Chain of Being
+ 6. The Great Chain of Being
 
- 8. Plastic Boogie
+ 7. Plastic Boogie
 
- 9. Crumbling Castle
+ 8. Crumbling Castle
 
-10. This Thing
+ 9. This Thing
 
-11. Boogieman Sam
+10. Boogieman Sam
 
-12. Mr. Beat
+11. Mr. Beat
 
-13. Evil Death Roll
+12. Evil Death Roll
 
-14. Venusian 2
+13. Venusian 2
 
-15. Planet B
+14. Planet B
 
-16. Rattlesnake
+15. Rattlesnake
 
-17. Float Along - Fill Your Lungs
+16. Float Along - Fill Your Lungs
 
 
 Note: All of 'Planet B' along with portions of 'Self-Immolate' and

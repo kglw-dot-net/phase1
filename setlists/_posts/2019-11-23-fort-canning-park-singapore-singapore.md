@@ -1,12 +1,8 @@
-+++
-slug = "2019-11-23-fort-canning-park-singapore-singapore"
-date = "2019-11-23"
-title = "2019 November 23 @ Fort Canning Park"
-
-[extra]
-venue = "Fort Canning Park, Singapore, Singapore"
-tour = "World Tour `19"
-+++
+---
+date: "2019-11-23"
+venue: "Fort Canning Park, Singapore, Singapore"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2

@@ -1,12 +1,8 @@
-+++
-slug = "2017-09-27-variety-playhouse-atlanta-ga"
-date = "2017-09-27"
-title = "2017 September 27 @ Variety Playhouse"
-
-[extra]
-venue = "Variety Playhouse, Atlanta, GA, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-09-27"
+venue: "Variety Playhouse, Atlanta, GA, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. Some Context

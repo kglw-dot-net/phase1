@@ -1,21 +1,17 @@
-+++
-slug = "2017-01-21-the-meadow-singapore-singapore"
-date = "2017-01-21"
-title = "2017 January 21 @ The Meadow"
+---
+date: "2017-01-21"
+venue: "The Meadow, Singapore, Singapore"
+---
 
-[extra]
-venue = "The Meadow, Singapore, Singapore"
-+++
+(incomplete / out-of-order)
 
  1. Gamma Knife
 
  2. People-Vultures
 
  3. Sleep Drifter
-    (Live Debut)
 
  4. Nuclear Fusion
-    (Live Debut)
 
  5. Rattlesnake
 
@@ -34,6 +30,3 @@ venue = "The Meadow, Singapore, Singapore"
 12. Altered Beast III
 
 13. Robot Stop
-
-
-Note: Incomplete, possibly out of order

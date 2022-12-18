@@ -1,12 +1,8 @@
-+++
-slug = "2017-11-25-commonwealth-park-canberra-australia"
-date = "2017-11-25"
-title = "2017 November 25 @ Commonwealth Park"
-
-[extra]
-venue = "Commonwealth Park, Canberra, Australia"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-11-25"
+venue: "Commonwealth Park, Canberra, Australia"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures

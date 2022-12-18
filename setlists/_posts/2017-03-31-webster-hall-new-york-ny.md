@@ -1,12 +1,8 @@
-+++
-slug = "2017-03-31-webster-hall-new-york-ny"
-date = "2017-03-31"
-title = "2017 March 31 @ Webster Hall"
-
-[extra]
-venue = "Webster Hall, New York, NY, USA"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-03-31"
+venue: "Webster Hall, New York, NY, USA"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Open Water

@@ -1,57 +1,49 @@
-+++
-slug = "2018-03-16-fuzz-club-athens-greece"
-date = "2018-03-16"
-title = "2018 March 16 @ Fuzz Club"
-
-[extra]
-venue = "Fuzz Club, Athens, Greece"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-03-16"
+venue: "Fuzz Club, Athens, Greece"
+tour: "2018 UK/EU Tour"
+---
 
 
- 1. Song played from tape
-    Beating Around the Bush
-    (AC/DC song)
+ 1. Rattlesnake
 
- 2. Rattlesnake
+ 2. Greenhouse Heat Death
 
- 3. Greenhouse Heat Death
+ 3. Nuclear Fusion
 
- 4. Nuclear Fusion
+ 4. All Is Known
 
- 5. All Is Known
+ 5. Billabong Valley
 
- 6. Billabong Valley
+ 6. Doom City
 
- 7. Doom City
+ 7. D-Day
 
- 8. D-Day
+ 8. Sleep Drifter
 
- 9. Sleep Drifter
+ 9. Welcome to an Altered Future
 
-10. Welcome to an Altered Future
+10. Digital Black
 
-11. Digital Black
+11. Han-Tyumi the Confused Cyborg
 
-12. Han-Tyumi the Confused Cyborg
+12. The Lord of Lightning
 
-13. The Lord of Lightning
+13. Cellophane
 
-14. Cellophane
+14. Crumbling Castle
 
-15. Crumbling Castle
+15. The Fourth Colour
 
-16. The Fourth Colour
-
-17. Robot Stop
+16. Robot Stop
     (With "Master of the Universe" snippet by Hawkwind)
 
-18. Big Fig Wasp
+17. Big Fig Wasp
 
-19. Gamma Knife
+18. Gamma Knife
 
-20. The River
+19. The River
 
-21. God Is in the Rhythm
+20. God Is in the Rhythm
 
 

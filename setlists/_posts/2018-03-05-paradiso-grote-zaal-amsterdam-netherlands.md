@@ -1,12 +1,8 @@
-+++
-slug = "2018-03-05-paradiso-grote-zaal-amsterdam-netherlands"
-date = "2018-03-05"
-title = "2018 March 5 @ Paradiso Grote Zaal"
-
-[extra]
-venue = "Paradiso Grote Zaal, Amsterdam, Netherlands"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-03-05"
+venue: "Paradiso Grote Zaal, Amsterdam, Netherlands"
+tour: "2018 UK/EU Tour"
+---
 
 
  1. Rattlesnake

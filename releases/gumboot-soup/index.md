@@ -14,7 +14,7 @@ After four studio albums and two international tours in 2017 alone, one would th
 What to listen to next:
 
 *   [If you want an earlier lo-fi eclectic concept-less album](../oddments)
-*   [If you want the newest eclectic concept-less album](../omnium-gatherium)
+*   [If you want the newest eclectic concept-less album](../omnium-gatherium) <!-- TODO revisit "newest" 😄  -->
 *   [If you want an album full of heavy songs like ‘The Great Chain of Being’](../infest-the-rats-nest)
 *   [If you want to hear the album ‘Superposition’ didn’t quite fit into](../polygondwanaland)
 *   [If you want to hear the album ‘All Is Known’ would’ve been](../nonagon-infinity) on if it wasn’t made during [this one](../flying-microtonal-banana)

@@ -1,11 +1,7 @@
-+++
-slug = "2015-06-12-great-stage-park-manchester-tn"
-date = "2015-06-12"
-title = "2015 June 12 @ Great Stage Park"
-
-[extra]
-venue = "Great Stage Park, Manchester, TN, USA"
-+++
+---
+date: "2015-06-12"
+venue: "Great Stage Park, Manchester, TN, USA"
+---
 
  1. I'm in Your Mind
 
@@ -22,7 +18,6 @@ venue = "Great Stage Park, Manchester, TN, USA"
  7. Hot Wax
 
  8. Robot Stop
-    (live debut)
 
  9. The River
 

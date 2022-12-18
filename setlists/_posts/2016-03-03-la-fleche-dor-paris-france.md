@@ -1,11 +1,7 @@
-+++
-slug = "2016-03-03-la-fleche-dor-paris-france"
-date = "2016-03-03"
-title = "2016 March 3 @ La Flèche d'Or"
-
-[extra]
-venue = "La Flèche d'Or, Paris, France"
-+++
+---
+date: "2016-03-03"
+venue: "La Flèche d'Or, Paris, France"
+---
 
  1. I'm in Your Mind
 

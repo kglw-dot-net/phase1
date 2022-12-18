@@ -1,11 +1,7 @@
-+++
-slug = "2016-02-27-bi-nuu-berlin-germany"
-date = "2016-02-27"
-title = "2016 February 27 @ Bi Nuu"
-
-[extra]
-venue = "Bi Nuu, Berlin, Germany"
-+++
+---
+date: "2016-02-27"
+venue: "Bi Nuu, Berlin, Germany"
+---
 
  1. Head On/Pill
     (with Am I In Heaven? snippet)
@@ -34,8 +30,8 @@ venue = "Bi Nuu, Berlin, Germany"
 
 13. I'm in Your Mind Fuzz
 
-15. Encore:
-16. Paper Mâché Dream Balloon
-    (Live Debut -- Stu playing solo)
+14. Paper Mâché Dream Balloon
+    (Encore)
+    (Stu playing solo)
 
 

@@ -1,10 +1,6 @@
-+++
-slug = "2017-01-07-kings-square-fremantle-australia"
-date = "2017-01-07"
-title = "2017 January 7 @ Kings Square"
+---
+date: "2017-01-07"
+venue: "Kings Square, Fremantle, Australia"
+---
 
-[extra]
-venue = "Kings Square, Fremantle, Australia"
-+++
-
-Note: First King Gizzard & The Lizard Wizard live show of 2017
+No known setlist.

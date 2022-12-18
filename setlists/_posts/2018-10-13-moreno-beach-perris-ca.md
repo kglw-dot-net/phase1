@@ -1,54 +1,47 @@
-+++
-slug = "2018-10-13-moreno-beach-perris-ca"
-date = "2018-10-13"
-title = "2018 October 13 @ Moreno Beach"
-
-[extra]
-venue = "Moreno Beach, Perris, CA, USA"
-tour = "Mexico Tour 2018"
-+++
+---
+date: "2018-10-13"
+venue: "Moreno Beach, Perris, CA, USA"
+tour: "Mexico Tour 2018"
+---
 
 
- 1. Song played from tape
-    Intro
-    (Riff Raff by AC/DC)
- 2. I'm in Your Mind
+ 1. I'm in Your Mind
 
- 3. I'm Not in Your Mind
+ 2. I'm Not in Your Mind
 
- 4. The Balrog
+ 3. The Balrog
 
- 5. Sleep Drifter
+ 4. Sleep Drifter
     (w/ snippet of Billabong Valley)
 
- 6. Rattlesnake
+ 5. Rattlesnake
 
- 7. Crumbling Castle
+ 6. Crumbling Castle
 
- 8. The Fourth Colour
+ 7. The Fourth Colour
 
- 9. Deserted Dunes Welcome Weary Feet
+ 8. Deserted Dunes Welcome Weary Feet
 
-10. The Castle in the Air
+ 9. The Castle in the Air
 
-11. Muddy Water
+10. Muddy Water
 
-12. The River
+11. The River
 
-13. Wah Wah
+12. Wah Wah
 
-14. Road Train
+13. Road Train
 
-15. Robot Stop
+14. Robot Stop
 
-16. Gamma Knife
+15. Gamma Knife
 
-17. The Lord of Lightning
+16. The Lord of Lightning
 
-18. Cellophane
+17. Cellophane
 
-19. Alter Me I
+18. Alter Me I
 
-20. Altered Beast III
+19. Altered Beast III
 
 

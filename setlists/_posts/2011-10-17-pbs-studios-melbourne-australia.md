@@ -1,11 +1,8 @@
-+++
-slug = "2011-10-17-pbs-studios-melbourne-australia"
-date = "2011-10-17"
-title = "2011 October 17 @ PBS Studios"
-
-[extra]
-venue = "PBS Studios, Melbourne, Australia"
-+++
+---
+slug: "2011-10-17-pbs-studios-melbourne-australia"
+date: "2011-10-17"
+venue: "PBS Studios, Melbourne, Australia"
+---
 
  1. Danger $$$
 
@@ -24,5 +21,3 @@ venue = "PBS Studios, Melbourne, Australia"
  8. Stoned Mullet
 
  9. Willoughby's Beach
-
-

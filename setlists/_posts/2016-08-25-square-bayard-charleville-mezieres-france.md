@@ -1,12 +1,8 @@
-+++
-slug = "2016-08-25-square-bayard-charleville-mezieres-france"
-date = "2016-08-25"
-title = "2016 August 25 @ Square Bayard"
-
-[extra]
-venue = "Square Bayard, Charleville-Mézières, France"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-08-25"
+venue: "Square Bayard, Charleville-Mézières, France"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

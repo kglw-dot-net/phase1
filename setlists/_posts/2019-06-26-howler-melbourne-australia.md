@@ -1,12 +1,8 @@
-+++
-slug = "2019-06-26-howler-melbourne-australia"
-date = "2019-06-26"
-title = "2019 June 26 @ Howler"
-
-[extra]
-venue = "Howler, Melbourne, Australia"
-tour = "World Tour `19"
-+++
+---
+date: "2019-06-26"
+venue: "Howler, Melbourne, Australia"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate

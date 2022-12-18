@@ -1,12 +1,8 @@
-+++
-slug = "2014-11-11-gullivers-manchester-england"
-date = "2014-11-11"
-title = "2014 November 11 @ Gullivers"
-
-[extra]
-venue = "Gullivers, Manchester, England"
-tour = "I'm In Your Mind Fuzz Europe 2014"
-+++
+---
+date: "2014-11-11"
+venue: "Gullivers, Manchester, England"
+tour: "I'm In Your Mind Fuzz Europe 2014"
+---
 
 
  1. Empty

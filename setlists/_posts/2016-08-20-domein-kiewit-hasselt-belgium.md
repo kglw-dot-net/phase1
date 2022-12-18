@@ -1,12 +1,8 @@
-+++
-slug = "2016-08-20-domein-kiewit-hasselt-belgium"
-date = "2016-08-20"
-title = "2016 August 20 @ Domein Kiewit"
-
-[extra]
-venue = "Domein Kiewit, Hasselt, Belgium"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-08-20"
+venue: "Domein Kiewit, Hasselt, Belgium"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

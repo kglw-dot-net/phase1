@@ -1,12 +1,8 @@
-+++
-slug = "2017-04-05-danforth-music-hall-toronto-on-canada"
-date = "2017-04-05"
-title = "2017 April 5 @ Danforth Music Hall"
-
-[extra]
-venue = "Danforth Music Hall, Toronto, ON, Canada"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-05"
+venue: "Danforth Music Hall, Toronto, ON, Canada"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Open Water

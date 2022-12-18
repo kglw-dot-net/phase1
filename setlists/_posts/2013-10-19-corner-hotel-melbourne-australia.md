@@ -1,12 +1,9 @@
-+++
-slug = "2013-10-19-corner-hotel-melbourne-australia"
-date = "2013-10-19"
-title = "2013 October 19 @ Corner Hotel"
-
-[extra]
-venue = "Corner Hotel, Melbourne, Australia"
-tour = "Float Along - Fill Your Lungs"
-+++
+---
+slug: "2013-10-19-corner-hotel-melbourne-australia"
+date: "2013-10-19"
+venue: "Corner Hotel, Melbourne, Australia"
+tour: "Float Along - Fill Your Lungs"
+---
 
 
  1. The Raid

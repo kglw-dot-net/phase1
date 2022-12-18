@@ -1,11 +1,7 @@
-+++
-slug = "2015-09-06-subterranean-chicago-il"
-date = "2015-09-06"
-title = "2015 September 6 @ Subterranean"
-
-[extra]
-venue = "Subterranean, Chicago, IL, USA"
-+++
+---
+date: "2015-09-06"
+venue: "Subterranean, Chicago, IL, USA"
+---
 
  1. I'm in Your Mind
 

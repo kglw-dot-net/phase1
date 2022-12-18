@@ -27,11 +27,28 @@ url: "https://alxndr.github.io" # the base hostname & protocol for your site, e.
 twitter_username: kglw_net
 github_username: kglw-dot-net
 
-# paginate: 5 # can't figure out the index.html pagination + posts-in-subdirs pattern??
+# header_pages:
+#   - gizzverse-guide.md
+#   - releases/index.md
+# footer_pages:
+#   - about.markdown
+#   - legal.md
+
+show_excerpts: true
+excerpt_separator: <!--snippet-->
 
 # Build settings
 theme: minima
+minima:
+  # skin: "dark" # doesn't work??
+  date_format: "%-d %b %Y" # ...but this does
+
+collections:
+  category: # ...is this needed??
+    output: true
+
 plugins:
+  # - jekyll-archives
   - jekyll-feed
   - jekyll-paginate
 

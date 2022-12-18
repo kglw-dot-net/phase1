@@ -1,19 +1,19 @@
 ---
 layout: default
 ---
+
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
 <article class="setlist post h-entry" itemscope itemtype="http://schema.org/MusicEvent">
 
   <header class="post-header">
 
     <p itemprop="performer" hidden>King Gizzard and the Lizard Wizard</p>
-
     
     <h1 class="post-title p-name" itemprop="name">{{ page.title | escape }}</h1>
-    <h1 class="post-title p-name" itemprop="name">{{ page.title | escape }}</h1>
 
-    <p class="post-meta">,
+    <p class="post-meta">
 
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="startDate">
         {{ page.date | date: date_format }}
       </time>
@@ -56,8 +56,4 @@ layout: default
 
 </article>
 
-<ul style="display:none">
-{% for setlist in site.categories.setlists %}
-  <li>{{ setlist.date | date: date_format }} @ {{ setlist.venue }}</li>
-{% endfor %}
-</ul>
+**Something missing or wrong??** Please get in touch! kglw.net@gmail.com

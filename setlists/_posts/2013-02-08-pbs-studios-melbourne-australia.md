@@ -1,14 +1,11 @@
-+++
-slug = "2013-02-08-pbs-studios-melbourne-australia"
-date = "2013-02-08"
-title = "2013 February 8 @ PBS Studios"
-
-[extra]
-venue = "PBS Studios, Melbourne, Australia"
-+++
+---
+slug: "2013-02-08-pbs-studios-melbourne-australia"
+date: "2013-02-08"
+venue: "PBS Studios, Melbourne, Australia"
+---
 
  1. Head On/Pill
-    (Unfinished 8 Minute Version)
+    (Unfinished)
 
  2. Elbow
 

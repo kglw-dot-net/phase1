@@ -1,12 +1,8 @@
-+++
-slug = "2018-11-23-enmore-theatre-sydney-australia"
-date = "2018-11-23"
-title = "2018 November 23 @ Enmore Theatre"
-
-[extra]
-venue = "Enmore Theatre, Sydney, Australia"
-tour = "Australian Tour 2018"
-+++
+---
+date: "2018-11-23"
+venue: "Enmore Theatre, Sydney, Australia"
+tour: "Australian Tour 2018"
+---
 
 
  1. Rattlesnake
@@ -18,10 +14,8 @@ tour = "Australian Tour 2018"
  4. The Balrog
 
  5. Stressin'
-    (tour debut)
 
  6. The Great Chain of Being
-    (live debut)
 
  7. Crumbling Castle
 
@@ -51,6 +45,5 @@ tour = "Australian Tour 2018"
     (with People-Vultures intro tease)
 
 20. The Bitter Boogie
-    (live debut)
 
 

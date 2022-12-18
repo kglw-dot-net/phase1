@@ -1,12 +1,8 @@
-+++
-slug = "2017-04-04-theatre-fairmount-montreal-qc-canada"
-date = "2017-04-04"
-title = "2017 April 4 @ Théâtre Fairmount"
-
-[extra]
-venue = "Théâtre Fairmount, Montreal, QC, Canada"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-04-04"
+venue: "Théâtre Fairmount, Montreal, QC, Canada"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Doom City

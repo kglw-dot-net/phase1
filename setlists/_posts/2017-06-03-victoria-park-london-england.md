@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-03-victoria-park-london-england"
-date = "2017-06-03"
-title = "2017 June 3 @ Victoria Park"
-
-[extra]
-venue = "Victoria Park, London, England"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-03"
+venue: "Victoria Park, London, England"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

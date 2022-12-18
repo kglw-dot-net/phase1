@@ -1,11 +1,7 @@
-+++
-slug = "2015-09-13-johnny-brendas-philadelphia-pa"
-date = "2015-09-13"
-title = "2015 September 13 @ Johnny Brenda's"
-
-[extra]
-venue = "Johnny Brenda's, Philadelphia, PA, USA"
-+++
+---
+date: "2015-09-13"
+venue: "Johnny Brenda's, Philadelphia, PA, USA"
+---
 
  1. Gamma Knife
 
@@ -36,8 +32,7 @@ venue = "Johnny Brenda's, Philadelphia, PA, USA"
 
 14. I'm in Your Mind Fuzz
 
-16. Encore:
-17. Stressin'
+16. (encore) Stressin'
     (Stu solo)
 
 

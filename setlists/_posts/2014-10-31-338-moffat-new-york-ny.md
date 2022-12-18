@@ -1,12 +1,8 @@
-+++
-slug = "2014-10-31-338-moffat-new-york-ny"
-date = "2014-10-31"
-title = "2014 October 31 @ 338 Moffat"
-
-[extra]
-venue = "338 Moffat, New York, NY, USA"
-tour = "I'm In Your Mind Fuzz USA 2014"
-+++
+---
+date: "2014-10-31"
+venue: "338 Moffat, New York, NY, USA"
+tour: "I'm In Your Mind Fuzz USA 2014"
+---
 
 
  1. Head On/Pill

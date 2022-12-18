@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-27-college-street-music-hall-new-haven-ct"
-date = "2019-08-27"
-title = "2019 August 27 @ College Street Music Hall"
-
-[extra]
-venue = "College Street Music Hall, New Haven, CT, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-27"
+venue: "College Street Music Hall, New Haven, CT, USA"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2
@@ -48,6 +44,3 @@ tour = "World Tour `19"
 19. Organ Farmer
 
 20. The River
-
-
-Note: First King Gizzard & The Lizard Wizard live show in New Haven

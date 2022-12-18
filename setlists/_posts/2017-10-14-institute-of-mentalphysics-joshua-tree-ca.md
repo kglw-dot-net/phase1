@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-14-institute-of-mentalphysics-joshua-tree-ca"
-date = "2017-10-14"
-title = "2017 October 14 @ Institute of Mentalphysics"
-
-[extra]
-venue = "Institute of Mentalphysics, Joshua Tree, CA, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-14"
+venue: "Institute of Mentalphysics, Joshua Tree, CA, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures

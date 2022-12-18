@@ -1,12 +1,8 @@
-+++
-slug = "2017-11-23-big-top-luna-park-sydney-australia"
-date = "2017-11-23"
-title = "2017 November 23 @ Big Top Luna Park"
-
-[extra]
-venue = "Big Top Luna Park, Sydney, Australia"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-11-23"
+venue: "Big Top Luna Park, Sydney, Australia"
+tour: "Murder of the Universe"
+---
 
 
  1. Some Context

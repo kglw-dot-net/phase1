@@ -1,11 +1,7 @@
-+++
-slug = "2016-02-16-rescue-rooms-nottingham-england"
-date = "2016-02-16"
-title = "2016 February 16 @ Rescue Rooms"
-
-[extra]
-venue = "Rescue Rooms, Nottingham, England"
-+++
+---
+date: "2016-02-16"
+venue: "Rescue Rooms, Nottingham, England"
+---
 
  1. Robot Stop
 
@@ -33,7 +29,6 @@ venue = "Rescue Rooms, Nottingham, England"
 
 13. I'm in Your Mind Fuzz
 
-15. Encore:
-16. Evil Death Roll
-
+14. Evil Death Roll
+    (encore)
 

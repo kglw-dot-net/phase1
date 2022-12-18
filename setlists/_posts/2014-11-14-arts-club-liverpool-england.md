@@ -1,12 +1,8 @@
-+++
-slug = "2014-11-14-arts-club-liverpool-england"
-date = "2014-11-14"
-title = "2014 November 14 @ Arts Club"
-
-[extra]
-venue = "Arts Club, Liverpool, England"
-tour = "I'm In Your Mind Fuzz Europe 2014"
-+++
+---
+date: "2014-11-14"
+venue: "Arts Club, Liverpool, England"
+tour: "I'm In Your Mind Fuzz Europe 2014"
+---
 
 
  1. I'm in Your Mind

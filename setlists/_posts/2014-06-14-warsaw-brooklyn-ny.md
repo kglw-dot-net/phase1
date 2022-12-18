@@ -1,12 +1,7 @@
-+++
-slug = "2014-06-14-warsaw-brooklyn-ny"
-date = "2014-06-14"
-title = "2014 June 14 @ Warsaw"
-
-[extra]
-venue = "Warsaw, Brooklyn, NY, USA"
-tour = "Oddments"
-+++
+---
+date: "2014-06-14"
+venue: "Warsaw, Brooklyn, NY, USA"
+---
 
 
  1. Dead-Beat

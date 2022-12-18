@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-16-x-tra-zurich-switzerland"
-date = "2019-10-16"
-title = "2019 October 16 @ X-TRA"
-
-[extra]
-venue = "X-TRA, Zurich, Switzerland"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-16"
+venue: "X-TRA, Zurich, Switzerland"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2

@@ -1,11 +1,7 @@
-+++
-slug = "2015-12-31-marion-bay-falls-festival-site-marion-bay-australia"
-date = "2015-12-31"
-title = "2015 December 31 @ Marion Bay Falls Festival Site"
-
-[extra]
-venue = "Marion Bay Falls Festival Site, Marion Bay, Australia"
-+++
+---
+date: "2015-12-31"
+venue: "Marion Bay Falls Festival Site, Marion Bay, Australia"
+---
 
  1. Robot Stop
 
@@ -26,6 +22,3 @@ venue = "Marion Bay Falls Festival Site, Marion Bay, Australia"
  9. Cellophane
 
 10. Head On/Pill
-
-
-Note: First King Gizzard & The Lizard Wizard live show in Marion Bay

@@ -1,11 +1,8 @@
-+++
-slug = "2012-11-25-acdc-lane-melbourne-australia"
-date = "2012-11-25"
-title = "2012 November 25 @ ACDC Lane"
-
-[extra]
-venue = "ACDC Lane, Melbourne, Australia"
-+++
+---
+slug: "2012-11-25-acdc-lane-melbourne-australia"
+date: "2012-11-25"
+venue: "ACDC Lane, Melbourne, Australia"
+---
 
  1. Lunch Meat
 

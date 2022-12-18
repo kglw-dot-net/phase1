@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-19-the-orange-peel-asheville-nc"
-date = "2018-06-19"
-title = "2018 June 19 @ The Orange Peel"
-
-[extra]
-venue = "The Orange Peel, Asheville, NC, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-19"
+venue: "The Orange Peel, Asheville, NC, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Rattlesnake

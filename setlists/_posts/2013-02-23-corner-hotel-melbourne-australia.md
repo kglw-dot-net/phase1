@@ -1,11 +1,8 @@
-+++
-slug = "2013-02-23-corner-hotel-melbourne-australia"
-date = "2013-02-23"
-title = "2013 February 23 @ Corner Hotel"
-
-[extra]
-venue = "Corner Hotel, Melbourne, Australia"
-+++
+---
+slug: "2013-02-23-corner-hotel-melbourne-australia"
+date: "2013-02-23"
+venue: "Corner Hotel, Melbourne, Australia"
+---
 
  1. Sea of Trees
 

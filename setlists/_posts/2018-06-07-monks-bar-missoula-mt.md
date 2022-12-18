@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-07-monks-bar-missoula-mt"
-date = "2018-06-07"
-title = "2018 June 7 @ Monk's Bar"
-
-[extra]
-venue = "Monk's Bar, Missoula, MT, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-07"
+venue: "Monk's Bar, Missoula, MT, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Rattlesnake
@@ -41,8 +37,5 @@ tour = "2018 North American Tour"
 14. Gamma Knife
 
 15. Head On/Pill
-    (Tour debut, with snippets of 'Hot Water', 'Alter Me', 'Sea of
-    Trees', 'Am I In Heaven?' and 'Celloph)
-
-
-Note: First King Gizzard & The Lizard Wizard live show in Missoula
+    (with snippets of 'Hot Water', 'Alter Me', 'Sea of
+    Trees', 'Am I In Heaven?' and 'Cellophane')

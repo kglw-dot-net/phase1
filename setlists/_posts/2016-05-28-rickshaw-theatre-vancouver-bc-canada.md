@@ -1,11 +1,7 @@
-+++
-slug = "2016-05-28-rickshaw-theatre-vancouver-bc-canada"
-date = "2016-05-28"
-title = "2016 May 28 @ Rickshaw Theatre"
-
-[extra]
-venue = "Rickshaw Theatre, Vancouver, BC, Canada"
-+++
+---
+date: "2016-05-28"
+venue: "Rickshaw Theatre, Vancouver, BC, Canada"
+---
 
  1. Robot Stop
 

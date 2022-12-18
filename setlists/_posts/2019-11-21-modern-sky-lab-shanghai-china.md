@@ -1,12 +1,8 @@
-+++
-slug = "2019-11-21-modern-sky-lab-shanghai-china"
-date = "2019-11-21"
-title = "2019 November 21 @ Modern Sky Lab"
-
-[extra]
-venue = "Modern Sky Lab, Shanghai, China"
-tour = "World Tour `19"
-+++
+---
+date: "2019-11-21"
+venue: "Modern Sky Lab, Shanghai, China"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate

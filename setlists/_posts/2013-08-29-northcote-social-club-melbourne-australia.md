@@ -1,13 +1,11 @@
-+++
-slug = "2013-08-29-northcote-social-club-melbourne-australia"
-date = "2013-08-29"
-title = "2013 August 29 @ Northcote Social Club"
+---
+slug: "2013-08-29-northcote-social-club-melbourne-australia"
+date: "2013-08-29"
+venue: "Northcote Social Club, Melbourne, Australia"
+tour: "Float Along - Fill Your Lungs Preview Shows"
+---
 
-[extra]
-venue = "Northcote Social Club, Melbourne, Australia"
-tour = "Float Along - Fill Your Lungs Preview Shows"
-+++
-
+(incomplete)
 
  1. Float Along - Fill Your Lungs
  2. Head On/Pill
@@ -26,7 +24,5 @@ tour = "Float Along - Fill Your Lungs Preview Shows"
 
  9. Float Along - Fill Your Lungs
 
-10. Audience requests
-11. (Unknown)
-    (...)
-
+    (Audience requests)
+10. (Unknown)

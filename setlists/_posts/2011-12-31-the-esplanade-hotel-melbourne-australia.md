@@ -1,11 +1,8 @@
-+++
-slug = "2011-12-31-the-esplanade-hotel-melbourne-australia"
-date = "2011-12-31"
-title = "2011 December 31 @ The Esplanade Hotel"
-
-[extra]
-venue = "The Esplanade Hotel, Melbourne, Australia"
-+++
+---
+slug: "2011-12-31-the-esplanade-hotel-melbourne-australia"
+date: "2011-12-31"
+venue: "The Esplanade Hotel, Melbourne, Australia"
+---
 
  1. Elbow
 
@@ -28,5 +25,3 @@ venue = "The Esplanade Hotel, Melbourne, Australia"
 11. Dead-Beat
 
 12. Crookedile
-
-

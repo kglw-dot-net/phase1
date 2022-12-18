@@ -1,12 +1,8 @@
-+++
-slug = "2018-10-11-marko-disco-tijuana-mexico"
-date = "2018-10-11"
-title = "2018 October 11 @ Marko Disco"
-
-[extra]
-venue = "Marko Disco, Tijuana, Mexico"
-tour = "Mexico Tour 2018"
-+++
+---
+date: "2018-10-11"
+venue: "Marko Disco, Tijuana, Mexico"
+tour: "Mexico Tour 2018"
+---
 
 
  1. I'm in Your Mind

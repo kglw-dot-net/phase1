@@ -1,12 +1,8 @@
-+++
-slug = "2016-09-04-larmer-tree-gardens-salisbury-england"
-date = "2016-09-04"
-title = "2016 September 4 @ Larmer Tree Gardens"
-
-[extra]
-venue = "Larmer Tree Gardens, Salisbury, England"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-09-04"
+venue: "Larmer Tree Gardens, Salisbury, England"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

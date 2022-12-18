@@ -1,11 +1,7 @@
-+++
-slug = "2016-02-21-vera-groningen-netherlands"
-date = "2016-02-21"
-title = "2016 February 21 @ Vera"
-
-[extra]
-venue = "Vera, Groningen, Netherlands"
-+++
+---
+date: "2016-02-21"
+venue: "Vera, Groningen, Netherlands"
+---
 
  1. Head On/Pill
     (with Am I In Heaven? snippet)
@@ -28,8 +24,8 @@ venue = "Vera, Groningen, Netherlands"
 
 10. I'm in Your Mind Fuzz
 
-11. Encore:
-12. Stressin'
+10. Stressin'
+    (Encore)
 
 
 Note: incomplete setlist.

@@ -1,12 +1,8 @@
-+++
-slug = "2019-09-03-joy-theater-new-orleans-la"
-date = "2019-09-03"
-title = "2019 September 3 @ Joy Theater"
-
-[extra]
-venue = "Joy Theater, New Orleans, LA, USA"
-tour = "World Tour `19"
-+++
+---
+date: "2019-09-03"
+venue: "Joy Theater, New Orleans, LA, USA"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate
@@ -27,7 +23,6 @@ tour = "World Tour `19"
  8. All Is Known
 
  9. Sleep Drifter
-    (Nuclear Fusion was here on physical setlist)
 
 10. Superbug
 

@@ -1,11 +1,7 @@
-+++
-slug = "2015-07-03-la-machine-du-moulin-rouge-paris-france"
-date = "2015-07-03"
-title = "2015 July 3 @ La Machine du Moulin Rouge"
-
-[extra]
-venue = "La Machine du Moulin Rouge, Paris, France"
-+++
+---
+date: "2015-07-03"
+venue: "La Machine du Moulin Rouge, Paris, France"
+---
 
  1. I'm in Your Mind
 
@@ -17,12 +13,12 @@ venue = "La Machine du Moulin Rouge, Paris, France"
 
  5. Hot Water
 
- 6. (Unknown)
-    (New Song (Next Album))
+ 6. (new song)
+
  7. Hot Wax
 
- 8. (Unknown)
-    (New Song (Next Album))
+ 8. (new song)
+
  9. The River
 
 10. Am I in Heaven?

@@ -1,12 +1,8 @@
-+++
-slug = "2018-02-24-trades-club-hebden-bridge-england"
-date = "2018-02-24"
-title = "2018 February 24 @ Trades Club"
-
-[extra]
-venue = "Trades Club, Hebden Bridge, England"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-02-24"
+venue: "Trades Club, Hebden Bridge, England"
+tour: "2018 UK/EU Tour"
+---
 
 
  1. Rattlesnake
@@ -48,6 +44,6 @@ tour = "2018 UK/EU Tour"
 19. The River
 
 20. God Is in the Rhythm
-    (Instrumental only)
+    (Instrumental)
 
 

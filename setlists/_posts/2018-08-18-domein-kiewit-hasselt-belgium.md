@@ -1,12 +1,8 @@
-+++
-slug = "2018-08-18-domein-kiewit-hasselt-belgium"
-date = "2018-08-18"
-title = "2018 August 18 @ Domein Kiewit"
-
-[extra]
-venue = "Domein Kiewit, Hasselt, Belgium"
-tour = "2018 European Summer Tour"
-+++
+---
+date: "2018-08-18"
+venue: "Domein Kiewit, Hasselt, Belgium"
+tour: "2018 European Summer Tour"
+---
 
 
  1. Digital Black

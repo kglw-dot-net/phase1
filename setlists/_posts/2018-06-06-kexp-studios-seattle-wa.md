@@ -1,11 +1,7 @@
-+++
-slug = "2018-06-06-kexp-studios-seattle-wa"
-date = "2018-06-06"
-title = "2018 June 6 @ KEXP Studios"
-
-[extra]
-venue = "KEXP Studios, Seattle, WA, USA"
-+++
+---
+date: "2018-06-06"
+venue: "KEXP Studios, Seattle, WA, USA"
+---
 
  1. Crumbling Castle
 

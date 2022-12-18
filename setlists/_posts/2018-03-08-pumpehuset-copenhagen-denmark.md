@@ -1,50 +1,48 @@
-+++
-slug = "2018-03-08-pumpehuset-copenhagen-denmark"
-date = "2018-03-08"
-title = "2018 March 8 @ Pumpehuset"
-
-[extra]
-venue = "Pumpehuset, Copenhagen, Denmark"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-03-08"
+venue: "Pumpehuset, Copenhagen, Denmark"
+tour: "2018 UK/EU Tour"
+---
 
 
- 1. Microtonal
- 2. Rattlesnake
+## set 1 Microtonal
 
- 3. Greenhouse Heat Death
+ 1. Rattlesnake
 
- 4. Billabong Valley
+ 2. Greenhouse Heat Death
 
- 5. D-Day
+ 3. Billabong Valley
 
- 6. All Is Known
+ 4. D-Day
 
- 7. Sleep Drifter
+ 5. All Is Known
 
- 8. Doom City
+ 6. Sleep Drifter
+
+ 7. Doom City
     (With Crumbling Castle Outro)
 
- 9. Normal
-10. Welcome to an Altered Future
+## set 2
 
-11. Digital Black
+ 1. Welcome to an Altered Future
 
-12. Han-Tyumi the Confused Cyborg
+ 2. Digital Black
 
-13. The Lord of Lightning
+ 3. Han-Tyumi the Confused Cyborg
 
-14. Crumbling Castle
+ 4. The Lord of Lightning
 
-15. The Fourth Colour
+ 5. Crumbling Castle
+
+ 6. The Fourth Colour
     (Snippets of Head On/Pill, Am I In Heaven)
 
-16. Robot Stop
+ 7. Robot Stop
 
-17. Big Fig Wasp
+ 8. Big Fig Wasp
 
-18. Gamma Knife
+ 9. Gamma Knife
 
-19. The River
+10. The River
 
 

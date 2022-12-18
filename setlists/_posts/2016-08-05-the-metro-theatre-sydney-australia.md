@@ -1,12 +1,8 @@
-+++
-slug = "2016-08-05-the-metro-theatre-sydney-australia"
-date = "2016-08-05"
-title = "2016 August 5 @ The Metro Theatre"
-
-[extra]
-venue = "The Metro Theatre, Sydney, Australia"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-08-05"
+venue: "The Metro Theatre, Sydney, Australia"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

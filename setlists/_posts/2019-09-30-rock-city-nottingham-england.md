@@ -1,12 +1,8 @@
-+++
-slug = "2019-09-30-rock-city-nottingham-england"
-date = "2019-09-30"
-title = "2019 September 30 @ Rock City"
-
-[extra]
-venue = "Rock City, Nottingham, England"
-tour = "World Tour `19"
-+++
+---
+date: "2019-09-30"
+venue: "Rock City, Nottingham, England"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate
@@ -42,6 +38,5 @@ tour = "World Tour `19"
 16. Road Train
 
 17. Float Along - Fill Your Lungs
-    (First time since 2015)
 
 

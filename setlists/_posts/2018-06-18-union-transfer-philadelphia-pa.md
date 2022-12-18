@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-18-union-transfer-philadelphia-pa"
-date = "2018-06-18"
-title = "2018 June 18 @ Union Transfer"
-
-[extra]
-venue = "Union Transfer, Philadelphia, PA, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-18"
+venue: "Union Transfer, Philadelphia, PA, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black

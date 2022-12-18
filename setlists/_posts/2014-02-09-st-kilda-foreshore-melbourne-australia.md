@@ -1,12 +1,9 @@
-+++
-slug = "2014-02-09-st-kilda-foreshore-melbourne-australia"
-date = "2014-02-09"
-title = "2014 February 9 @ St Kilda Foreshore"
-
-[extra]
-venue = "St Kilda Foreshore, Melbourne, Australia"
-tour = "Float Along - Fill Your Lungs"
-+++
+---
+slug: "2014-02-09-st-kilda-foreshore-melbourne-australia"
+date: "2014-02-09"
+venue: "St Kilda Foreshore, Melbourne, Australia"
+tour: "Float Along - Fill Your Lungs"
+---
 
 
  1. I'm in Your Mind

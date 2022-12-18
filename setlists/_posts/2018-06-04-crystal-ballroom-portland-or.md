@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-04-crystal-ballroom-portland-or"
-date = "2018-06-04"
-title = "2018 June 4 @ Crystal Ballroom"
-
-[extra]
-venue = "Crystal Ballroom, Portland, OR, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-04"
+venue: "Crystal Ballroom, Portland, OR, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black

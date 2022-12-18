@@ -1,12 +1,8 @@
-+++
-slug = "2014-06-14-mccarren-park-brooklyn-ny"
-date = "2014-06-14"
-title = "2014 June 14 @ McCarren Park"
-
-[extra]
-venue = "McCarren Park, Brooklyn, NY, USA"
-tour = "Oddments"
-+++
+---
+date: "2014-06-14"
+venue: "McCarren Park, Brooklyn, NY, USA"
+tour: "Oddments"
+---
 
 
  1. I'm in Your Mind

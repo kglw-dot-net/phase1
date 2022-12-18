@@ -1,11 +1,7 @@
-+++
-slug = "2015-06-18-the-middle-east-upstairs-cambridge-ma"
-date = "2015-06-18"
-title = "2015 June 18 @ The Middle East Upstairs"
-
-[extra]
-venue = "The Middle East Upstairs, Cambridge, MA, USA"
-+++
+---
+date: "2015-06-18"
+venue: "The Middle East Upstairs, Cambridge, MA, USA"
+---
 
  1. I'm in Your Mind
 

@@ -1,12 +1,8 @@
-+++
-slug = "2019-08-17-harbour-event-and-convention-centre-vancouver-bc-canada"
-date = "2019-08-17"
-title = "2019 August 17 @ Harbour Event & Convention Centre"
-
-[extra]
-venue = "Harbour Event & Convention Centre, Vancouver, BC, Canada"
-tour = "World Tour `19"
-+++
+---
+date: "2019-08-17"
+venue: "Harbour Event & Convention Centre, Vancouver, BC, Canada"
+tour: "World Tour `19"
+---
 
 
  1. Self-Immolate

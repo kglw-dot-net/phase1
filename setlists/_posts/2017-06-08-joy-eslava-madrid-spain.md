@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-08-joy-eslava-madrid-spain"
-date = "2017-06-08"
-title = "2017 June 8 @ Joy Eslava"
-
-[extra]
-venue = "Joy Eslava, Madrid, Spain"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-08"
+venue: "Joy Eslava, Madrid, Spain"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

@@ -1,11 +1,7 @@
-+++
-slug = "2015-07-09-scala-london-england"
-date = "2015-07-09"
-title = "2015 July 9 @ Scala"
-
-[extra]
-venue = "Scala, London, England"
-+++
+---
+date: "2015-07-09"
+venue: "Scala, London, England"
+---
 
  1. I'm in Your Mind
 
@@ -35,7 +31,6 @@ venue = "Scala, London, England"
 
 14. Head On/Pill
 
-16. Encore:
-17. Vegemite
+16. (encore) Vegemite
 
 

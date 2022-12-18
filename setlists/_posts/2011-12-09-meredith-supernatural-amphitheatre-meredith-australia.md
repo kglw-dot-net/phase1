@@ -1,11 +1,8 @@
-+++
-slug = "2011-12-09-meredith-supernatural-amphitheatre-meredith-australia"
-date = "2011-12-09"
-title = "2011 December 9 @ Meredith Supernatural Amphitheatre"
-
-[extra]
-venue = "Meredith Supernatural Amphitheatre, Meredith, Australia"
-+++
+---
+slug: "2011-12-09-meredith-supernatural-amphitheatre-meredith-australia"
+date: "2011-12-09"
+venue: "Meredith Supernatural Amphitheatre, Meredith, Australia"
+---
 
  1. (Unknown)
  2. Let It Bleed
@@ -20,5 +17,3 @@ venue = "Meredith Supernatural Amphitheatre, Meredith, Australia"
  7. Dead-Beat
 
  8. Crookedile
-
-

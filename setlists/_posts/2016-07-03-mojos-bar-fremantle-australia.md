@@ -1,12 +1,8 @@
-+++
-slug = "2016-07-03-mojos-bar-fremantle-australia"
-date = "2016-07-03"
-title = "2016 July 3 @ Mojo's Bar"
-
-[extra]
-venue = "Mojo's Bar, Fremantle, Australia"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-07-03"
+venue: "Mojo's Bar, Fremantle, Australia"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

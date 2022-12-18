@@ -1,12 +1,8 @@
-+++
-slug = "2018-12-01-royal-melbourne-showgrounds-melbourne-australia"
-date = "2018-12-01"
-title = "2018 December 1 @ Royal Melbourne Showgrounds"
-
-[extra]
-venue = "Royal Melbourne Showgrounds, Melbourne, Australia"
-tour = "Australian Tour 2018"
-+++
+---
+date: "2018-12-01"
+venue: "Royal Melbourne Showgrounds, Melbourne, Australia"
+tour: "Australian Tour 2018"
+---
 
 
  1. I'm in Your Mind
@@ -37,28 +33,27 @@ tour = "Australian Tour 2018"
 
 14. Rattlesnake
 
-15. Eyes Like the Sky, Chapter 1:
-16. Eyes Like the Sky
+15. Eyes Like the Sky
     (with Broderick Smith)
 
-17. Year of Our Lord
-    (with Broderick Smith) (Live debut)
+16. Year of Our Lord
+    (with Broderick Smith)
 
-18. The Raid
-    (with Broderick Smith) (First time since 2013)
+17. The Raid
+    (with Broderick Smith)
 
-20. The River
+19. The River
     (Part 1)
 
-21. Wah Wah
+20. Wah Wah
 
-22. Road Train
+21. Road Train
 
-23. Robot Stop
+22. Robot Stop
 
-24. Gamma Knife
+23. Gamma Knife
 
-25. Head On/Pill
+24. Head On/Pill
     (Medley with Alter Me I, Am I In Heaven?, Robot Stop, Big Fig Wasp
     & Cellophane)
 

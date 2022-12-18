@@ -1,18 +1,13 @@
-+++
-slug = "2018-06-20-variety-playhouse-atlanta-ga"
-date = "2018-06-20"
-title = "2018 June 20 @ Variety Playhouse"
-
-[extra]
-venue = "Variety Playhouse, Atlanta, GA, USA"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-20"
+venue: "Variety Playhouse, Atlanta, GA, USA"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black
 
  2. Hot Wax
-    (Tour debut)
 
  3. Vomit Coffin
 
@@ -47,7 +42,6 @@ tour = "2018 North American Tour"
 18. The River
 
 19. Wah Wah
-    (Tour debut)
 
 20. Robot Stop
     (with 'Hot Water' riff)

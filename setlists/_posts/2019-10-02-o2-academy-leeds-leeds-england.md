@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-02-o2-academy-leeds-leeds-england"
-date = "2019-10-02"
-title = "2019 October 2 @ O2 Academy Leeds"
-
-[extra]
-venue = "O2 Academy Leeds, Leeds, England"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-02"
+venue: "O2 Academy Leeds, Leeds, England"
+tour: "World Tour `19"
+---
 
 
  1. Mars for the Rich

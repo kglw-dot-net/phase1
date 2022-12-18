@@ -1,11 +1,7 @@
-+++
-slug = "2015-09-12-the-pour-house-music-hall-raleigh-nc"
-date = "2015-09-12"
-title = "2015 September 12 @ The Pour House Music Hall"
-
-[extra]
-venue = "The Pour House Music Hall, Raleigh, NC, USA"
-+++
+---
+date: "2015-09-12"
+venue: "The Pour House Music Hall, Raleigh, NC, USA"
+---
 
  1. I'm in Your Mind
 

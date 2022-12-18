@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-06-metro-music-hall-salt-lake-city-ut"
-date = "2017-10-06"
-title = "2017 October 6 @ Metro Music Hall"
-
-[extra]
-venue = "Metro Music Hall, Salt Lake City, UT, USA"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-06"
+venue: "Metro Music Hall, Salt Lake City, UT, USA"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures
@@ -49,7 +45,3 @@ tour = "Murder of the Universe"
 19. Am I in Heaven?
     (Medley: Alter Me, Robot Stop, Cellophane, I'm in Your Mind, Hot
     Water, Head On/Pill)
-
-
-Note: First King Gizzard & The Lizard Wizard live show in Salt Lake
-City

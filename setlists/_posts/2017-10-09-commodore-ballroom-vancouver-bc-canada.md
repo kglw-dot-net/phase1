@@ -1,12 +1,8 @@
-+++
-slug = "2017-10-09-commodore-ballroom-vancouver-bc-canada"
-date = "2017-10-09"
-title = "2017 October 9 @ Commodore Ballroom"
-
-[extra]
-venue = "Commodore Ballroom, Vancouver, BC, Canada"
-tour = "Murder of the Universe"
-+++
+---
+date: "2017-10-09"
+venue: "Commodore Ballroom, Vancouver, BC, Canada"
+tour: "Murder of the Universe"
+---
 
 
  1. People-Vultures

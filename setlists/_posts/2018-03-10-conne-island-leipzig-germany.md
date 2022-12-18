@@ -1,12 +1,8 @@
-+++
-slug = "2018-03-10-conne-island-leipzig-germany"
-date = "2018-03-10"
-title = "2018 March 10 @ Conne Island"
-
-[extra]
-venue = "Conne Island, Leipzig, Germany"
-tour = "2018 UK/EU Tour"
-+++
+---
+date: "2018-03-10"
+venue: "Conne Island, Leipzig, Germany"
+tour: "2018 UK/EU Tour"
+---
 
 
  1. Rattlesnake

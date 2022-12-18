@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-08-ancienne-belgique-brussels-belgium"
-date = "2019-10-08"
-title = "2019 October 8 @ Ancienne Belgique"
-
-[extra]
-venue = "Ancienne Belgique, Brussels, Belgium"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-08"
+venue: "Ancienne Belgique, Brussels, Belgium"
+tour: "World Tour `19"
+---
 
 
  1. Venusian 2

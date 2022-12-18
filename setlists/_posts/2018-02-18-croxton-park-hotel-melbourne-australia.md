@@ -1,67 +1,59 @@
-+++
-slug = "2018-02-18-croxton-park-hotel-melbourne-australia"
-date = "2018-02-18"
-title = "2018 February 18 @ Croxton Park Hotel"
+---
+date: "2018-02-18"
+venue: "Croxton Park Hotel, Melbourne, Australia"
+---
 
-[extra]
-venue = "Croxton Park Hotel, Melbourne, Australia"
-+++
+## Set 1 - Microtonal
 
- 1. Set 1 - Microtonal
- 2. Rattlesnake
+ 1. Rattlesnake
 
- 3. Greenhouse Heat Death
-    (Live Debut)
+ 2. Greenhouse Heat Death
 
- 4. Nuclear Fusion
+ 3. Nuclear Fusion
 
- 5. Open Water
+ 4. Open Water
 
- 6. All Is Known
+ 5. All Is Known
 
- 7. Anoxia
+ 6. Anoxia
 
- 8. D-Day
-    (Live Debut)
+ 7. D-Day
 
- 9. Sleep Drifter
+ 8. Sleep Drifter
 
-10. The Book
-    (Live Debut)
+ 9. The Book
 
-11. Billabong Valley
+10. Billabong Valley
 
-12. Doom City
+11. Doom City
     (With 'Crumbling Castle' outro)
 
-13. Set 2
-14. Evil Death Roll
+## Set 2
 
-15. Welcome to an Altered Future
+ 1. Evil Death Roll
 
-16. Digital Black
+ 2. Welcome to an Altered Future
 
-17. Han-Tyumi the Confused Cyborg
+ 3. Digital Black
 
-18. The Lord of Lightning
+ 4. Han-Tyumi the Confused Cyborg
 
-19. Cellophane
+ 5. The Lord of Lightning
 
-20. Polygondwanaland
-    (Live Debut)
+ 6. Cellophane
 
-21. Crumbling Castle
+ 7. Polygondwanaland
 
-22. The Fourth Colour
-    (Live Debut)
+ 8. Crumbling Castle
 
-23. Robot Stop
+ 9. The Fourth Colour
 
-24. Big Fig Wasp
+10. Robot Stop
 
-25. Gamma Knife
+11. Big Fig Wasp
+
+12. Gamma Knife
 
 
 Note: The River / God Is In The Rhythm was written on the setlist at
-the end but was not played. First King Gizzard & The Lizard Wizard live
-show of 2018
+the end but was not played.

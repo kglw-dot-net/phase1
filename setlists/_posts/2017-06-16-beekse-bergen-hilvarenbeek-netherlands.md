@@ -1,12 +1,8 @@
-+++
-slug = "2017-06-16-beekse-bergen-hilvarenbeek-netherlands"
-date = "2017-06-16"
-title = "2017 June 16 @ Beekse Bergen"
-
-[extra]
-venue = "Beekse Bergen, Hilvarenbeek, Netherlands"
-tour = "Flying Microtonal Banana"
-+++
+---
+date: "2017-06-16"
+venue: "Beekse Bergen, Hilvarenbeek, Netherlands"
+tour: "Flying Microtonal Banana"
+---
 
 
  1. Rattlesnake

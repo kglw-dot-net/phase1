@@ -1,11 +1,7 @@
-+++
-slug = "2015-09-01-biltmore-cabaret-vancouver-bc-canada"
-date = "2015-09-01"
-title = "2015 September 1 @ Biltmore Cabaret"
-
-[extra]
-venue = "Biltmore Cabaret, Vancouver, BC, Canada"
-+++
+---
+date: "2015-09-01"
+venue: "Biltmore Cabaret, Vancouver, BC, Canada"
+---
 
  1. Hot Water
 

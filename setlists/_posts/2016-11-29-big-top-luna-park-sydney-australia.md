@@ -1,11 +1,7 @@
-+++
-slug = "2016-11-29-big-top-luna-park-sydney-australia"
-date = "2016-11-29"
-title = "2016 November 29 @ Big Top Luna Park"
-
-[extra]
-venue = "Big Top Luna Park, Sydney, Australia"
-+++
+---
+date: "2016-11-29"
+venue: "Big Top Luna Park, Sydney, Australia"
+---
 
  1. Gamma Knife
 
@@ -19,8 +15,8 @@ venue = "Big Top Luna Park, Sydney, Australia"
 
  6. Cellophane
 
- 7. (Unknown)
-    (New Song)
+ 7. (New Song)
+
  8. Evil Death Roll
 
  9. Invisible Face

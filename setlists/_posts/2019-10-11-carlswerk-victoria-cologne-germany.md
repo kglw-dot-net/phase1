@@ -1,12 +1,8 @@
-+++
-slug = "2019-10-11-carlswerk-victoria-cologne-germany"
-date = "2019-10-11"
-title = "2019 October 11 @ Carlswerk Victoria"
-
-[extra]
-venue = "Carlswerk Victoria, Cologne, Germany"
-tour = "World Tour `19"
-+++
+---
+date: "2019-10-11"
+venue: "Carlswerk Victoria, Cologne, Germany"
+tour: "World Tour `19"
+---
 
 
  1. Mars for the Rich
@@ -32,7 +28,6 @@ tour = "World Tour `19"
 11. Doom City
 
 12. Dirt
-    (Live Debut)
 
 13. Sense
     (portions featured in the 'Chunky Shrapnel' concert film)

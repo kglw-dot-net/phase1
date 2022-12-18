@@ -1,12 +1,8 @@
-+++
-slug = "2018-06-13-olympia-de-montreal-montreal-qc-canada"
-date = "2018-06-13"
-title = "2018 June 13 @ Olympia de Montréal"
-
-[extra]
-venue = "Olympia de Montréal, Montreal, QC, Canada"
-tour = "2018 North American Tour"
-+++
+---
+date: "2018-06-13"
+venue: "Olympia de Montréal, Montreal, QC, Canada"
+tour: "2018 North American Tour"
+---
 
 
  1. Digital Black

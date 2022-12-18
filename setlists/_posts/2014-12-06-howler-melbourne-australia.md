@@ -1,12 +1,8 @@
-+++
-slug = "2014-12-06-howler-melbourne-australia"
-date = "2014-12-06"
-title = "2014 December 6 @ Howler"
-
-[extra]
-venue = "Howler, Melbourne, Australia"
-tour = "I'm In Your Mind Fuzz"
-+++
+---
+date: "2014-12-06"
+venue: "Howler, Melbourne, Australia"
+tour: "I'm In Your Mind Fuzz"
+---
 
 
  1. I'm in Your Mind

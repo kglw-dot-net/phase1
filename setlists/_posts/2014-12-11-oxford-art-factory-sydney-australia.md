@@ -1,12 +1,8 @@
-+++
-slug = "2014-12-11-oxford-art-factory-sydney-australia"
-date = "2014-12-11"
-title = "2014 December 11 @ Oxford Art Factory"
-
-[extra]
-venue = "Oxford Art Factory, Sydney, Australia"
-tour = "I'm In Your Mind Fuzz"
-+++
+---
+date: "2014-12-11"
+venue: "Oxford Art Factory, Sydney, Australia"
+tour: "I'm In Your Mind Fuzz"
+---
 
 
  1. Am I in Heaven?

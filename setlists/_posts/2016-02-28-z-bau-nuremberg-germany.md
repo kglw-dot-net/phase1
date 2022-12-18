@@ -1,11 +1,7 @@
-+++
-slug = "2016-02-28-z-bau-nuremberg-germany"
-date = "2016-02-28"
-title = "2016 February 28 @ Z-Bau"
-
-[extra]
-venue = "Z-Bau, Nuremberg, Germany"
-+++
+---
+date: "2016-02-28"
+venue: "Z-Bau, Nuremberg, Germany"
+---
 
  1. Head On/Pill
 

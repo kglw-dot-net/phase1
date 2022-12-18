@@ -1,12 +1,8 @@
-+++
-slug = "2016-09-09-o2-ritz-manchester-england"
-date = "2016-09-09"
-title = "2016 September 9 @ O2 Ritz"
-
-[extra]
-venue = "O2 Ritz, Manchester, England"
-tour = "Nonagon Infinity"
-+++
+---
+date: "2016-09-09"
+venue: "O2 Ritz, Manchester, England"
+tour: "Nonagon Infinity"
+---
 
 
  1. Robot Stop

@@ -1,11 +1,7 @@
-+++
-slug = "2016-02-23-debaser-hornstull-strand-stockholm-sweden"
-date = "2016-02-23"
-title = "2016 February 23 @ Debaser Hornstull Strand"
-
-[extra]
-venue = "Debaser Hornstull Strand, Stockholm, Sweden"
-+++
+---
+date: "2016-02-23"
+venue: "Debaser Hornstull Strand, Stockholm, Sweden"
+---
 
  1. I'm in Your Mind
 
