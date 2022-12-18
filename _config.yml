@@ -22,8 +22,8 @@ title: KGLW.net
 email: kglw.net@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   brought to you by fans of King Gizzard
-baseurl: "/kglw-site" # the subpath of your site, e.g. /blog
-url: "https://alxndr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://kglw.net"
 instagram_username: kglw_net
 github_username: kglw-dot-net
 twitter_username: kglw_net
