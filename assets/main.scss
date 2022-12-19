@@ -22,6 +22,18 @@ code {
   background: #333;
 }
 
+footer.site-footer {
+  .wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+  img {
+    max-height: 5em;
+  }
+}
+
 .site-header {
   border: 0;
   background: #f39;
