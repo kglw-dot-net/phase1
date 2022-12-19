@@ -56,7 +56,7 @@ With the simple condition that if you create a release, you must provide a propo
 *   [Live In Brussels ’19](../releases/live-in-brussels-2019)
 *   [Live In Asheville ’19](../releases/live-in-asheville-2019)
 *   [Live In London ’19](../releases/live-in-london-2019)
-*   [Live In Melbourne ’21](../releases/live-in-melbourne-2019)
+*   [Live In Melbourne ’21](../releases/live-in-melbourne-2021)
 *   [Live In Sydney ’21](../releases/live-in-sydney-2021)
 *   [Live In Brisbane ’21](../releases/live-in-brisbane-2022)
 *   [Live In Milwaukee ’19](../releases/live-in-milwaukee-2019)
