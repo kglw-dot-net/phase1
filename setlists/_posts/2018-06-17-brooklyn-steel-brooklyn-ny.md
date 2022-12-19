@@ -37,7 +37,7 @@ tour: "2018 North American Tour"
 15. The Wheel
 
 16. Robot Stop
-    (with 'Master of the Universe' and 'Hot Water' snippets)
+    (w/ Master of the Universe + Hot Water teases)
 
 17. Big Fig Wasp
 
@@ -46,6 +46,6 @@ tour: "2018 North American Tour"
 19. The River
 
 20. Dirty Deeds Done Dirt Cheap
-    (AC/DC cover) (with Amyl and the Sniffers)
+    (AC/DC cover featuring Amyl and the Sniffers)
 
 

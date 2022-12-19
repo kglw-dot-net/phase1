@@ -41,11 +41,11 @@ tour: "2018 North American Tour"
 17. The Wheel
 
 18. Robot Stop
-    (Hot Water tease)
+    (w/ Hot Water tease)
 
 19. Big Fig Wasp
 
 20. Gamma Knife
-    (People-Vultures riff/intro)
+    (w/ People-Vultures tease)
 
 

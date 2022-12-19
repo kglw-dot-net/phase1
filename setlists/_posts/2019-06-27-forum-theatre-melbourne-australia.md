@@ -35,7 +35,7 @@ tour: "World Tour `19"
 14. The Balrog
 
 15. Evil Death Roll
-    (w/ Invisible Face interpolation)
+    (w/ Invisible Face tease)
 
 16. Inner Cell
 

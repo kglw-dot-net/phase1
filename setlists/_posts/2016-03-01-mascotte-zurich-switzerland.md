@@ -31,7 +31,8 @@ venue: "Mascotte, Zurich, Switzerland"
 
 13. I'm in Your Mind Fuzz
 
+Encore:
+
 14. Am I in Heaven?
-    (Encore)
 
 

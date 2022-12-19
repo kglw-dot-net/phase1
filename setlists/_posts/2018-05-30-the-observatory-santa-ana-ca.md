@@ -11,7 +11,6 @@ tour: "2018 North American Tour"
  2. Vomit Coffin
 
  3. The Lord of Lightning
-    (with Cellophane riff outro)
 
  4. Alter Me I
 

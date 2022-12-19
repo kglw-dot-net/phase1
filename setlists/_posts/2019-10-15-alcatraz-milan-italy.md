@@ -6,6 +6,8 @@ tour: "World Tour `19"
 ---
 
 
+ Intro song played from tape: Evil Star
+
  1. Self-Immolate
 
  2. Organ Farmer
@@ -45,6 +47,4 @@ tour: "World Tour `19"
 19. Murder of the Universe
 
 
-Note: 'The Great Chain of Being' was on the printed setlist before 'Hot
-Water'. 'Venusian 2', 'Hell', and portions from 'The Bitter Boogie'
-from this show are featured in the 'Chunky Shrapnel' concert film.
+Note: 'Venusian 2', 'Hell', and portions from 'The Bitter Boogie' from this show are featured in the 'Chunky Shrapnel' concert film.

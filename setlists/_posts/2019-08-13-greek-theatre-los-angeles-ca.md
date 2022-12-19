@@ -27,7 +27,7 @@ tour: "World Tour `19"
 10. The River
 
 11. Wah Wah
-    (with 'The River' snippet)
+    (w/ The River tease)
 
 12. Road Train
 

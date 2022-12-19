@@ -39,7 +39,7 @@ tour: "Flying Microtonal Banana"
 16. Vomit Coffin
 
 17. Am I in Heaven?
-    (Medley: Altered Beast/Robot Stop/Cellophane/I'm In Your Mind/Sea
-    Of Trees)
+    (w/ Altered Beast + Robot Stop + Cellophane + I'm In Your Mind + Sea
+    Of Trees teases)
 
 

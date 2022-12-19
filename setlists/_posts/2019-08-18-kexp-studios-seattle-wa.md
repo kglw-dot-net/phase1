@@ -15,4 +15,4 @@ venue: "KEXP Studios, Seattle, WA, USA"
  5. Hell
 
 
-Note: Live session for KEXP radio in Seattle.
+Notes: Live session for KEXP radio in Seattle.

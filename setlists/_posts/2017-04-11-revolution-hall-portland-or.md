@@ -24,15 +24,15 @@ tour: "Flying Microtonal Banana"
 
  9. Robot Stop
 
-10. The River
+ 10. The River
 
-11. Gamma Knife
+ 11. Gamma Knife
 
-12. The Lord of Lightning
+ 12. The Lord of Lightning
 
-13. Vomit Coffin
+ 13. Vomit Coffin
 
-14. Am I in Heaven?
-    (Medley: Altered Beast / Cellophane / Rattlesnake)
+ 14. Am I in Heaven?
+    (w/ Altered Beast + Cellophane + Rattlesnake teases)
 
 

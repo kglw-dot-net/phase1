@@ -13,7 +13,7 @@ tour: "World Tour `19"
  3. Organ Farmer
 
  4. Am I in Heaven?
-    (Medley with Altered Beast, Hot Water, Pill and Stressin')
+    (w/ Altered Beast + Hot Water + Head On/Pill + Stressin teases)
 
  5. Plastic Boogie
 

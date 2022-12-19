@@ -28,7 +28,8 @@ venue: "The Grey Eagle, Asheville, NC, USA"
 
 12. Evil Death Roll
 
+Encore:
+
 13. Head On/Pill
-    (Encore)
 
 

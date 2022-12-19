@@ -16,7 +16,7 @@ tour: "Nonagon Infinity"
 
  5. Mr. Beat
 
- 6. (new song)
+ 6. (Unknown new song)
 
  7. I'm in Your Mind
 

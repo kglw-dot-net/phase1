@@ -5,8 +5,7 @@ venue: "Event Lawn at Virgin Hotels Las Vegas, Las Vegas, NV, USA"
 tour: "World Tour '22"
 ---
 
-
- 1. KGLW
+ 1. K.G.L.W.
 
  2. Nuclear Fusion
 
@@ -19,7 +18,7 @@ tour: "World Tour '22"
  6. Plastic Boogie
 
  7. Her and I (Slow Jam 2)
-    (with 'Iron Lung' & 'Slow Jam 1' snippets) (>)
+    (w/ Iron Lung + Slow Jam 1 teases) (>)
 
  8. Sleepwalker
 
@@ -30,7 +29,7 @@ tour: "World Tour '22"
 11. Blame It on the Weather
 
 12. Boogieman Sam
-    (with partial lyrics from 'Cut Throat Boogie')
+    (w/ Cut Throat Boogie tease)
 
 13. The Dripping Tap
 

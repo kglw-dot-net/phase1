@@ -5,7 +5,7 @@ venue: "Vera, Groningen, Netherlands"
 ---
 
  1. Head On/Pill
-    (with Am I In Heaven? snippet)
+    (w/ Am I In Heaven? teaaw)
 
  2. Hot Water
 
@@ -25,8 +25,9 @@ venue: "Vera, Groningen, Netherlands"
 
 10. I'm in Your Mind Fuzz
 
-10. Stressin'
-    (Encore)
+Encore:
+
+11. Stressin'
 
 
 Note: incomplete setlist.

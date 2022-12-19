@@ -15,24 +15,25 @@ tour: "Murder of the Universe"
  4. Han-Tyumi the Confused Cyborg
 
  5. The Lord of Lightning
-    (The band teased the start of Cellophane after)
+    (Cellophane tease?)
 
  6. Crumbling Castle
 
  7. Robot Stop
-    (With 'Master of the Universe' by Hawkwind snippet)
+    (w/ Master of the Universe - Hawkwind tease)
 
  8. Gamma Knife
 
- 9. Encore:
-10. Nuclear Fusion
+Encore:
 
-11. Doom City
+9. Nuclear Fusion
+
+10. Doom City
     (With 'Crumbling Castles' outro)
 
-12. Rattlesnake
+11. Rattlesnake
 
-13. Let There Be Rock
-    (AC/DC cover) (Played as a tribute to Malcolm Young)
+12. Let There Be Rock
+    (AC/DC cover played as a tribute to Malcolm Young)
 
 

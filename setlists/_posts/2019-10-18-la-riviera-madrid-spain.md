@@ -6,6 +6,8 @@ tour: "World Tour `19"
 ---
 
 
+ Intro song played from tape: Evil Star
+
  1. Self-Immolate
 
  2. Planet B
@@ -27,7 +29,7 @@ tour: "World Tour `19"
 10. The Lord of Lightning
 
 11. Cut Throat Boogie
-    (with The Cruel Millennial outro)
+    (w/ The Cruel Millennial tease)
 
 12. Wah Wah
 
@@ -44,7 +46,7 @@ tour: "World Tour `19"
 18. Perihelion
 
 19. Am I in Heaven?
-    (Robot Stop / I'm in Your Mind / Head On/Pill snippets)
+    (w/ Robot Stop + I'm in Your Mind + Head On/Pill teases)
 
 
 Note: 'Let Me Mend the Past' and 'Wah Wah' from this show are featured

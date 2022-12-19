@@ -9,7 +9,7 @@ tour: "World Tour '22"
  1. Doom City
 
  2. Honey
-    (Referenced Billabong Valley and Sleep Drifter)
+    (w/ Billabong Valley + Sleep Drifter teases)
 
  3. Automation
     (>)
@@ -34,7 +34,7 @@ tour: "World Tour '22"
 12. Persistence
 
 13. Boogieman Sam
-    (Partial Cut Throat Boogie lyrics)
+    (w/ Cut Throat Boogie tease)
 
 14. The Dripping Tap
 

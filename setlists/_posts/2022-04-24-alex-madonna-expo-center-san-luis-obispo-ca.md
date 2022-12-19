@@ -19,7 +19,7 @@ tour: "World Tour '22"
  6. Cut Throat Boogie
 
  7. The River
-    (20 minute long version)
+    (extended version)
 
  8. Static Electricity
 
@@ -34,6 +34,6 @@ tour: "World Tour '22"
 13. Hell
 
 14. Her and I (Slow Jam 2)
-    (Contained motifs from Iron Lung, Ice V, Slow Jam 1, and The River)
+    (w/ Iron Lung + Ice V + Slow Jam 1 + The River teases)
 
 

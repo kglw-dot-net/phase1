@@ -16,7 +16,7 @@ venue: "The Marquee, RNA Showgrounds, Brisbane, Australia"
 
  6. The Lord of Lightning
 
- 7. (new song ("Potential song titles Molten Beasts/Devil in Me"))
+ 7. (Unknown new song from Altered Beast suite)
 
  8. Evil Death Roll
 

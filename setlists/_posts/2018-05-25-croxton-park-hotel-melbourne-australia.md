@@ -13,12 +13,11 @@ venue: "Croxton Park Hotel, Melbourne, Australia"
  4. Cellophane
 
  5. Altered Beast I
-    (Preceded by 'Alter Me' snippet)
+    (w/ Alter Me tease)
 
  6. Rattlesnake
 
  7. Doom City
-    (Greenhouse Heat Death was on the setlist in this position)
 
  8. All Is Known
 
@@ -43,8 +42,5 @@ venue: "Croxton Park Hotel, Melbourne, Australia"
 18. Robot Stop
 
 19. Big Fig Wasp
-    (On setlist as 'Big Rig Watch')
 
 20. Gamma Knife
-
-

@@ -6,8 +6,10 @@ tour: "World Tour '20"
 ---
 
 
-## Set 1:
+ Evil Star intro played from tape
 
+## Set 1:
+ 
  1. Planet B
 
  2. Mars for the Rich
@@ -22,9 +24,9 @@ tour: "World Tour '20"
 
  7. Plastic Boogie
 
- 8. The Great Chain of Being
+8. The Great Chain of Being
 
- 9. Her and I (Slow Jam 2)
+9. Her and I (Slow Jam 2)
 
 10. Organ Farmer
 

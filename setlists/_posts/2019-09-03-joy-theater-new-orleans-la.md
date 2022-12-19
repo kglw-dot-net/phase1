@@ -13,7 +13,7 @@ tour: "World Tour `19"
  3. I'm in Your Mind
 
  4. I'm Not in Your Mind
-    (with `Altered Beast' snippet)
+    (w/ Altered Beast tease)
 
  5. Cellophane
 
@@ -46,5 +46,3 @@ tour: "World Tour `19"
 19. Organ Farmer
 
 20. Hell
-
-

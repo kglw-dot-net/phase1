@@ -7,7 +7,7 @@ tour: "I'm In Your Mind Fuzz"
 
 
  1. Pushin' Too Hard
-    (The Seeds cover---
+    (The Seeds cover) (with The Babe Rainbow)
 
 
 Note: Incomplete.

@@ -6,6 +6,8 @@ tour: "Mexico Tour 2018"
 ---
 
 
+Intro song played from tape: "Raining Blood" (Slayer)
+
  1. Digital Black
 
  2. Vomit Coffin
@@ -27,8 +29,7 @@ tour: "Mexico Tour 2018"
 10. Muddy Water
 
 11. Robot Stop
-    (Before the song they played a snip of "Master of The Universe" by
-    Hawkwind)
+    (w/ Master of The Universe - Hawkwind tease)
 
 12. Gamma Knife
 

@@ -25,7 +25,7 @@ tour: "World Tour `19"
  9. Muddy Water
 
 10. Cut Throat Boogie
-    (with The Cruel Millennial outro)
+    (w/ The Cruel Millennial tease)
 
 11. Gamma Knife
 

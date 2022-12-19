@@ -6,14 +6,12 @@ tour: "World Tour '22"
 ---
 
 
- 1. KGLW
-    (Intro)
+ 1. K.G.L.W. (Intro)
 
  2. Rattlesnake
-    (Contained sections of Automation and O.N.E)
+    (w/ Automation + O.N.E teases)
 
  3. K.G.L.W.
-    (Outro)
 
  4. Presumptuous
 
@@ -32,5 +30,4 @@ tour: "World Tour '22"
 11. Hell
 
 12. Am I in Heaven?
-    (Including chunks of Dripping Tap, Magenta Mountain, Altered Beast,
-    Crumbling Castle)
+    (w/ The Dripping Tap + Magenta Mountain + Altered Beast + Crumbling Castle teases)

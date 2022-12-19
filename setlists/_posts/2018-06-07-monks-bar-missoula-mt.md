@@ -15,10 +15,9 @@ tour: "2018 North American Tour"
  4. Vomit Coffin
 
  5. The Lord of Lightning
-    (Followed by 'Cellophane' riff)
 
  6. Altered Beast I
-    (with 'Alter Me' intro)
+    (w/ 'Alter Me tease)
 
  7. Crumbling Castle
 
@@ -33,10 +32,10 @@ tour: "2018 North American Tour"
 12. The Wheel
 
 13. Robot Stop
-    (with 'Hot Water' riff)
+    (w/ Hot Water tease)
 
 14. Gamma Knife
 
 15. Head On/Pill
-    (with snippets of 'Hot Water', 'Alter Me', 'Sea of
-    Trees', 'Am I In Heaven?' and 'Cellophane')
+    (w/ Hot Water + Alter Me + Sea of
+    Trees + Am I In Heaven? + Cellophane teases)

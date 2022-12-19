@@ -6,7 +6,7 @@ tour: "Flying Microtonal Banana"
 ---
 
 
-## Microtonal Set
+## Set 1 (Microtonal):
 
  1. Open Water
 
@@ -24,7 +24,7 @@ tour: "Flying Microtonal Banana"
 
  8. Rattlesnake
 
-## Rock Set
+## Set 2:
 
 1. Alter Me I
 
@@ -53,7 +53,5 @@ tour: "Flying Microtonal Banana"
 13. The Balrog
 
 14. Am I in Heaven?
-    (with Cellophane/Alter Me/Hot Water/Head On/Pill/Sea of Trees
-    Medley Interlude)
-
-
+    (w/ Cellophane + Alter Me + Hot Water + Head On/Pill + Sea of Trees
+    teases)

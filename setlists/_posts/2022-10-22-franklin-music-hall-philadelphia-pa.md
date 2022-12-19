@@ -20,7 +20,7 @@ tour: "World Tour '22"
  6. Organ Farmer
 
  7. Her and I (Slow Jam 2)
-    (w/ Iron Lung and Ice V teases)
+    (w/ Iron Lung + Ice V teases)
 
  8. Crumbling Castle
     (>)
@@ -28,18 +28,18 @@ tour: "World Tour '22"
  9. The Fourth Colour
 
 10. The Grim Reaper
-    (Sadie Sorceress tease)
+    (w/ Sadie Sorceress tease)
 
 11. Ice V
 
 12. Alter Me III
-    (with Leah Senior) (>)
+    (featuring Leah Senior, >)
 
 13. Altered Beast IV
-    (with Leah Senior)
+    (featuring Leah Senior)
 
 14. Evil Death Roll
-    (Altered Beast & Hypertension teases; contained elements of Invisible Face)
+    (w/ Altered Beast + Hypertension + Invisible Face teases)
 
 
 Note: Soundcheck included The Grim Reaper and Altered Beast IV.

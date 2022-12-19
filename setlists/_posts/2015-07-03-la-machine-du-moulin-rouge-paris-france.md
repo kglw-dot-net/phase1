@@ -14,11 +14,11 @@ venue: "La Machine du Moulin Rouge, Paris, France"
 
  5. Hot Water
 
- 6. (new song)
+ 6. (Unknown new song preview)
 
  7. Hot Wax
 
- 8. (new song)
+ 8. (Unknown new song preview)
 
  9. The River
 

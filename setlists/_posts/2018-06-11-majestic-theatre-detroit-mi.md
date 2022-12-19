@@ -25,7 +25,6 @@ tour: "2018 North American Tour"
  9. The Lord of Lightning
 
 10. Alter Me I
-    (Intro I'm in Your Mind tease)
 
 11. Altered Beast I
 
@@ -42,7 +41,7 @@ tour: "2018 North American Tour"
 17. The Wheel
 
 18. Robot Stop
-    (Intro Big Fig Wasp and Cellophane tease)
+    (w/ Big Fig Wasp + Cellophane teases)
 
 19. Gamma Knife
 

@@ -5,10 +5,13 @@ venue: "Baby's All Right, Brooklyn, NY, USA"
 ---
 
  1. I'm in Your Mind
+    (>)
 
  2. I'm Not in Your Mind
+    (>)
 
  3. Cellophane
+    (>)
 
  4. I'm in Your Mind Fuzz
 
@@ -19,6 +22,7 @@ venue: "Baby's All Right, Brooklyn, NY, USA"
  7. Hot Wax
 
  8. Robot Stop
+    (w/ original lyrics)
 
  9. The River
 
@@ -27,6 +31,6 @@ venue: "Baby's All Right, Brooklyn, NY, USA"
 11. Danger $$$
 
 12. Am I in Heaven?
-    (With Head On/Pill snippet)
+    (w/ Head On/Pill jam)
 
 

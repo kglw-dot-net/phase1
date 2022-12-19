@@ -5,6 +5,7 @@ venue: "Manufaktur, Schorndorf, Germany"
 tour: "2018 European Summer Tour"
 ---
 
+(Soundcheck included a full-band jam)
 
  1. Digital Black
 
@@ -14,7 +15,7 @@ tour: "2018 European Summer Tour"
  3. The Lord of Lightning
 
  4. Sleep Drifter
-    (w/ snippets of "Billabong Valley" and "Rattlesnake")
+    (w/  Billabong Valley + Rattlesnake teases)
 
  5. Crumbling Castle
 
@@ -35,16 +36,12 @@ tour: "2018 European Summer Tour"
 13. The Balrog
 
 14. Robot Stop
-    (w/ snippets of "Hot Water", "Master Of Universe [Hawkwind cover)
+    (w/ Hot Water + Master Of Universe - Hawkwind tease)
 
 15. Gamma Knife
-    (w/ "People-Vultures" outro)
+    (w/ People-Vultures tease)
 
 16. The Wheel
 
 17. Am I in Heaven?
-    (w/ snippets of "Alter Me I", "Robot Stop", "Cellophane",
-    "Rattlesnake", "Head On/Pill" and more)
-
-
-Note: The soundcheck turned into a jam and the whole band was involved
+    (w/ Alter Me I + Robot Stop + Cellophane + Rattlesnake + Head On/Pill teases)

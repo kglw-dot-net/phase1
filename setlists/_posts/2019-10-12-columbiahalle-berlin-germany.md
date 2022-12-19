@@ -23,7 +23,7 @@ tour: "World Tour `19"
  8. Hot Water
 
  9. Wah Wah
-    (with parts from `The River')
+    (w/ The River tease)
 
 10. Road Train
 
@@ -40,9 +40,7 @@ tour: "World Tour `19"
 16. Hell
 
 17. Head On/Pill
-    (Snippets of `Alter Me' and 'Am I In Heaven?')
+    (w/ Alter Me + Am I In Heaven? teases)
 
 
-Note: `Doom City' was on the setlist after `Billabong Valley' but
-wasn't played. Stu's flute solo from the 'Head On/Pill' jam is featured
-in the 'Chunky Shrapnel' concert film.
+Note: Stu's flute solo from the 'Head On/Pill' jam is featured in the 'Chunky Shrapnel' concert film.

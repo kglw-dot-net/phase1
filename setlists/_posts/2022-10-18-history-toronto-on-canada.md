@@ -7,7 +7,7 @@ tour: "World Tour '22"
 
 
  1. Rattlesnake
-    (with O.N.E. and Automation teases)
+    (w/ O.N.E. + Automation teases)
 
  2. Oddlife
 

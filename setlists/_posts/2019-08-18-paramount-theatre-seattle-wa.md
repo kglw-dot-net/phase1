@@ -6,6 +6,8 @@ tour: "World Tour `19"
 ---
 
 
+Intro song played from tape: "The Rockafeller Skank" (Fatboy Slim)
+
  1. Self-Immolate
 
  2. Venusian 2
@@ -27,7 +29,7 @@ tour: "World Tour `19"
 10. Doom City
 
 11. Nuclear Fusion
-    (Han Tyumi says "Hello Seattle")
+    (Han-Tyumi said "Hello Seattle")
 
 12. Boogieman Sam
 
@@ -38,7 +40,7 @@ tour: "World Tour `19"
 15. Murder of the Universe
 
 16. Wah Wah
-    (with The River tease)
+    (w/ The River tease)
 
 17. Road Train
 

@@ -33,7 +33,6 @@ tour: "World Tour `19"
 13. People-Vultures
 
 14. Head On/Pill
-    (Snippets of Am I In Heaven?, Robot Stop, Alter Me, Hot Water,
-    People-Vultures, Boogieman Sam)
+    (w/ Am I in Heaven? + Robot Stop + Alter Me + Hot Water + People-Vultures + Boogieman Sam teases)
 
 

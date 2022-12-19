@@ -6,8 +6,6 @@ tour: "Flying Microtonal Banana"
 ---
 
 
-(incomplete / out-of-order)
-
  1. Open Water
 
  2. Anoxia
@@ -21,4 +19,6 @@ tour: "Flying Microtonal Banana"
  6. Altered Beast I
 
  7. Am I in Heaven?
-    (with bits of I'm in Your Mind and Cellophane)
+    (w/ I'm in Your Mind medley tease)
+
+Note: possibly incomplete / out-of-order.

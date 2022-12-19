@@ -21,7 +21,7 @@ tour: "World Tour '22"
     (>)
 
  6. Mr. Beat
-    (with Oddlife and Iron Lung motifs)
+    (w/ Oddlife + Iron Lung teases)
 
  7. Blame It on the Weather
 
@@ -31,20 +31,19 @@ tour: "World Tour '22"
  9. Venusian 1
 
 10. Plastic Boogie
-    (with extended jam and Slow Jam 1 tease)
+    (w/ Slow Jam 1 tease)
 
 11. The Book
-    (with extended drum solo)
+    (with drum solo)
 
 12. Minimum Brain Size
 
 13. Wah Wah
-    (with intro jam and The River motif, >)
+    (w/ The River tease, >)
 
 14. The River
-    (with extended jam in second section, third and fourth sections
+    (w/ extended jam in second section, third and fourth sections
     left out)
 
 
-Note: Stu's Gibson Holy Explorer and Joey's Gibson Flying V were crushed by a lift
-before the show. (?)
+Note: Stu's Gibson Holy Explorer and Joey's Gibson Flying V were crushed by a lift before the show.

@@ -16,7 +16,7 @@ tour: "2018 North American Tour"
 
  5. Cellophane
 
- 6. I'm in Your Mind
+ 6. I'm In Your Mind
 
  7. Alter Me I
 
@@ -45,7 +45,7 @@ tour: "2018 North American Tour"
 19. Wah Wah
 
 20. Robot Stop
-    (with 'Hot Water' riff)
+    (w/ Hot Water tease)
 
 21. Gamma Knife
 

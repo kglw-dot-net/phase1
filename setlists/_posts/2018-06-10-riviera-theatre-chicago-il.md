@@ -39,9 +39,9 @@ tour: "2018 North American Tour"
 16. Gamma Knife
 
 17. The River
-    (with Matthew Roberts from Mild High Club on auxiliary percussion)
+    (featuring Matthew Roberts from Mild High Club on auxiliary percussion)
 
 18. Beginner's Luck
-    (with Malcolm Brown from Whitney on keyboards)
+    (featuring Malcolm Brown from Whitney on keyboards)
 
 

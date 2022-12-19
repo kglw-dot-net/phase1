@@ -15,7 +15,8 @@ tour: "World Tour `19"
  4. Organ Farmer
 
  5. Am I in Heaven?
-    (Medley: Alter Me, Robot Stop, Cellophane, Rattlesnake, Head On/Pill)
+    (w/ Alter Me + Robot Stop + Cellophane + Rattlesnake + Head
+    On/Pill teases)
 
  6. Open Water
 

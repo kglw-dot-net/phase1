@@ -5,6 +5,7 @@ venue: "Moreno Beach, Perris, CA, USA"
 tour: "Mexico Tour 2018"
 ---
 
+Intro song played from tape: Riff Raff - AC/DC
 
  1. I'm in Your Mind
 
@@ -13,7 +14,7 @@ tour: "Mexico Tour 2018"
  3. The Balrog
 
  4. Sleep Drifter
-    (w/ snippet of Billabong Valley)
+    (w/ Billabong Valley tease)
 
  5. Rattlesnake
 

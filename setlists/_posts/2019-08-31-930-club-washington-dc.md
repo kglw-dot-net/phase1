@@ -24,31 +24,29 @@ tour: "World Tour `19"
 
  9. Cyboogie
 
-10. The River
-    (part 1)
+10. Wah Wah
+    (w/ The River tease)
 
-11. Wah Wah
+11. Road Train
 
-12. Road Train
+12. Alter Me I
 
-13. Alter Me I
+13. Altered Beast I
 
-14. Altered Beast I
+14. Gamma Knife
 
-15. Gamma Knife
+15. People-Vultures
 
-16. People-Vultures
+16. This Thing
 
-17. This Thing
+17. Sense
 
-18. Sense
+18. Work This Time
 
-19. Work This Time
+19. Mars for the Rich
 
-20. Mars for the Rich
+20. Venusian 1
 
-21. Venusian 1
-
-22. Planet B
+21. Planet B
 
 

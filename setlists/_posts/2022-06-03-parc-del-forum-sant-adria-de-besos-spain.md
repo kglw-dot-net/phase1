@@ -12,7 +12,7 @@ tour: "World Tour '22"
  2. Self-Immolate
 
  3. Gaia
-    (With drum solo)
+    (w/ drum solo)
 
  4. The Grim Reaper
 
@@ -21,7 +21,7 @@ tour: "World Tour '22"
  6. Billabong Valley
 
  7. Honey
-    (With teases for "Sleep Drifter" and "Rattlesnake")
+    (w/ Sleep Drifter + Rattlesnake teases)
 
  8. Pleura
 
@@ -30,5 +30,4 @@ tour: "World Tour '22"
 10. The Dripping Tap
 
 
-Note: Michael Cavanagh's first show since Higher Ground, Burlington,
-5/26/22.
+Note: Michael Cavanagh's first show after missing two due to COVID (since Higher Ground, Burlington, 5/26/22).

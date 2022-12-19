@@ -7,8 +7,8 @@ tour: "Murder of the Universe"
 
 
  1. Am I in Heaven?
-    (Medley: Alter Me, Hot Water, Robot Stop, Cellophane, I'm in Your
-    Mind, Head On/Pill)
+    (w/ Alter Me + Hot Water + Robot Stop + Cellophane + I'm in Your
+    Mind + Head On/Pill teases)
 
  2. People-Vultures
 
@@ -37,7 +37,7 @@ tour: "Murder of the Universe"
 14. Altered Beast III
 
 15. Robot Stop
-    (With 'Master of the Universe' by Hawkwind snippet)
+    (w/ Master of the Universe - Hawkwind tease)
 
 16. Hot Water
 

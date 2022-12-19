@@ -6,8 +6,8 @@ tour: "World Tour `19"
 ---
 
 
-## Set 1: Infest the Rats' Nest
-
+## Set 1: 
+ 
  1. Planet B
 
  2. Mars for the Rich
@@ -41,9 +41,9 @@ tour: "World Tour `19"
  6. Cyboogie
 
  7. Am I in Heaven?
-     (with Altered Beast, Robot Stop, Cellophane tease)
+    (w/ Altered Beast + Robot Stop + Cellophane teases)
 
  8. The River
 
 
-Note: "Infest the Rats' Nest" album was released on that day.
+Notes: "Infest the Rats' Nest" album was released the day of the show.

@@ -6,9 +6,9 @@ tour: "World Tour '22"
 ---
 
 
-(Technical difficulties at intro)
-
  1. Gaia
+    (Preceded by Drum Solo due to technical difficulties with guitar
+    amp)
 
  2. Self-Immolate
 
@@ -23,17 +23,17 @@ tour: "World Tour '22"
  7. O.N.E.
 
  8. Sleep Drifter
-    (Honey teases)
+    (w/ Honey tease)
 
  9. K.G.L.W.
 
 10. Let Me Mend the Past
 
 11. The River
-    (Scat singing in the intro, Wah Wah tease mid jam, unfinished >)
+    (w/ Wah Wah tease, >)
 
 12. Wah Wah
-    (The River teases)
+    (w/ The River tease)
 
 13. Road Train
 

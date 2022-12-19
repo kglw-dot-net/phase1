@@ -13,10 +13,13 @@ tour: "I'm In Your Mind Fuzz USA 2014"
  3. Danger $$$
 
  4. I'm in Your Mind
+    (>)
 
  5. I'm Not in Your Mind
+    (>)
 
  6. Cellophane
+    (>)
 
  7. I'm in Your Mind Fuzz
 

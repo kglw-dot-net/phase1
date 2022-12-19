@@ -18,8 +18,6 @@ venue: "Footscray Community Arts Centre, Melbourne, Australia"
 
  7. Cellophane
 
- 8. (Unknown)
-    (Molten Beast)
+ 8. (Unknown song from Altered Beast suite)
+
  9. Robot Stop
-
-

@@ -23,9 +23,9 @@ tour: "World Tour '22"
  8. Crumbling Castle
 
  9. The River
-    (with Wah Wah teases)
+    (w/ Wah Wah teases)
 
 10. Sadie Sorceress
-    (with The Grim Reaper verses)
+    (w/ The Grim Reaper quotes)
 
 11. The Dripping Tap

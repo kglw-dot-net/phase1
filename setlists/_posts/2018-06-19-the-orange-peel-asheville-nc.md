@@ -11,7 +11,7 @@ tour: "2018 North American Tour"
  2. Nuclear Fusion
 
  3. Sleep Drifter
-    (With 'Doom City' riff)
+    (w/ Doom City tease)
 
  4. Anoxia
 
@@ -48,8 +48,7 @@ tour: "2018 North American Tour"
 20. The Wheel
 
 21. Robot Stop
-    (with 'Am I in Heaven?', 'Head On/Pill', 'Big Fig Wasp',
-    'Rattlesnake' and 'Hot Water' snippets)
+    (w/ Am I in Heaven? + Head On/Pill + Big Fig Wasp + Rattlesnake + Hot Water teases)
 
 22. Big Fig Wasp
 

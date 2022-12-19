@@ -30,6 +30,8 @@ venue: "Rescue Rooms, Nottingham, England"
 
 13. I'm in Your Mind Fuzz
 
+Encore:
+
 14. Evil Death Roll
-    (encore)
+
 

@@ -23,7 +23,7 @@ tour: "Murder of the Universe"
  8. Altered Beast III
 
  9. Robot Stop
-    (with snippet of 'Master of the Universe' by Hawkwind)
+    (w/ Master of the Universe - Hawkwind tease)
 
 10. Gamma Knife
 

@@ -6,6 +6,8 @@ tour: "World Tour `19"
 ---
 
 
+ Intro song played from tape: Evil Star
+
  1. Self-Immolate
 
  2. Mars for the Rich
@@ -15,7 +17,7 @@ tour: "World Tour `19"
  4. I'm Not in Your Mind
 
  5. Cellophane
-    (Altered Beast Intro)
+    (w/ Altered Beast tease)
 
  6. The Great Chain of Being
 
@@ -42,4 +44,4 @@ tour: "World Tour `19"
 
 Note: All of 'Planet B' along with portions of 'Self-Immolate' and
 'Rattlesnake' from this show are featured in the 'Chunky Shrapnel'
-concert film. Full set released as 'Live in London '19' on Christmas
+concert film. Full set released as 'Live in London '19'.

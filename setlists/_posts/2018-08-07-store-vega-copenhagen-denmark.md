@@ -29,7 +29,7 @@ tour: "2018 European Summer Tour"
 11. Altered Beast IV
 
 12. Sleep Drifter
-    (Jam ending)
+    (Jam outro)
 
 13. Rattlesnake
 
@@ -48,6 +48,6 @@ tour: "2018 European Summer Tour"
 20. People-Vultures
 
 21. Head On/Pill
-    (Snippets of Am I In Heaven, Rattlesnake, Cellophane, Robot Stop)
+    (w/ Am I In Heaven + Rattlesnake + Cellophane + Robot Stop teases)
 
 

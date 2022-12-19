@@ -34,19 +34,17 @@ tour: "World Tour `19"
 
 14. Altered Beast IV
 
-15. The River
-    (Short)
+15. Wah Wah
+    (w/ The River tease)
 
-16. Wah Wah
+16. Road Train
 
-17. Road Train
+17. The Cruel Millennial
 
-18. The Cruel Millennial
+18. The Wheel
 
-19. The Wheel
+19. Self-Immolate
 
-20. Self-Immolate
-
-21. Hell
+20. Hell
 
 

@@ -22,7 +22,7 @@ tour: "World Tour '22"
  6. Gamma Knife
 
  7. Persistence
-    (With extended jam)
+    (w/ extended jam)
 
  8. Automation
 
@@ -31,6 +31,3 @@ tour: "World Tour '22"
 10. Static Electricity
 
 11. K.G.L.W.
-
-
-Note: Third of five shows for Primavera Sound in Barcelona.

@@ -41,7 +41,6 @@ tour: "World Tour `19"
 16. Perihelion
 
 17. Am I in Heaven?
-    (15-min medley w/ `Boogieman Sam', `I'm Not in Your Mind',
-    `Rattlesnake', `Head On/Pill' & `Alter Me')
+    (w/ Boogieman Sam + I'm Not in Your Mind + Rattlesnake + Head On/Pill + Alter Me teases)
 
 

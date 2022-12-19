@@ -35,27 +35,27 @@ tour: "Australian Tour 2018"
 14. Rattlesnake
 
 15. Eyes Like the Sky
-    (with Broderick Smith)
+    (featuring Broderick Smith)
 
 16. Year of Our Lord
-    (with Broderick Smith)
+    (featuring Broderick Smith)
 
 17. The Raid
-    (with Broderick Smith)
+    (featuring Broderick Smith)
 
-19. The River
-    (Part 1)
+18. The River
+    (Shortened version)
 
-20. Wah Wah
+19. Wah Wah
 
-21. Road Train
+20. Road Train
 
-22. Robot Stop
+21. Robot Stop
 
-23. Gamma Knife
+22. Gamma Knife
 
-24. Head On/Pill
-    (Medley with Alter Me I, Am I In Heaven?, Robot Stop, Big Fig Wasp
-    & Cellophane)
+23. Head On/Pill
+    (w/ Alter Me I + Am I In Heaven? + Robot Stop + Big Fig Wasp
+    + Cellophane teases)
 
 

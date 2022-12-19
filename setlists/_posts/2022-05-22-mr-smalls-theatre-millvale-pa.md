@@ -31,14 +31,14 @@ tour: "World Tour '22"
 11. Automation
 
 12. The Book
-    (w/ extended drum solo)
+    (w/ drum solo)
 
 13. Supreme Ascendancy
 
 14. Pleura
 
 15. Open Water
-    (Extended)
+    (Extended version)
 
 16. Float Along - Fill Your Lungs
 

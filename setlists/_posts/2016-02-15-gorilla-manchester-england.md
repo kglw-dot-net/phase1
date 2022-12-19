@@ -5,7 +5,7 @@ venue: "Gorilla, Manchester, England"
 ---
 
  1. Robot Stop
-    (With 'Hot Water' snippet)
+    (w/ Hot Water tease)
 
  2. Hot Wax
 
@@ -33,7 +33,9 @@ venue: "Gorilla, Manchester, England"
 
 14. Danger $$$
 
-16. Vegemite
-    (encore) (Stu solo)
+Encore:
+
+15. Vegemite
+    (Stu solo)
 
 

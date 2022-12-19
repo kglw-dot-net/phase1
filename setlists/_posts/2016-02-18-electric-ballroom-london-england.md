@@ -36,6 +36,8 @@ venue: "Electric Ballroom, London, England"
 
 16. I'm in Your Mind Fuzz
 
+Encore:
+
 17. Am I in Heaven?
-    (encore)
+
 

@@ -19,19 +19,19 @@ tour: "World Tour '22"
  6. Ambergris
 
  7. Robot Stop
-    (with Hot Water jam)
+    (w/ Hot Water tease)
 
  8. Gamma Knife
 
  9. Cut Throat Boogie
-    (with Boogieman Sam jam)
+    (w/ Boogieman Sam tease)
 
-10. KGLW
+10. K.G.L.W. (Intro)
 
 11. Minimum Brain Size
 
 12. Honey
-    (with Rattlesnake jam)
+    (w/ Rattlesnake tease)
 
 13. Open Water
 

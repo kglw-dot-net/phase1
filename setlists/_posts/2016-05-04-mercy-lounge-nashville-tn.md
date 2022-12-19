@@ -32,7 +32,8 @@ venue: "Mercy Lounge, Nashville, TN, USA"
 
 14. Evil Death Roll
 
+Encore:
+
 15. Head On/Pill
-    (Encore)
 
 

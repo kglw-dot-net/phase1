@@ -29,12 +29,12 @@ tour: "2018 North American Tour"
 11. The Wheel
 
 12. Robot Stop
-    (with "Am I In Heaven?" and "Cellophane" teases)
+    (w/ Am I In Heaven? + Cellophane teases)
 
 13. Big Fig Wasp
 
 14. Gamma Knife
-    (with "People-Vultures" tease)
+    (w/ People-Vultures tease)
 
 15. Billabong Valley
 

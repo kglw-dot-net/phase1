@@ -5,28 +5,27 @@ venue: "Club S.H.A.R.P., Seoul, South Korea"
 tour: "World Tour `19"
 ---
 
+ 1. Planet B
 
- 1. Infest the Rats' Nest:
- 2. Planet B
+ 2. Mars for the Rich
 
- 3. Mars for the Rich
+ 3. Organ Farmer
 
- 4. Organ Farmer
+ 4. Superbug
 
- 5. Superbug
+ 5. Venusian 1
 
- 6. Venusian 1
+ 6. Perihelion
 
- 7. Perihelion
+ 7. Venusian 2
 
- 8. Venusian 2
+ 8. Self-Immolate
 
- 9. Self-Immolate
+ 9. Hell
 
-10. Hell
+Encore:
 
-11. The Great Chain of Being
-    (encore)
+10. The Great Chain of Being
 
 
 Note: Secret gig after Jisan Forest Resort gig was cancelled.

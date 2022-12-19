@@ -47,5 +47,3 @@ tour: "World Tour `19"
 20. Self-Immolate
 
 21. Hell
-
-

@@ -31,7 +31,7 @@ tour: "2018 UK/EU Tour"
 12. The Fourth Colour
 
 13. Robot Stop
-    ('Head On/Pill', 'Am I in Heaven?' medley intro)
+    (w/ Head On/Pill + Am I in Heaven? teases)
 
 14. Big Fig Wasp
 

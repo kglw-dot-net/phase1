@@ -41,7 +41,9 @@ tour: "Flying Microtonal Banana"
 17. Cellophane
 
 18. Am I in Heaven?
-    (Stu crowd surfed out of the venue and into the sea, while the band
-    continued to play)
+
+
+Note: During final song Stu crowd surfed out of the venue and into the sea, while the band
+    continued to play.
 
 

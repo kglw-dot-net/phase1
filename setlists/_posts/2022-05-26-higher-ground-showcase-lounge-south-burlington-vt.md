@@ -23,17 +23,17 @@ tour: "World Tour '22"
  8. K.G.L.W.
 
  9. Persistence
-    (Head On/Pill teases)
+    (w/ Head On/Pill tease)
 
 10. Muddy Water
-    (Perihelion teases, extended sax solo)
+    (w/ Perihelion tease + sax solo)
 
 11. Crumbling Castle
 
 12. Tetrachromacy
 
 13. Head On/Pill
-    (The Dripping Tap, Alter Me, Persistence, Am I In Heaven?, Blame It
-    On The Weather, Shanghai teases)
+    (w/ The Dripping Tap + Alter Me + Persistence + Am I In Heaven? + Blame It
+    On The Weather + Shanghai teases)
 
 

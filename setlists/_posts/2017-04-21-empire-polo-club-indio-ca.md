@@ -27,7 +27,7 @@ tour: "Flying Microtonal Banana"
 10. People-Vultures
 
 11. Cellophane
-    ('I'm In Your Mind' and 'I'm In Your Mind Fuzz' snippets)
+    (w/ I'm In Your Mind medley tease)
 
 12. Robot Stop
 

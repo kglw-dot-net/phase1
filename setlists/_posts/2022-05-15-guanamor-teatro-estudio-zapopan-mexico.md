@@ -10,7 +10,7 @@ tour: "World Tour '22"
     (Flute solo, >)
 
  2. Hot Water
-    (with The Dripping Tap tease and Robot Stop reprise, >)
+    (w/ The Dripping Tap + Robot Stop teases, >)
 
  3. Big Fig Wasp
     (>)
@@ -27,7 +27,7 @@ tour: "World Tour '22"
  8. Trapdoor
 
  9. Sadie Sorceress
-    (guitar solo)
+    (w/ guitar solo)
 
 10. Static Electricity
     (>)
@@ -35,10 +35,10 @@ tour: "World Tour '22"
 11. East West Link
 
 12. Sleep Drifter
-    (Honey, Rattlesnake, Automation, and Minimum Brain Size teases, >)
+    (w/ Honey + Rattlesnake + Automation + Minimum Brain Size teases, >)
 
 13. Honey
-    (Sleep Drifter tease)
+    (w/ Sleep Drifter tease)
 
 14. The Great Chain of Being
 
@@ -48,7 +48,7 @@ tour: "World Tour '22"
     (>)
 
 17. Han-Tyumi the Confused Cyborg
-    (Mexican Han-Tyumi (Juan-Tyumi) for whole suite, >)
+    (featuring Mexican Han-Tyumi (Juan-Tyumi) for whole suite, >)
 
 18. Soy-Protein Munt Machine
     (>)

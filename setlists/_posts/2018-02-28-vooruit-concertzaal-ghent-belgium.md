@@ -45,6 +45,6 @@ tour: "2018 UK/EU Tour"
 10. The River
 
 11. God Is in the Rhythm
-    (snippet)
+    (shortened version)
 
 

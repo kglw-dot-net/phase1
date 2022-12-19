@@ -6,60 +6,60 @@ tour: "2018 UK/EU Tour"
 ---
 
 
-## set 1 Microtonal
+## Set 1 (Microtonal):
 
- 2. Rattlesnake
+ 1. Rattlesnake
 
- 3. Greenhouse Heat Death
+ 2. Greenhouse Heat Death
 
- 4. Nuclear Fusion
+ 3. Nuclear Fusion
 
- 5. Open Water
+ 4. Open Water
 
- 6. All Is Known
+ 5. All Is Known
 
- 7. Anoxia
+ 6. Anoxia
 
- 8. D-Day
+ 7. D-Day
 
- 9. Sleep Drifter
+ 8. Sleep Drifter
 
-10. The Book
+ 9. The Book
     (Instrumental Only)
 
-11. Billabong Valley
+10. Billabong Valley
 
-12. Doom City
-    (With `Crumbling Castle ` outro)
+11. Doom City
+    (w/ Crumbling Castle tease)
 
-## intermission
+## Intermission
 
-"Sister Ray" (The Velvet Underground song) played with a 15 minute countdown on the screen
+Fifteen minute countdown on screen with "Sister Ray" (The Velvet Underground) played from tape.
 
-## set 2
+## Set 2:
+    
+12. Evil Death Roll
 
- 1. Evil Death Roll
+13. Welcome to an Altered Future
 
- 2. Welcome to an Altered Future
+14. Digital Black
 
- 3. Digital Black
+15. Han-Tyumi the Confused Cyborg
 
- 4. Han-Tyumi the Confused Cyborg
+16. The Lord of Lightning
 
- 5. The Lord of Lightning
+17. Cellophane
 
- 6. Cellophane
+18. Polygondwanaland
 
- 7. Polygondwanaland
+19. Crumbling Castle
 
- 8. Crumbling Castle
+20. The Fourth Colour
 
- 9. The Fourth Colour
+21. Robot Stop
 
-10. Robot Stop
+22. Big Fig Wasp
 
-11. Big Fig Wasp
-
-12. Gamma Knife
+23. Gamma Knife
 
 

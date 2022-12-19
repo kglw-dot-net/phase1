@@ -7,7 +7,7 @@ tour: "World Tour '22"
 
 
  1. Head On/Pill
-    (Teasing The Dripping Tap, Muddy Water, Sea of Trees and Hot Water)
+    (w/ The Dripping Tap + Muddy Water + Sea of Trees + Hot Water teases)
 
  2. Muddy Water
 

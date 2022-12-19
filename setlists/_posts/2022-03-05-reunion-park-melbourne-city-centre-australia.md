@@ -4,12 +4,14 @@ date: "2022-03-05"
 venue: "Reunion Park, Melbourne City Centre, Australia"
 ---
 
- ## Set 1
+Intro song played from tape: Timeland
+
+## Set 1:
 
  1. Mars for the Rich
 
  2. Am I in Heaven?
-    (with motif from Boogieman Sam)
+    (w/ Boogieman Sam tease)
 
  3. Magenta Mountain
 
@@ -20,11 +22,11 @@ venue: "Reunion Park, Melbourne City Centre, Australia"
  6. Cut Throat Boogie
 
  7. Evil Death Roll
-    (with Nonagon medley)
+    (w/ Nonagon Infinity teases)
 
- 8. Sea of Trees
+8. Sea of Trees
 
- 9. Trapdoor
+9. Trapdoor
 
 10. Hot Water
 
@@ -32,34 +34,35 @@ venue: "Reunion Park, Melbourne City Centre, Australia"
 
 12. The Dripping Tap
 
-## Set 2
+## Intermission
 
- 1. Digital Black
+Song played from tape: Smoke & Mirrors
 
- 2. Han-Tyumi the Confused Cyborg
+## Set 2:
 
- 3. Soy-Protein Munt Machine
+13. Digital Black
 
- 4. Vomit Coffin
+14. Han-Tyumi the Confused Cyborg
 
- 5. Murder of the Universe
+15. Soy-Protein Munt Machine
 
- 6. Sleepwalker
+16. Vomit Coffin
 
- 7. Gaia
-    (with drum solo)
+17. Murder of the Universe
 
- 8. Perihelion
+18. Sleepwalker
 
- 9. Hot Wax
+19. Gaia
+    (w/ drum solo)
 
-10. O.N.E.
+20. Perihelion
 
-11. Minimum Brain Size
+21. Hot Wax
 
-12. Oddlife
+22. O.N.E.
 
-13. Rattlesnake
+23. Minimum Brain Size
 
+24. Oddlife
 
-Note: Return of the Curse of Timeland 3 hour marathon set.
+25. Rattlesnake

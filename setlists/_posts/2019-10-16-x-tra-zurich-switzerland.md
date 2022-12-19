@@ -5,6 +5,7 @@ venue: "X-TRA, Zurich, Switzerland"
 tour: "World Tour `19"
 ---
 
+(Soundcheck included The Balrog among other songs.)
 
  1. Venusian 2
 
@@ -31,13 +32,11 @@ tour: "World Tour `19"
 12. The Lord of Lightning
 
 13. Beginner's Luck
-    (released as a bonus feature for the 'Chunky Shrapnel' concert
-    film)
 
 14. Down the Sink
 
 15. Rattlesnake
-    (yet-unreleased 'Honey' riff played as intro)
+    (w/ Honey tease)
 
 16. Doom City
 
@@ -46,5 +45,4 @@ tour: "World Tour `19"
 18. Float Along - Fill Your Lungs
 
 
-Note: The Balrog and couple of other songs were played at the afternoon
-soundcheck
+Note: Beginner's Luck released as a bonus feature for the Chunky Shrapnel film.

@@ -31,10 +31,9 @@ tour: "World Tour `19"
 12. Dirt
 
 13. Sense
-    (portions featured in the 'Chunky Shrapnel' concert film)
 
 14. The Bitter Boogie
-    (with Ambrose riffing on "Back Door Man" by The Doors)
+    (w/ Back Door Man by The Doors tease)
 
 15. Gamma Knife
 
@@ -46,4 +45,4 @@ tour: "World Tour `19"
 
 19. Murder of the Universe
 
-
+Notes: Portions of Sense featured in Chunky Shrapnel film.

@@ -7,7 +7,7 @@ tour: "World Tour '22"
 
 
  1. Gaia
-    (with drum solo)
+    (w/ drum solo)
 
  2. Perihelion
 
@@ -26,12 +26,12 @@ tour: "World Tour '22"
  9. Straws in the Wind
 
 10. The Garden Goblin
-    (with technical issues)
+    (restarted due to technical issues)
 
 11. Blame It on the Weather
 
 12. Robot Stop
-    (with tease of Ice V)
+    (w/ Ice V tease)
 
 13. Gamma Knife
     (>)
@@ -45,5 +45,3 @@ tour: "World Tour '22"
     (>)
 
 17. Cut Throat Boogie
-
-

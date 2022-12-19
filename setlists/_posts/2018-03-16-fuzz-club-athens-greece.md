@@ -37,7 +37,7 @@ tour: "2018 UK/EU Tour"
 15. The Fourth Colour
 
 16. Robot Stop
-    (With "Master of the Universe" snippet by Hawkwind)
+    (w/ Master of the Universe - Hawkwind tease)
 
 17. Big Fig Wasp
 

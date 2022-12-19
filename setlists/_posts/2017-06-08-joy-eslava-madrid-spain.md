@@ -36,6 +36,4 @@ tour: "Flying Microtonal Banana"
 13. The River
 
 14. Am I in Heaven?
-    (with medley: Alter Me, Robot Stop, Head On/Pill, Cellophane)
-
-
+    (w/ Alter Me + Robot Stop + Head On/Pill + Cellophane teases)

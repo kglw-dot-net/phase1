@@ -25,7 +25,7 @@ venue: "Brunswick Ballroom, Melbourne, Australia"
 10. Most of What I Like
 
 11. Sense
-    (extended jam)
+    (w/ extended jam)
 
 12. Slow Jam 1
 

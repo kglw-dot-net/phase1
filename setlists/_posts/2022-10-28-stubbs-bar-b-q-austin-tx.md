@@ -18,10 +18,10 @@ tour: "World Tour '22"
     (>)
 
  6. I'm Not in Your Mind
-    (with Alter Me I tease, >)
+    (w/ Alter Me I tease, >)
 
  7. Cellophane
-    (with Hot Wax tease, >)
+    (w/ Hot Wax tease, >)
 
  8. I'm in Your Mind Fuzz
 

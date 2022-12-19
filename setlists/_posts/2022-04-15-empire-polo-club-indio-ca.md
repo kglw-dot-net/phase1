@@ -15,6 +15,7 @@ tour: "World Tour '22"
 ## Set
 
  1. Rattlesnake
+    (extended version)
 
  2. Honey
 
@@ -27,5 +28,3 @@ tour: "World Tour '22"
  6. Gaia
 
  7. Gamma Knife
-
-

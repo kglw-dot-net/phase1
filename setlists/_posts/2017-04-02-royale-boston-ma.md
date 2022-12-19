@@ -37,9 +37,9 @@ tour: "Flying Microtonal Banana"
 15. The Lord of Lightning
 
 16. Sea of Trees
-    (Stripped back version leading into 'Am I in Heaven?')
+    (Stripped back version) (>)
 
 17. Am I in Heaven?
-    (with Cellophane/Alter Me/Hot Water/Head On/Pill Medley Interlude)
+    (w/ Cellophane + Alter Me + Hot Water + Head On/Pill teases)
 
 

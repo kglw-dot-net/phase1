@@ -39,6 +39,4 @@ tour: "World Tour `19"
 16. Float Along - Fill Your Lungs
 
 
-Note: `Alter Me' and `Altered Beast I' were on the setlist after `Muddy
-Water' but weren't played. The last 8 songs of the show were recorded
-and released as part of the `Live In Brussels '19` live album.
+Note: The last 8 songs of the show were recorded and released as part of the `Live In Brussels '19` live album.

@@ -11,21 +11,21 @@ tour: "World Tour '22"
  2. Shanghai
 
  3. The River
-    (Mind Left Body Jam and Wah Wah teases, >)
+    (w/ Mind Left Body Jam + Wah Wah teases, >)
 
  4. Wah Wah
-    (The River teases, >)
+    (w/ The River teases, >)
 
  5. Road Train
     (>)
 
  6. The River
-    (Only the outro)
+    (Outro only)
 
  7. Ambergris
 
  8. Slow Jam 1
-    (Iron Lung and The James Bond Theme teases)
+    (w/ Iron Lung + The James Bond Theme teases)
 
  9. Organ Farmer
 

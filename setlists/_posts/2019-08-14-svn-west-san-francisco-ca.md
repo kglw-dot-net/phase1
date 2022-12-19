@@ -19,7 +19,7 @@ tour: "World Tour `19"
  6. I'm Not in Your Mind
 
  7. Cellophane
-    (with "Alter Me" snippets)
+    (w/ Alter Me teases)
 
  8. I'm in Your Mind Fuzz
 

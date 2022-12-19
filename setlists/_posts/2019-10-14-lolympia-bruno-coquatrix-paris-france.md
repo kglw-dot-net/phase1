@@ -6,47 +6,44 @@ tour: "World Tour `19"
 ---
 
 
- 1. Song played from tape
-    Evil Star
+Intro song played from tape: Evil Star
 
- 2. Venusian 2
+ 1. Venusian 2
 
- 3. Perihelion
+ 2. Perihelion
 
- 4. Crumbling Castle
+ 3. Crumbling Castle
 
- 5. The Fourth Colour
+ 4. The Fourth Colour
 
- 6. Deserted Dunes Welcome Weary Feet
+ 5. Deserted Dunes Welcome Weary Feet
 
- 7. The Castle in the Air
+ 6. The Castle in the Air
 
- 8. Muddy Water
+ 7. Muddy Water
 
- 9. People-Vultures
+ 8. People-Vultures
 
-10. Mr. Beat
+ 9. Mr. Beat
 
-11. Hot Water
+10. Hot Water
 
-12. This Thing
+11. This Thing
 
-13. Billabong Valley
+12. Billabong Valley
 
-14. Nuclear Fusion
+13. Nuclear Fusion
 
-15. Anoxia
+14. Anoxia
 
-16. All Is Known
+15. All Is Known
 
-17. Boogieman Sam
+16. Boogieman Sam
 
-18. Mars for the Rich
+17. Mars for the Rich
 
-19. Am I in Heaven?
-    (with Head On/Pill, Boogieman Sam and Alter Me snippets)
+18. Am I in Heaven?
+    (w/ Head On/Pill + Boogieman Sam + Alter Me teases)
 
 
-Note: 'Organ Farmer' was on the setlist before 'Am I in Heaven?' but
-wasn't played. The show was recorded and released as the `Live In Paris
-'19` live album.
+Notes: The show was recorded and released as the `Live In Paris '19` live album.

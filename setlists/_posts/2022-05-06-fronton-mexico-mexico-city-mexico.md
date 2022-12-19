@@ -6,66 +6,72 @@ tour: "World Tour '22"
 ---
 
 
+Intro song played from tape: Timeland
+
 ## Set 1:
 
- 1. Crumbling Castle
+ 3. Crumbling Castle
 
- 2. Venusian 2
+ 4. Venusian 2
 
- 3. Predator X
+ 5. Predator X
 
- 4. Mars for the Rich
+ 6. Mars for the Rich
 
- 5. Hot Water
+ 7. Hot Water
 
- 6. Shanghai
+ 8. Shanghai
 
- 7. People-Vultures
+ 9. People-Vultures
     (>)
 
- 8. Mr. Beat
+10. Mr. Beat
     (>)
 
- 9. Persistence
+11. Persistence
 
-10. KGLW
+12. KGLW
 
-11. Oddlife
+13. Oddlife
 
-12. Billabong Valley
+14. Billabong Valley
 
-13. Nuclear Fusion
+15. Nuclear Fusion
 
-14. Pleura
+16. Pleura
 
-15. K.G.L.W.
+17. K.G.L.W.
+
+## Intermission
+
+Song played from tape: Smoke & Mirrors
 
 ## Set 2:
 
- 1. I'm in Your Mind
+20. I'm in Your Mind
 
- 2. I'm Not in Your Mind
-    (The Dripping Tap tease)
+21. I'm Not in Your Mind
+    (w/ The Dripping Tap tease)
 
- 3. Cellophane
-    (Flute solo)
+22. Cellophane
+    (w/ Flute solo)
 
- 4. I'm in Your Mind Fuzz
+23. I'm in Your Mind Fuzz
 
- 5. Plastic Boogie
+24. Plastic Boogie
 
- 6. Magenta Mountain
+25. Magenta Mountain
 
- 7. Planet B
+26. Planet B
 
- 8. Gaia
-    (Extended drum solo)
+27. Gaia
+    (w/ drum solo)
 
- 9. The River
+28. The River
 
-10. Blame It on the Weather
+29. Blame It on the Weather
 
-11. Work This Time
+30. Work This Time
 
-12. The Dripping Tap
-    (With Iron Lung jam)
+31. The Dripping Tap
+    (w/ Iron Lung tease)

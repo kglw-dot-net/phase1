@@ -37,7 +37,5 @@ tour: "2018 European Summer Tour"
 15. The River
 
 16. Head On/Pill
-    (With snippets of Am I In Heaven, Rattlesnake, Cellophane, Robot
-    Stop, etc.)
-
-
+    (w/ Am I In Heaven? + Rattlesnake + Cellophane + Robot
+    Stop teases)

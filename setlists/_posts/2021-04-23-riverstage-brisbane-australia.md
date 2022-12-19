@@ -6,7 +6,7 @@ tour: "Micro Tour 2021"
 ---
 
 
- 1. KGLW
+ 1. K.G.L.W.
 
  2. Oddlife
 

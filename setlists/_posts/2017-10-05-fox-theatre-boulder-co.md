@@ -37,15 +37,13 @@ tour: "Murder of the Universe"
 15. Altered Beast IV
 
 16. Robot Stop
-    ('Master of the Universe' by Hawkwind snippet)
+    (w/ Master of the Universe - Hawkwind tease)
 
 17. Gamma Knife
 
 18. The River
 
 19. Am I in Heaven?
-
-
-Note: Am I in Heaven? Medley: People-Vultures, Rattlesnake, Alter Me,
-Robot Stop, Cellophane, I'm in Your Mind Fuzz, Cut Throat Boogie, Head
-On/Pill, and Float Along-Fill Your Lungs
+    (w/ People-Vultures + Rattlesnake + Alter Me + Robot Stop + Cellophane +
+    I'm in Your Mind Fuzz + Cut Throat Boogie + Head On/Pill + and Float
+    Along-Fill Your Lungs teases)

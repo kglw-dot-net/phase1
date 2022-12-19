@@ -18,10 +18,10 @@ tour: "World Tour '22"
     (w/ extended solo)
 
  5. Slow Jam 1
-    (with Her And I and Iron Lung teases)
+    (w/ Her And I + Iron Lung teases)
 
  6. O.N.E.
-    (with Honey tease, >)
+    (w/ Honey tease, >)
 
  7. Sleep Drifter
     (>)

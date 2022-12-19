@@ -15,18 +15,24 @@ tour: "Flying Microtonal Banana"
  4. Sleep Drifter
 
  5. Alter Me I
+    (>)
 
  6. Altered Beast II
+    (>)
 
  7. Alter Me II
+    (>)
 
  8. Altered Beast III
 
  9. Robot Stop
+    (>)
 
 10. Gamma Knife
+    (>)
 
 11. People-Vultures
+    (>)
 
 12. The Lord of Lightning
 

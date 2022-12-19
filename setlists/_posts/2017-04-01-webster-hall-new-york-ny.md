@@ -37,6 +37,6 @@ tour: "Flying Microtonal Banana"
 15. Cellophane
 
 16. Am I in Heaven?
-    (with Cellophane/Alter Me/Hot Water/Head On/Pill Medley Interlude)
+    (w/ Cellophane + Alter Me + Hot Water + Head On/Pill teases)
 
 

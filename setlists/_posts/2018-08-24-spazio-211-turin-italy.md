@@ -15,7 +15,7 @@ tour: "2018 European Summer Tour"
  4. Cellophane
 
  5. Sleep Drifter
-    (w/ snippet of "Billabong Valley")
+    (w/ Billabong Valley tease)
 
  6. Rattlesnake
 
@@ -30,7 +30,7 @@ tour: "2018 European Summer Tour"
 11. Muddy Water
 
 12. Robot Stop
-    (w/ snippet of "hot water" at the beginning)
+    (w/ Hot Water tease)
 
 13. Gamma Knife
 

@@ -31,6 +31,7 @@ tour: "World Tour '22"
 12. Doom City
 
 13. The Bitter Boogie
-    (Extended with "Chips")
+
+Note: Stu was feeding the crowd and band members corn chips with salsa during extended The Bitter Boogie jam.
 
 

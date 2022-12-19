@@ -7,7 +7,7 @@ tour: "World Tour '22"
 
 
  1. Head On/Pill
-    (With Ambrose playing sax and a Stu flute solo)
+    (w/ Ambrose playing sax + Stu flute solo)
 
  2. Mystery Jack
 
@@ -20,7 +20,7 @@ tour: "World Tour '22"
  6. Anoxia
 
  7. Rattlesnake
-    (With motifs from O.N.E. and Automation)
+    (w/ O.N.E. + Automation teases)
 
  8. Am I in Heaven?
-    (With motifs from Head On/Pill and The Dripping Tap)
+    (w/ Head On/Pill + The Dripping Tap teases)

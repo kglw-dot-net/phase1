@@ -13,10 +13,10 @@ tour: "World Tour '22"
  3. Magenta Mountain
 
  4. Slow Jam 1
-    (Containing motif from Iron Lung)
+    (w/ Iron Lung tease)
 
  5. Gaia
-    (with additional drum solo)
+    (with drum solo)
 
  6. Pleura
 
@@ -29,7 +29,6 @@ tour: "World Tour '22"
 10. Ontology
 
 11. The Lord of Lightning
-    (ended with "Cellophane" motif)
 
 12. Dead-Beat
 
@@ -38,7 +37,6 @@ tour: "World Tour '22"
 14. Willoughby's Beach
 
 15. Am I in Heaven?
-    (with 'Head On/Pill', 'Hot Wax', 'Rattlesnake', 'The Dripping Tap'
-    and 'Boogieman Sam' motifs)
+    (w/ Head On/Pill + Hot Wax + Rattlesnake + The Dripping Tap + Boogieman Sam teases)
 
 

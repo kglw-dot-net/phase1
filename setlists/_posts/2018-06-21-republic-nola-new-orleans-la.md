@@ -43,7 +43,7 @@ tour: "2018 North American Tour"
 18. Wah Wah
 
 19. Robot Stop
-    ('Hot Water', 'Cellophane' snippets)
+    (w/ Hot Water + Cellophane teases)
 
 20. Gamma Knife
 

@@ -45,7 +45,7 @@ tour: "Murder of the Universe"
 18. Altered Beast IV
 
 19. Robot Stop
-    (with snippet of 'Master of the Universe' by Hawkwind)
+    (w/ Master of the Universe - Hawkwind tease)
 
 20. Hot Water
 
@@ -57,6 +57,6 @@ tour: "Murder of the Universe"
     (with Mild High Club)
 
 24. Rolling Stoned
-    (with Mild High Club) (Played a second time)
+    (with Mild High Club)
 
 

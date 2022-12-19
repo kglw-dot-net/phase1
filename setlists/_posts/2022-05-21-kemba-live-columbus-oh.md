@@ -6,8 +6,7 @@ tour: "World Tour '22"
 ---
 
 
-Soundcheck: Inner Cell, Loyalty, Magenta Mountain, Mars for the Rich
-
+(Soundcheck included Inner Cell, Loyalty, Magenta Mountain and Mars for the Rich)
 
  1. Superbug
     (lyric changed from "H1N1" to "Coronavirus" referencing COVID)
@@ -15,7 +14,6 @@ Soundcheck: Inner Cell, Loyalty, Magenta Mountain, Mars for the Rich
  2. Hell
 
  3. Inner Cell
-    (dedicated to the Australian Prime Minister who had just lost an election)
 
  4. Loyalty
 
@@ -24,12 +22,12 @@ Soundcheck: Inner Cell, Loyalty, Magenta Mountain, Mars for the Rich
  6. Magenta Mountain
 
  7. Cut Throat Boogie
-    (Boogieman Sam Jam & I Got My Mojo Workin tease)
+    (w/ Boogieman Sam + I Got My Mojo Workin - Ann Cole tease)
 
  8. Persistence
-    (motifs from Changes)
+    (w/ Changes tease)
 
- 9. KGLW
+ 9. K.G.L.W.
 
 10. Billabong Valley
 
@@ -38,5 +36,8 @@ Soundcheck: Inner Cell, Loyalty, Magenta Mountain, Mars for the Rich
 12. K.G.L.W.
 
 13. Am I in Heaven?
-    (motifs of The Dripping Tap, Cellophane, Persistence, Magenta
-    Mountain, Ice V and Sea of Trees)
+    (w/ The Dripping Tap + Cellophane + Persistence + Magenta
+    Mountain + Ice V + Sea of Trees teases)
+
+
+Note: "Inner Cell" was dedicated to the Australian Prime Minister, who had lost an election that day.

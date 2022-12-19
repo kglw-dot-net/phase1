@@ -27,7 +27,6 @@ tour: "Australian Tour 2018"
 10. Stressin'
 
 11. Pop in My Step
-    (First time since 2013)
 
 12. Rattlesnake
 

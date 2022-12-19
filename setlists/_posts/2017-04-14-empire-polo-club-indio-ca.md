@@ -29,6 +29,6 @@ tour: "Flying Microtonal Banana"
 11. Cellophane
 
 12. Am I in Heaven?
-    (with Alter Me/Cellophane interlude)
+    (w/ Alter Me + Cellophane teases)
 
 

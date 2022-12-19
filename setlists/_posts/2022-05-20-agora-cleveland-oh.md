@@ -15,15 +15,14 @@ tour: "World Tour '22"
  4. Gaia
 
  5. Her and I (Slow Jam 2)
-    (w/Am I in Heaven? intro and Presumptuous and Iron Lung snippets,
-    >)
+    (w/ Am I in Heaven? + Presumptuous + Iron Lung teases, >)
 
  6. Sleepwalker
 
  7. Presumptuous
 
  8. Sea of Trees
-    (with Head On/Pill and Shanghai teases, >)
+    (w/ Head On/Pill + Shanghai teases, >)
 
  9. Hot Water
 

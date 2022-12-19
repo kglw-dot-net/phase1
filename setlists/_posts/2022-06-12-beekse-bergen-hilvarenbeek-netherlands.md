@@ -23,6 +23,6 @@ tour: "World Tour '22"
  8. Rattlesnake
 
  9. The Dripping Tap
-    (Stu crowd-surfs to the lake near the stage.)
 
 
+Note: During The Dripping Tap, Stu crowd-surfed into the lake adjacent to the stage.

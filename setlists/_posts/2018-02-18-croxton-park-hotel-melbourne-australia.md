@@ -4,7 +4,7 @@ date: "2018-02-18"
 venue: "Croxton Park Hotel, Melbourne, Australia"
 ---
 
-## Set 1 - Microtonal
+## Set 1 (Microtonal):
 
  1. Rattlesnake
 
@@ -29,7 +29,7 @@ venue: "Croxton Park Hotel, Melbourne, Australia"
 11. Doom City
     (With 'Crumbling Castle' outro)
 
-## Set 2
+## Set 2:
 
  1. Evil Death Roll
 
@@ -54,7 +54,3 @@ venue: "Croxton Park Hotel, Melbourne, Australia"
 11. Big Fig Wasp
 
 12. Gamma Knife
-
-
-Note: The River / God Is In The Rhythm was written on the setlist at
-the end but was not played.

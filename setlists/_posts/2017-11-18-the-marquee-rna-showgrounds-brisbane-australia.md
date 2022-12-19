@@ -31,20 +31,21 @@ tour: "Murder of the Universe"
 12. Altered Beast IV
 
 13. Robot Stop
-    (With 'Master of the Universe' by Hawkwind snippet)
+    (w/ Master of the Universe - Hawkwind tease)
 
 14. Gamma Knife
 
-16. Encore:
-17. Nuclear Fusion
+Encore:
 
-18. Sleep Drifter
+15. Nuclear Fusion
 
-19. Doom City
-    (With 'Crumbling Castles' outro)
+16. Sleep Drifter
 
-20. Rattlesnake
+17. Doom City
+    (w/ Crumbling Castle tease)
 
-21. Lonely Steel Sheet Flyer
+18. Rattlesnake
+
+19. Lonely Steel Sheet Flyer
 
 

@@ -46,9 +46,9 @@ tour: "Micro Tour 2021"
 19. Some Context
 
 20. The Reticent Raconteur
-    (with Leah Senior)
+    (featuring Leah Senior)
 
 21. The Lord of Lightning
-    (with Leah Senior)
+    (featuring Leah Senior)
 
 

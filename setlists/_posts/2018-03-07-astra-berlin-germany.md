@@ -40,7 +40,7 @@ tour: "2018 UK/EU Tour"
  7. The Fourth Colour
 
  8. Robot Stop
-    (Am I In Heaven, Hot Water and Master of the Universe Intro)
+    (w/ Am I In Heaven + Hot Water + Master of the Universe - Hawkwind teases)
 
  9. Big Fig Wasp
 
@@ -49,6 +49,6 @@ tour: "2018 UK/EU Tour"
 11. The River
 
 12. God Is in the Rhythm
-    (with King Khan) (King Khan improvised lyrics over the song)
+    (featuring King Khan, improvised lyrics over the song)
 
 

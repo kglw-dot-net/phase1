@@ -21,10 +21,8 @@ tour: "Australian Tour 2018"
  6. The Great Chain of Being
 
  7. Dead-Beat
-    (First time live since 2013)
 
  8. Muckraker
-    (First time live since 2015)
 
  9. Crumbling Castle
 
@@ -37,7 +35,6 @@ tour: "Australian Tour 2018"
 13. Mystery Jack
 
 14. Let Me Mend the Past
-    (First time live since 2013)
 
 15. Tezeta
 

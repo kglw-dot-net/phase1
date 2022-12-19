@@ -19,21 +19,21 @@ tour: "World Tour '22"
     (>)
 
  6. Han-Tyumi the Confused Cyborg
-    (In spanish, >)
+    (Spanish version) (>)
 
  7. Soy-Protein Munt Machine
-    (>)
+    (Spanish version) (>)
 
  8. Vomit Coffin
-    (>)
+    (Spanish version) (>)
 
  9. Murder of the Universe
-    (Han Tyumi in spanish)
+    (Spanish version) 
 
 10. Oddlife
 
 11. Rattlesnake
-    (with O.N.E. teases)
+    (w/ O.N.E. teases)
 
 
-Note: Last of 5 nights in Barcelona for Primavera Sound.
+Note: Tous stage. The Murder of the Universe suite was performed with "Juan-Tyumi" (Han-Tyumi speaking in Spanish).

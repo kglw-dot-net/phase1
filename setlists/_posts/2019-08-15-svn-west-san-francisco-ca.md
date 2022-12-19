@@ -41,6 +41,5 @@ tour: "World Tour `19"
 17. Hell
 
 18. The Bitter Boogie
-    (Boogie medley with elements of Cyboogie and Boogieman Sam)
-
+    (w/ Cyboogie + Boogieman Sam teases)
 

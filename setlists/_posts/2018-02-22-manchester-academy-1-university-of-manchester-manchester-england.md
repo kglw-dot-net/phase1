@@ -6,7 +6,7 @@ tour: "2018 UK/EU Tour"
 ---
 
 
-## Microtonal
+## Set 1 (Microtonal):
 
  1. Rattlesnake
 
@@ -25,15 +25,19 @@ tour: "2018 UK/EU Tour"
  8. Sleep Drifter
 
  9. The Book
-    (Instrumental)
+    (Instrumental Only)
 
 10. Billabong Valley
 
 11. Doom City
-    (With `Crumbling Castle ` outro)
+    (w/ Crumbling Castle tease)
 
-## Set 2
+## Intermission
 
+Fifteen minute countdown on screen with "Sister Ray" (The Velvet Underground) played from tape.
+
+## Set 2:
+    
  1. Evil Death Roll
 
  2. Welcome to an Altered Future
@@ -57,5 +61,3 @@ tour: "2018 UK/EU Tour"
 11. Big Fig Wasp
 
 12. Gamma Knife
-
-

@@ -5,8 +5,9 @@ venue: "Meredith Supernatural Amphitheatre, Meredith, Australia"
 tour: "Oddments"
 ---
 
-(Incomplete)
 
- 1. (Unknown)
-    (songs from upcoming "I'm in Your Mind Fuzz")
+ 1. (Unknown songs from upcoming "I'm in Your Mind Fuzz")
+ 
  2. Willoughby's Beach
+
+Note: Incomplete list. "Oddments" was released just the day before.

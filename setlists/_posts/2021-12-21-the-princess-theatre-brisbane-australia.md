@@ -21,7 +21,7 @@ tour: "2021 Princess Theatre Residency"
  7. Doom City
 
  8. Billabong Valley
-    (with Grace Cummings)
+    (featuring Grace Cummings)
 
  9. Ataraxia
 

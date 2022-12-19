@@ -39,10 +39,10 @@ tour: "Murder of the Universe"
 16. Altered Beast IV
 
 17. Robot Stop
-    (Hot Water tease, Masters of the Universe tease)
+    (w/ Hot Water + Master of the Universe - Hawkwind tease)
 
 18. Gamma Knife
 
 19. Am I in Heaven?
-    (Medley: Alter Me, Robot Stop, Cellophane, I'm in Your Mind, Hot
-    Water, Head On/Pill)
+    (w/ Alter Me + Robot Stop + Cellophane + I'm in Your Mind + Hot
+    Water + Head On/Pill teases)

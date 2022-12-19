@@ -11,26 +11,19 @@ Note: Each band member came on stage in costume to a snippet of a prerecorded so
 
 ## intro
 
- 1. Halloween Theme/Main Title
-    (John Carpenter)
+ 1. opener: "Halloween Theme/Main Title" (John Carpenter)
 
- 2. Amby/Pimp: P.I.M.P
-    (50 Cent)
+ 2. Ambrose entry as a pimp: "P.I.M.P" (50 Cent)
 
- 3. Cavs/Glenn Danzig: Mother
-    (Danzig)
+ 3. Cavs entry as Glenn Danzig: "Mother" (Danzig)
 
- 4. Lucas/Buzz Lightyear: You've Got a Friend in Me
-    (Randy Newman)
+ 4. Lucas entry as Buzz Lightyear: "You've Got a Friend in Me" (Randy Newman)
 
- 5. Cookie/Cookie: C is for Cookie
-    (Sesame Street)
+ 5. Cook entry as a cookie: "C is for Cookie" (Sesame Street)
 
- 6. Joey/Oompa Loompa: Oompa Loompa #1/Augustus
-    (Willy Wonka & the Chocolate Factory)
+ 6. Joey entry as an Oompa Loompa: "Oompa Loompa #1/Augustus" (Willy Wonka & the Chocolate Factory)
 
- 7. Stu/Banana: Hollaback Girl
-    (Gwen Stefani)
+ 7. Stu entry as a banana: "Hollaback Girl" (Gwen Stefani)
 
 # Set 1
 
@@ -38,27 +31,27 @@ Note: Each band member came on stage in costume to a snippet of a prerecorded so
     (>)
 
  2. Gamma Knife
-    (> Altered Beast tease >)
+    (w/ Altered Beast tease >)
 
  3. People-Vultures
     (>)
 
  4. Mr. Beat
-    (Persistence tease, >)
+    (w/ Persistence tease, >)
 
  5. Ice V
 
  6. Alter Me II
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
  7. Altered Beast III
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
  8. Alter Me III
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
  9. Altered Beast IV
-    (with Leah Senior)
+    (featuring Leah Senior)
 
 10. Lava
 
@@ -76,6 +69,5 @@ Note: Each band member came on stage in costume to a snippet of a prerecorded so
 
 17. Gaia
 
-
-## Recordings
+# Recordings
 * AUD: [colesondilbeck (Shure MV88)](https://archive.org/details/kglw2022-10-31) (audio issues)

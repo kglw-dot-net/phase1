@@ -41,4 +41,4 @@ tour: "World Tour `19"
 17. Cyboogie
 
 18. Am I in Heaven?
-    (Medley with Altered Beast, Rattlesnake, Boogieman Sam, Cellophane)
+    (w/ Altered Beast + Rattlesnake + Boogieman Sam + Cellophane teases)

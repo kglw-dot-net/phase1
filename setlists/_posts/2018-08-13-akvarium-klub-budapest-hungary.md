@@ -6,6 +6,8 @@ tour: "2018 European Summer Tour"
 ---
 
 
+Intro song played from tape: Back in Black - AC/DC
+
  1. Digital Black
 
  2. Vomit Coffin
@@ -27,7 +29,7 @@ tour: "2018 European Summer Tour"
 10. Rattlesnake
 
 11. The River
-    (Parts I, II, III)
+    (shortened version)
 
 12. Wah Wah
 
@@ -54,10 +56,10 @@ tour: "2018 European Summer Tour"
 23. The Wheel
 
 24. Head On/Pill
-    (With snippets of Am I In Heaven, Rattlesnake, Cellophane, Robot
-    Stop, etc.)
+    (w/ Am I In Heaven + Rattlesnake + Cellophane + Robot
+    Stop teases)
 
 25. The River
-    (Part IV)
+    (Reprise concluding shortened version)
 
 

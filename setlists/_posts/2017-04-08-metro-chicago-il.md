@@ -43,7 +43,7 @@ tour: "Flying Microtonal Banana"
 18. Cellophane
 
 19. Am I in Heaven?
-    (Medley: Sea of Trees / Head On/Pill / I'm in Your Mind / Alter Me
-    / Robot Stop)
+    (w/ Sea of Trees + Head On/Pill + I'm in Your Mind + Alter Me
+    + Robot Stop teases)
 
 

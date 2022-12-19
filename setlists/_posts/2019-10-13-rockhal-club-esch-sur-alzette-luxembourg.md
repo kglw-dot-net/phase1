@@ -39,6 +39,7 @@ tour: "World Tour `19"
 16. Gamma Knife
 
 17. The River
-    (featured in the 'Chunky Shrapnel' concert film)
+
+Notes: The River featured in the Chunky Shrapnel concert film.
 
 

@@ -7,11 +7,16 @@ title: "Levitation (nee Austin Psych Fest)"
 ---
 
 
+## Electric set
+ 
  1. I'm in Your Mind
+    (>)
 
  2. I'm Not in Your Mind
+    (>)
 
  3. Cellophane
+    (>)
 
  4. I'm in Your Mind Fuzz
 
@@ -23,8 +28,10 @@ title: "Levitation (nee Austin Psych Fest)"
 
  8. Head On/Pill
 
- 9. Sleepwalker
-    (acoustic)
+## Acoustic set
+
+9. Sleepwalker
 
 
-Note: The main show was released on 10 December 2021 as the live album "Live at Levitation `14".
+Note: The first set was released on 10 December 2021 as the live album
+"Live at Levitation `14".

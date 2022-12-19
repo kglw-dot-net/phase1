@@ -5,6 +5,7 @@ venue: "Praia Fluvial do Taboão, Paredes de Coura, Portugal"
 tour: "2018 European Summer Tour"
 ---
 
+(Soundcheck included Big Fig Wasp)
 
  1. Digital Black
 
@@ -27,11 +28,8 @@ tour: "2018 European Summer Tour"
 10. Muddy Water
 
 11. Robot Stop
-    (Cellophane motif)
+    (w/ Cellophane tease)
 
 12. Gamma Knife
 
 13. People-Vultures
-
-
-(Soundcheck included Big Fig Wasp)

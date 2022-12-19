@@ -34,7 +34,7 @@ tour: "World Tour '22"
 12. Magenta Mountain
 
 13. Slow Jam 1
-    (Contained elements of Iron Lung (new song))
+    (w/ Iron Lung tease)
 
 14. Predator X
 

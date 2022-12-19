@@ -17,7 +17,7 @@ venue: "Johnny Brenda's, Philadelphia, PA, USA"
  6. Robot Stop
 
  7. Hot Water
-    (with "Robot Stop" reprise)
+    (w/ Robot Stop tease)
 
  8. Cut Throat Boogie
 
@@ -33,7 +33,9 @@ venue: "Johnny Brenda's, Philadelphia, PA, USA"
 
 14. I'm in Your Mind Fuzz
 
-16. (encore) Stressin'
+Encore:
+
+15. Stressin'
     (Stu solo)
 
 

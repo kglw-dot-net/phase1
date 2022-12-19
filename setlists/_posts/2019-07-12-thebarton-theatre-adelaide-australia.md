@@ -6,8 +6,7 @@ tour: "World Tour `19"
 ---
 
 
- 1. Song played from tape
-    Evil Star
+Intro song played from tape: Evil Star
 
  2. Planet B
 
@@ -20,7 +19,7 @@ tour: "World Tour `19"
  6. Real's Not Real
 
  7. Hot Water
-    (Adam Halliwell plays flute)
+    (featuring Adam Halliwell playing flute)
 
  8. Open Water
 
@@ -43,8 +42,8 @@ tour: "World Tour `19"
 17. Self-Immolate
 
 18. Head On/Pill
-    (Halliwell on flute) (w/ Hot Water/Altered
-    Beast/Cellophane/Mind Fuzz/Heaven/Rattlesnake)
+    (w/ Hot Water + Altered
+    Beast + Cellophane + I'm in Your Mind Fuzz + Am I In Heaven? + Rattlesnake teases, featuring Adam Halliwell playing flute)
 
 
 Note: The show was recorded and released as the `Live In Adelaide '19`

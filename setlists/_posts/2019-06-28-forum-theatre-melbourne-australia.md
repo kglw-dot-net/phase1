@@ -15,7 +15,7 @@ tour: "World Tour `19"
  4. Robot Stop
 
  5. Gamma Knife
-    (People Vultures outro)
+    (w/ People Vultures tease)
 
  6. This Thing
 

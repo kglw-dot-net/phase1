@@ -39,8 +39,8 @@ tour: "Flying Microtonal Banana"
 16. The Lord of Lightning
 
 17. Am I in Heaven?
-    (Medley:Altered Beast II/Robot Stop/Cellophane/I'm In Your Mind/Sea
-    of Trees/Head On/Pill)
+    (w/ Altered Beast II + Robot Stop + Cellophane + I'm In Your Mind + Sea
+    of Trees + Head On/Pill teases)
 
 18. The River
 

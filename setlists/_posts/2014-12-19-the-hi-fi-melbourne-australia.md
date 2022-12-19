@@ -23,7 +23,7 @@ tour: "I'm In Your Mind Fuzz"
  8. Slow Jam 1
 
  9. Am I in Heaven?
-    (With "Pill" tease)
+    (w/ Head On/Pill tease)
 
 10. Sleepwalker
 
@@ -35,7 +35,7 @@ tour: "I'm In Your Mind Fuzz"
 14. Vegemite
 
 15. Head On/Pill
-    (With reprise of "Am I In Heaven?")
+    (w/ Am I In Heaven? tease)
 
 16. Hot Wax
 

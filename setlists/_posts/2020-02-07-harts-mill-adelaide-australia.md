@@ -27,5 +27,3 @@ tour: "World Tour '20"
 10. Vomit Coffin
 
 11. Murder of the Universe
-
-

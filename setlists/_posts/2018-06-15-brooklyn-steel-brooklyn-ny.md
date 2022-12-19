@@ -45,9 +45,9 @@ tour: "2018 North American Tour"
 19. Rattlesnake
 
 20. Robot Stop
-    (with `Am I in Heaven' intro)
+    (w/ Am I in Heaven? tease)
 
 21. Gamma Knife
-    (People Vultures tease)
+    (w/ People Vultures tease)
 
 

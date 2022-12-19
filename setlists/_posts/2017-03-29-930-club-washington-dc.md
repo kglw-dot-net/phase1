@@ -6,7 +6,7 @@ tour: "Flying Microtonal Banana"
 ---
 
 
-## Microtonal Set
+## Set 1 (Microtonal):
 
  1. Doom City
 
@@ -22,7 +22,7 @@ tour: "Flying Microtonal Banana"
 
  7. Rattlesnake
 
-## Rock Set
+## Set 2:
 
 1. Alter Me I
 
@@ -45,5 +45,3 @@ tour: "Flying Microtonal Banana"
 10. Cellophane
 
 11. Am I in Heaven?
-
-

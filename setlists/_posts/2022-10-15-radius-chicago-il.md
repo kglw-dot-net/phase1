@@ -11,7 +11,7 @@ tour: "World Tour '22"
  2. Venusian 2
 
  3. Slow Jam 1
-    (Iron Lung and The Land Before Timeland quotes)
+    (w/ Iron Lung + The Land Before Timeland teases)
 
  4. The Grim Reaper
 
@@ -24,18 +24,18 @@ tour: "World Tour '22"
  8. Lava
 
  9. Ambergris
-    (Snippet- Wholly Ghost intro teaser)
+    (w/ Wholly Ghost tease intro)
 
 10. Presumptuous
 
 11. The Reticent Raconteur
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
 12. The Lord of Lightning
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
 13. The Balrog
-    (with Leah Senior) (Cellophane and Trapdoor quotes)
+    (featuring Leah Senior w/ Cellophane + Trapdoor teases)
 
 14. Iron Lung
 

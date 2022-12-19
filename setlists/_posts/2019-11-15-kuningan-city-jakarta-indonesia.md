@@ -29,7 +29,6 @@ tour: "World Tour `19"
 11. Hell
 
 12. The River
-    (Parts 1 and 2)
 
 13. Wah Wah
 

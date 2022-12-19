@@ -42,6 +42,6 @@ tour: "Flying Microtonal Banana"
 17. Vomit Coffin
 
 18. Am I in Heaven?
-    (medley including 'Cellophane/Mind Fuzz' songs)
+    (w/ I'm In Your Mind medley tease))
 
 

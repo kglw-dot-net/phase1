@@ -29,7 +29,7 @@ tour: "Flying Microtonal Banana"
 11. Alter Me III
 
 12. Robot Stop
-    (with snippet of 'Master of the Universe' by Hawkwind)
+    (w/ Master of the Universe - Hawkwind tease)
 
 13. Gamma Knife
 
@@ -42,6 +42,6 @@ tour: "Flying Microtonal Banana"
 17. The River
 
 18. All My Loving
-    (The Almighty Defenders cover) (with King Khan)
+    (The Almighty Defenders cover with King Khan)
 
 

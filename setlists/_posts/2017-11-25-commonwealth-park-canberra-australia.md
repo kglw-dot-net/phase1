@@ -17,7 +17,7 @@ tour: "Murder of the Universe"
  5. The Lord of Lightning
 
  6. Robot Stop
-    (with Master of the Universe)
+    (w/ Master of the Universe - Hawkwind tease)
 
  7. Gamma Knife
 

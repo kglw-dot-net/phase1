@@ -5,10 +5,13 @@ venue: "Bowery Ballroom, New York, NY, USA"
 ---
 
  1. I'm in Your Mind
+    (>)
 
  2. I'm Not in Your Mind
+    (>)
 
  3. Cellophane
+    (>)
 
  4. I'm in Your Mind Fuzz
 
@@ -19,6 +22,7 @@ venue: "Bowery Ballroom, New York, NY, USA"
  7. Hot Wax
 
  8. Robot Stop
+    (w/ original lyrics)
 
  9. The River
 
@@ -29,6 +33,6 @@ venue: "Bowery Ballroom, New York, NY, USA"
 12. Danger $$$
 
 13. Am I in Heaven?
-    (With Head On/Pill snippet)
+    (w/ Cellophane + Hot Water teases + Head On/Pill jam)
 
 

@@ -37,7 +37,7 @@ tour: "2018 North American Tour"
 15. The Wheel
 
 16. Robot Stop
-    (With 'Am I In Heaven' and 'Hot Water' intro)
+    (w/ Am I In Heaven + Hot Water teases)
 
 17. Big Fig Wasp
 

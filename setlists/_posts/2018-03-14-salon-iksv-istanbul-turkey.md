@@ -6,7 +6,7 @@ tour: "2018 UK/EU Tour"
 ---
 
 
-## Microtonal
+## Set 1 (Microtonal):
 
  1. Rattlesnake
 
@@ -22,7 +22,7 @@ tour: "2018 UK/EU Tour"
 
  7. Sleep Drifter
 
-## Normal
+## Set 2:
 
  1. Welcome to an Altered Future
 

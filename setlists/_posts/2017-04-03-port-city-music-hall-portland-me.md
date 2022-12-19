@@ -42,7 +42,7 @@ tour: "Flying Microtonal Banana"
 17. Vomit Coffin
 
 18. Am I in Heaven?
-    (medley:Cellophane/The River/Head On/Pill/I'm In Your Mind/Sea of
-    Trees/Rattlesnake/Robot Stop)
+    (w/ Cellophane + The River + Head On/Pill + I'm In Your Mind + Sea of
+    Trees + Rattlesnake + Robot Stop teases)
 
 

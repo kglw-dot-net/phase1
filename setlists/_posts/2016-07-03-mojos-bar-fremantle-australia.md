@@ -44,6 +44,6 @@ tour: "Nonagon Infinity"
 18. Robot Stop
 
 19. Silver Machine
-    (Hawkwind cover) (with ORB)
+    (Hawkwind cover with ORB)
 
 

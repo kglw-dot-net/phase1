@@ -21,7 +21,7 @@ tour: "World Tour `19"
  7. Let Me Mend the Past
 
  8. Cut Throat Boogie
-    (with The Cruel Millennial outro)
+    (w/ The Cruel Millennial tease)
 
  9. Alter Me III
 
@@ -42,8 +42,7 @@ tour: "World Tour `19"
 17. Wah Wah
 
 18. Road Train
-    (this performance is featured in the 'Chunky Shrapnel' concert film)
 
 19. The River
 
-
+Notes: Road Train featured in Chunky Shrapnel film.

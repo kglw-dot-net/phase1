@@ -39,7 +39,7 @@ tour: "Murder of the Universe"
 16. Altered Beast IV
 
 17. Robot Stop
-    (with snippet of 'Master of the Universe' by Hawkwind)
+    (w/ Master of the Universe - Hawkwind tease)
 
 18. Hot Water
 

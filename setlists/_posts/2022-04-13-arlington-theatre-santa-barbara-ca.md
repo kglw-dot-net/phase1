@@ -29,7 +29,7 @@ tour: "World Tour '22"
 11. Let Me Mend the Past
 
 12. Her and I (Slow Jam 2)
-    (Mildlife bandmember playing bongos, Mind Left Body style jam)
+    (featuring Mildlife on bongos. Mind Left Body - Grateful Dead style jam)
 
 
 Note: Acoustic show.

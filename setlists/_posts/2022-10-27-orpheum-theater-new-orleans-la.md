@@ -4,7 +4,7 @@ date: "2022-10-27"
 venue: "Orpheum Theater, New Orleans, LA, USA"
 tour: "World Tour '22"
 ---
-+++
+
 
  1. K.G.L.W.
     (Outro)
@@ -37,6 +37,8 @@ tour: "World Tour '22"
 12. The Fourth Colour
 
 13. Magenta Mountain
+
+Notes: Leading into The Grim Reaper an audience member gave Stu a custom Nonagon robe for his birthday. Cake was brought out during Persistence, and Stu jumped into the crowd to deliver slices.
 
 Recordings:
 * AUD: [RLBayers (Shure MV88)](https://archive.org/details/kglw2022-10-27.ShureMV88)

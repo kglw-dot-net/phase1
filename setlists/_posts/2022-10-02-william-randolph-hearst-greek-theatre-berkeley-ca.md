@@ -5,20 +5,12 @@ venue: "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
 tour: "World Tour '22"
 ---
 
-
-## Soundcheck
-
- 1. The Grim Reaper
- 2. Ice V
- 3. Ambergris
- 4. The Fourth Color
-
 ## Set 1:
 
  1. The Dripping Tap
 
  2. Wah Wah
-    (with 'The River' teases during the intro & bridge) (>)
+    (w/ The River tease, >)
 
  3. Road Train
 
@@ -37,27 +29,28 @@ tour: "World Tour '22"
 10. Nuclear Fusion
 
 11. O.N.E.
-    (with 'Straws in the Wind' tease intro)
+    (w/ Straws in the Wind tease)
 
 12. All Is Known
 
 13. Pleura
 
 14. Straws in the Wind
+    (dedicated to Donald Trump)
 
-## Setbreak
+## Intermission
 
-Smoke & Mirrors (album version; with "Timeland" countdown video)
+Song played from tape: Smoke & Mirrors (with "Timeland" countdown visual)
 
 ## Set 2:
 
  1. Self-Immolate
 
  2. Gaia
-    (with extended drum solo)
+    (w/ drum solo)
 
  3. The Grim Reaper
-    (>)
+     (>)
 
  4. Presumptuous
 
@@ -66,12 +59,13 @@ Smoke & Mirrors (album version; with "Timeland" countdown video)
  6. Iron Lung
 
  7. Ambergris
+    (lyrics changed to reference Ambrose)
 
  8. The Reticent Raconteur
-    (with Leah Senior) (>)
+    (featuring Leah Senior, >)
 
  9. The Lord of Lightning
-    (with Leah Senior)
+    (featuring Leah Senior)
 
 10. Crumbling Castle
     (>)
@@ -79,7 +73,8 @@ Smoke & Mirrors (album version; with "Timeland" countdown video)
 11. The Fourth Colour
 
 12. Am I in Heaven?
-    (with 'The Dripping Tap' teases)
 
 
-Note: Leah Senior opened
+Soundcheck: "The Grim Reaper", "Ice V", "Ambergris", & "The Fourth Colour"
+
+Notes: Black Tooth was jokingly referred to as the band’s submission to the Berklee School of Music.

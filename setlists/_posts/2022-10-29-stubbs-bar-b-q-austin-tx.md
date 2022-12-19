@@ -7,13 +7,13 @@ tour: "World Tour '22"
 
 
  1. Rattlesnake
-    (Sleep Drifter tease)
+    (w/ Sleep Drifter tease)
 
  2. Honey
     (>)
 
  3. Sleep Drifter
-    (Honey, Rattlesnake teases)
+    (w/ Honey + Rattlesnake teases)
 
  4. Pleura
 

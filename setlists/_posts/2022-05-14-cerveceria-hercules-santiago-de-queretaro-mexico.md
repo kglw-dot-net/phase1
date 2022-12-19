@@ -17,7 +17,7 @@ tour: "World Tour '22"
  5. I'm in Your Mind
 
  6. I'm Not in Your Mind
-    (Am I In Heaven, The Dripping Tap teases, >)
+    (w/ Am I In Heaven? + The Dripping Tap teases, >)
 
  7. Cellophane
     (>)
@@ -28,12 +28,12 @@ tour: "World Tour '22"
  9. The Balrog
 
 10. Wah Wah
-    (The River and Big Fig Wasp teases and quotes, >)
+    (w/ The River + Big Fig Wasp teases, >)
 
 11. Road Train
 
 12. Boogieman Sam
-    (Cut Throat Boogie, Cyboogie teases. Lead into jam w/ Stu on Flute,
+    (w/ Cut Throat Boogie + Cyboogie teases. Lead into jam w/ Stu on Flute,
     Ambrose on vox)
 
 13. O.N.E.

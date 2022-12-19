@@ -6,11 +6,13 @@ tour: "World Tour '22"
 ---
 
 
- 1. Robot Stop
+ 1. Robot Stop 
+    (->)
 
  2. Hot Water
 
- 3. The Grim Reaper
+ 3. The Grim Reaper 
+    (>)
 
  4. Mars for the Rich
 
@@ -19,7 +21,7 @@ tour: "World Tour '22"
  6. Planet B
 
  7. Gaia
-    (Extended drum solo)
+    (w/ drum solo)
 
  8. Magenta Mountain
 

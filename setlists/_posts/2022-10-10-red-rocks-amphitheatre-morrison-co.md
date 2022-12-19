@@ -6,7 +6,7 @@ tour: "World Tour '22"
 ---
 
 
- ## Set 1: 8:15-9:45
+## Set 1: 8:15-9:45
 
  1. Mars for the Rich
 
@@ -21,7 +21,7 @@ tour: "World Tour '22"
  6. Horology
 
  7. O.N.E.
-    (Straws in the Wind tease)
+    (w/ Straws in the Wind tease)
 
  8. Nuclear Fusion
 
@@ -32,42 +32,42 @@ tour: "World Tour '22"
 11. The Garden Goblin
 
 12. The River
-    (Crumbling Castle & Wah Wah teases)
+    (w/ Crumbling Castle + Wah Wah teases)
 
 13. Magma
 
 ##  Setbreak
 
- 1. The Land Before Timeland (album version)
+Interlude music played from tape: The Land Before Timeland
 
 ## Set 2: 10:00-11:30
 
  1. Rattlesnake
-    (O.N.E./Automation/Honey/Sleep Drifter/Minimum Brain Size teases)
+    (w/ O.N.E. + Automation + Honey + Sleep Drifter + Minimum Brain Size teases)
 
  2. Automation
 
  3. Honey
-    (Sleep Drifter/Billabong Valley teases, >)
+    (w/ Sleep Drifter + Billabong Valley teases, >)
 
  4. Sleep Drifter
     (>)
 
  5. Ataraxia
-    (Minimum Brain Size intro)
+    (w/ Minimum Brain Size tease intro)
 
  6. Evil Death Roll
 
  7. Ice V
 
  8. The Reticent Raconteur
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
  9. The Lord of Lightning
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
 10. The Balrog
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
 11. Trapdoor
 
@@ -76,9 +76,9 @@ tour: "World Tour '22"
 13. The Grim Reaper
 
 14. Planet B
-    (replaced Venusian 2 & Am I in Heaven?)
 
-Soundchecked: Ataraxia, Honey, The Garden Goblin, The Lord of
-Lightning. Pre-show song selection was One More Night (Can), Only You
-Know (Dion), Raining Blood (Slayer), Children of the Grave (Black
-Sabbath) & Sugar on My Tongue (Talking Heads).
+## Soundcheck
+
+Ataraxia, Honey, The Garden Goblin, The Lord of Lightning.
+
+Pre-show song selection was One More Night (Can), Only You Know (Dion), Raining Blood (Slayer), Children of the Grave (Black Sabbath) & Sugar on My Tongue (Talking Heads).

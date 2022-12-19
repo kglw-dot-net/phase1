@@ -39,6 +39,6 @@ tour: "2018 European Summer Tour"
 16. Gamma Knife
 
 17. Head On/Pill
-    (Snippets of Am I In Heaven, Rattlesnake, Cellophane, Robot Stop)
+    (w/ Am I In Heaven + Rattlesnake + Cellophane + Robot Stop teases)
 
 

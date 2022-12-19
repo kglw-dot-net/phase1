@@ -27,7 +27,7 @@ tour: "Flying Microtonal Banana"
 10. Alter Me III
 
 11. Robot Stop
-    (With snippet of 'Master of the Universe' by Hawkwind)
+    (w/ Master of the Universe - Hawkwind tease)
 
 12. Gamma Knife
 

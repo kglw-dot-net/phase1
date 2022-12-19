@@ -31,6 +31,6 @@ venue: "Enmore Theatre, Sydney, Australia"
 13. O.N.E.
 
 14. The Dripping Tap
-    (Head On/Pill / Boogieman Sam / Cellophane motifs)
+    (w/ Head On/Pill + Boogieman Sam + Cellophane teases)
 
 

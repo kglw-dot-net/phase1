@@ -9,7 +9,6 @@ tour: "I'm In Your Mind Fuzz USA 2014"
  1. Slow Jam 1
 
  2. Stressin'
-    (Live debut)
 
  3. Her and I (Slow Jam 2)
 
@@ -21,5 +20,7 @@ tour: "I'm In Your Mind Fuzz USA 2014"
 
  7. God Is Calling Me Back Home
 
+ 8. Happy Birthday to You
 
-Note: Stripped down set, played by Stu, Joey, and Michael
+
+Note: Stripped down set, played by Stu, Joey, and Michael. "Happy Birthday to You" was sung to Stu at the end of the set.

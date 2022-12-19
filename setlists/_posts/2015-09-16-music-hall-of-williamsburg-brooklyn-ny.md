@@ -11,7 +11,7 @@ venue: "Music Hall of Williamsburg, Brooklyn, NY, USA"
  3. Hot Wax
 
  4. Am I in Heaven?
-    (With Cellophane tease and Head On Pill tease)
+    (w/ Cellophane + Head On/Pill teases)
 
  5. People-Vultures
 
@@ -20,7 +20,7 @@ venue: "Music Hall of Williamsburg, Brooklyn, NY, USA"
  7. Hot Water
 
  8. Head On/Pill
-    (With Am I In Heaven? tease and Hot Water tease)
+    (w/ Am I In Heaven? + Hot Water teases)
 
  9. Cellophane
 

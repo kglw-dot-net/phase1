@@ -41,7 +41,7 @@ tour: "Murder of the Universe"
 17. Altered Beast IV
 
 18. Robot Stop
-    (with verse from Hawkwind's Master of the Universe)
+    (w/ Master of the Universe - Hawkwind tease)
 
 19. Hot Water
     (briefly interrupted as Joey and Stu shut down a fight)

@@ -43,7 +43,7 @@ tour: "Australian Tour 2018"
 18. Robot Stop
 
 19. Gamma Knife
-    (with People-Vultures intro tease)
+    (w/ People Vultures tease)
 
 20. The Bitter Boogie
 

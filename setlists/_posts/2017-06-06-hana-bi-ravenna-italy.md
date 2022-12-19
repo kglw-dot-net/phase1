@@ -41,6 +41,6 @@ tour: "Flying Microtonal Banana"
 17. The River
 
 18. Am I in Heaven?
-    (with medley: Hot water, Head on/Pill)
+    (w/ Hot water + Head on/Pill teases)
 
 

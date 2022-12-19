@@ -6,7 +6,7 @@ tour: "Flying Microtonal Banana"
 ---
 
 
-## Microtonal Set
+## Set 1 (Microtonal):
 
  1. Open Water
 
@@ -22,7 +22,7 @@ tour: "Flying Microtonal Banana"
 
  7. Billabong Valley
 
-## Non-Microtonal set
+## Set 2:
 
  1. Gamma Knife
 
@@ -43,4 +43,4 @@ tour: "Flying Microtonal Banana"
  9. Vomit Coffin
 
 10. Am I in Heaven?
-    (with snippet of Sea of Trees)
+    (w/ Sea of Trees tease)

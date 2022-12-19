@@ -5,7 +5,6 @@ venue: "FBi Social at Kings Cross Hotel, Sydney, Australia"
 tour: "Bloody Ripper"
 ---
 
-(Setlist may be incomplete.)
 
  1. Lunch Meat
 

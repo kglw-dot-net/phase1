@@ -15,7 +15,7 @@ tour: "Murder of the Universe"
  4. Altered Beast III
 
  5. Robot Stop
-    (with snippet of 'Master of the Universe' by Hawkwind)
+    (w/ Master of the Universe - Hawkwind tease)
 
  6. Gamma Knife
 
@@ -24,7 +24,7 @@ tour: "Murder of the Universe"
  8. The Lord of Lightning
 
  9. Am I in Heaven?
-    (Medley: Altered Beast, Robot Stop, Cellophane)
+    (w/ Altered Beast + Robot Stop + Cellophane teases)
 
 
 Note: Set at Williams Green

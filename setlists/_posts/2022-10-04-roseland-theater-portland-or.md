@@ -7,7 +7,7 @@ tour: "World Tour '22"
 
 
  1. Gaia
-    (Extended drum solo)
+    (w/ drum solo)
 
  2. Predator X
 
@@ -34,7 +34,6 @@ tour: "World Tour '22"
 12. Magma
 
 13. Rattlesnake
-    (Microtonal medley with teases from "Honey", "O.N.E", "Billabong
-    Valley" & others.)
+    (w/ Doom City + Nuclear Fusion + Sleep Drifter + O.N.E + Honey + Billabong Valley + Automation teases and quotes)
 
 

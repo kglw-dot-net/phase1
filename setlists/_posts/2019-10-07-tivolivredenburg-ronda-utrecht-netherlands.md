@@ -21,12 +21,12 @@ tour: "World Tour `19"
  7. Altered Beast III
 
  8. Wah Wah
-    (with The River snippets)
+    (w/ The River tease)
 
  9. Road Train
 
 10. Cut Throat Boogie
-    (with The Cruel Millennial harp outro)
+    (w/ The Cruel Millennial tease)
 
 11. Boogieman Sam
 
@@ -43,11 +43,8 @@ tour: "World Tour `19"
 17. Hell
 
 18. Head On/Pill
-    (30 minute medley with Rattlesnake/Robot Stop/Hot Water/Am I In
-    Heaven?)
+    (w/ Rattlesnake + Robot Stop + Hot Water + Am I In Heaven? teases; towards the end Stu played drums, Amby on lead vocals, Cavs on keys.)
 
 
-Note: Muddy Water was on the setlist, but not played. Stu played the
-drums for the last part of Head On/Pill, with Amby on lead vocals and
-Cavs on keys. 'Murder of the Universe' and parts of the 'Head On/Pill'
+Note:  'Murder of the Universe' and parts of the 'Head On/Pill'
 jam from this show are featured in the 'Chunky Shrapnel' concert film.

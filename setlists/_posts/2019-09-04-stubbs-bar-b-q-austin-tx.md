@@ -12,34 +12,32 @@ tour: "World Tour `19"
 
  3. The Great Chain of Being
 
- 4. The River
-    (part 1)
+ 4. Wah Wah
+    (w/ The River tease)
 
- 5. Wah Wah
+ 5. Road Train
 
- 6. Road Train
+ 6. Alter Me III
 
- 7. Alter Me III
+ 7. Altered Beast IV
 
- 8. Altered Beast IV
+ 8. The Cruel Millennial
 
- 9. The Cruel Millennial
+ 9. Nuclear Fusion
 
-10. Nuclear Fusion
+10. Doom City
 
-11. Doom City
+11. Boogieman Sam
 
-12. Boogieman Sam
+12. This Thing
 
-13. This Thing
+13. Work This Time
 
-14. Work This Time
+14. Plastic Boogie
 
-15. Plastic Boogie
+15. Venusian 2
 
-16. Venusian 2
+16. Self-Immolate
 
-17. Self-Immolate
-
-18. Am I in Heaven?
-    (with snippets of Altered Beast and Robot Stop)
+17. Am I in Heaven?
+    (w/ Altered Beast + Robot Stop teases)

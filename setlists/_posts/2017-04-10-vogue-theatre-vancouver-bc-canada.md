@@ -34,12 +34,6 @@ tour: "Flying Microtonal Banana"
     (stopped and restarted when security threw a fan off the stage)
 
 14. Cellophane
-    (medley with several songs)
+    (w/ teases from several songs)
 
-15. Song played from tape
-    Han-Tyumi & The Murder Of The Universe
-    (video played after band left the stage)
-
-
-Note: Full video for the third chapter of Murder of the Universe
-premiered after show
+Outro song played from tape: Han-Tyumi & The Murder Of The Universe (with music video premier)

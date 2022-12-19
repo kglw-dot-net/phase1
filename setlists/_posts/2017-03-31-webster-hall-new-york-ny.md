@@ -5,6 +5,7 @@ venue: "Webster Hall, New York, NY, USA"
 tour: "Flying Microtonal Banana"
 ---
 
+## Set 1 (Microtonal):
 
  1. Open Water
 
@@ -19,6 +20,8 @@ tour: "Flying Microtonal Banana"
  6. Nuclear Fusion
 
  7. Rattlesnake
+
+## Set 2:
 
  8. Alter Me I
 
@@ -41,7 +44,6 @@ tour: "Flying Microtonal Banana"
 17. Cellophane
 
 18. Am I in Heaven?
-    (with Cellophane/Alter Me/Hot Water/Head On/Pill Medley Interlude)
-
+    (w/ Cellophane + Alter Me + Hot Water + Head On/Pill teases)
 
 Note: Webcast live by Pitchfork

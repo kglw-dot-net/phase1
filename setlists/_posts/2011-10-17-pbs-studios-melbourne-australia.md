@@ -22,6 +22,8 @@ venue: "PBS Studios, Melbourne, Australia"
 
  9. Willoughby's Beach
 
+Note: Community radio promotion for the Willoughby's Beach EP.
+
 ### Recordings
 
 * [archive.org](https://archive.org/details/willoughbys-beach-ep-live-on-pbs-106.7-fm-october-17-2011_202111)

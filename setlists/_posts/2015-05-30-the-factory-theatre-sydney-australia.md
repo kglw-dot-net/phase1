@@ -14,7 +14,7 @@ venue: "The Factory Theatre, Sydney, Australia"
 
  5. Hot Wax
 
- 6. (unknown new song)
+ 6. (Unknown new song preview)
 
  7. Hot Water
 

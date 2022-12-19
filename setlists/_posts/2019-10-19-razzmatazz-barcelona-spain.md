@@ -35,10 +35,6 @@ tour: "World Tour `19"
 14. Billabong Valley
 
 15. Head On/Pill
-    (30 minute jam with bits of other songs and all members of
-    Stonefield and ORB playing at the end)
 
 
-Note: Last show of the European leg of their World Tour 2019. Parts of
-the 'Head On/Pill' jam are featured in the 'Chunky Shrapnel' concert
-film.
+Notes: Head On/Pill included guest performance from Stonefield and ORB members. Parts of the 'Head On/Pill' jam are featured in the 'Chunky Shrapnel' concert film.

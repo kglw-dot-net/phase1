@@ -15,14 +15,14 @@ tour: "2018 UK/EU Tour"
  4. All Is Known
 
  5. Doom City
-    (Crumbling Castle Outro)
+    (w/ Crumbling Castle tease)
 
  6. Sleep Drifter
 
  7. D-Day
 
  8. The Book
-    (Instrumental)
+    (Instrumental only)
 
  9. Billabong Valley
 

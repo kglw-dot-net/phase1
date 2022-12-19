@@ -19,7 +19,7 @@ tour: "World Tour '22"
  6. The Great Chain of Being
 
  7. Gaia
-    (with extended drum solo)
+    (w/ drum solo)
 
  8. Work This Time
     (dedicated to Joey's partner Edith Kenny-Smith)
@@ -33,4 +33,4 @@ tour: "World Tour '22"
 12. Straws in the Wind
 
 13. Rattlesnake
-    (with elements of 'See Me' and 'O.N.E.')
+    (w/ See Me + O.N.E. teases)

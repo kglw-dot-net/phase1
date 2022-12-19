@@ -41,8 +41,8 @@ tour: "Murder of the Universe"
 17. Altered Beast IV
 
 18. Robot Stop
-    (w/ Cello, Mind Fuzz, Hot H2O, Heaven?, Cut Throat Boogie, Head
-    On/Pill, and Masters of Universe)
+    (w/ Cellophane + I'm In Your Mind + Hot Water + Am I In Heaven? + Cut Throat Boogie + Head
+    On/Pill + Master of Universe - Hawkwind teases)
 
 19. Hot Water
 

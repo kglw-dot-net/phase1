@@ -53,6 +53,4 @@ tour: "World Tour `19"
 23. Cyboogie
 
 
-Note: Surprise show announced the day before. First Australasian leg
-gig of their World Tour 2019. All songs are live debuts except Tezeta,
-Beginner's Luck and Sleep Drifter.
+Note: Surprise show announced the day before.

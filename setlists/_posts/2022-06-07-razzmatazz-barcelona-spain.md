@@ -7,8 +7,7 @@ tour: "World Tour '22"
 
 
  1. Am I in Heaven?
-    (With "Sadie Sorceress" & "Hot Water" teases)
-    (Technical issues with Cavs' drumkit)
+    (w/ Sadie Sorceress + Hot Water teases)
 
  2. Inner Cell
 
@@ -32,7 +31,7 @@ tour: "World Tour '22"
 11. The Garden Goblin
 
 12. Boogieman Sam
-    (With extended jam)
+    (w/ extended jam)
 
 
-Note: Joey cut his finger right before starting the set.
+Note: There were technical issues with Cavs' drumkit during Am I in Heaven?. Joey cut his finger right before starting the set.

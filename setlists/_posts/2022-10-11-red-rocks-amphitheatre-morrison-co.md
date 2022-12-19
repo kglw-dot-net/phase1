@@ -6,7 +6,7 @@ tour: "World Tour '22"
 ---
 
 
- ## Set 1 (8:15-9:49)
+## Set 1 (8:15-9:49)
 
  1. The Dripping Tap
     (celebrating Joey's birthday)
@@ -20,6 +20,7 @@ tour: "World Tour '22"
  5. Pleura
 
  6. Oddlife
+    (Nicholas Roderick Craig's favorite song)
 
  7. Doom City
     (>)
@@ -27,28 +28,28 @@ tour: "World Tour '22"
  8. K.G.L.W.
 
  9. Boogieman Sam
-    (with 'Cut Throat Boogie', 'Mind Left Body Jam', 'Got My Mojo
-    Workin'' & 'My Babe' snippets) (>)
+    (w/ Cut Throat Boogie + Mind Left Body - The Grateful Dead Jam + Got My Mojo
+    Workin - Ann Cole + My Babe - Little Walter teases) (>)
 
 10. Sleepwalker
 
 11. Sea of Trees
-    (with 'Head On/Pill' tease) (>)
+    (w/ Head On/Pill tease; Lucas's favorite song) (>)
 
 12. The Bitter Boogie
 
-## Setbreak music
+## Setbreak
 
-Hypertension (album version)
+Interlude music played from tape: Hypertension
 
-## Set 2 (10:05-11:25)
+## Set 2 (10:05-11:25):
 
  1. Perihelion
 
  2. I'm in Your Mind
 
  3. I'm Not in Your Mind
-    (with 'Alter Me' tease)
+    (w/ Alter Me tease)
 
  4. Cellophane
 
@@ -57,22 +58,22 @@ Hypertension (album version)
  6. Tezeta
 
  7. A New World
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
  8. Altered Beast I
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
  9. Alter Me I
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
 10. Altered Beast II
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
 11. Alter Me II
-    (with Leah Senior) (>)
+    (featuring Leah Senior) (>)
 
 12. Altered Beast III
-    (with Leah Senior)
+    (featuring Leah Senior)
 
 13. Ambergris
 
@@ -80,18 +81,13 @@ Hypertension (album version)
 
 15. Iron Lung
 
-15. Robot Stop
+16. Robot Stop
 
-15. Gamma Knife
+17. Gamma Knife
 
-15. People-Vultures
+18. People-Vultures
 
-15. Mr. Beat
-    (followed by 'Iron Lung' reprise)
+19. Mr. Beat
+    (w/ Iron Lung tease outro)
 
-Note: Second night of three 3-hour marathon shows. Soundcheck included
-Tezeta, Altered Beast I, and The Dripping Tap. Pre-show song selection
-included Calypso of House by Key Tronics Ensemble, I Saw the Light by
-Todd Rundgren, Under Mi Sleng Teng by Wayne Smith, Milestones by Miles
-Davis, Tell Me What It Is by Graham Central Station, and Ramble Tamble
-by CCR.
+Pre-show song selection included Calypso of House by Key Tronics Ensemble, I Saw the Light by Todd Rundgren, Under Mi Sleng Teng by Wayne Smith, Milestones by Miles Davis, Tell Me What It Is by Graham Central Station, and Ramble Tamble by CCR.

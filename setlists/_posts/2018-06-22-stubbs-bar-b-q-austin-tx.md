@@ -39,17 +39,17 @@ tour: "2018 North American Tour"
 16. Rattlesnake
 
 17. The River
-    (incomplete)
+    (shortened version)
 
 18. Wah Wah
 
 19. Robot Stop
-    (Master of the Universe, Hot Water, Big Fig Wasp snippets)
+    (w/ Master of the Universe - Hawkwind + Hot Water + Big Fig Wasp teases)
 
 20. Big Fig Wasp
 
 21. Head On/Pill
-    (Robot Stop/Cellophane/Alter Me/Sea of Trees/Hot Water/Am I in
-    Heaven medley)
+    (w/ Robot Stop + Cellophane + Alter Me + Sea of Trees + Hot Water + Am I in
+    Heaven teases)
 
 

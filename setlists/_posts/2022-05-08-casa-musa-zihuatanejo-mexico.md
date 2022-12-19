@@ -25,4 +25,4 @@ tour: "World Tour '22"
  9. Wah Wah
 
 10. The Bitter Boogie
-    (with Ambrose sax solo and lyrics from Sexual Healing)
+    (w/ Ambrose sax solo + Sexual Healing - Marvin Gaye tease)

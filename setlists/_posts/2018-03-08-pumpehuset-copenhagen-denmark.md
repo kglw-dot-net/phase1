@@ -1,12 +1,13 @@
 ---
 layout: setlist
 date: "2018-03-08"
+title: "2018 March 8 @ Pumpehuset"
 venue: "Pumpehuset, Copenhagen, Denmark"
 tour: "2018 UK/EU Tour"
 ---
 
 
-## set 1 Microtonal
+## Set 1 (Microtonal):
 
  1. Rattlesnake
 
@@ -21,9 +22,9 @@ tour: "2018 UK/EU Tour"
  6. Sleep Drifter
 
  7. Doom City
-    (With Crumbling Castle Outro)
+    (w/ Crumbling Castle tease)
 
-## set 2
+## Set 2:
 
  1. Welcome to an Altered Future
 
@@ -36,7 +37,7 @@ tour: "2018 UK/EU Tour"
  5. Crumbling Castle
 
  6. The Fourth Colour
-    (Snippets of Head On/Pill, Am I In Heaven)
+    (w/ Head On/Pill + Am I In Heaven teases)
 
  7. Robot Stop
 

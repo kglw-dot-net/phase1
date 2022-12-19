@@ -23,18 +23,17 @@ tour: "Float Along - Fill Your Lungs Preview Shows"
 
  9. Float Along - Fill Your Lungs
 
-    (Audience requests)
+10. Audience requests
+11. Cut Throat Boogie
 
-10. Cut Throat Boogie
+12. Muckraker
 
-11. Muckraker
+13. Footy Footy
 
-12. Footy Footy
+14. Black Tooth
 
-13. Black Tooth
+15. Danger $$$
 
-14. Danger $$$
-
-15. Sea of Trees
+16. Sea of Trees
 
 

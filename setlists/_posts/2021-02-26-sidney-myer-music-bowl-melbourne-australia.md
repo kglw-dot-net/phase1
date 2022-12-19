@@ -7,6 +7,7 @@ tour: "Micro Tour 2021"
 
 
  1. Fury
+    (Cavs solo)
 
  2. KGLW
     (instrumental)
@@ -32,14 +33,14 @@ tour: "Micro Tour 2021"
 12. Straws in the Wind
 
 13. Billabong Valley
-    (Rattlesnake and Sleep Drifter teases)
+    (w/ Rattlesnake + Sleep Drifter teases)
 
 14. Automation
 
 15. Minimum Brain Size
 
 16. Sleep Drifter
-    (Honey and Nuclear Fusion teases)
+    (w/ Honey + Nuclear Fusion teases)
 
 17. Honey
 

@@ -6,10 +6,12 @@ tour: "Mexico Tour 2018"
 ---
 
 
+Intro song played from tape" Riff Raff - AC/DC
+
  1. Rattlesnake
 
  2. Sleep Drifter
-    (w/ snippet of Billabong Valley)
+    (w/ Billabong Valley tease)
 
  3. Crumbling Castle
 
@@ -36,7 +38,7 @@ tour: "Mexico Tour 2018"
 14. I'm in Your Mind
 
 15. I'm Not in Your Mind
-    (w/ Snippet of Altered Beast)
+    (w/ Altered Beast tease)
 
 16. Head On/Pill
 

@@ -39,6 +39,6 @@ tour: "2018 UK/EU Tour"
 16. The River
 
 17. God Is in the Rhythm
-    (with Han-Tyumi)
+    (featuring Han-Tyumi)
 
 

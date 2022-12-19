@@ -35,8 +35,4 @@ tour: "Flying Microtonal Banana"
 14. The Lord of Lightning
 
 15. Am I in Heaven?
-
-
-Note: Medley during Am I In Heaven?: Alter Me / Cellophane / Robot Stop
-/ Hot Water / I'm In Your Mind / Head On/Pill / Rattlesnake / Sea of
-Trees. First King Gizzard & The Lizard Wizard live show in Phoenix.
+    (w/ Alter Me + Cellophane + Robot Stop + Hot Water + I'm In Your Mind + Head On/Pill + Rattlesnake + Sea of Trees teases)

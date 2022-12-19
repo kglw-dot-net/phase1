@@ -32,6 +32,8 @@ venue: "Scala, London, England"
 
 14. Head On/Pill
 
-16. (encore) Vegemite
+Encore:
+
+15. Vegemite 
 
 

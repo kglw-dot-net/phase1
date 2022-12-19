@@ -41,7 +41,7 @@ tour: "Flying Microtonal Banana"
 17. Vomit Coffin
 
 18. Am I in Heaven?
-    (Medley with Cellophane / Head On/Pill / I'm In Your Mind / Alter
-    Me / Rattlesnake / Robot Stop)
+    (w/ Cellophane + Head On/Pill + I'm In Your Mind + Alter
+    Me + Rattlesnake + Robot Stop teases)
 
 

@@ -5,8 +5,7 @@ venue: "Gagarin 205, Athens, Greece"
 tour: "World Tour '22"
 ---
 
-
-Soundcheck: Let Me Mend The Past, Rattlesnake, Hot Water, Work This Time
+(Soundcheck included Let Me Mend The Past, Rattlesnake, Hot Water, and Work This Time.)
 
  1. Sense
 

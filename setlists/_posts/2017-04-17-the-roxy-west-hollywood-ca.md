@@ -39,6 +39,6 @@ tour: "Flying Microtonal Banana"
 16. The Lord of Lightning
 
 17. Am I in Heaven?
-    (Medley: Altered Beast/I'm In Your Mind/Cellophane)
+    (w/ Altered Beast + I'm In Your Mind + Cellophane teases)
 
 

@@ -6,7 +6,9 @@ tour: "2018 UK/EU Tour"
 ---
 
 
-## Microtonal
+Intro song played from tape: Electricity - Captain Beefheart
+
+## Set 1 (Microtonal):
 
  1. Rattlesnake
 
@@ -17,7 +19,7 @@ tour: "2018 UK/EU Tour"
  4. Billabong Valley
 
  5. Doom City
-    (with 'Crumbling Castle' outro)
+    (w/ Crumbling Castle tease)
 
  6. D-Day
 
@@ -25,9 +27,9 @@ tour: "2018 UK/EU Tour"
 
  8. All Is Known
 
-## Normal
+## Set 2:
 
- 1. (new song, instrumental)
+ 1. (Unknown new song, no lyrics, Stu said they're recording this)
 
  2. Welcome to an Altered Future
 
@@ -44,14 +46,14 @@ tour: "2018 UK/EU Tour"
  8. The Fourth Colour
 
  9. The River
-    (w/ medley including snippets of "Am I In Heaven?", "Head On/Pill")
+    (w/ Am I In Heaven? + Head On/Pill teases)
 
 10. Robot Stop
-    (w/ riff of "Hot Water" and intro "Master Of The Universe" [Hawkwind cover])
+    (w/ Hot Water + Master Of The Universe - Hawkwind teaes)
 
 11. Big Fig Wasp
 
 12. Gamma Knife
-    (w/ "People-Vultures" outro)
+    (w/ People-Vultures tease)
 
 

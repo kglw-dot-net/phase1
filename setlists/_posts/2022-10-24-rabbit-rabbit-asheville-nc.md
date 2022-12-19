@@ -13,10 +13,10 @@ tour: "World Tour '22"
  3. Predator X
 
  4. Slow Jam 1
-    (Ice V quotes; Magenta Mountain teases)
+    (w/ Ice V quotes + Magenta Mountain teases)
 
  5. Magenta Mountain
-    (with scat singing; dedicated to Robert Moog, who taught music in Asheville)
+    (Scat singing, dedicated to Robert Moog)
 
  6. O.N.E.
 
@@ -30,12 +30,12 @@ tour: "World Tour '22"
 10. The Garden Goblin
 
 11. Wah Wah
-    (The River teases)
+    (w/ The River tease)
 
 12. Road Train
 
 13. The Dripping Tap
-    (The Land Before Timeland tease)
+    (w/ The Land Before Timeland tease)
 
 14. Magma
 

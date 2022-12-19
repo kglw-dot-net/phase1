@@ -21,7 +21,7 @@ tour: "Murder of the Universe"
  7. Crumbling Castle
 
  8. Robot Stop
-    (With 'Hot Water' and 'Master of the Universe' snippets)
+    (w/ Hot Water + Master of the Universe - Hawkwind teases)
 
  9. Gamma Knife
 
@@ -30,7 +30,7 @@ tour: "Murder of the Universe"
 11. Sleep Drifter
 
 12. Doom City
-    (With 'Crumbling Castle' outro)
+    (w/ Crumbling Castle tease)
 
 13. Rattlesnake
 

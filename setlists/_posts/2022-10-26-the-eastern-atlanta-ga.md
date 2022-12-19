@@ -5,15 +5,13 @@ venue: "The Eastern, Atlanta, GA, USA"
 tour: "World Tour '22"
 ---
 
-Silly string for Stu's birthday!
-
  1. Perihelion
-    (>)
+    (preceded by Stu's birthday announcement) (>)
 
  2. Hell
 
  3. Inner Cell
-    (preceded by Stayin' Alive tease) (>)
+    (w/ Stayin' Alive - Bee gees tease intro) (>)
 
  4. Loyalty
     (>)
@@ -53,7 +51,9 @@ Silly string for Stu's birthday!
 
 18. Lava
 
-Stu was silly stringed at the end of the show, and then the crowd sang Happy Birthday to him.
+Note: Show prefaced by announcement regarding mosh pit etiquette. Stu
+was silly stringed at the end of the show, the crowd then sang happy
+birthday to Stu.
 
 Recordings
 * AUD: [vwmule (Gefell M21)](https://archive.org/details/kglw2022-10-26.vwmule)

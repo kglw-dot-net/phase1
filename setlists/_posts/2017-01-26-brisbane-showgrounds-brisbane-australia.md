@@ -18,9 +18,6 @@ venue: "Brisbane Showgrounds, Brisbane, Australia"
 
  7. Cellophane
 
- 8. (unknown)
-    (Molten Beast)
+ 8. (Unknown song from Altered Beast suite)
 
  9. Robot Stop
-
-

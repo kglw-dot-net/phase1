@@ -13,22 +13,22 @@ tour: "World Tour '22"
  3. Presumptuous
 
  4. The Reticent Raconteur
-    (with Leah Senior)
+    (featuring Leah Senior)
 
  5. The Lord of Lightning
-    (with Leah Senior)
+    (featuring Leah Senior)
 
  6. I'm in Your Mind
 
  7. I'm Not in Your Mind
 
  8. Cellophane
-    (with 'Alter Me' tease)
+    (w/ Alter Me tease)
 
  9. I'm in Your Mind Fuzz
 
 10. Self-Immolate
-    (with extended drum intro)
+    (w/ drum solo intro)
 
 11. Perihelion
 
@@ -41,7 +41,7 @@ tour: "World Tour '22"
 15. Automation
 
 16. Rattlesnake
-    (with 'Nuclear Fusion' teases)
+    (w/ Nuclear Fusion tease)
 
 17. Float Along - Fill Your Lungs
 

@@ -11,7 +11,7 @@ tour: "2018 North American Tour"
  2. Greenhouse Heat Death
 
  3. Digital Black
-    (Han-Tyumi, the Confused Robot snippet)
+    (w/ Han-Tyumi, The Confused Robot tease)
 
  4. Vomit Coffin
 
@@ -34,14 +34,14 @@ tour: "2018 North American Tour"
 13. The Wheel
 
 14. Robot Stop
-    (Head On/Pill tease)
+    (w/ Head On/Pill tease)
 
 15. Gamma Knife
 
 16. People-Vultures
 
 17. Head On/Pill
-    (Alter Me/Cellophane/Sea of Trees/Am I In Heaven? Medley; Hot Water
-    Tease)
+    (w/ Alter Me + Cellophane + Sea of Trees + Am I In Heaven? + Hot Water
+    teases)
 
 

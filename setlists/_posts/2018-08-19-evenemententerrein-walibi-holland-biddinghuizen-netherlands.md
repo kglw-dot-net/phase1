@@ -13,7 +13,7 @@ tour: "2018 European Summer Tour"
  3. The Lord of Lightning
 
  4. Cellophane
-    (with "I'm in Your Mind" riff intro)
+    (w/ I'm in Your Mind tease)
 
  5. Alter Me I
 
@@ -36,7 +36,7 @@ tour: "2018 European Summer Tour"
 14. Muddy Water
 
 15. Robot Stop
-    (with "Master of the Universe" intro)
+    (w/ Master of the Universe - Hawkwind tease)
 
 16. Gamma Knife
 

@@ -41,7 +41,7 @@ tour: "Murder of the Universe"
 17. Altered Beast IV
 
 18. Robot Stop
-    (with Cellophane and I'm In Your Mind snippets)
+    (w/ Cellophane + I'm In Your Mind teases)
 
 19. Hot Water
 

@@ -31,8 +31,7 @@ tour: "Murder of the Universe"
 12. Altered Beast IV
 
 13. Robot Stop
-    (With snippets of 'Hot Water' and 'Master of the Universe' by
-    Hawkwind)
+    (w/ Hot Water + Master of the Universe - Hawkwind teases)
 
 14. Gamma Knife
 
@@ -43,10 +42,10 @@ tour: "Murder of the Universe"
 17. Sleep Drifter
 
 18. Doom City
-    (With 'Crumbling Castle' snippet)
+    (w/ Crumbling Castle tease)
 
 19. Rattlesnake
 
 20. Lonely Steel Sheet Flyer
 
-
+Note: Headline set at Gizzfest Syndey 2017

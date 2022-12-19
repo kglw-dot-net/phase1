@@ -6,6 +6,8 @@ tour: "World Tour `19"
 ---
 
 
+ Intro song played from tape: Evil Star
+
  1. Self-Immolate
 
  2. Venusian 1
@@ -41,5 +43,5 @@ tour: "World Tour `19"
 17. The Bitter Boogie
 
 
-Note: This concert was recorded and released as the "Live in Asheville
+Notes: This concert was recorded and released as the "Live in Asheville
 '19" album.

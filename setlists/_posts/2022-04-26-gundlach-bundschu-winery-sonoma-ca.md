@@ -15,7 +15,7 @@ tour: "World Tour '22"
  4. Stressin'
 
  5. Wah Wah
-    (Contained motifs from The River)
+    (w/ The River tease)
 
  6. Road Train
 
@@ -24,8 +24,7 @@ tour: "World Tour '22"
  8. Work This Time
 
  9. Open Water
-    (With extended drum solo before outro. contained motif of Static
-    Electricity)
+    (w/ drum solo + Static Electricity tease)
 
 10. Pleura
 
@@ -36,6 +35,6 @@ tour: "World Tour '22"
 13. Boogieman Sam
 
 14. The Dripping Tap
-    (Contained motifs from unreleased/untitled song "Hell's Itch")
+    (w/ Hell's Itch tease)
 
 

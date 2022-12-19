@@ -33,13 +33,13 @@ tour: "Flying Microtonal Banana"
 13. People-Vultures
 
 14. The Lord of Lightning
-    (with master of the universe by Hawkwind)
+    (w/ Master of the Universe - Hawkwind tease)
 
 15. Cellophane
 
 16. Am I in Heaven?
-    (with medley of Altered Beast, Cellophane, Robot Stop, The River,
-    I'm In Your Mind, Head on/Pill)
+    (w/ Altered Beast + Cellophane + Robot Stop + The River +
+    I'm In Your Mind + Head on/Pill teases)
 
 17. The River
 

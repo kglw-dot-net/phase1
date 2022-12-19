@@ -10,8 +10,8 @@ venue: "Sydney College of the Arts, Sydney, Australia"
 
  3. The Lord of Lightning
 
- 4. (Unknown)
-    (Molten Beast)
+ 4. (Unknown new song)
+
  5. Nuclear Fusion
 
  6. Rattlesnake
@@ -27,6 +27,6 @@ venue: "Sydney College of the Arts, Sydney, Australia"
 11. Cellophane
 
 12. Robot Stop
-    (with snippet of Hot Water)
+    (w/ Hot Water tease)
 
 

@@ -24,7 +24,7 @@ tour: "Nonagon Infinity"
 
  9. I'm in Your Mind Fuzz
 
-10. (new song)
+10. (Unknown new song)
 
 11. Mr. Beat
 
@@ -38,9 +38,6 @@ tour: "Nonagon Infinity"
 
 16. Road Train
 
-17. Hot Water
-
-18. Robot Stop
-    (Reprise)
+17. Hot Water (w/ Robot Stop tease)
 
 
