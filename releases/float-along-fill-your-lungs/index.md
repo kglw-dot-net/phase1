@@ -17,7 +17,3 @@ What to listen to next:
 *   [If you want more of the ‘Eastern’ sound](../flying-microtonal-banana)
 *   [If you want more of the chill 60s Psych-Pop vibe](../paper-mache-dream-balloon)
 *   [If you want a bit more Rock in your Psych-Rock](../im-in-your-mind-fuzz)
-
-I’m familiar with the main albums and want to go deeper:
-
-*   [If you liked Head On/Pill and want a playlist of signature KGATLW long songs](https://open.spotify.com/playlist/77cYJha9ttoOpZkZQOCid6?si=28d4f5ace4ed476a) (Spotify link)

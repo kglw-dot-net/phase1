@@ -18,7 +18,3 @@ What to listen to next:
 *   [If you want the first eclectic concept-less album](../oddments)
 *   [If you want another eclectic concept-less album](../gumboot-soup)
 *   [If you liked the heavy songs](../infest-the-rats-nest)
-
-I’m familiar with the main albums and want to go deeper:
-
-*   [If you want a playlist of extra long ‘live jam’ songs like The Dripping Tap](https://open.spotify.com/playlist/77cYJha9ttoOpZkZQOCid6?si=28d4f5ace4ed476a) (Spotify link)

@@ -22,4 +22,4 @@ What to listen to next:
 
 I’m familiar with the main albums and want to go deeper:
 
-*   [If you want to hear more songs that lend a ‘peak behind the curtain’ of the creative process](../demos1)
+*   [If you want to hear more songs that lend a ‘peak behind the curtain’ of the creative process](../demos-vol-1-music-to-kill-bad-people-to)

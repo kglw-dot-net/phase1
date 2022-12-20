@@ -18,7 +18,3 @@ What to listen to next:
 *   [If you more relaxed 60s style](../float-along-fill-your-lungs)
 *   [If you want a different ‘period’ sound](../fishing-for-fishies)
 *   [If you prefer the tone of the music to match very dark, intense lyrics](../infest-the-rats-nest)
-
-I’m familiar with the main albums and want to go deeper:
-
-*   [If the guy who sings The Bitter Boogie sounds cool and you want to hear more](../the-murlocs)
