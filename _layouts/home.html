@@ -12,7 +12,7 @@ layout: default
 
   {%- assign recent_setlists = site.categories.setlists | slice: 0, 2 -%}
   {%- if recent_setlists.size > 0 -%}
-  <section>
+  <section class="setlists">
     <h2 class="post-list-heading">Recent Setlists</h2>
     <ul class="post-list">
       {%- for setlist in recent_setlists -%}
@@ -36,7 +36,7 @@ layout: default
 
   {%- assign recent_blog = site.categories.blog | slice: 0, 2 -%}
   {%- if recent_blog.size > 0 -%}
-  <section>
+  <section class="blog">
     <h2 class="post-list-heading">Blog</h2>
     <ul class="post-list">
       {%- for post in recent_blog -%}

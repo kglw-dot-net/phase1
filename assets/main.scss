@@ -34,6 +34,42 @@ footer.site-footer {
   }
 }
 
+.setlists {
+  ul > li {
+    p {
+      display: inline;
+    }
+
+    > h4 {
+      display: inline-block;
+      margin: 0 0.3em;
+      border-radius: 1em;
+      padding: 0.3em 0.6em;
+      color: #222;
+      background: #3d3;
+    }
+
+    > ol {
+      display: inline;
+      margin: 0;
+      
+       > li {
+        display: inline;
+
+        &:after {
+          content: ',';
+        }
+        &:last-child::after {
+          content: none;
+        }
+      }
+    }
+  }
+}
+
+.blog {
+}
+
 .site-header {
   border: 0;
   background: #f39;

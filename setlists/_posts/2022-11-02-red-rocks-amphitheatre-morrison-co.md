@@ -6,14 +6,7 @@ venue: "Red Rocks Amphitheatre, Morrison, CO, USA"
 tour: "World Tour '22"
 ---
 
-The third show at Red Rocks in 2022!
-<!--snippet-->
-
-## Soundcheck
-
-Down the Sink
-
-## Set 1
+#### Set 1
 
  1. Murder of the Universe suite (Digital Black » Han-Tyumi the Confused Cyborg » Soy‐Protein Munt Machine » Vomit Coffin » Murder of the Universe)
  2. Blame It on the Weather
@@ -29,11 +22,11 @@ Down the Sink
 12. Crumbling Castle 
 13. The Fourth Colour
 
-## Setbreak
+#### Setbreak
 
 Timeland
 
-## Set 2
+#### Set 2
 
  1. Head On/Pill<sup>5</sup> »
  2. Am I in Heaven?
@@ -47,7 +40,13 @@ Timeland
 10. Altered Beast IV<sup>8</sup>
 11. Float Along — Fill Your Lungs
 
-## Notes
+<!--snippet-->
+
+#### Soundcheck
+
+Down the Sink
+
+#### Notes
 
 1: The River tease  
 2: The Grim Reaper tease  
