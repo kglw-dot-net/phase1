@@ -14,6 +14,7 @@ layout: default
   {%- if recent_setlists.size > 0 -%}
   <section class="setlists">
     <h2 class="post-list-heading">Recent Setlists</h2>
+    <a class="more-link" href="{{ "/setlists" | relative_url }}">See more...</a>
     <ul class="post-list">
       {%- for setlist in recent_setlists -%}
       <li>
@@ -28,7 +29,6 @@ layout: default
         {%- endif -%}
       </li>
       {%- endfor -%}
-      <li><a href="{{ "/setlists" | relative_url }}">More...</a></li>
     </ul>
   </section>
   {%- endif -%}

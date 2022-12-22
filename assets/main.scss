@@ -49,6 +49,13 @@ footer.site-footer {
 }
 
 .setlists {
+  h2 {
+    display: inline-block;
+  }
+  .more-link {
+    padding: 0 1em;
+  }
+
   ul > li {
     p {
       display: inline;
