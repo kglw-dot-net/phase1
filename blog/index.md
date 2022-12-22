@@ -1,5 +1,5 @@
 ---
-title: KGLW News
+title: KGLW.net Blog
 ---
 
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
