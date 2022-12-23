@@ -1,5 +1,5 @@
 ---
-title: Inaugural kglw.net Meta-Post
+title: kglw.net Meta-Post #00 - Inaugural
 ---
 
 Welcome to Phase 1 of kglw.net.  
@@ -10,7 +10,7 @@ While the site has been running in a prototype state since October 19th 2022 to 
 Assembled by a passionate core, a team of web developers, artists, live show enthusiasts, and writers have come together out of the woodwork of the King Gizzard and The Lizard Wizard fan base to produce this first dedicated hub. Scattered far and wide across the realms of social media and forums, many have envisioned similar projects, but it has taken a larger unified community effort to finally make the successful launch of a project that can serve its own purpose, with its own means, on its own terms.  
 
 The inspiration for this project has been twofold:  
-* The landmark 2022 King Gizzard and the Lizard Wizard North America tour has not only fulfilled the much delayed and highly anticipated marathon shows at Red Rocks ([Night 1](../setlists/2022/10/10/red-rocks-amphitheatre-morrison-co.html), [Night 2](../setlists/2022/10/11/red-rocks-amphitheatre-morrison-co.html), [Night 3](../setlists/2022/11/02/red-rocks-amphitheatre-morrison-co.html) — it is the first conducted since the band approved uploading of audience tapes to archive.org, permanently preserving the first renaissance of the King Gizzard live show and marking the genesis of a fully formed taping and 'lot' culture surrounding the band.
+* The landmark 2022 King Gizzard and the Lizard Wizard North America tour has not only fulfilled the much delayed and highly anticipated marathon shows at Red Rocks ([Night 1](../setlists/2022/10/10/red-rocks-amphitheatre-morrison-co.html), [Night 2](../setlists/2022/10/11/red-rocks-amphitheatre-morrison-co.html), [Night 3](../setlists/2022/11/02/red-rocks-amphitheatre-morrison-co.html)) — it is the first conducted since the band approved uploading of audience tapes to archive.org, permanently preserving the first renaissance of the King Gizzard live show and marking the genesis of a fully formed taping and 'lot' culture surrounding the band.
 * This year has also been special for studio releases; somehow managing to surpass the legendary five-album run of 2017 with the same feat plus the addition of a collaborative EP, remix album, documentary, debut cinema release, and several Official Bootlegger live and demo releases. This has all been capped off with 'Gizztober', a new level of output frequency with the final three studio albums of the year all unleashed within the month of October. Busy periods of activity such as these tend to bring in waves of new fans, and are remembered as significant reference points in the history of the band; if you are new to King Gizzard and the Lizard Wizard in 2022, welcome :)
 
 The nature of this fan-hub is loosely based on existing ‘jam-band’ fan sites and taping culture — connected to the early days of the internet itself, these have provided an open-source development ethos favouring community preservation and freedom of information.  
@@ -22,8 +22,8 @@ Our key features:
 
 ## [Live Show Setlists](../shows/)
 
-This is the primary function of the site. Here, you will find a catalogue of every King Gizzard and The Lizard Wizard live show, including detailed and annotated setlists, dates, locations, pertinent notes, and statistics.  
-As the band have developed the quality of their live show and scope of their tours significantly in the last few years, they are gradually aligning with the culture of established live-focused jam acts such as Phish and The Grateful Dead. All the while, a need has grown for a custom and community-integrated site, providing unique features beyond what existing tools like setlist.fm can manage.  
+This is the primary function of the site. Here, you will find the most up-to-date catalogue of every King Gizzard and The Lizard Wizard live show, including detailed and annotated setlists, dates, locations, and pertinent notes.  
+As the band have developed the quality of their live show and scope of their tours significantly in the last few years, they are gradually aligning with the culture of established live-focused jam acts such as Phish or The Grateful Dead. All the while, a need has grown for a custom and community-integrated site, providing unique features beyond what existing tools like setlist.fm can manage. Using data from that site as a start, it has been reformatted and each of nearly 700 entries has been manually checked and edited into a consistent syntax; making the most complete and consistent King Gizzard live show set-list catalogue available anywhere.  
 
 ## [The Gizzverse Guide](../gizzverse-guide/)  
 
@@ -60,7 +60,7 @@ This is a project that will grow out of the site, with an established community 
 ---
 
 We all have a long journey ahead; https://phish.net/ began as an email list before at least one member of King Gizzard was born. The band have been at it for over a decade and it has always felt fresh, not only is there a lot of existing content to yet fill the site, there is much, much more to come.  
-Anyone is welcome in the Weirdo Swarm as a fan of the music, and kglw.net extends this inclusivity; with the simple restriction of hate speech and discrimination. The music is sometimes dark, but is always best apprciated with a positive attitude. 
+Anyone is welcome in the Weirdo Swarm as a fan of the music, and kglw.net extends this inclusivity; with the simple restriction of hate speech and discrimination. The music is sometimes dark, but is always best appreciated with a positive attitude.  
 Keep enjoying the music, attending shows, spreading the word, and enjoy the site! You will hear from us soon.
 
--KGLW.net team
+-kglw.net team
