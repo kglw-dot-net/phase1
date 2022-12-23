@@ -1,6 +1,6 @@
 ---
 title: "The Gizzverse Guide"
-author: "@BoilerRhapsody"
+author: "W.B.T.G. Slinger"
 ---
 
 How to get into King Gizzard and the Lizard Wizard? Many hear a small sample of this incredible band, but are immediately turned off when faced with what to listen to next out of such a high volume of material. Even experienced fans may not be familiar with every release, where each has a particular history and significance unique from the rest.  
