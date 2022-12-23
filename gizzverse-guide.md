@@ -31,33 +31,35 @@ The band have many great music videos all available on their [Youtube Channel](h
 
 ## Playlists
 
-You don’t need to experience each album all the way through right away. Some don’t have overarching concepts, and many are split into shorter suites or medleys. Some songs from different releases even belong together. [Murder of the Nonagon Fuzz (re-upload)](https://www.youtube.com/watch?v=0rXwufFoJYw&t=2541s) is an impressive fan made album mashup that uses only songs with accompanying music videos, seamlessly connecting five different projects.
+While the material is most rewarding heard all the way through as intended, you don’t need to experience every album like that right away. Some don’t have overarching concepts, and many are split into shorter suites or medleys. Some songs from different releases even belong together. [Murder of the Nonagon Fuzz (re-upload)](https://www.youtube.com/watch?v=0rXwufFoJYw&t=2541s) is an impressive fan made album mashup that uses only songs with accompanying music videos, seamlessly connecting five different projects.
 
-Here are some other genral playlist links:
+Here are some other general playlist links:
 
-* [Enter the Gizzverse](https://www.youtube.com/watch?v=0rXwufFoJYw) (Spotify)  
-* [Heavy songs](https://open.spotify.com/playlist/7BfZwU7yVZrmX9XmwkJbaJ?si=54b411c741d24f7f) (Spotify)  
-* [Long songs](https://open.spotify.com/playlist/77cYJha9ttoOpZkZQOCid6?si=950dd84376a14818) (Spotify)  
-* [King Gizzard & the Lizard Wizard – Live In Brisbane ’21](https://www.youtube.com/playlist?list=PLjcIIEsozEvCSBYMVnGZsEbm31JfsKc2r) (Acoustic live set not available on DSPs)  
+* [Heavy songs](https://open.spotify.com/playlist/7BfZwU7yVZrmX9XmwkJbaJ?si=54b411c741d24f7f](https://open.spotify.com/playlist/4A0kJxI8Cp233goDvNtYcQ) (Spotify)  
+* [Chill songs](https://open.spotify.com/playlist/2YhlH7uNt1BHyHKTlmKnPc)
+* [Essential songs](https://open.spotify.com/playlist/77cYJha9ttoOpZkZQOCid6?si=950dd84376a14818](https://open.spotify.com/playlist/4gRWO2kQAJSQKvdii58XJY) (Spotify)  
 * [King Gizzard & The Lizard Wizard – Gizzverse Odyssey](https://www.youtube.com/watch?v=3KIlzA7QO4I&list=WL&index=2&t=13s) (Digital only Official Bootlegger fan-made compilation)
 
 ## Criticism
 
-While music critics and fan bases always clash, due credit for [Pitchfork](https://pitchfork.com/artists/32633-king-gizzard-the-lizard-wizard/) and Anthony Fantano at [The Needle Drop](https://www.youtube.com/playlist?list=PLW8qY_BtlPqcMWd3nn8E8p3rm3YlcFV0d) for (mostly) giving KGATLW a fair shot.
+While music critics and fan bases always clash, due credit for [Pitchfork](https://pitchfork.com/artists/32633-king-gizzard-the-lizard-wizard/), [NME](https://www.nme.com/artists/king-gizzard-the-lizard-wizard), and Anthony Fantano at [The Needle Drop](https://www.youtube.com/playlist?list=PLW8qY_BtlPqcMWd3nn8E8p3rm3YlcFV0d) for (mostly) giving KGATLW a fair shot.
 
 ## Live Material
 
-We are currently in a renaissance of KGATLW live performance, and the 2022 NA tour is what gathered together the fans that created this site. After two years of paused touring, the band have bottled up their energy an returned as a 'jam-band' with particular emphasis on offering unique live shows with material and styles you can't hear in the studio recordings.
+We are currently in a renaissance of KGATLW live performance, and the 2022 NA tour is what gathered together the fans that created this site. After two years of paused touring, the band have bottled up their energy an returned with the style of a 'jam-band' placing particular emphasis on offering unique live shows with sequences and sections you can't hear in the studio recordings.  
+The band have provided permission for uploading of audience tapes to [archive.org](https://archive.org/details/KingGizzardAndTheLizardWizard) where the biggest selection of recordings are available to listen to.  
+If you are looking for particular times or locations, check out our [set-lists](../setlists) page for the most complete and consistent catalogue available.  
+The band also have the [Official Bootlegger](./releases#official-bootlegger-program) program available, where several mixed soundboard recordings are available for anyone to freely publish their own editions of (with limits).  
+There are also a couple of traditionally published live albums [available](../releases/live-in-san-francisco-2016)
+
 Their several live in-studio performances at KEXP are also known for drawing in fans:
 
-* [2015 – IIYMF/QRTRS](https://www.youtube.com/watch?v=4W19twyYD2Q)  
-* [2017 – FMB](https://www.youtube.com/watch?v=Qxxz7Tgfsv4)  
-* [2018 – MOTU (Live with crowd)](https://www.youtube.com/watch?v=G5Z4bma_tUM)  
-* [2018 – POLY/GS](https://www.youtube.com/watch?v=wxwu7FYFSek&t=1510s)  
-* [2019 – ITRN](https://www.youtube.com/watch?v=EnmFKS2eDBA)  
-* [2022 - IDPLMAL](https://www.youtube.com/watch?v=Jb8UMmrBlC8)  
-
-However, there are many publications of KGATLW live material out there, from fan made crowd recordings, ‘[official bootlegger](./releases#official-bootlegger-program)‘ band sanctioned soundboard recordings published by fans, and label published traditional [live show recordings](./releases/live-in-san-francisco-2016).
+* [2015 – I’m in Your Mind Fuzz/Quarters!](https://www.youtube.com/watch?v=4W19twyYD2Q)  
+* [2017 – Flying Microtonal Banana](https://www.youtube.com/watch?v=Qxxz7Tgfsv4)  
+* [2018 – Murder of the Universe (Live with crowd)](https://www.youtube.com/watch?v=G5Z4bma_tUM)  
+* [2018 – Polygondwanaland/Gumboot Soup](https://www.youtube.com/watch?v=wxwu7FYFSek&t=1510s)  
+* [2019 – Infest the Rats’ Nest](https://www.youtube.com/watch?v=EnmFKS2eDBA)  
+* [2022 - Ice, Death, Planets, Lungs, Mushrooms and Lava](https://www.youtube.com/watch?v=Jb8UMmrBlC8)  
 
 ## Other Guides
 
@@ -67,3 +69,5 @@ Album flowcharts are common in the fan base. Though clunky to use and constantly
 [Get Into Gizz](https://get-into-gizz.com) is a simple, dedicated website.
 
 Ball State Daily’s [choose your own adventure discography guide](https://www.ballstatedaily.com/byte/article/2021/02/choose-your-own-discography-guide-king-gizzard-the-lizard-wizard), is an (out of date) non-interactive written guide.
+
+Or try a video, such as Mic The Snare's [Deep Discog Dive](https://www.youtube.com/watch?v=bpYa4mWfZxU), or [Middle 8's introduction](https://www.youtube.com/watch?v=hjjCW6_fuXU)
