@@ -61,3 +61,7 @@ title: "Archive of King Gizzard interviews"
 ### 2012 
 
 * Dec: (video) [Stu & Eric Interview on Speaker TV](https://www.youtube.com/watch?v=QIJgqO6MKO4)
+
+### 2011
+
+* Oct 220: FasterLouder/Junkee, [Features: King Gizzard And The Lizard Wizard](https://web.archive.org/web/20160322110642/http://fasterlouder.junkee.com/king-gizzard-and-the-lizard-wizard/823749)
