@@ -1,5 +1,5 @@
 ---
-title: "Live In Paris ’19 (2020)"
+title: "Live In Paris ’19"
 ---
 
 ![album cover of Live In Paris 2019](./cover.jpg)
