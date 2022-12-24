@@ -5,6 +5,8 @@ author: "W.B.T.G. Slinger"
 
 How to get into King Gizzard and the Lizard Wizard? Many hear a small sample of this incredible band, but are immediately turned off when faced with what to listen to next out of such a high volume of material. Even experienced fans may not be familiar with every release, where each has a particular history and significance unique from the rest.  
 
+If you just want to dive straight in, [start with this album](./releases/im-in-your-mind-fuzz/). Otherwise:
+
 This is the starting point of the Gizzverse Guide, our catalogue contains every King Gizzard release. Each has an instroductory blurb, objective information, and links that you can use to navigate to the next listening suggestion based on what you already know or liked about the music.
 
 If you have already heard an album and don’t know where to go from there, navigate to it from the [releases](./releases) page.  
@@ -12,7 +14,7 @@ If you are completely new to the band, and don’t know where to start, check ou
 
 ## Essentials
 
-While always debatable, there is a path of ‘essential’ albums that most effectively show the core sounds, material, and stories that the band developed around. Many agree that [I’m in Your Mind Fuzz](./releases/im-in-your-mind-fuzz/) is the first of these essential albums, and the solid epoch-point of the Gizzverse. These albums are thereafter referred to as the ‘Gizzverse albums’ in the prompts through the guide.
+While always debatable, there is a path of ‘essential’ albums that most effectively show the core sounds, material, and stories that the band developed around. Many agree that [I’m in Your Mind Fuzz](../releases/im-in-your-mind-fuzz/) is the first of these essential albums, and the solid epoch-point of the Gizzverse. These albums are thereafter referred to as the ‘Gizzverse albums’ in the prompts through the guide.
 
 ## Chronologically
 
