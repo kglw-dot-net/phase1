@@ -1,5 +1,5 @@
 ---
-title: "Quarters! (2015)"
+title: "Quarters!"
 ---
 
 ![album cover of Quarters](./cover.jpg)
@@ -8,6 +8,8 @@ title: "Quarters! (2015)"
 > The river flows down like a full stone  
 > Water is your bed  
 > The ripples cushion your head
+
+Release Date: 1 May 2015.  
 
 This slow, chill, Jazz-Rock album consists of four jams with a duration of 10 minutes and 10 seconds each. It is best known for fan-favourite track ‘The River’, that interpolates Dave Brubeck’s standard Take Five, establishing a fascination with time signatures that use odd numbers of beats.
 
