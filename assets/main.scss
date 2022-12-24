@@ -91,6 +91,12 @@ footer.site-footer {
 .blog {
 }
 
+.post-content {
+  li > p {
+    margin-bottom: 0;
+  }
+}
+
 .post-meta {
   color: #aaa;
 }
