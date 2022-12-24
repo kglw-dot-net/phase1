@@ -29,7 +29,7 @@ As the band have developed the quality of their live show and scope of their tou
 
 There are several existing guides to the King Gizzard discography, introducing new listeners to so many different releases is no simple task, especially in a way that is both user-friendly and easy to keep relevant. Some readers may be familiar with the Gizzverse Guide, an interactive flowchart-inspired written guide formerly hosted on the [Boiler Rhapsody music blog](http://boilerrhapsody.com); this has now found its proper home on kglw.net. 
 Every [release](/releases) has a dedicated page containing the cover artwork, objective information, description, and salient facts on its significance within the Gizzverse as a whole. Then, a series of links are provided that can be followed based on what you already know or like about the music, forming a network structure that highlights multiple creative veins through the discography as it developed — or just gives a recommendation on what to listen to next.
-The shareable starting point of the Gizzverse Guide with various strategies for how to approach the material can be found [here](https://www.kglw.net/gizzverse-guide).
+The shareable starting point of the Gizzverse Guide with various strategies for how to approach the material can be found [here](/gizzverse-guide).
 
 ## [Interview Archive](/interviews)  
 
