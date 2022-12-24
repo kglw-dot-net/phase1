@@ -48,10 +48,12 @@ footer.site-footer {
   }
 }
 
+.home .post-list-heading {
+  color: #3d3;
+  display: inline-block;
+}
+
 .setlists {
-  h2 { // "Recent Setlists"
-    display: inline-block;
-  }
   .more-link {
     padding: 0 1em;
   }
