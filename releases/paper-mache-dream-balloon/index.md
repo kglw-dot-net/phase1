@@ -1,5 +1,5 @@
 ---
-title: "Paper Mâché Dream Balloon (2015)"
+title: "Paper Mâché Dream Balloon"
 ---
 
 ![album cover of Paper Mache Dream Balloon](./cover.jpg)
@@ -8,6 +8,8 @@ title: "Paper Mâché Dream Balloon (2015)"
 > Everything I hear will always make me ashen  
 > I know it's recognizable  
 > But it don't make no sense at all, oh
+
+Release Date: 13 November 2015.  
 
 This refreshing psych-pop album was recorded almost entirely on acoustic instruments for a quaint, folk-pop effect. The lyrics provide a dark undertone hinting at stories that highly contrast the sound. Showcases the Clarinet as part of a project to learn a new instrument every year.
 
