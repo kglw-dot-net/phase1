@@ -1,5 +1,5 @@
 ---
-title: "Murder Of The Universe (2017)"
+title: "Murder Of The Universe"
 ---
 
 ![album cover of Murder Of The Universe](./cover.jpg)
@@ -8,6 +8,8 @@ title: "Murder Of The Universe (2017)"
 > We turned our bodies to computer  
 > We are our own nature, abuser  
 > No future, computer, abuser
+
+Release Date: 23 June 2017
 
 Perhaps the most unique record in the catalogue, murder-of-the-universe is a dark, noisy, unashamed deep dive into the Gizzverse. Progressing through various forms of geeky psychedelic Metal, extensive spoken narration is used in conjunction with vocals. This narration is provided by the ‘Reticent Raconteur’ (folk singer-songwriter label mate Leah Senior), and text to speech software as ‘Han-Tyumi’ the ‘confused cyborg’. Between the lyrics and the poetry of the characters, an epic tale is spun in three acts, infamously dubbed ‘post-audiobook’ by music critic Anthony Fantano. It could be equally described as sci-fi metal opera – but the unavoidable fact is that MOTU defies description and must be heard to be comprehended.
 
