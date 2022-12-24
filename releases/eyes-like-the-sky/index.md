@@ -7,6 +7,8 @@ title: "Eyes Like The Sky, 2013"
 > The bad white men call him the devil  
 > The Yavapai call him "Eyes Like the Sky"
 
+Release date: 22 February 2013.  
+
 This truly unique Spaghetti Western soundtrack uses spoken narration rather than sung lyrics. It is a collaboration with Broderick Smith who wrote and narrated the story, and is the father of band member Ambrose.
 
 What to listen to next:
