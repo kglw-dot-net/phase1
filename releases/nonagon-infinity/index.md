@@ -1,5 +1,5 @@
 ---
-title: "Nonagon Infinity (2016)"
+title: "Nonagon Infinity"
 ---
 
 ![album cover of Nonagon Infinity](./cover.png)
@@ -8,6 +8,8 @@ title: "Nonagon Infinity (2016)"
 > Time to drop  
 > Fuck shit up  
 > Don't forget about it
+
+Release Date: 29 April 2016.  
 
 ‘Nonagon Infinity opens the door’, this self-mythologising nod to Aldous Huxley’s doors of perception plunges you straight into the album – a faster, more intense frontier of Heavy-Psych. The phrase also became the first big meme in the KGATLW fan base; who were now galvanized in song for the first time with a title: the ‘Weirdo Swarm’.
 
