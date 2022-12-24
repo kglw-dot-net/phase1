@@ -80,7 +80,8 @@ footer.site-footer {
         &::after {
           content: ',';
         }
-        &:has(.segue)::after {
+        &:has(.segue)::after,
+        &:last-child::after {
           content: none;
         }
       }
