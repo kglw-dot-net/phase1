@@ -1,8 +1,10 @@
 ---
-title: "Teenage Gizzard (2021)"
+title: "Teenage Gizzard"
 ---
 
 ![album cover of Teenage Gizzard](./cover.jpg)
+
+Release Date: 25 December 2020
 
 Teenage Gizzard is a compilation of the earliest recorded and self published material from the band up until the [Willoughby’s Beach](../willoughbys-beach) EP – sounding similar to that release, the songs are highly characteristic of the era: fast, raw, and simple.
 
