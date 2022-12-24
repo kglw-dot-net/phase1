@@ -1,5 +1,5 @@
 ---
-title: "Omnium Gatherum (2022)"
+title: "Omnium Gatherum"
 ---
 
 ![album cover for Omnium Gatherium](./cover.png)
@@ -8,6 +8,8 @@ title: "Omnium Gatherum (2022)"
 > I am megalithic  
 > My spirit runs mauve  
 > I am the mountain of which you dream
+
+Release Date: 22 April 2022
 
 Omnium Gatherum wraps up the last of the pandemic lockdown-era isolation songs with the results of the first recording sessions with the band all back together jamming in the same room. omnium-gatherium is an eclectic mixture of sounds that blurs the lines between some of their most retrospective sounding songs, and some of their boldest, off-the-wall experimentation.
 
