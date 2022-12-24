@@ -1,5 +1,5 @@
 ---
-title: "Butterfly 3000 (2021)"
+title: "Butterfly 3000"
 ---
 
 ![album cover of Butterfly 3000](./cover.jpg)
@@ -8,6 +8,8 @@ title: "Butterfly 3000 (2021)"
 > Split dry sky beckons me through  
 > A hand outstretched calls my name  
 > Time to wake again
+
+Release Date: 11 June 2021
 
 The most positive, uplifting album and first to be composed entirely in major scales. The band accompanies programmed synths through a trippy odyssey, looking far into the future and exploring themes of metamorphosis with newfound confidence inspired by fatherhood.
 
