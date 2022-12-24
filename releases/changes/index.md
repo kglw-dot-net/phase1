@@ -1,5 +1,5 @@
 ---
-title: "Changes (2022)"
+title: "Changes"
 ---
 
 ![album cover for Changes](./cover.jpg)
@@ -8,6 +8,8 @@ title: "Changes (2022)"
 > Who could we be?  
 > When my race is done, how did I run?  
 > Did I par the course and pass the baton on?
+
+Release Date: 28 October 2022
 
 Changes takes the crown for the most time in development. Initially started in 2017, it had been recorded and locked-in as the conclusion of their project to release five albums in that year — but they weren’t fully satisfied. Upon realising that they didn’t yet have the ‘musical vocabulary’ to fully do justice to its concept, it was shelved in favour of [Gumboot Soup](../gumboot-soup), a concept-less wrap-up for the year’s material.
 
