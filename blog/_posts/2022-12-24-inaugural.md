@@ -1,5 +1,5 @@
 ---
-title: kglw.net Meta-Post #00 - Inaugural
+title: "kglw.net Meta-Post #00: Inaugural"
 ---
 
 Welcome to Phase 1 of kglw.net.  
