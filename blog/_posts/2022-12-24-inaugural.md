@@ -20,12 +20,12 @@ The deep and dense discography of recorded releases has provided us with what ha
 
 Our key features:
 
-## [Live Show Setlists](/shows/)
+## [Live Show Setlists](/setlists)
 
 This is the primary function of the site. Here, you will find the most up-to-date catalogue of every King Gizzard and The Lizard Wizard live show, including detailed and annotated setlists, dates, locations, and pertinent notes.  
 As the band have developed the quality of their live show and scope of their tours significantly in the last few years, they are gradually aligning with the culture of established live-focused jam acts such as Phish or The Grateful Dead. All the while, a need has grown for a custom and community-integrated site, providing unique features beyond what existing tools like setlist.fm can manage. Using data from that site as a start, it has been reformatted and each of nearly 700 entries has been manually checked and edited into a more consistent syntax; making the most complete and up to date King Gizzard live show set-list catalogue available anywhere.  
 
-## [The Gizzverse Guide](/gizzverse-guide/)  
+## [The Gizzverse Guide](/gizzverse-guide)  
 
 There are several existing guides to the King Gizzard discography, introducing new listeners to so many different releases is no simple task, especially in a way that is both user-friendly and easy to keep relevant. Some readers may be familiar with the Gizzverse Guide, an interactive flowchart-inspired written guide formerly hosted on the [Boiler Rhapsody music blog](http://boilerrhapsody.com); this has now found its proper home on kglw.net. 
 Every [release](/releases) has a dedicated page containing the cover artwork, objective information, description, and salient facts on its significance within the Gizzverse as a whole. Then, a series of links are provided that can be followed based on what you already know or like about the music, forming a network structure that highlights multiple creative veins through the discography as it developed — or just gives a recommendation on what to listen to next.
