@@ -1,5 +1,5 @@
 ---
-title: "Gizzverse Explorations, volume 1: Introduction"
+title: "Gizzverse Compendium Volume 01 - Introduction"
 category: gizzverse
 ---
 
