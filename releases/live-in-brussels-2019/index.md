@@ -1,10 +1,12 @@
 ---
-title: "Live In Brussels ’19 (2020)"
+title: "Live In Brussels ’19"
 ---
 
 ![album cover of Live In Brussels 2019](./cover.jpg)
 
-Recorded live at Ancienne Belgique, Brussels, Belgium, October 8th and 9th 2019, and released in January 2020 during an Australian bush fire crisis, 100% of proceeds from [Bandcamp sales](https://kinggizzard.bandcamp.com/album/live-in-brussels-19) are donated to [Wires wildlife Rescue](https://www.wires.org.au/). The band were promoting [Infest The Rats Nest](../infest-the-rats-nest), and recording material for [Chunky Shrapnel](../chunky-shrapnel) through this tour – but leading up to the original planned marathon jam shows of 2020 the set-lists tended to be notably diverse, including throwbacks, rarities and alternate versions of fan favourites. For this performance, these include: Sense ([Paper Mâché Dream Balloon](../paper-mache-dream-balloon)), The Wheel and Down The Sink with very rare vocals from Cook ([Gumboot Soup](../gumboot-soup)), and Work This Time ([Oddments](../oddments)).
+Release Date: 15 January 2020
+
+Recorded live at Ancienne Belgique, Brussels, Belgium, October 8th and 9th 2019. Released during an Australian bush fire crisis, 100% of proceeds from [Bandcamp sales](https://kinggizzard.bandcamp.com/album/live-in-brussels-19) are donated to [Wires wildlife Rescue](https://www.wires.org.au/). The band were promoting [Infest The Rats Nest](../infest-the-rats-nest), and recording material for [Chunky Shrapnel](../chunky-shrapnel) through this tour – but leading up to the original planned marathon jam shows of 2020 the set-lists tended to be notably diverse, including throwbacks, rarities and alternate versions of fan favourites. For this performance, these include: Sense ([Paper Mâché Dream Balloon](../paper-mache-dream-balloon)), The Wheel and Down The Sink with very rare vocals from Cook ([Gumboot Soup](../gumboot-soup)), and Work This Time ([Oddments](../oddments)).
 
 What to listen to next:
 
