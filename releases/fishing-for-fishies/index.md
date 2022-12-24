@@ -1,5 +1,5 @@
 ---
-title: "Fishing For Fishies (2019)"
+title: "Fishing For Fishies"
 ---
 
 ![album cover of Fishing For Fishies](./cover.png)
@@ -8,6 +8,8 @@ title: "Fishing For Fishies (2019)"
 > Don't make them feel happy  
 > Or me neither  
 > I feel so sorry for fishies
+
+Release Date: 26 April 2019
 
 Three different songs contain the word ‘boogie’ in this track list, which probably tells you most of what you need to know going in to this Roots-Rock camping album. Very underrated in the discography, this anachronistic gem begs the listener to not take the music so seriously, and likely wont be enjoyed if you aren’t willing to have fun listening to it. This carefree sound is offset by genuine, stark concern for the environment and mental well being in the lyrics.
 
