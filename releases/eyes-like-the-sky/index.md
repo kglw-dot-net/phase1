@@ -1,5 +1,5 @@
 ---
-title: "Eyes Like The Sky, 2013"
+title: "Eyes Like The Sky"
 ---
 
 ![album cover of Eyes Like The Sky](./cover.jpg)
