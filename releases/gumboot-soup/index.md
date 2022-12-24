@@ -1,5 +1,5 @@
 ---
-title: "Gumboot Soup (2017)"
+title: "Gumboot Soup"
 ---
 
 ![album cover for Gumboot Soup](./cover.jpg)
@@ -9,7 +9,9 @@ title: "Gumboot Soup (2017)"
 > We only fall asleep willingly  
 > At the wheel that steers us into our future
 
-After four studio albums and two international tours in 2017 alone, one would think KGATLW were done for the year. But never content to leave a project unfinished, something had to be done with all the extra material that either didn’t fit on, or was developed separate from the rest of the 2017 albums. Gumboot Soup is an eclectic mix of songs, some exist ‘between’ albums with the concept of one and the sound of another, others simply too good to rot in the vault waiting for a future project to fit into. Don’t be fooled into thinking of these as B-sides, Gumboot Soup is the high quality culmination of the insane project to release five studio albums in one calendar year, arriving just in time on the 31st of December.
+Release Date: 29 December 2017
+
+After four studio albums and two international tours in 2017 alone, one would think KGATLW were done for the year. With one more promised, something had to be done with all the extra material that either didn’t fit on, or was developed separate from the first four of the year. Gumboot Soup is an eclectic mix of songs, some exist ‘between’ albums with the concept of one and the sound of another, others simply too good to rot in the vault waiting for a future project to fit into. Don’t be fooled into thinking of these as B-sides, Gumboot Soup is the high quality culmination of the insane project to release five studio albums in one calendar year, arriving just in time in the last days of December.
 
 What to listen to next:
 
