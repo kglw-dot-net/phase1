@@ -63,7 +63,7 @@ footer.site-footer {
 
     > h4 {
       display: inline-block;
-      margin: 0 0.3em;
+      margin: 0 0.3em 0 0;
       border-radius: 1em;
       padding: 0 0.5em;
       color: #222;
@@ -72,15 +72,15 @@ footer.site-footer {
 
     > ol {
       display: inline;
-      margin: 0;
+      margin: 0 0.5em 0 0;
       
        > li {
         display: inline;
 
-        &:after {
+        &::after {
           content: ',';
         }
-        &:last-child::after {
+        &:has(.segue)::after {
           content: none;
         }
       }

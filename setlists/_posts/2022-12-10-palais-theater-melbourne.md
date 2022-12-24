@@ -6,8 +6,7 @@ tour: "World Tour '22"
 modified_date: 2022-12-14
 ---
 
-1.  Crumbling Castle
-    (>) <!-- todo use https://jekyllrb.com/docs/includes/#passing-parameters-to-includes for footnotes & segues -->
+1.  Crumbling Castle {% include segue.html type=">" %}
 
 2.  The Fourth Colour
 

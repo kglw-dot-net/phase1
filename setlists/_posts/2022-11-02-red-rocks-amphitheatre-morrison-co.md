@@ -8,35 +8,39 @@ tour: "World Tour '22"
 
 #### Set 1
 
- 1. Murder of the Universe suite (Digital Black » Han-Tyumi the Confused Cyborg » Soy‐Protein Munt Machine » Vomit Coffin » Murder of the Universe)
- 2. Blame It on the Weather
- 3. Work This Time
- 4. Lava
- 5. Cut Throat Boogie »
- 6. Wah Wah<sup>1</sup> »
- 7. Road Train
- 8. Sadie Sorceress<sup>2</sup>
- 9. Self-Immolate<sup>3</sup>
-10. Her & I<sup>4</sup>
-11. Hot Wax
-12. Crumbling Castle 
-13. The Fourth Colour
+ 1. Digital Black {% include segue.html type=">" %}
+ 2. Han-Tyumi the Confused Cyborg {% include segue.html type=">" %}
+ 3. Soy‐Protein Munt Machine {% include segue.html type=">" %}
+ 4. Vomit Coffin {% include segue.html type=">" %}
+ 5. Murder of the Universe
+ 6. Blame It on the Weather
+ 7. Work This Time
+ 8. Lava
+ 9. Cut Throat Boogie {% include segue.html type=">" %}
+10. Wah Wah<sup>1</sup> {% include segue.html type=">" %}
+11. Road Train
+12. Sadie Sorceress<sup>2</sup>
+13. Self-Immolate<sup>3</sup>
+14. Her & I<sup>4</sup>
+15. Hot Wax
+16. Crumbling Castle 
+17. The Fourth Colour
 
 #### Setbreak
 
-Timeland
+1. Timeland
 
 #### Set 2
 
- 1. Head On/Pill<sup>5</sup> »
+ 1. Head On/Pill<sup>5</sup> {% include segue.html type=">" %}
  2. Am I in Heaven?
- 3. Venusian 1 »
+ 3. Venusian 1 {% include segue.html type=">" %}
  4. Venusian 2
  5. Billabong Valley
  6. Minimum Brain Size
  7. Static Electricity
  8. Let Me Mend the Past<sup>6</sup>
- 9. Alter Me III<sup>7</sup> »
+ 9. Alter Me III<sup>7</sup> {% include segue.html type=">" %}
 10. Altered Beast IV<sup>8</sup>
 11. Float Along — Fill Your Lungs
 
