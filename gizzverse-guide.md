@@ -5,7 +5,7 @@ author: "W.B.T.G. Slinger"
 
 How to get into King Gizzard and the Lizard Wizard? Many hear a small sample of this incredible band, but are immediately turned off when faced with what to listen to next out of such a high volume of material. Even experienced fans may not be familiar with every release, where each has a particular history and significance unique from the rest.  
 
-This is the starting point of the Gizzverse Guide. Our catalogue of King Gizzard releases contains everything you need to get started, with introductory blurb for each release, objective information, and links that you can use to navigate to the next listening suggestion, based on what you already know or liked about the music.
+This is the starting point of the Gizzverse Guide, our catalogue contains every King Gizzard release. Each has an instroductory blurb, objective information, and links that you can use to navigate to the next listening suggestion based on what you already know or liked about the music.
 
 If you have already heard an album and don’t know where to go from there, navigate to it from the [releases](./releases) page.  
 If you are completely new to the band, and don’t know where to start, check out some tips:
@@ -64,10 +64,12 @@ Their several live in-studio performances at KEXP are also known for drawing in 
 ## Other Guides
 
 This is not the first or last dedicated guide for getting into King Gizzard.  
+It was orignally developed on the [Boiler Rhapsody music blog](http://boilerrhapsody.com) and discretely hosted there while sourcing collaborators. Once Boiler Rhapsody's editor/author of the guide (hi) found kglw.net, it was quickly discovered that both projects were suited for each other and merged.
+
 Album flowcharts are common in the fan base. Though clunky to use and constantly out of date, the idea retains an attractive simplicity. [Here](https://www.reddit.com/r/KGATLW/comments/lysvvz/i_finally_updated_my_king_gizzard_flowchart_now/) is the most common one.
 
-[Get Into Gizz](https://get-into-gizz.com) is a simple, dedicated website.
+[Get Into Gizz](https://get-into-gizz.com) is a simple, dedicated website using the flowchart principle.
 
 Ball State Daily’s [choose your own adventure discography guide](https://www.ballstatedaily.com/byte/article/2021/02/choose-your-own-discography-guide-king-gizzard-the-lizard-wizard), is an (out of date) non-interactive written guide.
 
-Or try a video, such as Mic The Snare's [Deep Discog Dive](https://www.youtube.com/watch?v=bpYa4mWfZxU), or [Middle 8's introduction](https://www.youtube.com/watch?v=hjjCW6_fuXU)
+Or try a video, such as Mic The Snare's [Deep Discog Dive](https://www.youtube.com/watch?v=bpYa4mWfZxU), or [Middle 8's introduction](https://www.youtube.com/watch?v=hjjCW6_fuXU).
