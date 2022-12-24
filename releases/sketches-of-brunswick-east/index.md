@@ -1,5 +1,5 @@
 ---
-title: "Sketches Of Brunswick East (2017)"
+title: "Sketches Of Brunswick East"
 ---
 
 ![album cover of Sketches Of Brunswick East](./cover.jpg)
@@ -8,6 +8,8 @@ title: "Sketches Of Brunswick East (2017)"
 > But not by my cover  
 > You’ll learn more with age  
 > Like it or not, I live by the book
+
+Release Date: 18 August 2017
 
 The first real stab at Jazz, its title is an homage to Miles Davis’ Sketches Of Spain. However, rather than channel Davis or any kind of more familiar fusion, the only ‘real’ jazz influence in the music actually comes with tinges of Funk from Ethiopia.
 
