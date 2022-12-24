@@ -1,5 +1,5 @@
 ---
-title: "K.G. (2020)"
+title: "K.G."
 ---
 
 ![album cover for K.G.](./cover.jpg)
@@ -8,6 +8,8 @@ title: "K.G. (2020)"
 > Mindful of the weary inkling that is lurking  
 > Hierarchy, it's been cracking aegis  
 > Embodied in this black heart shameless
+
+Release Date: 20 November 2020
 
 Volume 2 of ‘Explorations into Microtonal Tuning’. This is the first of two ‘working from home’ albums developed by sending snippets back and forth online between band members during pandemic lockdown. This process introduced new songwriter combinations that reinvent old ideas and get some new weirder ones out at the same time.
 
