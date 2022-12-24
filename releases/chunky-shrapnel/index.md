@@ -1,8 +1,10 @@
 ---
-title: "Chunky Shrapnel (2020)"
+title: "Chunky Shrapnel"
 ---
 
 ![album cover for Chunky Shrapnel](./cover.jpg)
+
+Release Date: 24 April 2020
 
 KGATLW tried to record many live albums over the years, experimenting and waiting until they knew they could go big and get it right the first time. Chunky Shrapnel is the result, chronicling their whole 2019 Europe tour, with highlight moments from each show connected by a few original ‘intermission’ ambient songs.
 
