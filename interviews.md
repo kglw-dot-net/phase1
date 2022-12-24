@@ -10,7 +10,7 @@ title: "Archive of King Gizzard interviews"
   [additional questions cut from article](https://www.reddit.com/r/KGATLW/comments/yxtsso/i_interviewed_amby_heres_the_story/)
 * Oct 26: NME, ["King Gizzard And The Lizard Wizard: 'If something is shit and no one likes it, you just put out another one the next month.'"](https://www.nme.com/big-reads/king-gizzard-and-the-lizard-wizard-cover-interview-2022-changes-3335897) by Josh Martin (with full band)
 * Oct 26: (video) [ABC News Australia](https://www.youtube.com/watch?v=0arTQa4IJoU)
-* Jun 13: Exberliner, ["King Gizzard & The Lizard Wizard: 'We're a fucking weird band', with Joey](https://beat.com.au/interview-psych-rock-chameleons-king-gizzard-and-the-lizard-wizard-on-what-makes-them-unique/) by Damien Cummings
+* Jun 13: Exberliner, ["King Gizzard & The Lizard Wizard: 'We're a fucking weird band'](https://beat.com.au/interview-psych-rock-chameleons-king-gizzard-and-the-lizard-wizard-on-what-makes-them-unique/) by Damien Cummings (with Joey)
 * May/Jun: TapeOp, ["Stu Mackenzie of King Gizzard & the Lizard Wizard: A Lot More Considered"](https://tapeop.com/interviews/149/stu-mackenzie-king-gizzard-amp-lizard-wizard/) by Geoff Stanfield (with Stu)
 * May 25: Beat, ["Interview: Psych-rock chameleons King Gizzard and the Lizard Wizard on what makes them unique"](https://beat.com.au/interview-psych-rock-chameleons-king-gizzard-and-the-lizard-wizard-on-what-makes-them-unique/) by Sidonie Bird de la Coeur
 * May 19: (video) [Stu on Anthony Fantano](https://www.youtube.com/watch?v=E8MtjdwLZww)
@@ -20,10 +20,10 @@ title: "Archive of King Gizzard interviews"
 ### 2021
 
 * Dec 23: SPIN, ["Exit Interview: King Gizzard & The Lizard Wizard On Butterfly 3000, ‘Jammy’ New Music"](https://www.spin.com/2021/12/king-gizzard-and-the-lizard-wizard-interview-2021/) by Ryan Reed (with Stu)
-* Jun 21: (video) [3voor12 extra with Stu](https://www.youtube.com/watch?v=WKXDI_INZgs)
+* Jun 21: (video) [3voor12 extra, Sagid Carter](https://www.youtube.com/watch?v=WKXDI_INZgs) with Stu
 * May 1: (video) [Tape Notes Podcast Ep. 64: King Gizzard & the Lizard Wizard](https://www.youtube.com/watch?v=ODI0x2unT2Q)
 * Feb 18: Loud and Quiet, ["Reactivating the soul: the first interview with King Gizzard about new album LW"](https://www.loudandquiet.com/interview/reactivating-the-soul-the-first-interview-with-king-gizzard-about-new-album-lw/) by Luke Cartledge
-* Jan 14: (video) [Songwriters on Process with Stu](https://www.youtube.com/watch?v=MCpKYmrNIlg)
+* Jan 14: (video) [Songwriters on Process](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Stu
 
 ### 2020
 
@@ -51,16 +51,16 @@ title: "Archive of King Gizzard interviews"
 ### 2016
 
 * Nov 22: AudioTechnology, [Audio technology King Gizzard’s Lo-Fi Gut Feeling](https://www.audiotechnology.com/features/king-gizzards-lo-fi-gut-feeling)
-* Jun 17: (video) [Live in Limbo with Stu](https://www.youtube.com/watch?v=8hW_OeSrLQA)
+* Jun 17: (video) [Live in Limbo](https://www.youtube.com/watch?v=8hW_OeSrLQA) with Stu
 
 ### 2014
 
-* Apr 23: (video) [The AU Review with Cavs, Joey, and Lucas](https://www.youtube.com/watch?v=MCpKYmrNIlg)
-* unknown: (video) [Griffin Brown, School Project Interview with Stu with solo acoustic Vegemite](https://www.youtube.com/watch?v=PuL45bLHEWI)
+* Apr 23: (video) [The AU Review](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Cavs, Joey, and Lucas
+* unknown: (video) [Griffin Brown, School Project Interview](https://www.youtube.com/watch?v=PuL45bLHEWI) with Stu (including solo acoustic Vegemite)
 
 ### 2012 
 
-* Dec: (video) [Stu & Eric Interview on Speaker TV](https://www.youtube.com/watch?v=QIJgqO6MKO4)
+* Dec: (video) [Interview on Speaker TV](https://www.youtube.com/watch?v=QIJgqO6MKO4) with Stu & Eric
 
 ### 2011
 
