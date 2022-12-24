@@ -23,7 +23,7 @@ Our key features:
 ## [Live Show Setlists](/setlists)
 
 This is the primary function of the site. Here, you will find the most up-to-date catalogue of every King Gizzard and The Lizard Wizard live show, including detailed and annotated setlists, dates, locations, and pertinent notes.  
-As the band have developed the quality of their live show and scope of their tours significantly in the last few years, they are gradually aligning with the culture of established live-focused jam acts such as Phish or The Grateful Dead. All the while, a need has grown for a custom and community-integrated site, providing unique features beyond what existing tools like setlist.fm can manage. Using data from that site as a start, it has been reformatted and each of nearly 700 entries has been manually checked and edited into a more consistent syntax; making the most complete and up to date King Gizzard live show set-list catalogue available anywhere.  
+As the band have developed the quality of their live show and scope of their tours significantly in the last few years, they are gradually aligning with the culture of established live-focused jam acts such as Phish or The Grateful Dead. All the while, a need has grown for a custom and community-integrated site, providing unique features beyond what existing tools like setlist.fm can manage. <!--Using data from that site as a start, it has been reformatted and each of nearly 700 entries has been manually checked and edited into a more consistent syntax; making the most complete and up to date King Gizzard live show set-list catalogue available anywhere.-->
 
 ## [The Gizzverse Guide](/gizzverse-guide)  
 
