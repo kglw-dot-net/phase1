@@ -1,8 +1,10 @@
 ---
-title: "Live In Brisbane ’21 (2022)"
+title: "Live In Brisbane ’21"
 ---
 
 ![album cover for Live In Brisbane 2021](./cover.png)
+
+Release Date: 27 January 2022
 
 Recorded live at The Princess Theatre, Meeanjin (Brisbane), December 19th 2021 and released January 27, 2022. Each track from this release was uploaded to Youtube by the band, [here](https://www.youtube.com/playlist?list=PLjcIIEsozEvCSBYMVnGZsEbm31JfsKc2r) is a correctly sequenced playlist. This tour consisted of five night residencies in Melbourne, Sydney, Perth, Hobart, and Adelaide, with Brisbane to be the final stop. The set-list for each night had a different theme, which for this recording (night one) was ‘Acoustic’. ‘Jams’, ‘Microtonal’, ‘Garage’, and ‘Metal’ were the four other themes.
 
