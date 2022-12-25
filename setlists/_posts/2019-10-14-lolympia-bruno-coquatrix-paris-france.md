@@ -46,4 +46,4 @@ Intro song played from tape: Evil Star
     (w/ Head On/Pill + Boogieman Sam + Alter Me teases)
 
 
-Notes: The show was recorded and released as the `Live In Paris '19` live album.
+Notes: The show was recorded and released as the [Live In Paris '19](/releases/live-in-paris-2019) live album.

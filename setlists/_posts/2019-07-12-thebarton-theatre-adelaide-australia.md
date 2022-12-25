@@ -46,5 +46,4 @@ Intro song played from tape: Evil Star
     Beast + Cellophane + I'm in Your Mind Fuzz + Am I In Heaven? + Rattlesnake teases, featuring Adam Halliwell playing flute)
 
 
-Note: The show was recorded and released as the `Live In Adelaide '19`
-live album.
+Note: The show was recorded and released as the [Live In Adelaide '19](/releases/live-in-adelaide-2019) live album.

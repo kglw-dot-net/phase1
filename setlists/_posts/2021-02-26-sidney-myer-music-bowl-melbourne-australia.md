@@ -46,4 +46,4 @@ tour: "Micro Tour 2021"
 
 18. K.G.L.W.
 
-
+This show was recorded and released as the [Live in Melbourne '21](/releases/live-in-melbourne-2021/) live album a few weeks after the performance.

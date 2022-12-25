@@ -35,6 +35,6 @@ tour: "World Tour `19"
 14. Am I in Heaven?
 
 
-Note: The first 8 songs of the show recorded and released as part of
-the `Live In Brussels '19` live album. Michael Cavanagh's drum solo
+Note: The first 8 songs of the show were recorded and released as part of
+the [Live In Brussels '19](/releases/live-in-brussels-2019) live album. Michael Cavanagh's drum solo
 during 'Open Water' is featured in the 'Chunky Shrapnel' concert film.

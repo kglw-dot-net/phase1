@@ -31,4 +31,4 @@ tour: "World Tour '22"
 
 11. The Dripping Tap
 
-
+Recorded and released as [Live at Bonnaroo '22](/releases/live-at-bonnaroo-2022).

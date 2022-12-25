@@ -39,4 +39,4 @@ tour: "World Tour `19"
 16. Float Along - Fill Your Lungs
 
 
-Note: The last 8 songs of the show were recorded and released as part of the `Live In Brussels '19` live album.
+Note: The last 8 songs of the show were recorded and released as part of the [Live In Brussels '19](/releases/live-in-brussels-2019) live album.

@@ -44,4 +44,4 @@ tour: "World Tour `19"
 
 Note: All of 'Planet B' along with portions of 'Self-Immolate' and
 'Rattlesnake' from this show are featured in the 'Chunky Shrapnel'
-concert film. Full set released as 'Live in London '19'.
+concert film. Full set released as [Live in London '19](/releases/live-in-london-2019).

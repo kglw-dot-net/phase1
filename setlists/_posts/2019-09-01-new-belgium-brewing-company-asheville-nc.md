@@ -43,5 +43,4 @@ tour: "World Tour `19"
 17. The Bitter Boogie
 
 
-Notes: This concert was recorded and released as the "Live in Asheville
-'19" album.
+Notes: This concert was recorded and released as the [Live in Asheville '19](/releases/live-in-asheville-2019) album.

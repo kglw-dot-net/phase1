@@ -37,4 +37,5 @@ tour: "2021 Princess Theatre Residency"
 
 Note: First night in the 5 night different genre setlist shows in
 Brisbane. This was advertised as the Acoustic Night and the Setlist was
-made public when the show was announced.
+made public when the show was announced. This show was recorded and released
+as the [Live in Brisbane '21](/releases/live-in-brisbane-2021) album.

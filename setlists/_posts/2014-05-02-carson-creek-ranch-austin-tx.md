@@ -3,7 +3,6 @@ layout: setlist
 date: "2014-05-02"
 venue: "Carson Creek Ranch, Austin, TX, USA"
 tour: "USA Tour May 2014"
-title: "Levitation (nee Austin Psych Fest)"
 ---
 
 
@@ -33,5 +32,4 @@ title: "Levitation (nee Austin Psych Fest)"
 9. Sleepwalker
 
 
-Note: The first set was released on 10 December 2021 as the live album
-"Live at Levitation `14".
+The first set was released on 10 December 2021 as the live album [Live at Levitation `14](/releases/live-at-levitation-2014).

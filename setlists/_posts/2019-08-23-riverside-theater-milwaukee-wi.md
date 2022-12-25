@@ -48,4 +48,4 @@ tour: "World Tour `19"
     (w/ Hot Water + Hot Wax + Rattlesnake + Alter Me + Am I in Heaven? + I'm in Your Mind
     Fuzz + Cellophane + Stressin' teases)
 
--Notes: Recorded and released as the "Live In Milwaukee '19" album
+Recorded and released as the [Live In Milwaukee '19](/releases/live-in-milwaukee-2019) album

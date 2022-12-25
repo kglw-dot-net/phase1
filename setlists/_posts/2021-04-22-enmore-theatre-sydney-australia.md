@@ -39,5 +39,4 @@ tour: "Micro Tour 2021"
 16. K.G.L.W.
 
 
-Note: Filmed and recorded concert, released as the "Live in Sydney '21"
-album and film.
+Note: Filmed and recorded concert, released as the [Live in Sydney '21](/releases/live-in-sydney-2021) album and film.
