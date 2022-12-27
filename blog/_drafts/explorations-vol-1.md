@@ -63,9 +63,9 @@ The ending of it all has already been revealed, _Murder Of The Universe_'s post-
 
 Significant connections to materials outside the canon of the band can also exist, such as the overt appearance of _J.R.R. Tolkien_'s Balrog in _Murder of the Universe_.  
 With a strong Zappa-like musical vocabulary of motifs and riffs, these as well as lyrics form convenient touchpoints to the works of other artists. The obvious one would be _The River_, based heavily on Dave Brubeck's _Take Five_. Not only is this standard famous for its jammy length, _The River_ also shares its 5/4 time signature and is composed of extremely similar melodic shapes and rhythms. This is not the only instance, the Tale of the Altered Beast chapter of _Murder of the Universe_ also significantly borrows Brubeck melody shapes and an unusual time signature. This time in 9/8, the plucky guitar that often underlies the narration of The Reticent Raconteur is an interpolation of _Blue Rondo à la Turk_, which itself is inspired by a traditional Turkish rhythm (King Gizz had only just released precceding album _Flying Microtonal Banana,_ based on Turkish instrument tunings).  
-Going deeper still, if you listen to this passage of _Blue Rondo à la Turk_ in reverse, it sounds eerily like the theme from _The Sorcerers Apprentice_, from Disney's _Fantasia_; which of course has a distinct visual influence on the Gizzverse:
+Going deeper still, if you listen to the passage referenced from _Blue Rondo à la Turk_ in reverse, it sounds eerily like the theme from _The Sorcerers Apprentice_, from Disney's _Fantasia_. If this sounds like an oblique connection, just consider the visual influence _Fantasia_ may have on the Gizzverse by comparing its Bald Mountiain to both these album covers:
 
-Fantasia/castle on the mountain comparisons.
+Bald-Mountain-Comparison.jpg
 
 ---
 
