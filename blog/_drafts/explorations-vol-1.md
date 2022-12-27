@@ -31,18 +31,18 @@ Image
 The Prog-Rock aspect of the music would always tend to produce character and narrative based songs, and these now had a defined environment — the castle floating above the clouds atop the misty jagged mountain central to the background of both covers.
 Intriguingly, these connections were not only retroactive additions, but showed clear foreshadowing. For example, the red-cloaked figures on the _I'm In Your Mind Fuzz_ cover with transparent faces never really seemed to have any bearing on that album, with no other reference or explanation for their presence. But two years later, _Nonagon Infinity_ gave us the track _Invisible Face_, with these lyrics:
 
-I distort the notion of the place
-The universe's other face
-The speed of light has slowed apace
-The universe's other face
+I distort the notion of the place  
+The universe's other face  
+The speed of light has slowed apace  
+The universe's other face  
 
-What it is
-Impossible
-Gravity
-The universe
-Has me
-Invisible
-Face
+What it is  
+Impossible  
+Gravity  
+The universe  
+Has me  
+Invisible  
+Face  
 
 The 'invisible faces' of the red-robed characters seem to indicate ability or experience of some warping of the universe beyond the understanding of physics — Nonagon Infinity opens the door.  
 Depending on how deep you're willing to look, these connections span the vast majority of the discography. Most cohesive theories would place _I'm In Your Mind Fuzz_ as the first solid foundation, but a case could be made for the cover artwork of 2013's _Oddments_. Making up a little world of its own, the lyrics of this album dont really seem to relate to the many characters and scenes that comprise the visual feast, yet some of them bear striking resemblance to imagery that would pop up again and again through the years; various reptile-based creatures, warped or decaying sinister buildings, visual patterns, esoteric magic-like figures, sludgy liquid textures etc. Indeed, origins of even these could be traced back to the cover artwork for the group's debut album _12 Bar Bruise_, the first work contributed to the band by their now resident visual artist and de-facto seventh member Jason Galea; who has become responsible for the vast majority of the larger visual universe.
