@@ -13,7 +13,7 @@ Stu had only recently — and inadvertently — announced that multiple albums w
 
 This was manifested in the first Gizzverse diagram, posted to the KGATLW subreddit by u/theonewhossecond on January 30th, 2017:
 
-> Image
+'first gizzverse diagram Jan 30 2017 u-theonewhossecond.jpg'
 
 The frenetic nature of the diagram immediately attracted equal parts interest and derision. Some aspects are simple facts and undeniable, while others tenuous or confusing enough to be written-off as crazed rambling. So remains the nature of the Gizzverse, perpetuated by a cult-like core of dedicated believers in opposition to the cynical outsiders, locked in denial of the seemingly random dots in front of their eyes.
 
@@ -26,7 +26,7 @@ Interestingly, former band member/manager Eric had this to add:
 
 So what are the actual connections that form the Gizzverse, and what makes them special? One of the simplest can be seen by comparing the cover artworks for _Nonagon Infinity_ and its predecessor, _I’m In Your Mind Fuzz_:
 
-Image
+'IIYMF+Nonagon.png'
 
 The Prog-Rock aspect of the music would always tend to produce character and narrative based songs, and these now had a defined environment — the castle floating above the clouds atop the misty jagged mountain central to the background of both covers.
 Intriguingly, these connections were not only retroactive additions, but showed clear foreshadowing. For example, the red-cloaked figures on the _I'm In Your Mind Fuzz_ cover with transparent faces never really seemed to have any bearing on that album, with no other reference or explanation for their presence. But two years later, _Nonagon Infinity_ gave us the track _Invisible Face_, with these lyrics:
@@ -44,8 +44,10 @@ Has me
 Invisible  
 Face  
 
-The 'invisible faces' of the red-robed characters seem to indicate ability or experience of some warping of the universe beyond the understanding of physics — Nonagon Infinity opens the door.  
-Depending on how deep you're willing to look, these connections span the vast majority of the discography. Most cohesive theories would place _I'm In Your Mind Fuzz_ as the first solid foundation, but a case could be made for the cover artwork of 2013's _Oddments_. Making up a little world of its own, the lyrics of this album dont really seem to relate to the many characters and scenes that comprise the visual feast, yet some of them bear striking resemblance to imagery that would pop up again and again through the years; various reptile-based creatures, warped or decaying sinister buildings, visual patterns, esoteric magic-like figures, sludgy liquid textures etc. Indeed, origins of even these could be traced back to the cover artwork for the group's debut album _12 Bar Bruise_, the first work contributed to the band by their now resident visual artist and de-facto seventh member Jason Galea; who has become responsible for the vast majority of the larger visual universe.
+The 'invisible faces' of the red-robed characters now seem to indicate ability or experience of some extreme warping of the universe, exposing its 'other face' with a reduced speed of light and impossible gravity.  
+Nonagon Infinity opens the door; aside from being a clear nod to Aldous Huxley's _The Doors Of Perception_ (This book is among the first literary descriptions of the influence of psychedelics), it is clear that this door opens between some form of parallel universes (or is that the same thing?).
+
+Depending on how deep you're willing to look, these connections span the vast majority of the discography. Most cohesive theories would place _I'm In Your Mind Fuzz_ as the first solid foundation, but a case could be made for the cover artwork of 2013's _Oddments_. Making up a little world of its own, the lyrics of this album dont really seem to relate to the many characters and scenes that comprise the visual feast, yet some of them bear striking resemblance to imagery that would pop up again and again through the years; various reptilian creatures, warped or decaying sinister buildings, visual patterns, esoteric mrobed figures, sludgy liquid textures etc. Indeed, origins of even these could be traced back to the cover artwork for the group's debut album _12 Bar Bruise_, the first work contributed to the band by visual artist and de-facto seventh member Jason Galea; who has become responsible for the vast majority of visual King Gizzard material.  
 Before getting too hung up on the very first instance of a singular call-back between releases, it is worth noting that the infinite-loop concept of _Nonagon Infinity_ using segues between every song had been conceived of and at least attempted for _I'm in Your Mind Fuzz_  resulting in the medley of connected songs that opens the album — such is only one other of the pre-meditated links that travel both ways between the two, all of which combine into a sort of temporal wormhole that define their status as the true galactic centre of the home-system of the Gizzverse.
 Given the quote from Eric above about how the band decided what their last album would be before they even fully formed, nothing is truly off the table.
 
