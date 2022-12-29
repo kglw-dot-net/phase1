@@ -18,11 +18,12 @@ title: "Summer Haze"
 
 <!--snippet-->
 
-King Gizzard appeared as part of the [Summer Haze electronic festival](https://summerhazenz.com/).
+King Gizzard appeared as part of the [Summer Haze festival](https://summerhazenz.com/).
 Also playing:
 * [Fat Freddy's Drop](https://www.fatfreddysdrop.com/)
 * [Shapeshifter](https://shapeshifter.co.nz/)
 
 #### Links
 
+* Video: [part 1](https://youtu.be/2JHbEP3VLl4), [part 2](https://youtu.be/np0idN82bjs), [part 3](https://youtu.be/yHdkSpGPBV0), 
 * [Reddit discussion](https://www.reddit.com/r/KGATLW/comments/zxy589/king_gizzard_in_tauranga/)
