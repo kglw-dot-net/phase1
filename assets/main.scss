@@ -1,14 +1,20 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import
+  "{{ site.theme }}"
+  // , "minima/syntax-highlighting"
+;
 
 $gizz-bright-green: #3d3;
 $gizz-magenta: #f39;
 
-body {
+body,
+pre,
+code,
+.highlight {
   color: #ccc;
-  background: #111;
+  background: #111 !important;
 }
 
 a {
@@ -20,9 +26,8 @@ a {
   }
 }
 
-pre,
-code {
-  background: #333;
+hr {
+  margin: 2em 25vw;
 }
 
 .site-header {
