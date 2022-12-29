@@ -14,7 +14,7 @@ layout: default
   {%- if recent_setlists.size > 0 -%}
   <section class="setlists">
     <h2 class="post-list-heading">Recent Setlists</h2>
-    <a class="more-link" href="{{ "/setlists" | relative_url }}">See more...</a>
+    <a class="more-link" href="{{ "/setlists" | relative_url }}">More...</a>
     <ul class="post-list">
       {%- for setlist in recent_setlists -%}
       <li>
@@ -34,6 +34,29 @@ layout: default
   {%- endif -%}
 
 
+  {%- if site.categories['upcoming-shows'].size > 0 -%}
+  <section class="upcoming_shows">
+    <h2 class="post-list-heading">Upcoming Shows</h2>
+    <a class="more-link" href="{{ "/upcoming-shows" | relative_url }}">Schedule...</a>
+    <ul class="post-list">
+      {%- for upcoming in site.categories['upcoming-shows'] -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ upcoming.url | relative_url }}">
+            <span class="post-date">{{ upcoming.date | date: date_format }}</span>
+            <span class="post-title">{{ upcoming.title | escape }}</span>
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ upcoming.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+  </section>
+  {%- endif -%}
+
+
   {%- assign recent_blog = site.categories.blog | slice: 0, 2 -%}
   {%- if recent_blog.size > 0 -%}
   <section class="blog">
@@ -41,12 +64,12 @@ layout: default
     <ul class="post-list">
       {%- for post in recent_blog -%}
       <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

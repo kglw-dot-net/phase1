@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+$gizz-bright-green: #3d3;
+$gizz-magenta: #f39;
+
 body {
   color: #ccc;
   background: #111;
@@ -24,7 +27,7 @@ code {
 
 .site-header {
   border: 0;
-  background: #f39;
+  background: $gizz-magenta;
   font-variant: small-caps;
   font-weight: bold;
 }
@@ -49,15 +52,15 @@ footer.site-footer {
 }
 
 .home .post-list-heading {
-  color: #3d3;
+  color: $gizz-bright-green;
   display: inline-block;
 }
 
-.setlists {
-  .more-link {
-    padding: 0 1em;
-  }
+.more-link {
+  padding: 0 1em;
+}
 
+.setlists {
   ul > li {
     p {
       display: inline;
@@ -91,7 +94,31 @@ footer.site-footer {
   }
 }
 
+.upcoming_shows {
+  display: none;
+
+  .post-list {
+    margin-left: 1em;
+    list-style: disc;
+  }
+  li,
+  h3 {
+    margin-bottom: 0;
+  }
+  .post-link,
+  .post-title {
+    font-size: 0.9em;
+  }
+  .post-date:after {
+    content: " — ";
+  }
+}
+
 .blog {
+  padding: 1vh 2vw;
+  border: 1px solid $gizz-bright-green;
+  border-radius: 1em;
+  background: #222;
 }
 
 .post-content {
@@ -116,5 +143,11 @@ footer.site-footer {
   a {
     color: #c63;
     text-decoration: underline;
+  }
+}
+
+.site-footer {
+  ul {
+    margin-bottom: 0;
   }
 }
