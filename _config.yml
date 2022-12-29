@@ -30,6 +30,7 @@ twitter_username: kglw_net
 
 show_excerpts: true
 excerpt_separator: <!--snippet-->
+future: true
 
 # Build settings
 theme: minima # v2
