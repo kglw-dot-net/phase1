@@ -18,7 +18,7 @@ This was manifested in the first Gizzverse diagram, posted to the KGATLW subredd
 The frenetic nature of the diagram immediately attracted equal parts interest and derision. Some aspects are simple facts and undeniable, while others tenuous or confusing enough to be written-off as schizoid pareidolia. So remains the nature of the Gizzverse, perpetuated by a cult-like core of dedicated believers in opposition to the cynical outsiders, locked in denial of the seemingly random dots in front of their eyes.
 
 Though careful with his words, Stu did eventually concede some insight in that interview:  
-“_They all exist in this parallel universe and they're maybe from different times and different places but they all can co-exist in a meaningful way. They’re being more and more connected and the second album we’re going to put out this year links some things too, and is the most narrative-driven record that we’ve ever made._”  
+“_They all exist in this parallel universe and they're maybe from different times and different places but they all can co-exist in a meaningful way. They’re being more and more connected and the second album we’re going to put out this year [Murder Of The Universe] links some things too, and is the most narrative-driven record that we’ve ever made._”  
 Interestingly, former band member/manager Eric had this to add:
 “_Before we started a band we knew what the last album was gonna be and what the first album was gonna be. They’re all connected -_”
 
