@@ -15,7 +15,7 @@ This was manifested in the first Gizzverse diagram, posted to the KGATLW subredd
 
 ![first gizzverse diagram Jan 30 2017 u-theonewhossecond](https://user-images.githubusercontent.com/114916472/209906751-cb58a7af-a655-4a87-b8c9-701feeba6071.jpg)
 
-The frenetic nature of the diagram immediately attracted equal parts interest and derision. Some aspects are simple facts and undeniable, while others tenuous or confusing enough to be written-off as crazed rambling. So remains the nature of the Gizzverse, perpetuated by a cult-like core of dedicated believers in opposition to the cynical outsiders, locked in denial of the seemingly random dots in front of their eyes.
+The frenetic nature of the diagram immediately attracted equal parts interest and derision. Some aspects are simple facts and undeniable, while others tenuous or confusing enough to be written-off as schizoid pareidolia. So remains the nature of the Gizzverse, perpetuated by a cult-like core of dedicated believers in opposition to the cynical outsiders, locked in denial of the seemingly random dots in front of their eyes.
 
 Though careful with his words, Stu did eventually concede some insight in that interview:  
 “_They all exist in this parallel universe and they're maybe from different times and different places but they all can co-exist in a meaningful way. They’re being more and more connected and the second album we’re going to put out this year links some things too, and is the most narrative-driven record that we’ve ever made._”  
