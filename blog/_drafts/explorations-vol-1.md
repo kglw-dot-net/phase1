@@ -91,6 +91,8 @@ The Gizzverse is not a singular cohesive story, but an interconnected web-like n
 Therefore, everyone has a unique take on the Gizzverse, and for too long it has remained disconnected and vague, mostly explained through uninspired comments or rambling diatribes.  
 There is a vast mythos awaiting.
 
+-W.B.T.G. Slinger 
+
 
 <!-- Broken link to important interview: http://www.abc.net.au/triplej/musicnews/s4613979.htm
 quotes available from Music Feeds: https://musicfeeds.com.au/news/king-gizzard-confirm-existence-parallel-gizzverse/
