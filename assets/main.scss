@@ -98,22 +98,8 @@ footer.site-footer {
     }
   }
 
-  .upcoming_shows {
-    .post-list {
-      margin-left: 1em;
-      list-style: disc;
-    }
-    li,
-    h3 {
-      margin-bottom: 0;
-    }
-    .post-link,
-    .post-title {
-      font-size: 0.9em;
-    }
-    .post-date:after {
-      content: ": ";
-    }
+  .upcoming_shows { // these rules only apply on homepage
+    margin-bottom: 2em;
   }
 
   .blog {
@@ -121,6 +107,24 @@ footer.site-footer {
     border: 1px solid $gizz-bright-green;
     border-radius: 1em;
     background: #222;
+  }
+}
+
+.upcoming_shows { // on homepage and `/upcoming-shows`
+  .post-list {
+    margin-left: 1em;
+    list-style: disc;
+  }
+  li,
+  h3 {
+    margin-bottom: 0;
+  }
+  .post-link,
+  .post-title {
+    font-size: 1em;
+  }
+  .post-date:after {
+    content: ": ";
   }
 }
 

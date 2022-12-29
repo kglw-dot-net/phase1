@@ -41,7 +41,7 @@ layout: default
     <h2 class="post-list-heading">Upcoming Shows</h2>
     <a class="more-link" href="{{ "/upcoming-shows" | relative_url }}">Schedule...</a>
     <ul class="post-list">
-      {% assign reverse_upcoming_shows = site.categories['upcoming-shows'] | sort: 'date' | slice: 0, 15 %}
+      {% assign reverse_upcoming_shows = site.categories['upcoming-shows'] | sort: 'date' | slice: 0, 13 %}
       {%- for upcoming in reverse_upcoming_shows -%}
       <li>
         <h3>
@@ -55,6 +55,7 @@ layout: default
         {%- endif -%}
       </li>
       {%- endfor -%}
+      <li><a class="more-link" href="{{ "/upcoming-shows" | relative_url }}">...see the full schedule here</a></li>
     </ul>
   </section>
   {%- endif -%}
