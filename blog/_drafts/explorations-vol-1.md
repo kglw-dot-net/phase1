@@ -46,7 +46,7 @@ Invisible
 Face  
 
 The 'invisible faces' of the red-robed characters now seem to indicate ability or experience of some extreme warping of the universe, exposing its 'other face' with a reduced speed of light and impossible gravity.  
-Nonagon Infinity opens the door; aside from being a clear nod to Aldous Huxley's _The Doors Of Perception_ (This book is among the first literary descriptions of the influence of psychedelics), it is clear that this door opens between some form of parallel universes (or is that the same thing?).
+Nonagon Infinity opens the door; aside from being a clear nod to Aldous Huxley's _The Doors Of Perception_ (this book is among the first literary descriptions of the influence of psychedelics), it is clear that this door opens between some form of parallel universes (or is that the same thing?).
 
 Depending on how deep you're willing to look, these connections span the vast majority of the discography. Most cohesive theories would place _I'm In Your Mind Fuzz_ as the first solid foundation, but a case could be made for the cover artwork of 2013's _Oddments_. Making up a little world of its own, the lyrics of this album dont really seem to relate to the many characters and scenes that comprise the visual feast, yet some of them bear striking resemblance to imagery that would pop up again and again through the years; various reptilian creatures, warped or decaying sinister buildings, visual patterns, esoteric mrobed figures, sludgy liquid textures etc.
 
