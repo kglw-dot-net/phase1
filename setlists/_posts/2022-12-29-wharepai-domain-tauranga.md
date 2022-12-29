@@ -4,6 +4,8 @@ date: "2022-12-29"
 venue: "Wharepai Domain, Tauranga, Aotearoa New Zealand"
 ---
 
+Setlist coming soon!
+
 <!--snippet-->
 
 #### Openers
