@@ -3,29 +3,29 @@
 
   <div class="wrapper">
 
-    <p class="feed-subscribe">
-      <a href="{{ 'feed.xml' | relative_url }}">
-        <svg class="svg-icon orange">
-          <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-        </svg><span>Subscribe</span>
-      </a>
-    </p>
+    <a class="page-link" href="{{ "/about" | relative_url }}" title="About KGLW.net">
+      <img src="{{ "/assets/lil-giza.png" | relative_url }}" alt="color drawing of 'Lil Giza', a lizard sprouting mushrooms and vomiting rainbows" />
+    </a>
 
     <nav>
       <ul style="margin:0;padding:.1em">
-        <li><a class="page-link" href="{{ "/about" | relative_url }}">About</a></li>
-        <li><a class="page-link" href="{{ "/blog" | relative_url }}">News</a></li>
-        <li><a class="page-link" href="{{ "/legal" | relative_url }}">Legal</a></li>
+        <li><a class="page-link" href="{{ "/about" | relative_url }}" title="About KGLW.net">About</a></li>
+        <li><a class="page-link" href="{{ "/blog" | relative_url }}" title="KGLW.net Blog">Blog</a></li>
+        <li><a class="page-link" href="{{ "/legal" | relative_url }}" title="the fine print">Legal</a></li>
       </ul>
     </nav>
 
     <div class="social-links">
       {%- include social.html -%}
+      <p class="feed-subscribe">
+        <a href="{{ 'feed.xml' | relative_url }}" title="RSS feed">
+          <svg class="svg-icon orange">
+            <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+          </svg>
+          <span>RSS</span>
+        </a>
+      </p>
     </div>
-
-    <a class="page-link" href="{{ "/about" | relative_url }}">
-      <img src="{{ "/assets/lil-giza.png" | relative_url }}" alt="color drawing of 'Lil Giza', a lizard sprouting mushrooms and vomiting rainbows" />
-    </a>
 
   </div>
 </footer>
