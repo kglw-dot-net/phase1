@@ -32,12 +32,12 @@ So what are the actual connections that form the Gizzverse, and what makes them 
 The Prog-Rock aspect of the music would always tend to produce character and narrative based songs, and these now had a defined environment — the castle floating above the clouds atop the misty jagged mountain central to the background of both covers.
 Intriguingly, these connections were not only retroactive additions, but showed clear foreshadowing. For example, the red-cloaked figures on the _I'm In Your Mind Fuzz_ cover with transparent faces never really seemed to have any bearing on that album, with no other reference or explanation for their presence. But two years later, _Nonagon Infinity_ gave us the track _Invisible Face_, with these lyrics:
 
-I distort the notion of the place  
+>>I distort the notion of the place  
 The universe's other face  
 The speed of light has slowed apace  
 The universe's other face  
 
-What it is  
+>>What it is  
 Impossible  
 Gravity  
 The universe  
