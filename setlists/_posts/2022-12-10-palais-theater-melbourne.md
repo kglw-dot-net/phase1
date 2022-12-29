@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: "2022-12-10"
-venue: "Palais Theater, Melbourne, Australia"
+venue: "Palais Theater, Naarm Melbourne, Australia"
 tour: "World Tour '22"
 modified_date: 2022-12-14
 ---
