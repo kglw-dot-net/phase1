@@ -7,7 +7,9 @@ layout: default
 <div class="home">
 
 
-  {{ content }}
+  <section class="content">
+    {{ content }}
+  </section>
 
 
   {%- assign recent_setlists = site.categories.setlists | slice: 0, 2 -%}
@@ -39,11 +41,12 @@ layout: default
     <h2 class="post-list-heading">Upcoming Shows</h2>
     <a class="more-link" href="{{ "/upcoming-shows" | relative_url }}">Schedule...</a>
     <ul class="post-list">
-      {%- for upcoming in site.categories['upcoming-shows'] -%}
+      {% assign reverse_upcoming_shows = site.categories['upcoming-shows'] | sort: 'date' | slice: 0, 15 %}
+      {%- for upcoming in reverse_upcoming_shows -%}
       <li>
         <h3>
           <a class="post-link" href="{{ upcoming.url | relative_url }}">
-            <span class="post-date">{{ upcoming.date | date: date_format }}</span>
+            <span class="post-date">{{ upcoming.date | date: "%b %-d" }}</span>
             <span class="post-title">{{ upcoming.title | escape }}</span>
           </a>
         </h3>
