@@ -13,7 +13,7 @@ Stu had only recently — and inadvertently — announced that multiple albums w
 
 This was manifested in the first Gizzverse diagram, posted to the KGATLW subreddit by u/theonewhossecond on January 30th, 2017:
 
-'first gizzverse diagram Jan 30 2017 u-theonewhossecond.jpg'
+![first gizzverse diagram Jan 30 2017 u-theonewhossecond](https://user-images.githubusercontent.com/114916472/209906751-cb58a7af-a655-4a87-b8c9-701feeba6071.jpg)
 
 The frenetic nature of the diagram immediately attracted equal parts interest and derision. Some aspects are simple facts and undeniable, while others tenuous or confusing enough to be written-off as crazed rambling. So remains the nature of the Gizzverse, perpetuated by a cult-like core of dedicated believers in opposition to the cynical outsiders, locked in denial of the seemingly random dots in front of their eyes.
 
@@ -26,7 +26,8 @@ Interestingly, former band member/manager Eric had this to add:
 
 So what are the actual connections that form the Gizzverse, and what makes them special? One of the simplest can be seen by comparing the cover artworks for _Nonagon Infinity_ and its predecessor, _I’m In Your Mind Fuzz_:
 
-'IIYMF+Nonagon.png'
+[IIYMF Nonagon comparison](https://user-images.githubusercontent.com/114916472/209906803-95a25f3b-2728-4124-a7c6-31c0ddb334d3.png)
+
 
 The Prog-Rock aspect of the music would always tend to produce character and narrative based songs, and these now had a defined environment — the castle floating above the clouds atop the misty jagged mountain central to the background of both covers.
 Intriguingly, these connections were not only retroactive additions, but showed clear foreshadowing. For example, the red-cloaked figures on the _I'm In Your Mind Fuzz_ cover with transparent faces never really seemed to have any bearing on that album, with no other reference or explanation for their presence. But two years later, _Nonagon Infinity_ gave us the track _Invisible Face_, with these lyrics:
@@ -49,11 +50,13 @@ Nonagon Infinity opens the door; aside from being a clear nod to Aldous Huxley's
 
 Depending on how deep you're willing to look, these connections span the vast majority of the discography. Most cohesive theories would place _I'm In Your Mind Fuzz_ as the first solid foundation, but a case could be made for the cover artwork of 2013's _Oddments_. Making up a little world of its own, the lyrics of this album dont really seem to relate to the many characters and scenes that comprise the visual feast, yet some of them bear striking resemblance to imagery that would pop up again and again through the years; various reptilian creatures, warped or decaying sinister buildings, visual patterns, esoteric mrobed figures, sludgy liquid textures etc.
 
-'oddments-full_clean.jpg'
+[Oddments extended artwork](https://user-images.githubusercontent.com/114916472/209906936-047e6c1b-5fc0-4a2a-990f-328ef71584f5.png)
+
 
 Origins of this imagery also traces back to the cover artwork for the group's debut album _12 Bar Bruise_, the first work contributed to the band by visual artist and de-facto seventh member Jason Galea; who has become responsible for the vast majority of visual King Gizzard material.  
 
-'12_Bar_Bruise_King_Gizzard.jpg'
+[12_Bar_Bruise_King_Gizzard](https://user-images.githubusercontent.com/114916472/209906958-058f16e3-2b07-4e01-822c-b48aa7f24c6f.jpg)
+
 
 Before getting too hung up on the very first instance of a singular call-back between releases, it is worth noting that the infinite-loop concept of _Nonagon Infinity_ using segues between every song had been conceived of and at least attempted for _I'm in Your Mind Fuzz_  resulting in the medley of connected songs that opens the album — such is first of the truly pre-meditated and properly executed links that travel both ways between two releases, the several of whoch between these albums combine into a sort of temporal wormhole that define their status as the true galactic centre of the home-system of the Gizzverse.
 Given the quote from Eric above about how the band decided what their last album would be before they even fully formed, nothing is truly off the table.
@@ -65,7 +68,7 @@ He also pops up as a more subtle influence in _Sketches of Brunswick East_, wher
 Some of his other appearances are more esoteric, such as a surprise vinyl-only Easter egg to conclude _Polygondwanaland_, revealing that album to contain the story of his first step on the path to become a cyborg; with an eye modification allowing perception of a fourth primary colour.  Or the reversed message buried in the mix at the end of _Fishing For Fishies_, extolling dancing as the means by which human consciousness was elevated out of our origins in Africa and taking us all the way to the stars.  
 The cover artwork for this album also first confirmed what he looks like, establishing another way to make connections that may also run all the way back to _Nonagon Infinity_, where we discover he may have been the topic of the song _Robot Stop_. In the [music video](https://www.youtube.com/watch?v=9p_Si21ig7c&t=185s) for this song, the design of the robot bears strong resemblance to the _Fishing For Fishies_ cover (the video also contains another tease of the then-unrevealed flying microtonal banana, the guitar central to the forthcoming album of the same name) — you can see how we begin to establish the endless web of possible references defined only by how willing you are to thematically connect _FFF_ to the other albums, or in general, one aspect of one release with any other aspect of any other release.
 
-'Robot-Stop+FFF.png'
+[Robot-Stop+FFF](https://user-images.githubusercontent.com/114916472/209906981-2fa21a7e-ca87-411d-af95-5ceabcf3dd35.png)
 
 If that is a lot to take in, take comfort in the ambiguity of it all. Despite (or because of?) the themes of existential dread and divine influence upon the mundane aspects of the human experience, _Sketches of Brunswick East_ is for the most part a very chill Stoner-Jazz record, and usually considered as not much more than that.  
 The ending of it all has already been revealed, _Murder Of The Universe_'s post-quantum evisceration of the fabric of reality itself is the ultimate levelling of the playing field. As for everything else, the beauty is that there are few rules to what is considered prequel, sequel, linear, or even relevant at all.  
@@ -78,7 +81,8 @@ A very recognisable one is the use of the 'Arabian Riff' ('there's a place in Fr
 Another obvious one would be _The River_, based heavily on Dave Brubeck's _Take Five_. Not only is this Jazz standard famous for its jammy length, _The River_ also shares its 5/4 time signature and is composed of extremely similar melodic shapes and rhythms. The _Tale of the Altered Beast_ chapter of _Murder of the Universe_ also significantly borrows Brubeck melody shapes and an unusual time signature, This time in 9/8, the plucky guitar that often underlies the narration of The Reticent Raconteur is an interpolation of _Blue Rondo à la Turk_; which itself is inspired by a traditional Turkish rhythm (King Gizz had only just released precceding album _Flying Microtonal Banana,_ based on Turkish instrument tunings).  
 Connections like this can go on to an endless depth. Considering where else Brubek may have been inspired for _Blue Rondo à la Turk_, might bring you to a very well-known tune at the time, Paul Abraham Dukas' _The Sorcerers Apprentice_, which had recently been used as the theme in Disney's _Fantasia_ if you listen to this [theme in reverse](https://youtu.be/Er4RFAmfh-M?t=192), it sounds eerily like the passage referenced by King Gizzard from _Blue Rondo à la Turk_. If this sounds like an oblique connection, just consider the visual influence _Fantasia_ may have on the Gizzverse by comparing its Bald Mountiain to both of these album covers:
 
-Bald-Mountain-Comparison.jpg
+[Bald-Mountain-Comparison](https://user-images.githubusercontent.com/114916472/209907006-3c659408-6c75-4c14-afca-c3625022648a.jpg)
+
 
 ---
 
