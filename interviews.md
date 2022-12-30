@@ -53,9 +53,14 @@ title: "Archive of King Gizzard interviews"
 * Nov 22: AudioTechnology, [Audio technology King Gizzard’s Lo-Fi Gut Feeling](https://www.audiotechnology.com/features/king-gizzards-lo-fi-gut-feeling)
 * Jun 17: (video) [Live in Limbo](https://www.youtube.com/watch?v=8hW_OeSrLQA) with Stu
 
+### 2015
+
+* Dec 1: Rolling Stone [King Gizzard and the Lizard Wizard Talk Infinitely Looping Concept LP](https://www.rollingstone.com/music/music-features/king-gizzard-and-the-lizard-wizard-talk-infinitely-looping-concept-lp-187873/)
+
 ### 2014
 
 * Apr 23: (video) [The AU Review](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Cavs, Joey, and Lucas
+* Feb 14: Rolling Stone, [Why King Gizzard and the Lizard Wizard Released Five Albums in a Single Year](https://www.rollingstone.com/music/music-features/why-king-gizzard-and-the-lizard-wizard-released-five-albums-in-a-single-year-198057/)
 * unknown: (video) [Griffin Brown, School Project Interview](https://www.youtube.com/watch?v=PuL45bLHEWI) with Stu (including solo acoustic Vegemite)
 
 ### 2012 
