@@ -90,10 +90,10 @@ Connections like this can go on to an endless depth. Considering where else Brub
 ---
 
 We have barely begun to scratch the surface.  
-The Gizzverse is not a singular cohesive story, but an interconnected web-like network of references — not only a set of song lyrics, characters, images, and themes, but something larger defined as much by fans connecting the dots as the band generating them.  
-Therefore, everyone has a unique take on the Gizzverse, and for too long it has remained disconnected and vague, mostly explained through uninspired comments or rambling diatribes.  Given the quote from Eric above about how the band decided what their last album would be before they even fully formed, nothing is truly off the table.  
-
-There is a vast mythos awaiting.
+Many new, overly eager, or impatient fans often attempt to string every possible reference together in one go; where for example any named character ends up being shoehorned into any other vaguely related narrative or theme, this approach quickly descends into a tangled mess of multiple identities, split timelines and shaky reasoning.  
+As vast as it is, The Gizzverse is never just a singular comprehensive story; its interconnected web-like network of references are spacious, credible, and relevant — not only a set of song lyrics, characters, images, and themes, but something larger defined as much by fans connecting the dots as the band generating them. Only so much consideration has gone into the source material, it is up to the audience to do this material justice in its interpretation, without spoiling the process behind it.  
+Everyone has a unique take on the Gizzverse, and for too long these ideas have remained disconnected and vague, mostly expressed in uninspired comments or rambling diatribes with no room for reaction. The Gizzverse is mutual and self-sustaining, the word itself sprung out of the fanbase unequivocally and instantly understandable, like some group-think phenomenon, the core tenet of a feeling of interconnectedness that any fand of the music can recognise. 
+The band decided what their last album would be before they even fully formed; more recently Stu stated that King Gizzard and the Lizard Wizard can effectively go on forever, even if all that is left is him poring over the old live recording archive — nothing is off the table.
 
 —W.B.T.G. Slinger 
 
