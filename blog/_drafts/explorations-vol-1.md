@@ -4,9 +4,8 @@ category: gizzverse
 author: Boiler Rhapsody
 ---
 
-"That's a word that I — don't, know where it even came from", was Stu's carefully worded response when asked about the 'Gizzverse' in early 2017.
+"That's a word that I — don't, know where it even came from", was Stu's carefully worded response when asked about the 'Gizzverse' in early 2017.  
 <!--snippet-->
-
 In the now-lost interview by Veronica & Lewis on national Australian alternative radio station [Triple J], Stu was clearly conscious of not speaking too much power into the concept that had just started to grow beyond his control.  
 
 The word had begun circulating in fan groups in the wake of 2016's [_Nonagon Infinity_](https://kglw.net/releases/nonagon-infinity); the album (being recursive itself) had highlighted the recursive nature of a set of themes and elements in the group's material, truly connecting these concepts across albums for the first time.
