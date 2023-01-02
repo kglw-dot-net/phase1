@@ -5,7 +5,7 @@ venue: "Rhythm & Alps, Wanaka, Aotearoa New Zealand"
 title: "New Years Eve @ Rhythm & Alps"
 ---
 
-1. Self-immolate
+1. Self-Immolate
 2. Mars for the Rich
 3. Crumbling Castle
 4. The Fourth Colour
@@ -17,6 +17,6 @@ title: "New Years Eve @ Rhythm & Alps"
 
 <!--snippet-->
 
-#### Links
+#### Recordings
 
-* [YT](https://youtu.be/9kNT7t7dSMk)
+{% include youtube.html id=9kNT7t7dSMk author="[Scizzardland](https://www.youtube.com/@lavacard)" %}

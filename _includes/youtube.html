@@ -1,0 +1,8 @@
+<a href="https://www.youtube.com/watch?q={{ include.id }}" target="_blank">Video</a> {% if include.author %} by {{include.author}} {% endif %}
+
+<iframe
+  class="youtube-embed"
+  src="https://www.youtube.com/embed/{{ include.id }}"
+  frameborder="0"
+  allowfullscreen="true">
+</iframe>
