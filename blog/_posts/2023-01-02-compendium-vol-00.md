@@ -18,7 +18,7 @@ The frenetic nature of the diagram immediately attracted equal parts interest an
 
 Though careful with his words, Stu did eventually concede some insight in that interview:  
 
-> They all exist in this parallel universe and they're maybe from different times and different places but they all can co-exist in a meaningful way. They’re being more and more connected and the second album we’re going to put out this year [Murder Of The Universe] links some things too, and is the most narrative-driven record that we’ve ever made.  
+> They all exist in this parallel universe and they're maybe from different times and different places but they all can co-exist in a meaningful way. They’re being more and more connected and [the second album we’re going to put out this year](/releases/murder-of-the-universe) links some things too, and is the most narrative-driven record that we’ve ever made.  
 
 Interestingly, former band member/manager Eric had this to add:
 
