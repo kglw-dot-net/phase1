@@ -1,7 +1,7 @@
 ---
 title: "Gizzverse Compendium Volume #00 - Introduction"
 category: gizzverse
-author: Boiler Rhapsody
+author: W.B.T.G. Slinger
 ---
 
 "That's a word that I — don't, know where it even came from", was Stu's carefully worded response when asked about the 'Gizzverse' in early 2017.  
