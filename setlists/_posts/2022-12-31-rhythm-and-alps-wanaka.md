@@ -19,4 +19,4 @@ title: "New Years Eve @ Rhythm & Alps"
 
 #### Recordings
 
-{% include youtube.html id=9kNT7t7dSMk author="[Scizzardland](https://www.youtube.com/@lavacard)" %}
+{% include youtube.html id="9kNT7t7dSMk" author="[Scizzardland](https://www.youtube.com/@lavacard)" %}
