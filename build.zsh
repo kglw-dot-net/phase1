@@ -8,7 +8,7 @@ git co main
 rsync -a _site/* .
 rm -rf _site/
 git add -A
-git ci --message $@
+git ci --message "$@"
 git log --stat -1
 echo "\nIf the commit looks good, then run...\n"
 echo "> git push # to publish, then:"
