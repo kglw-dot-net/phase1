@@ -16,7 +16,7 @@ layout: default
   {%- if recent_setlists.size > 0 -%}
   <section class="setlists">
     <h2 class="post-list-heading">Recent Setlists</h2>
-    <a class="more-link" href="{{ "/setlists" | relative_url }}">More...</a>
+    <a class="more-link" href="{{ "/setlists" | relative_url }}">see more...</a>
     <ul class="post-list">
       {%- for setlist in recent_setlists -%}
       <li>
@@ -39,7 +39,7 @@ layout: default
   {%- if site.categories['upcoming-shows'].size > 0 -%}
   <section class="upcoming_shows">
     <h2 class="post-list-heading">Upcoming Shows</h2>
-    <a class="more-link" href="{{ "/upcoming-shows" | relative_url }}">Schedule...</a>
+    <a class="more-link" href="{{ "/upcoming-shows" | relative_url }}">full schedule...</a>
     <ul class="post-list">
       {% assign reverse_upcoming_shows = site.categories['upcoming-shows'] | sort: 'date' | slice: 0, 13 %}
       {%- for upcoming in reverse_upcoming_shows -%}
@@ -55,7 +55,7 @@ layout: default
         {%- endif -%}
       </li>
       {%- endfor -%}
-      <li><a class="more-link" href="{{ "/upcoming-shows" | relative_url }}">...see the full schedule here</a></li>
+      <li><a class="more-link-list" href="{{ "/upcoming-shows" | relative_url }}">...see the full schedule here</a></li>
     </ul>
   </section>
   {%- endif -%}

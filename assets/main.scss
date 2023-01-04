@@ -8,6 +8,7 @@
 
 $gizz-bright-green: #3d3;
 $gizz-magenta: #f39;
+$gizz-yellow: #fd0;
 
 body,
 pre,
@@ -66,11 +67,29 @@ footer.site-footer {
   }
 
   .more-link {
-    padding: 0 1em;
+    margin: 1vh 2vw;
+    border-radius: 1.3em;
+    border: 1px solid $gizz-magenta;
+    padding: 1vh 2vw;
+    color: $gizz-magenta;
+
+    &:hover {
+      border-color: black;
+      background: $gizz-magenta;
+      color: black;
+      box-shadow: 0 0 10px 3px $gizz-yellow;
+      text-decoration: none;
+    }
   }
 
   .setlists {
     ul > li {
+      h3 {
+        margin-bottom: 0;
+        .post-link {
+          font-size: 1em;
+        }
+      }
       p {
         display: inline;
       }
@@ -104,6 +123,7 @@ footer.site-footer {
   }
 
   .upcoming_shows { // these rules only apply on homepage
+    display: none;
     margin-bottom: 2em;
   }
 
