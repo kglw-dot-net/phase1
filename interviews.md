@@ -67,6 +67,7 @@ title: "Archive of King Gizzard interviews"
 ### 2015
 
 * Dec 1: Rolling Stone [King Gizzard and the Lizard Wizard Talk Infinitely Looping Concept LP](https://www.rollingstone.com/music/music-features/king-gizzard-and-the-lizard-wizard-talk-infinitely-looping-concept-lp-187873/)
+* Nov 10: DIY, ["King Gizzard & the Lizard Wizard talk shedding skin: 'People can think whatever they want'"](https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon) by Tom Connick - [(archived)](https://web.archive.org/web/20230104052938/https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon)
 
 ### 2014
 
