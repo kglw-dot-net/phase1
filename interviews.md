@@ -21,6 +21,8 @@ title: "Archive of King Gizzard interviews"
 
 * Dec 23: SPIN, ["Exit Interview: King Gizzard & The Lizard Wizard On Butterfly 3000, ‘Jammy’ New Music"](https://www.spin.com/2021/12/king-gizzard-and-the-lizard-wizard-interview-2021/) by Ryan Reed (with Stu)
 * Jun 21: (video) [3voor12 extra, Sagid Carter](https://www.youtube.com/watch?v=WKXDI_INZgs) with Stu
+* Jun 11: Under the Radar, ["King Gizzard & The Lizard Wizard's Stu Mackenzie on 'Butterfly 3000' and their incredible fanbase"](https://www.undertheradarmag.com/interviews/king_gizzard_the_lizard_wizards_stu_mackenzie_on_butterfly_3000_and_their_i) by Jake Uitti (with Stu) - [(archived)](https://web.archive.org/web/20230104035348/https://www.undertheradarmag.com/interviews/king_gizzard_the_lizard_wizards_stu_mackenzie_on_butterfly_3000_and_their_i)
+* May 27: National Public Radio, (audio) ["King Gizzard & The Lizard Wizard on making microtonal music during a pandemic](https://www.npr.org/2021/05/27/1000902256/king-gizzard-the-lizard-wizard-on-making-microtonal-music-during-a-pandemic) by Stephen Kallao and John Myers - [(archived)](https://web.archive.org/web/20230104033504/https://www.npr.org/2021/05/27/1000902256/king-gizzard-the-lizard-wizard-on-making-microtonal-music-during-a-pandemic)
 * May 1: (video) [Tape Notes Podcast Ep. 64: King Gizzard & the Lizard Wizard](https://www.youtube.com/watch?v=ODI0x2unT2Q)
 * Feb 18: Loud and Quiet, ["Reactivating the soul: the first interview with King Gizzard about new album LW"](https://www.loudandquiet.com/interview/reactivating-the-soul-the-first-interview-with-king-gizzard-about-new-album-lw/) by Luke Cartledge
 * Jan 14: (video) [Songwriters on Process](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Stu
@@ -28,6 +30,8 @@ title: "Archive of King Gizzard interviews"
 ### 2020
 
 * Dec 16: (video) [FaceCulture King Gizzard & The Lizard Wizard interview - Ambrose Kenny-Smith](https://www.youtube.com/watch?v=hGZ55hxXpMM)
+* Dec 7: NME, ["King Gizzard and the Lizard Wizard: "It's cool how divisive we are'"](https://www.nme.com/en_au/features/king-gizzard-and-the-lizard-wizard-album-kg-interview-2020-2833101?amp) by Josh Martin (with Joey) - [(archived)](http://web.archive.org/web/20230104034829/https://www.nme.com/en_au/features/king-gizzard-and-the-lizard-wizard-album-kg-interview-2020-2833101?amp)
+* Nov 19: All Things Loud, ["Pandemics, polyrhythms and prog rock with King Gizzard & the Lizard Wizard's Ambrose Kenny-Smith"](https://www.allthingsloud.com/king-gizzard-interview/) by Jack Parker (with Ambrose)
 * Aug 6: Stu Mackenzie: ["King Gizzard was made to be loose... we didn't have a rehearsal for years!"](https://www.guitarworld.com/features/stu-mackenzie-king-gizzard-was-made-to-be-loose-we-didnt-have-a-rehearsal-for-years)
 
 ### 2019
