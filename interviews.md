@@ -37,6 +37,7 @@ title: "Archive of King Gizzard interviews"
 
 ### 2019
 
+* Aug 23: Jenkem, ["We talked with 6 musicians about skating on tour"](https://www.jenkemmag.com/home/2019/08/23/talked-6-musicians-skating-tour/) by Eli Enis (with Ambrose) - [(archived)](https://web.archive.org/web/20230104052513/https://www.jenkemmag.com/home/2019/08/23/talked-6-musicians-skating-tour/)
 * Aug 7: Beat, ["King Gizzard & The Lizard Wizard are a genre-defying behemoth"](https://beat.com.au/king-gizzard-the-lizard-wizard-are-a-genre-defying-behemoth/)
 * Apr 23: Dork, ["King Gizzard and the Lizard Wizard return: 'We really thought we knew what we were doing, and then...'"](https://readdork.com/features/king-gizzard-and-the-lizard-wizard-interview-may19/) by Jessica Goodman - [(archived)](https://web.archive.org/web/20230104050320/https://readdork.com/features/king-gizzard-and-the-lizard-wizard-interview-may19/)
 
@@ -45,6 +46,7 @@ title: "Archive of King Gizzard interviews"
 * Nov 30: (video) [Double J Take 5 Radio Show](https://www.abc.net.au/radio/programs/take-5/king-gizzard-and-the-lizard-wizard-take-5/10572370)
 * Aug 28: The Quietus, ["No slowing down: King Gizzard & the Lizard Wizard interviewed"](https://thequietus.com/articles/25160-king-gizzard-and-the-lizard-wizard-interview) by Brian Coney (with Stu)
 * Jun 10: (video) [Nardwuar vs. King Gizzard & The Lizard Wizard](https://www.youtube.com/watch?v=ENCswmcSALI)
+* Feb 14: Rolling Stone, ["Why King Gizzard and the Lizard Wizard Released Five Albums in a Single Year"](https://www.rollingstone.com/music/music-features/why-king-gizzard-and-the-lizard-wizard-released-five-albums-in-a-single-year-198057/) by Michael Dwyer - [(archived)](https://web.archive.org/web/20230104052140/https://www.rollingstone.com/music/music-features/why-king-gizzard-and-the-lizard-wizard-released-five-albums-in-a-single-year-198057/)
 
 ### 2017
 
@@ -52,6 +54,7 @@ title: "Archive of King Gizzard interviews"
 * Nov 17: NME, ["King Gizzard & the Lizard Wizard on making the world's first release-your-own album"](https://www.nme.com/features/king-gizzard-lizard-wizard-polygondwanaland-album-interview-2159670) by Jamie Milton (with Stu) - [(archived)](https://web.archive.org/web/20230104051204/https://www.nme.com/features/king-gizzard-lizard-wizard-polygondwanaland-album-interview-2159670)
 * Aug 15: (video) [Amoeba Whats In My Bag? Series](https://www.youtube.com/watch?v=e8oexqhDaEo)
 * Jul 17: Relix, ['Journey to the Center of the Gizzverse with King Gizzard and the Lizard Wizard'](https://relix.com/articles/detail/journey_to_the_center_of_the_gizzverse_with_king_gizzard_and_the_lizard_wizard/)
+* May 9: Premier Guitar, ["Microtonal Madmen: King Gizzard and the Lizard Wizard's Stu Mackenzie and Joey Walker"](https://www.premierguitar.com/artists/microtonal-madmen-king-gizzard-and-the-lizard-wizards-stu-mackenzie-and-joey-walker) by Tzvi Gluckin - [(archived)](https://web.archive.org/web/20230104051942/https://www.premierguitar.com/artists/microtonal-madmen-king-gizzard-and-the-lizard-wizards-stu-mackenzie-and-joey-walker)
 * Apr 12: Observer, [King Gizzard & The Lizard Wizard Expand Their Universe by Murdering Ours](https://observer.com/2017/04/king-gizzard-and-the-lizard-wizard-interview/)
 * Feb 3: tripleJ / abc.net.au, [King Gizzard address mind-blowing 'Gizzverse' fan theory and microtonal tuning (cached)](https://web.archive.org/web/20170627071826/http://www.abc.net.au:80/triplej/musicnews/s4613979.htm);
   [alternate link to article that quotes interview](https://musicfeeds.com.au/news/king-gizzard-confirm-existence-parallel-gizzverse/)
