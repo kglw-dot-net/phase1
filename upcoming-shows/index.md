@@ -11,6 +11,9 @@ title: Schedule of upcoming King Gizzard concerts
       <span class="post-date">{{ upcoming.date | date: date_format }}</span>
       <span class="post-title">{{ upcoming.title | escape }}</span>
     </a>
+    {%- if site.show_excerpts -%}
+      {{ upcoming.excerpt }}
+    {%- endif -%}
   </li>
 {% endfor %}
 </ul>

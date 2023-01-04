@@ -124,6 +124,11 @@ footer.site-footer {
   h3 {
     margin-bottom: 0;
   }
+  h3,
+  p {
+    display: inline-block;
+    margin: 0 0.5em;
+  }
   .post-link,
   .post-title {
     font-size: 1em;
