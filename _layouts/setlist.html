@@ -21,18 +21,27 @@ layout: default
       {%- endif -%}
     </h1>
 
-    {%- if page.title != page.venue -%}
-      <!-- <h2>{{ page.title | escape }}</h2> -->
-    {%- endif -%}
-      
-    <p class="post-meta">
-      {%- if page.tour -%}
-        Tour:
-        <span itemprop="superEvent">
-          <span class="p-author h-card" itemprop="name">{{ page.tour }}</span>
-        </span>
-      {%- endif -%}
-    </p>
+    <div class="setlist-meta">
+      <p>
+        {%- if page.tour -%}
+          Tour:
+          <span itemprop="superEvent">
+            <span class="p-author h-card" itemprop="name">{{ page.tour }}</span>
+          </span>
+        {%- endif -%}
+      </p>
+
+      {%- unless page.categories contains "upcoming-shows" -%}
+        <ul class="post-integrations">
+          <li>
+            <a href="https://relisten.net/kgatlw/{{ page.date | date: "%Y/%m/%0d" }}" target="_blank" title="listen to this concert at Relisten.net">
+              <img src="{{ "/assets/relisten.png" | relative_url }}" alt="Relisten.net icon" />
+            </a>
+          </li>
+        </ul>
+      {%- endunless -%}
+
+    </div>
 
   </header>
 
@@ -55,6 +64,35 @@ layout: default
       </time>
     {%- endif -%}
   </p>
+
+  <nav>
+
+    {% assign cat = page.categories[0] %}
+    {% assign cat_list = site.categories[cat] %}
+    {% for post in cat_list %}
+      {% if post.url == page.url %}
+        {% assign pOffset = forloop.index0 | minus: 1 %}
+        {% assign nOffset = pOffset | plus: 2 %}
+        {% if forloop.first == false %}
+          {% assign next_post = cat_list[pOffset] %}
+        {% endif %}
+        {% if forloop.last == false %}
+          {% assign previous_post = cat_list[nOffset] %}
+        {% endif %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+
+
+    {%- if previous_post -%}
+      {%- assign prevdate = previous_post.date | date: date_format -%}
+      <a class="link-prev" href="{{previous_post.url}}">prior: {{prevdate}}</a>
+    {% endif %}
+    {%- if next_post -%}
+      {%- assign nextdate = next_post.date | date: date_format -%}
+      <a class="link-next" href="{{next_post.url}}">next: {{nextdate}}</a>
+    {% endif %}
+  </nav>
 
 </article>
 

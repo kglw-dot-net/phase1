@@ -19,5 +19,15 @@ control how links are built using the `baseurl` command-line flag: https://jekyl
 Note that the theme is [v2.5 of Minima](https://github.com/jekyll/minima/tree/2.5-stable) (not the latest 3.0 branch)
 
 
+## branching :brain: :storm:
+
+* production is built from branch `build-prod`
+* staging built from `build-stag`
+* by GH Actions, hosted on GH Pages...
+* add `CNAME` file to each branch, stag gets "staging.kglw.net" ?
+  * then `update-index --assume-unchanged` it so that they don't get modified by anyone
+* use `main` branch as dev trunk, PRs based on it
+  * but then `co build-prod && merge build-prod && push`
+
 
 [Jekyll]: https://jekyllrb.com
