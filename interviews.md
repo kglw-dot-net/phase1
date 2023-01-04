@@ -8,6 +8,7 @@ title: "Archive of King Gizzard interviews"
 * Dec 16: SPIN, [Exit Interview: King Gizzard And The Lizard Wizard’s Lucas Harwood On Prolific 2022, Bed Bugs, And Basslines](https://www.spin.com/2022/12/king-gizzard-lucas-harwood-exit-interview/)
 * Nov 17: Straight.com, [Ambrose on divide between Murlocs and King Gizz](https://www.straight.com/music/murlocs-bring-it-back-down-to-earth),
   [additional questions cut from article](https://www.reddit.com/r/KGATLW/comments/yxtsso/i_interviewed_amby_heres_the_story/)
+* Oct 31: The New Yorker, ["Into the Gizzverse with Shrimp and Juicy"](https://www.newyorker.com/magazine/2022/11/07/into-the-gizzverse-with-shrimp-and-juicy) - [(archived)](https://web.archive.org/web/20230104050548/https://www.newyorker.com/magazine/2022/11/07/into-the-gizzverse-with-shrimp-and-juicy)
 * Oct 26: NME, ["King Gizzard And The Lizard Wizard: 'If something is shit and no one likes it, you just put out another one the next month.'"](https://www.nme.com/big-reads/king-gizzard-and-the-lizard-wizard-cover-interview-2022-changes-3335897) by Josh Martin (with full band)
 * Oct 26: (video) [ABC News Australia](https://www.youtube.com/watch?v=0arTQa4IJoU)
 * Jun 13: Exberliner, ["King Gizzard & The Lizard Wizard: 'We're a fucking weird band'](https://beat.com.au/interview-psych-rock-chameleons-king-gizzard-and-the-lizard-wizard-on-what-makes-them-unique/) by Damien Cummings (with Joey)
@@ -37,15 +38,18 @@ title: "Archive of King Gizzard interviews"
 ### 2019
 
 * Aug 7: Beat, ["King Gizzard & The Lizard Wizard are a genre-defying behemoth"](https://beat.com.au/king-gizzard-the-lizard-wizard-are-a-genre-defying-behemoth/)
+* Apr 23: Dork, ["King Gizzard and the Lizard Wizard return: 'We really thought we knew what we were doing, and then...'"](https://readdork.com/features/king-gizzard-and-the-lizard-wizard-interview-may19/) by Jessica Goodman - [(archived)](https://web.archive.org/web/20230104050320/https://readdork.com/features/king-gizzard-and-the-lizard-wizard-interview-may19/)
 
 ### 2018
 
 * Nov 30: (video) [Double J Take 5 Radio Show](https://www.abc.net.au/radio/programs/take-5/king-gizzard-and-the-lizard-wizard-take-5/10572370)
+* Aug 28: The Quietus, ["No slowing down: King Gizzard & the Lizard Wizard interviewed"](https://thequietus.com/articles/25160-king-gizzard-and-the-lizard-wizard-interview) by Brian Coney (with Stu)
 * Jun 10: (video) [Nardwuar vs. King Gizzard & The Lizard Wizard](https://www.youtube.com/watch?v=ENCswmcSALI)
 
 ### 2017
 
 * Dec 6: Consequence, [Band of the Year King Gizzard and the Lizard Wizard Can’t Stop, Won’t Stop, and Don’t Need to Stop](https://consequence.net/2017/12/band-of-the-year-king-gizzard-and-the-lizard-wizard-cant-stop-wont-stop-and-dont-need-to-stop/)
+* Nov 17: NME, ["King Gizzard & the Lizard Wizard on making the world's first release-your-own album"](https://www.nme.com/features/king-gizzard-lizard-wizard-polygondwanaland-album-interview-2159670) by Jamie Milton (with Stu) - [(archived)](https://web.archive.org/web/20230104051204/https://www.nme.com/features/king-gizzard-lizard-wizard-polygondwanaland-album-interview-2159670)
 * Aug 15: (video) [Amoeba Whats In My Bag? Series](https://www.youtube.com/watch?v=e8oexqhDaEo)
 * Jul 17: Relix, ['Journey to the Center of the Gizzverse with King Gizzard and the Lizard Wizard'](https://relix.com/articles/detail/journey_to_the_center_of_the_gizzverse_with_king_gizzard_and_the_lizard_wizard/)
 * Apr 12: Observer, [King Gizzard & The Lizard Wizard Expand Their Universe by Murdering Ours](https://observer.com/2017/04/king-gizzard-and-the-lizard-wizard-interview/)
