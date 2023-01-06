@@ -3,6 +3,7 @@ layout: setlist
 date: "2022-12-29"
 venue: "Wharepai Domain, Tauranga, Aotearoa New Zealand"
 title: "Summer Haze"
+tour: "World Tour '22"
 ---
 
 1. Gaia
