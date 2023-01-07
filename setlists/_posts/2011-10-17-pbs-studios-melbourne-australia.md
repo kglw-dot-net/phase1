@@ -22,7 +22,7 @@ venue: "PBS Studios, Melbourne, Australia"
 
  9. Willoughby's Beach
 
-Note: Community radio promotion for the Willoughby's Beach EP.
+Notes: This was a community radio promotion for the Willoughby's Beach EP.
 
 ### Recordings
 
