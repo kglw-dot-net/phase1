@@ -4,7 +4,7 @@ date: "2011-12-09"
 venue: "Meredith Supernatural Amphitheatre, Meredith, Australia"
 ---
 
- 1. (Unknown)
+ 1. Talk Talk Talk
  2. Let It Bleed
 
  3. High Hopes Low
