@@ -12,7 +12,7 @@ tour: "World Tour '22"
 4. I'm in Your Mind Fuzz
 5. The River
    (Happy Birthday tease)
-   {% include segue.html type=">" %}
+   {% include segue.html type="->" %}
 6. Ice V
 7. Work This Time
 8. The Dripping Tap
