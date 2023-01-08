@@ -70,10 +70,10 @@ footer.site-footer {
       &:last-child::after {
         content: none;
       }
+      p {
+        display: inline;
+      }
     }
-  }
-  p {
-    display: inline;
   }
 }
 
@@ -138,9 +138,9 @@ footer.site-footer {
   h4 {
     margin-top: 1em;
     color: $gizz-bright-green;
-    &:first-of-type {
-      margin-top: 0;
-    }
+  }
+  .post-content > p {
+    margin-top: 1em;
   }
 }
 
