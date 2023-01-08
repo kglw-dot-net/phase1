@@ -23,7 +23,7 @@ tour: "World Tour '22"
 13. Self-Immolate<sup>3</sup>
 14. Her & I<sup>4</sup>
 15. Hot Wax
-16. Crumbling Castle 
+16. Crumbling Castle {% include segue.html type=">" %}
 17. The Fourth Colour
 
 #### Setbreak
