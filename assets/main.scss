@@ -58,13 +58,6 @@ footer.site-footer {
 }
 
 @mixin commas-setlist {
-  h4 {
-    margin: 0 0.3em 0 0;
-    border-radius: 1em;
-    padding: 0 0.5em;
-    color: #222;
-    background: $gizz-bright-green;
-  }
   ol {
     display: inline;
     margin: 0 0.5em 0 0;
@@ -118,6 +111,11 @@ footer.site-footer {
     }
     h4 {
       display: inline;
+      margin: 0 0.3em 0 0;
+      border-radius: 1em;
+      padding: 0 0.5em;
+      color: #222;
+      background: $gizz-bright-green;
     }
     @include commas-setlist;
   }
@@ -140,7 +138,6 @@ footer.site-footer {
   h4 {
     margin-top: 1em;
     color: $gizz-bright-green;
-    background: none;
     &:first-of-type {
       margin-top: 0;
     }
