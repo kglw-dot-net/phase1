@@ -57,6 +57,33 @@ footer.site-footer {
   }
 }
 
+@mixin commas-setlist {
+  h4 {
+    margin: 0 0.3em 0 0;
+    border-radius: 1em;
+    padding: 0 0.5em;
+    color: #222;
+    background: $gizz-bright-green;
+  }
+  ol {
+    display: inline;
+    margin: 0 0.5em 0 0;
+    > li {
+      display: inline;
+      &::after {
+        content: ',';
+      }
+      &:has(.segue)::after,
+      &:last-child::after {
+        content: none;
+      }
+    }
+  }
+  p {
+    display: inline;
+  }
+}
+
 .home {
   .content {
     text-align: center;
@@ -82,44 +109,17 @@ footer.site-footer {
     }
   }
 
-  .setlists {
-    ul > li {
-      h3 {
-        margin-bottom: 0;
-        .post-link {
-          font-size: 1em;
-        }
-      }
-      p {
-        display: inline;
-      }
-
-      > h4 {
-        display: inline-block;
-        margin: 0 0.3em 0 0;
-        border-radius: 1em;
-        padding: 0 0.5em;
-        color: #222;
-        background: #3d3;
-      }
-
-      > ol {
-        display: inline;
-        margin: 0 0.5em 0 0;
-
-        > li {
-          display: inline;
-
-          &::after {
-            content: ',';
-          }
-          &:has(.segue)::after,
-          &:last-child::after {
-            content: none;
-          }
-        }
+  .setlists ul > li {
+    h3 {
+      margin-bottom: 0;
+      .post-link {
+        font-size: 1em;
       }
     }
+    h4 {
+      display: inline;
+    }
+    @include commas-setlist;
   }
 
   .upcoming_shows { // these rules only apply on homepage
@@ -132,6 +132,18 @@ footer.site-footer {
     border: 1px solid $gizz-bright-green;
     border-radius: 1em;
     background: #222;
+  }
+}
+
+.setlist { // setlist page
+  @include commas-setlist;
+  h4 {
+    margin-top: 1em;
+    color: $gizz-bright-green;
+    background: none;
+    &:first-of-type {
+      margin-top: 0;
+    }
   }
 }
 
