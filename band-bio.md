@@ -14,7 +14,7 @@ In rough order of musical contribution, here are the members:
 
 **Cook Craig** – The third guitarist and occasional keys player, Cook also contributes the occasional song + lead vocal in his kooky Zolo style.
 
-Note: As a group, the guitar playing roles tend to revolve and therefore 'lead' and 'rhythm' titles are less necessary. Two guitars often play accompnying melodies, and solos are rare.
+Note: As a group, the guitar playing roles tend to revolve and therefore 'lead' and 'rhythm' titles are less necessary. Two guitars often play accompanying melodies, and solos are rare.
 
 **Lucas Harwood** (formerly Skinner) – Lucas' primary musical role is playing bass live, and occasionally performs in studio recordings.  
 
