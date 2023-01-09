@@ -62,6 +62,7 @@ footer.site-footer {
   margin: 0 0.5em 0 0;
   > li {
     display: inline;
+    white-space: nowrap;
     &::after {
       content: ',';
     }
@@ -109,6 +110,7 @@ footer.site-footer {
     }
     h4 {
       display: inline;
+      white-space: nowrap;
       margin: 0 0.3em 0 0;
       border-radius: 1em;
       padding: 0 0.5em;
@@ -117,6 +119,9 @@ footer.site-footer {
     }
     ol {
       @include commas-setlist;
+    }
+    .footnotes {
+      display: none;
     }
   }
 
