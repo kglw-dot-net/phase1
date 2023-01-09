@@ -59,12 +59,10 @@ footer.site-footer {
 
 @mixin commas-setlist {
   display: inline;
-  margin: 0 0.5em 0 0;
   > li {
     display: inline;
-    white-space: nowrap;
     &::after {
-      content: ',';
+      content: ','; // if the `li` contains a `p` then a line can end up wrapping so that a 'trailing' comma starts a new line; to remedy: ensure there are no blank lines between the numbered entries of the setlist
     }
     &:has(.segue)::after,
     &:last-child::after {
@@ -91,6 +89,7 @@ footer.site-footer {
     border: 1px solid $gizz-magenta;
     padding: 1vh 2vw;
     color: $gizz-magenta;
+    white-space: nowrap;
 
     &:hover {
       border-color: black;
@@ -101,7 +100,7 @@ footer.site-footer {
     }
   }
 
-  .setlists ul > li {
+  .setlists > ul > li {
     h3 {
       margin-bottom: 0;
       .post-link {
@@ -110,15 +109,17 @@ footer.site-footer {
     }
     h4 {
       display: inline;
-      white-space: nowrap;
-      margin: 0 0.3em 0 0;
+      max-width: 100vw;
+      margin: 0 0.2em 0 0;
       border-radius: 1em;
       padding: 0 0.5em;
       color: #222;
       background: $gizz-bright-green;
+      white-space: nowrap;
     }
     ol {
       @include commas-setlist;
+      margin: 0 1em 0 0;
     }
     .footnotes {
       display: none;
