@@ -8,11 +8,11 @@ modified_date: "2023-01-08"
 
 1. I'm in Your Mind
 2. I'm Not in Your Mind
-   (Dripping Tap & Alter Me I teases)
+   [^1] [^2]
 3. Cellophane
 4. I'm in Your Mind Fuzz
 5. The River
-   (Happy Birthday tease)
+   [^3]
    {% include segue.html type="->" %}
 6. Ice V
 7. Work This Time
@@ -26,3 +26,9 @@ This show was originally scheduled to be at Bowl of Brooklands, but was moved in
 #### Recordings
 
 {% include youtube.html id="NwOVF_JJMPs" author="Scizzardland" %}
+
+#### Notes
+
+[^1]: Dripping Tap tease
+[^2]: Alter Me I tease
+[^3]: Happy Birthday tease
