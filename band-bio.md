@@ -12,7 +12,9 @@ In rough order of musical contribution, here are the members:
 
 **Ambrose Kenny-Smith** – Occupies a ‘spotlight’ role and provides the group’s signature harmonica wail and live percussion/keys duties. Has the second most vocal and co-writing credits, and occasionally plays Alto Saxophone.
 
-**Cook Craig** – The third guitarist and occasional keys player, Cook also contributes the occasional song + lead vocal in his kooky Zolo style. I have avoided the terms rhythm and lead guitarist, as a group, the roles tend to revolve a little with two guitars often playing accompnying melodies and solos are rare.
+**Cook Craig** – The third guitarist and occasional keys player, Cook also contributes the occasional song + lead vocal in his kooky Zolo style.
+
+Note: As a group, the guitar playing roles tend to revolve and therefore 'lead' and 'rhythm' titles are less necessary. Two guitars often play accompnying melodies, and solos are rare.
 
 **Lucas Harwood** (formerly Skinner) – Lucas' primary musical role is playing bass live, and occasionally performs in studio recordings.  
 
