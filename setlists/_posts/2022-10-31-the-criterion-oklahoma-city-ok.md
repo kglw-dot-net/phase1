@@ -9,49 +9,54 @@ tour: "World Tour '22"
 Note: Each band member came on stage in costume to a snippet of a prerecorded song.
 <!--snippet-->
 
-## intro
+#### intro
 
- 1. opener: "Halloween Theme/Main Title" (John Carpenter)
+* "Halloween Theme/Main Title" (John Carpenter)
 
- 2. Ambrose entry as a pimp: "P.I.M.P" (50 Cent)
+* "P.I.M.P" (50 Cent) — Ambrose entry as a pimp
 
- 3. Cavs entry as Glenn Danzig: "Mother" (Danzig)
+* "Mother" (Danzig) — Cavs entry as Glenn Danzig
 
- 4. Lucas entry as Buzz Lightyear: "You've Got a Friend in Me" (Randy Newman)
+* "You've Got a Friend in Me" (Randy Newman) — Lucas entry as Buzz Lightyear
 
- 5. Cook entry as a cookie: "C is for Cookie" (Sesame Street)
+* "C is for Cookie" (Sesame Street) — Cook entry as a cookie
 
- 6. Joey entry as an Oompa Loompa: "Oompa Loompa #1/Augustus" (Willy Wonka & the Chocolate Factory)
+* "Oompa Loompa #1/Augustus" (Willy Wonka & the Chocolate Factory) — Joey entry as an Oompa Loompa
 
- 7. Stu entry as a banana: "Hollaback Girl" (Gwen Stefani)
+* "Hollaback Girl" (Gwen Stefani) — Stu entry as a banana
 
-# Set 1
+#### Set 1
 
  1. Robot Stop
-    (>)
+    {% include segue.html type=">" %}
 
  2. Gamma Knife
-    (w/ Altered Beast tease >)
+    [^1]
+    {% include segue.html type=">" %}
 
  3. People-Vultures
-    (>)
+    {% include segue.html type=">" %}
 
  4. Mr. Beat
-    (w/ Persistence tease, >)
+    [^2]
+    {% include segue.html type=">" %}
 
  5. Ice V
 
  6. Alter Me II
-    (featuring Leah Senior) (>)
+    [^3]
+    {% include segue.html type=">" %}
 
  7. Altered Beast III
-    (featuring Leah Senior) (>)
+    [^3]
+    {% include segue.html type=">" %}
 
  8. Alter Me III
-    (featuring Leah Senior) (>)
+    [^3]
+    {% include segue.html type=">" %}
 
  9. Altered Beast IV
-    (featuring Leah Senior)
+    [^3]
 
 10. Lava
 
@@ -69,5 +74,15 @@ Note: Each band member came on stage in costume to a snippet of a prerecorded so
 
 17. Gaia
 
-# Recordings
-* AUD: [colesondilbeck (Shure MV88)](https://archive.org/details/kglw2022-10-31) (audio issues)
+
+#### Recordings
+
+{% include archive.html id="kglw2022-10-31" type="AUD" credit="colesondilbeck" mic="Shure MV88" %}
+
+
+#### Notes
+
+[^1]: Altered Beast tease
+[^2]: Persistence tease
+[^3]: featuring Leah Senior
+

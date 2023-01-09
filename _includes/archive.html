@@ -1,0 +1,17 @@
+<div class="archive-embed">
+  <a href="https://archive.org/details/{{include.id}}" target="_blank" rel="noopener noreferrer">
+    {% if include.type %}<span class="type">{{include.type}}</span>{% endif %}
+    {% if include.credit %}<span class="credit">{{include.credit}}</span>{% endif %}
+    {% if include.mic %}<span class="mic">{{include.mic}}</span>{% endif %}
+  </a>
+  <iframe
+    title="audio of the show"
+    src="https://archive.org/embed/{{include.id}}?playlist=1"
+    width="380"
+    height="250"
+    frameborder="0"
+    webkitallowfullscreen="true"
+    mozallowfullscreen="true"
+    allowfullscreen=""
+  ></iframe>
+</div>
