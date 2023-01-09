@@ -58,21 +58,19 @@ footer.site-footer {
 }
 
 @mixin commas-setlist {
-  ol {
+  display: inline;
+  margin: 0 0.5em 0 0;
+  > li {
     display: inline;
-    margin: 0 0.5em 0 0;
-    > li {
+    &::after {
+      content: ',';
+    }
+    &:has(.segue)::after,
+    &:last-child::after {
+      content: none;
+    }
+    p {
       display: inline;
-      &::after {
-        content: ',';
-      }
-      &:has(.segue)::after,
-      &:last-child::after {
-        content: none;
-      }
-      p {
-        display: inline;
-      }
     }
   }
 }
@@ -117,7 +115,9 @@ footer.site-footer {
       color: #222;
       background: $gizz-bright-green;
     }
-    @include commas-setlist;
+    ol {
+      @include commas-setlist;
+    }
   }
 
   .upcoming_shows { // these rules only apply on homepage
@@ -134,7 +134,9 @@ footer.site-footer {
 }
 
 .setlist { // setlist page
-  @include commas-setlist;
+  > .post-content > ol {
+    @include commas-setlist;
+  }
   h4 {
     margin-top: 1em;
     color: $gizz-bright-green;
