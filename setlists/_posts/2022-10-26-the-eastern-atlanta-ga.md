@@ -6,55 +6,64 @@ tour: "World Tour '22"
 ---
 
  1. Perihelion
-    (preceded by Stu's birthday announcement) (>)
+    {% include segue.html type=">" %}
 
  2. Hell
 
  3. Inner Cell
-    (w/ Stayin' Alive - Bee gees tease intro) (>)
+    [^1]
+    {% include segue.html type=">" %}
 
  4. Loyalty
-    (>)
+    {% include segue.html type=">" %}
 
  5. Horology
 
  6. The Grim Reaper
+    [^2]
 
  7. Hot Water
-    (>)
+    {% include segue.html type=">" %}
 
  8. Hypertension
 
  9. Persistence
-    (Happy Birthday Stuart jam)
+    [^3]
 
 10. Ice V
 
 11. The River
 
 12. Digital Black
-    (>)
+    {% include segue.html type=">" %}
 
 13. Han-Tyumi the Confused Cyborg
-    (>)
+    {% include segue.html type=">" %}
 
 14. Soy-Protein Munt Machine
-    (>)
+    {% include segue.html type=">" %}
 
 15. Vomit Coffin
-    (>)
+    {% include segue.html type=">" %}
 
 16. Murder of the Universe
 
 17. Magma
-    (Stu received a gift from the audience during the intro)
 
 18. Lava
 
-Note: Show prefaced by announcement regarding mosh pit etiquette. Stu
-was silly stringed at the end of the show, the crowd then sang happy
-birthday to Stu.
 
-Recordings
-* AUD: [vwmule (Gefell M21)](https://archive.org/details/kglw2022-10-26.vwmule)
-* AUD: [Zman (Schoeps CCM4V)](https://bt.etree.org/details.php?torrentId=617152)
+#### Recordings
+
+{% include archive.html id="kglw2022-10-26.vwmule" type="AUD" credit="vwmule" mic="Gefell M21" %}
+
+{% include archive.html id="kglw2022-10-26" type="AUD" credit="Z-man" mic="Schoeps CCM4V" %}
+
+
+#### Notes
+
+Leading into The Grim Reaper an audience member gave Stu a custom Nonagon robe for his birthday. Cake was brought out during Persistence, and Stu jumped into the crowd to deliver slices.
+
+[^1]: "Stayin' Alive" (Bee Gees) tease intro
+[^2]: Stu received a gift from the audience during the intro
+[^3]: 'Happy Birthday Stuart' jam
