@@ -58,7 +58,6 @@ footer.site-footer {
 }
 
 @mixin commas-setlist {
-  display: inline;
   > li {
     display: inline;
     &::after {
@@ -119,6 +118,7 @@ footer.site-footer {
     }
     ol {
       @include commas-setlist;
+      display: inline;
       margin: 0 1em 0 0;
     }
     .footnotes {
