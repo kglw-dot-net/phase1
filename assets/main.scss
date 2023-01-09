@@ -144,6 +144,19 @@ footer.site-footer {
   .post-content > p {
     margin-top: 1em;
   }
+
+  .archive-embed {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 380px;
+    box-shadow: 0 0 10px 1px #666; // 🤘
+    a {
+      padding: 1vmax;
+      .credit:before { content: '('; }
+      .credit:after { content: ')'; }
+    }
+  }
 }
 
 .upcoming_shows { // on homepage and `/upcoming-shows`
