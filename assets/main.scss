@@ -141,6 +141,7 @@ footer.site-footer {
 
 .setlist { // setlist page
   > .post-content > ol {
+    margin-left: 0;
     @include commas-setlist;
   }
   h4 {
