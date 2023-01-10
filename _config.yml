@@ -20,7 +20,7 @@
 
 title: KGLW.net
 email: kglw.net@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   brought to you by fans of King Gizzard
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://kglw.net"
