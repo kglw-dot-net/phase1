@@ -5,22 +5,28 @@ venue: "TSB Stadium, New Plymouth, Aotearoa New Zealand"
 tour: "World Tour '22"
 ---
 
+
 1. I'm in Your Mind
    {% include segue.html type=">" %}
 2. I'm Not in Your Mind
-   (Dripping Tap & Alter Me I teases)
    {% include segue.html type=">" %}
 3. Cellophane
+   {% include segue.html type=">" %}
 4. I'm in Your Mind Fuzz
 5. The River
-   (Happy Birthday tease)
-   {% include segue.html type=">" %}
+   {% include segue.html type="->" %}
 6. Ice V
 7. Work This Time
 8. The Dripping Tap
-9. Magma
+   {% include segue.html type="->" %}
+9. Cellophane
+   {% include segue.html type="->" %}
+10. The Dripping Tap
+   {% include segue.html type=">" %}
+11. Magma
 
 <!--snippet-->
+
 
 #### Notes
 
