@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+repository: kglw-dot-net/site # this is needed for the GitHub Action workflow (to build Jekyll & publish to Pages)
 title: KGLW.net
 email: kglw.net@gmail.com
 description: >-
