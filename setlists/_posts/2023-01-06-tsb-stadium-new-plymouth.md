@@ -2,6 +2,7 @@
 layout: setlist
 date: "2023-01-06"
 venue: "TSB Stadium, New Plymouth, Aotearoa New Zealand"
+title: "TSB Stadium, New Plymouth"
 tour: "World Tour '22"
 ---
 
