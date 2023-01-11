@@ -31,12 +31,15 @@ tour: "World Tour '22"
 
 #### Notes
 
-This show was originally scheduled to be at Bowl of Brooklands, but was moved indoors to TSB Stadium due to weather. I'm Not in Your Mind contained The Dripping Tap teases and Alter Me teases and quotes. The River contained Happy Birthday to You quotes and eventually came to a full stop as Sam's birthday was recognized by the band and crowd. Ice V subsequently contained The River teases. The Dripping Tap contained teases from the I'm In Your Mind Fuzz Suite before segueing directly into Cellophane.
+This show was originally scheduled to be at Bowl of Brooklands, but was moved indoors to TSB Stadium due to weather. I'm Not in Your Mind contained The Dripping Tap teases and Alter Me teases and quotes. The River contained Happy Birthday to You quotes and eventually came to a full stop as [Sam][bio]'s birthday was recognized by the band and crowd. Ice V subsequently contained The River teases. The Dripping Tap contained teases from the I'm In Your Mind Fuzz Suite before segueing directly into Cellophane.
 
 **KGLW.net Staff Notes:**  
-On the potentially controversial notation of The Dripping Tap -> Cellophane -> The Dripping Tap: The main argument for this is that the music for Cellophane is played and the lyrics are sung in their entirety. The song is played and Lucas’ bass part continues for ages while they continue to jam on the Cellophane refrain and motifs. Cellophane is then played in D major, the same key as The Dripping Tap jam. This isn't a tease/quotes situation, it's not a full band jam; they play the song, essentially in its entirety, until eventually returning to the Dripping Tap jam. 
+On the potentially controversial notation of The Dripping Tap -> Cellophane -> The Dripping Tap: The main argument for this is that the music for Cellophane is played and the lyrics are sung in their entirety. The song is played and [Lucas][bio]’ bass part continues for ages while they continue to jam on the Cellophane refrain and motifs. Cellophane is then played in D major, the same key as The Dripping Tap jam. This isn't a tease/quotes situation, it's not a full band jam; they play the song, essentially in its entirety, until eventually returning to the Dripping Tap jam. 
 
 
 #### Recordings
 
 {% include youtube.html id="NwOVF_JJMPs" author="Scizzardland" %}
+
+
+[bio]: /band-bio
