@@ -10,7 +10,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -40,5 +40,4 @@ jobs:
       # Standard usage
       - uses:  helaili/jekyll-action@v2
         with:
-          target_branch: gh-pages
           token: ${{ secrets.GITHUB_TOKEN }}
