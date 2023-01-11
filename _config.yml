@@ -23,7 +23,9 @@ title: KGLW.net
 email: kglw.net@gmail.com
 description: >-
   brought to you by fans of King Gizzard
+domain: "kglw.net"
 url: "https://kglw.net"
+baseurl: "/"
 instagram_username: kglw_net
 github_username: kglw-dot-net
 twitter_username: kglw_net
