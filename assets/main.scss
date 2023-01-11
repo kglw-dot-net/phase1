@@ -151,6 +151,14 @@ footer.site-footer {
   .post-content > p {
     margin-top: 1em;
   }
+  .reversefootnote {
+    padding: 0.3em;
+    sup {
+      vertical-align: baseline;
+      font-size: 1em;
+      padding-left: 0.3em;
+    }
+  }
 
   .archive-embed {
     margin: 1em;
