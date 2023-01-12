@@ -30,11 +30,11 @@ modified_date: 2023-01-11
 
 #### Notes
 
-The band introduced the show by acknowledging how little they play hometown shows, citing Melbourne inner-city gentrification. Crumbling Castle was then introduced as "The Fourth Colour", "Crumbling Castle", and finally, "Gamma Knife". The Fourth Colour featured a Cavs drum solo. The Grim Reaper was introduced as a song that Ambrose wrote about Stu, and featured an additional verse and quotes from Sadie Sorceress played over the music to The Grim Reaper. Stu sang the third verse twice instead of the second verse in Ice V. Iron Lung was introduced as a "song about vaping". Ambergris was introduced as a song about "the most expensive naturally occurring ingredient".
+The band introduced the show by acknowledging how little they play hometown shows, citing Melbourne inner-city gentrification. Crumbling Castle was then introduced as "The Fourth Colour", "Crumbling Castle", and finally, "Gamma Knife". The Fourth Colour featured a Cavs drum solo. The Grim Reaper was introduced as a song that Ambrose wrote about Stu, and featured an additional verse and quotes from Sadie Sorceress played over the music to The Grim Reaper. Stu sang the third verse twice instead of the second verse in Ice V. Iron Lung was introduced as a "song about vaping". Ambergris was introduced as a song about ["the most expensive naturally occurring ingredient"](https://en.wikipedia.org/wiki/Ambergris).
 
 #### Recordings
 
-{% include archive.html id="kglw2022-12-10" %}
+{% include archive.html id="kglw2022-12-10" credit="Ryan Suki" %}
 
 * [YouTube playlist](https://www.youtube.com/playlist?list=PLKV-LnsZiOo-hhur2DmJ8YzQqWZBPKVV3)
 
