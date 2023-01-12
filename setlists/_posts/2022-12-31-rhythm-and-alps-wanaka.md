@@ -33,4 +33,6 @@ tour: "World Tour '22"
 
 #### Recordings
 
+{% include archive.html id="kglw2022-12-31" type="AUD" credit="Scizzardland" %}
+
 {% include youtube.html id="9kNT7t7dSMk" author="[Scizzardland](https://www.youtube.com/@lavacard)" %}
