@@ -3,6 +3,8 @@ layout: setlist
 date: 2010-10-29
 venue: "Kaleide Theatre, RMIT University, Melbourne, Australia"
 title: "The First Known Performance: Bachelor of Contemporary Music Performance Exams"
+redirect_from:
+  - /setlists/2010/10/21/rmit-melbourne.html
 ---
 
 
