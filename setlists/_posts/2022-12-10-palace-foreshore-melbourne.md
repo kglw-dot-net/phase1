@@ -25,6 +25,8 @@ redirect_from:
 11. Magma
 12. Float Along — Fill Your Lungs
 
+<!--snippet-->
+
 * footnotes
 {:footnotes}
 [^1]: With Cavs drum solo.
