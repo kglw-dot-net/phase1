@@ -4,11 +4,10 @@ title: "Community Content Spotlight: 1063 Days: A King Gizzard Mini Documentary"
 author: W.B.T.G. Slinger
 ---
 
-The Red Rocks marathon shows were the pinnacle of the King Gizzard and the Lizard Wizard live performance. The band have always been regarded for their high energy live shows, which for years had been building from a more standard promotion of the newest material, into an acknowledgement of their large and diverse discography. It was finally time to put it all together, to look back at every album and construct a massive multiple-hour set in celebration — where better to do it than the iconic Colorado jam venue? Originally announced in 2019 and booked for March 2020, the COVID-19 pandemic would see the performances delayed for over two years.  
+The Red Rocks marathon shows were the pinnacle of the King Gizzard and the Lizard Wizard live performance. The band have always been regarded for their high energy live shows, which for years had been building from a more standard promotion of the newest material, into an acknowledgement of their large and diverse discography. It was finally time to put it all together, to look back at every album and construct a massive multiple-hour set in celebration — where better to do it than the iconic Colorado jam venue? Originally announced in 2019 and booked for March 2020, the COVID-19 pandemic would see the performances delayed for over two years. <!--snippet-->  
 The gap was enough for seven new albums, which had the band re-emerge with yet another significant stylistic shift into a new golden era, including a whole new demographic of fans; who, as the marathon sets finally approached for real were suddenly faced with the consideration of just how meaningful the wait had been.
 
 So, Rigo Garcia, who was to re-unite after a couple of years with friends Sammy and Jacob Rich at the show, decided to capture the moment — producing this excellent fan documentary: 1063 Days - A King Gizzard Mini Documentary.
-<!--snippet-->
 
 {% include youtube.html id="CuOlJXeM5RQ" title="1063 Days: A King Gizzard Mini Documentary" %}
 
