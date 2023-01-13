@@ -226,6 +226,7 @@ footer.site-footer {
     width: 90vw;
     max-width: calc(800px - (30px * 2)); // same as max-width on .wrapper
     aspect-ratio: 16 / 9;
+    margin-bottom: 2em;
   }
 
   nav { // next/prev links
