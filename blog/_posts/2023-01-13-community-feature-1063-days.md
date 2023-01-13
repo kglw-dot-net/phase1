@@ -1,6 +1,7 @@
 ---
 title: "Community Content Spotlight: 1063 Days: A King Gizzard Mini Documentary"
-category: Community Spotlight
+# category: Community Spotlight
+author: W.B.T.G. Slinger
 ---
 
 The Red Rocks marathon shows were the pinnacle of the King Gizzard and the Lizard Wizard live performance. The band have always been regarded for their high energy live shows, which for years had been building from a more standard promotion of the newest material, into an acknowledgement of their large and diverse discography. It was finally time to put it all together, to look back at every album and construct a massive multiple-hour set in celebration — where better to do it than the iconic Colorado jam venue? Originally announced in 2019 and booked for March 2020, the COVID-19 pandemic would see the performances delayed for over two years.  
@@ -8,7 +9,7 @@ The gap was enough for seven new albums, which had the band re-emerge with yet a
 
 So, Rigo Garcia, who was to re-unite after a couple of years with friends Sammy and Jacob Rich at the show, decided to capture the moment — producing this excellent fan documentary: 1063 Days - A King Gizzard Mini Documentary.
 
-<iframe width="1904" height="768" src="https://www.youtube.com/embed/CuOlJXeM5RQ" title="1063 Days: A King Gizzard Mini Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="CuOlJXeM5RQ" title="1063 Days: A King Gizzard Mini Documentary" %}
 
 The plan was loose. Unsure about filming at the show itself, most of the footage used was shot the day before at a fan meet-up organised by the Gizzverse Podcast creators Tommy O'Neill and Brian Cintron at the Monkey Barrel in Denver, likely the largest ever of its kind. Intending to find out how much the lives of various fans had changed in the 1063 days between tickets originally going on sale to the date of the first show, what they got instead was a passionate and free-wheeling exposition of what it means to be a fan of King Gizzard and the Lizard Wizard.
 
