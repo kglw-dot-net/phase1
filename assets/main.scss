@@ -63,8 +63,8 @@ footer.site-footer {
     &::after {
       content: ','; // if the `li` contains a `p` then a line can end up wrapping so that a 'trailing' comma starts a new line; to remedy: ensure there are no blank lines between the numbered entries of the setlist
     }
-    &:has(.segue)::after {
-      content: none; // duplicate of the following declaration block, but keeping this separate in order to debug Android Mobile...
+    &:has(.segue)::after { // Firefox and mobile Samsung browsers don't support `:has()`...
+      content: none; // separating this from the :last-child rule so that it will stil be processed
     }
     &:last-child::after {
       content: none;
