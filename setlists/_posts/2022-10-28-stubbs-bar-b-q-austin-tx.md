@@ -39,6 +39,9 @@ modified_date: 2023-01-15
     [^1]
 18. Magma
 
+* footnotes
+{:footnotes}
+[^1]: With Leah Senior narration.
 
 #### Notes
 
