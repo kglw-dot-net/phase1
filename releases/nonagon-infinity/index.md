@@ -11,11 +11,11 @@ title: "Nonagon Infinity"
 
 Release Date: 29 April 2016.  
 
-‘Nonagon Infinity opens the door’, this self-mythologising nod to Aldous Huxley’s doors of perception plunges you straight into the album – a faster, more intense frontier of Heavy-Psych. The phrase also became the first big meme in the KGATLW fan base; who were now galvanized in song for the first time with a title: the ‘Weirdo Swarm’.
+‘Nonagon Infinity opens the door’, this self-mythologising nod to Aldous Huxley’s _Doors of Perception_ plunges you straight into the album – a faster, more intense frontier of Heavy-Psych. The phrase also became the first big meme in the KGATLW fan base, who were now galvanized in song for the first time with a title: the ‘Weirdo Swarm’.
 
-In several ways the sequel to [I’m In Your Mind Fuzz](../im-in-your-mind-fuzz), Nonagon Infinity was the next big international breakthrough since that album. As well as doubling down on a signature sound for the band, it was also the first true full-length concept record, successfully completing an idea abandoned during recording of im-in-your-mind-fuzz.
+In several ways the sequel to [I’m In Your Mind Fuzz](../im-in-your-mind-fuzz), Nonagon Infinity was the next big international breakthrough since that album. As well as doubling down on a signature sound for the band, it was also the first true full-length concept record, successfully completing an idea abandoned during the recording of _I'm In Your Mind Fuzz_.
 
-The record is titled for this concept, featuring nine songs that all seamlessly transition (including the last track back into the first), forming an endless loop. This cycle is signified by the nonagon on the album artwork, superimposed over the mountain castle also from the im-in-your-mind-fuzz cover, defining it as the linchpin of the Gizzverse – the scene now beginning to draw significance akin to several other pivotal high grounds of literature, such as those found in the universes of Stephen King, J.R.R. Tolkien, and H.P. Lovecraft.
+The record is titled for this concept, featuring nine songs that all seamlessly transition (including the last track back into the first), forming an endless loop. This cycle is signified by the nonagon on the album artwork, superimposed over the mountain castle also from the im-in-your-mind-fuzz cover, defining it as the linchpin of the [Gizzverse](https://kglw.net/blog/gizzverse/2023/01/02/compendium-vol-00.html) – the scene now beginning to draw significance akin to several other pivotal high grounds of literature, such as those found in the universes of Stephen King, J.R.R. Tolkien, and H.P. Lovecraft.
 
 What to listen to next:
 
