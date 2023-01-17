@@ -17,6 +17,6 @@ What to listen to next:
 
 *   [If you liked the brighter, positive sound](../butterfly-3000)
 *   [If you want another Pop-based album](../changes)
-*   [If you more relaxed 60s style](../float-along-fill-your-lungs)
+*   [If you want more of the relaxed 60s style](../float-along-fill-your-lungs)
 *   [If you want a different ‘period’ sound](../fishing-for-fishies)
 *   [If you prefer the tone of the music to match very dark, intense lyrics](../infest-the-rats-nest)
