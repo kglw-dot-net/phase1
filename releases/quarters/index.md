@@ -11,7 +11,7 @@ title: "Quarters!"
 
 Release Date: 1 May 2015.  
 
-This slow, chill, Jazz-Rock album consists of four jams with a duration of 10 minutes and 10 seconds each. It is best known for fan-favourite track ‘The River’, that interpolates Dave Brubeck’s standard Take Five, establishing a fascination with time signatures that use odd numbers of beats.
+This slow, chill, Jazz-Rock album consists of four jams with a duration of 10 minutes and 10 seconds each. It is best known for fan-favourite track _The River_, that interpolates Dave Brubeck’s standard _Take Five_, establishing a fascination with time signatures that use odd numbers of beats.
 
 What to listen to next:
 
