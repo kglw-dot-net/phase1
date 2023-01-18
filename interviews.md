@@ -79,6 +79,7 @@ title: "Archive of King Gizzard interviews"
 ### 2012 
 
 * Dec: (video) [Interview on Speaker TV](https://www.youtube.com/watch?v=QIJgqO6MKO4) with Stu & Eric
+* May 1: (video) [Poncho](https://www.youtube.com/watch?v=LdcVrR8Fh1Q) Cavs, Stu, Eric, and Ambrose on recording their first album and prepping for first national tour.
 
 ### 2011
 
