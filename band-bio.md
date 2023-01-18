@@ -4,7 +4,7 @@ title: Band Biography
 
 King Gizzard & the Lizard Wizard are a six-piece band based in Naarm (Melbourne), Australia, and gradually formed in 2010 out of a group of friends mostly fresh out of high school. They largely fall under the umbrella of 'Psychedelic Rock', and with an always independent and totally DIY ethos, frequently switch between a drastic array of styles.
 
-##Musical Band Members:
+## Musical Band Members:
 
 **Stu Mackenzie** – The ‘front’ of the band, lead songwriter, lead vocalist, and steers the creative direction of the group either with album concepts, or the constant evolution of songwriting and instrumentation. Primarily plays guitar and often composes/plays bass in studio recordings, additionally composes with and plays anything with a keyboard, Flute, and Clarinet. Inspired by or formerly played: Sitar, Bağlama, and Zurna.
 
@@ -26,7 +26,7 @@ While stu is the primary contributor and the foundation of studio composition an
 
 Since the split from the band, [Flightless Records](https://flightlessrecords.com/) is now just one branch of a larger organisation since including Flightless Distro, a product design/shipping fulfilment facility for the Melbourne record industry, and Flightless Factory, a niche interest record store. The band now self-publish under the 'KGLW' brand.
 
-##Ancillary Members and Associates
+## Ancillary Members and Associates
 
 **Jason Galea** - [Jason](https://jasongalea.com/) is the primary visual artist for the group, who consider him a de-facto member of the band. He works in many formats and mediums including paint, digital illustration, animation, and sclupture; producing all the album artworks for the band as well as most music videos, merch designs, tour posters and live visuals. He founded the _Zonk Vision_ audio visual collective around the same time as the band formed, through which he connected with the band. A skater himself, he knew Ambrose through their local scene and was looking to launch a skateboard brand while Ambrose was balancing time between his amateur skating and music careers, however they both decided to invest in the band.
 
