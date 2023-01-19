@@ -5,7 +5,7 @@
 
 <iframe
   class="youtube-embed"
-  src="https://www.youtube.com/embed/{{ include.id }}"
+  src="https://www.youtube.com/embed/{{ include.id }}?{% if include.start %}start={{include.start}}{% endif %}&{% if include.end %}end={{include.end}}{% endif %}&"
   frameborder="0"
   allowfullscreen="true">
 </iframe>
