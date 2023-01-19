@@ -1,13 +1,14 @@
 ---
+layout: release
 title: "Made In Timeland"
+release_date: 2022-03-05
+discogs: https://www.discogs.com/master/2517286-King-Gizzard-And-The-Lizard-Wizard-Made-In-Timeland
 ---
 
 ![album cover of Made In Timeland](./cover.jpg)
 
 > Smoke and mirrors disappearing when you're near us  
 > Uncontactable, retractable
-
-Release Date: 5 March / 12 October, 2022
 
 Made in Timeland was cursed. Recorded some time during 2019, it was created as interlude music for the original marathon live shows planned for 2020. The material was shelved, presumably until it would be able to serve its original purpose; but as this prospect dragged out over the course of the pandemic, the band hoped instead to debut it at smaller local shows. Inevitably, these shows would be cancelled too, as the local live music scene struggled to get back on its feet.
 

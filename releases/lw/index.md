@@ -1,5 +1,8 @@
 ---
+layout: release
 title: "L.W."
+release_date: 2021-02-25
+discogs: https://www.discogs.com/master/1996411-King-Gizzard-And-The-Lizard-Wizard-LW
 ---
 
 ![album cover of L.W.](./cover.png)
@@ -8,8 +11,6 @@ title: "L.W."
 > When Gaia hangs by a thread  
 > When all the people die  
 > If not now, then when?
-
-Release Date: 25 February 2021
 
 Volume 3 of ‘Explorations into Microtonal Tuning’. This is the second of two ‘working from home’ albums developed by sending snippets back and forth online between band members during pandemic lockdown. Slightly more focused in genre than its counterpart, it embraces its Anatolian roots with a more solid brand of Prog-Rock and of course, strains of funk and metal.
 

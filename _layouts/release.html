@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+{%- assign date_format = site.minima.date_format | default: "%-d %M %Y" -%}
+
+<article class="release post h-entry" itemscope itemtype="http://schema.org/...">
+
+  <header class="post-header">
+
+    <h1 class="post-title p-name" itemprop="name">
+      {{ page.title }}
+    </h1>
+
+    <div class="release-meta">
+      <p>
+        Released
+        <time class="dt-published" datetime="{{ page.release_date | date_to_xmlschema }}" itemprop="startDate">
+          {{ page.release_date | date: date_format }}
+        </time>
+      </p>
+
+      <ul>
+        {%- if page.discogs -%}
+          <li>
+            <a href="{{page.discogs}}" target="_blank" title="check out this release on Discogs.com">
+              <img src="https://i.imgur.com/suDWFsf.gif" alt="Discogs.com icon" />
+            </a>
+          </li>
+        {%- endif -%}
+      </ul>
+
+    </div>
+
+  </header>
+
+  <div class="post-content e-content" itemprop="description">
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <p class="post-meta">
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+    {%- if page.modified_date -%}
+      Updated:
+      {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+      <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+        {{ mdate | date: date_format }}
+      </time>
+    {%- endif -%}
+  </p>
+
+</article>
+
+<p class="corrections">
+  <b>Something missing or wrong??</b> Please get in touch!
+  <br/><a href="mailto:kglw.net@gmail.com">kglw.net@gmail.com</a> — or social media links below
+</p>
