@@ -55,3 +55,9 @@ modified_date: 2023-01-15
 #### Recordings
 
 {% include archive.html id="kglw2022-10-31" type="AUD" credit="colesondilbeck" mic="Shure MV88" %}
+
+{% include youtube.html id="Z2g0Rb7LXEM" author="Sky's Boots" %}
+
+{% include youtube.html id="GZF-y1RA7aU" author="pickleshoes" %}
+
+{% include youtube.html id="iTEYEnYhG88" author="EchoesOfADistantDay" %}
