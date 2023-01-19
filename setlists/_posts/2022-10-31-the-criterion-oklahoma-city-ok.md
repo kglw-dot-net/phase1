@@ -30,6 +30,7 @@ modified_date: 2023-01-15
 10. Lava
 11. Let Me Mend the Past
 12. Doom City
+    {% include segue.html type=">" %}
 13. Minimum Brain Size
 14. Oddlife
 15. Magenta Mountain
