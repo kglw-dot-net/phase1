@@ -2,6 +2,7 @@
 layout: setlist
 date: "2022-10-29"
 venue: "Stubb's Bar-B-Q, Austin, TX, USA"
+title: "Stubb's Night 2"
 tour: "World Tour '22"
 modified_date: 2023-01-16
 ---
