@@ -52,3 +52,9 @@ Fans of stage banter will want to seek out this show for humorous birthday comme
 {% include archive.html id="kglw2022-10-26.vwmule" type="AUD" credit="Alex Leary / vwmule" mic="Gefell M21" %}
 
 {% include archive.html id="kglw2022-10-26" type="AUD" credit="Z-man" mic="Schoeps CCM4V" %}
+
+{% include youtube.html id="GjZub0nqRv8" author="skidmore6678" %}
+
+{% include youtube.html id="vZLHshcW4v8" author="Daphne Blue" %}
+
+{% include youtube.html id="SvwpgOKN_8s" author="Daphne Blue" %}
