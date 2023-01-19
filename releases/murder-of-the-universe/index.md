@@ -1,5 +1,8 @@
 ---
+layout: release
 title: "Murder Of The Universe"
+release_date: 2017-06-23
+discogs: https://www.discogs.com/master/1196366-King-Gizzard-And-The-Lizard-Wizard-Murder-Of-The-Universe
 ---
 
 ![album cover of Murder Of The Universe](./cover.jpg)
@@ -9,9 +12,7 @@ title: "Murder Of The Universe"
 > We are our own nature, abuser  
 > No future, computer, abuser
 
-Release Date: 23 June 2017.
-
-Perhaps the most unique record in the catalogue, Murder Of The Universe is a dark, noisy, unashamed deep dive into the Gizzverse. Progressing through various forms of geeky psychedelic Metal, extensive spoken narration is used in conjunction with vocals. This narration is provided by the ‘Reticent Raconteur’ (folk singer-songwriter label mate Leah Senior), and text to speech software as ‘Han-Tyumi’ the ‘confused cyborg’. Between the lyrics and the poetry of the characters, an epic tale is spun in three acts, infamously dubbed ‘post-audiobook’ by music critic Anthony Fantano. It could be equally described as sci-fi metal opera – but the unavoidable fact is that MOTU defies description and must be heard to be comprehended.
+Perhaps the most unique record in the catalogue, Murder Of The Universe is a dark, noisy, unashamed deep dive into the Gizzverse. Progressing through various forms of geeky psychedelic Metal, extensive spoken narration is used in conjunction with vocals. This narration is provided by the ‘Reticent Raconteur’ (folk singer-songwriter and label mate Leah Senior), and ‘Han-Tyumi’ the ‘confused cyborg’ (text to speech software). Between the lyrics and the poetry of the characters, an epic tale is spun in three acts, infamously dubbed ‘post-audiobook’ by music critic Anthony Fantano. It could be equally described as sci-fi metal opera – but the unavoidable fact is that MOTU defies description and must be heard to be comprehended.
 
 What to listen to next:
 

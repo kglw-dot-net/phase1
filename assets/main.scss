@@ -266,6 +266,33 @@ footer.site-footer {
   }
 }
 
+article.release {
+  .release-meta {
+    display: flex;
+    justify-content: flex-start;
+
+    > * {
+      margin: 0 1em;
+    }
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    li {
+      margin: 0 1em;
+    }
+    img {
+      height: 1em;
+    }
+  }
+  .post-content {
+    img {
+      max-width: 50vh;
+    }
+  }
+}
+
 .corrections {
   width: 75%;
   margin: 0 auto;

@@ -1,10 +1,11 @@
 ---
+layout: release
 title: "Butterfly 3001"
+release_date: 2022-01-21
+discogs: https://www.discogs.com/master/2473996-King-Gizzard-And-The-Lizard-Wizard-Butterfly-3001
 ---
 
 ![album cover for Butterfly 3001](./cover.jpg)
-
-Release Date: 21 January 2022
 
 This is a remix album of [Butterfly 3000](../butterfly-3000). Stems for the original songs were sent to a diverse set of unlikely collaborators and friends, from Bullant (Joey’s solo project), Confidence Man, Peaches, The Flaming Lips, to the legendary DJ Shadow.
 

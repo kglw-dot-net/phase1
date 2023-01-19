@@ -1,5 +1,8 @@
 ---
+layout: release
 title: "Changes"
+release_date: 2022-10-28
+discogs: https://www.discogs.com/master/2841403-King-Gizzard-And-The-Lizard-Wizard-Changes
 ---
 
 ![album cover for Changes](./cover.jpg)

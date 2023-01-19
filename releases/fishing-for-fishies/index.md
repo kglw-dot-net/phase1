@@ -1,5 +1,8 @@
 ---
+layout: release
 title: "Fishing For Fishies"
+release_date: 2019-04-26
+discogs: https://www.discogs.com/master/1535227-King-Gizzard-And-The-Lizard-Wizard-Fishing-For-Fishies
 ---
 
 ![album cover of Fishing For Fishies](./cover.png)
@@ -8,8 +11,6 @@ title: "Fishing For Fishies"
 > Don't make them feel happy  
 > Or me neither  
 > I feel so sorry for fishies
-
-Release Date: 26 April 2019.
 
 Three different songs contain the word ‘boogie’ in this track list, which probably tells you most of what you need to know going in to this Roots-Rock camping album. Very underrated in the discography, this anachronistic gem begs the listener to not take the music so seriously, and likely won't be enjoyed if you aren’t willing to have fun listening to it. This carefree sound is offset by genuine, stark concern for the environment and mental well being in the lyrics.
 

@@ -1,5 +1,8 @@
 ---
+layout: release
 title: "Polygondwanaland"
+release_date: 2017-11-17
+discogs: https://www.discogs.com/master/1268453-King-Gizzard-And-The-Lizard-Wizard-Polygondwanaland
 ---
 
 ![album cover of Polygondwanaland](./cover.jpg)
@@ -8,8 +11,6 @@ title: "Polygondwanaland"
 > Follow where the river runs  
 > We're gonna get there  
 > Polygondwanaland
-
-Release Date: 17 November 2017.
 
 Polygondwanaland is hard to deny as the first opus of the group. Developed for at least three years, this extra care clearly shows in the end product. Clean, meticulous, proggy and mathy, the primary ‘gimmick’ is that the album is composed entirely in a dizzying array of polymeters and polyrythms (simply put, each musical voice plays in a different time signature).
 
