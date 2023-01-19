@@ -9,7 +9,7 @@ title: "Polygondwanaland"
 > We're gonna get there  
 > Polygondwanaland
 
-Release Date: 17 November 2017
+Release Date: 17 November 2017.
 
 Polygondwanaland is hard to deny as the first opus of the group, developed for at least three years, this extra care clearly shows in the end product. Clean, meticulous, proggy and mathy, the primary ‘gimmick’ is that the album is composed entirely in a dizzying array of polymeters and polyrythms (simply put, each musical voice plays in a different time signature).
 
