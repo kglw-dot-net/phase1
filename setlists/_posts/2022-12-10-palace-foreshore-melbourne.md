@@ -42,6 +42,6 @@ The band introduced the show by acknowledging how little they play hometown show
 
 * [YouTube playlist](https://www.youtube.com/playlist?list=PLKV-LnsZiOo-hhur2DmJ8YzQqWZBPKVV3)
 
-{% include youtube.html id="-f4MNT_qLTs" author="Ryan Suki" %}
+{% include youtube.html id="HoAV99PW7KA" author="The Guy At The Melbourne Gigs" %}
 
-{% include youtube.html id="BF6nR5FNl-g" author="Ryan Suki" %}
+{% include youtube.html id="WJWk8H99eDk" author="The Guy At The Melbourne Gigs" %}
