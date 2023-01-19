@@ -72,3 +72,13 @@ tour: "World Tour '22"
 
 Vomit Coffin featured the now-infamous "Amby Snot Rocket". Blame It on the Weather was humorously announced as the "complete opposite style of music" to the show-opening Murder of the Universe suite. Cut Throat Boogie was announced as a song about Ambrose getting stabbed in the neck with a broken bottle. Wah Wah began with the intro to The River and subsequently featured The River quotes and teases. Sadie Sorceress featured an additional verse from The Grim Reaper played over the music to Sadie Sorceress. Joey requested the cameraperson zoom in to his face as close as possible during the intro to Self-Immolate and introduced Cavs as "[John Henry Bonham](https://en.wikipedia.org/wiki/John_Bonham)", followed by a drum solo and a "Moby Dick" (Led Zeppelin) tease, plus an additional brief drum solo and "Moby Dick" tease at the end of the song. Before Her and I (Slow Jam 2), the weather was discussed and the band's ignorance regarding Fahrenheit to Celsius conversions was revealed. The song itself featured Slow Jam 1 teases and a brief Cut Throat Boogie jam. Hot Wax was performed as a request for a fan named "Joe". Timeland was played over the PA as the setbreak music. Head On/Pill opened with a tease of "The Star-Spangled Banner", contained Hypertension teases, and was unfinished leading into Am I in Heaven?. Venusian 1 closed with a Cavs drum solo which led into Venusian 2. Ambrose introduces Billabong Valley as being about a bushranger and is interrupted by Joey calling him "mad-cunt Morgan". Let Me Mend the Past was announced as a song about Ambrose's somewhat troubled upbringing and was dedicated to Edith, Ambrose's sister. Alter Me III and Altered Beast IV were performed with Leah Senior providing the narration. Tetrachromacy and Hypertension were on the printed setlist but cut due to time constraints. 
 
+
+#### Recordings
+
+{% include archive.html id="kglw2022-11-02" type="SBD" %}
+
+{% include youtube.html author="nugs.net" id="jZqKxdFCF1E" start="420" %}
+
+{% include youtube.html author="Nathan Groesser" id="JxJbfsdgDms" %}
+
+{% include youtube.html author="Mary K" id="DHpU_b9dHQk" %}
