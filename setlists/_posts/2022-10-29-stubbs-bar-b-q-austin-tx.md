@@ -41,3 +41,9 @@ For those wondering about the nature of the show-opening Rattlesnake sequence, t
 #### Recordings
 
 {% include archive.html id="kglw2022-10-29" credit="inboxcar" mic="AT4051" type="AUD" %}
+
+{% include youtube.html id="RfdT0MzdHAQ" author="nygirly 420" %}
+
+{% include youtube.html id="LxBWsj2pPlE" author="Everardo Campos" %}
+
+{% include youtube.html id="faZwM6vJXSc" author="Everardo Campos" %}
