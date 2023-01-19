@@ -20,25 +20,21 @@ modified_date: 2023-01-17
  8. Hypertension
  9. Persistence
     [^1]
-10. Happy Birthday to You
-11. Persistence
-    [^2]
-12. Ice V
-13. The River
-14. Digital Black
+10. Ice V
+11. The River
+12. Digital Black
     {% include segue.html type=">" %}
-15. Han-Tyumi, the Confused Cyborg
+13. Han-Tyumi, the Confused Cyborg
     {% include segue.html type=">" %}
-16. Soy-Protein Munt Machine
+14. Soy-Protein Munt Machine
     {% include segue.html type=">" %}
-17. Vomit Coffin
+15. Vomit Coffin
     {% include segue.html type=">" %}
-18. Murder of the Universe
-19. Magma
-20. Lava
+16. Murder of the Universe
+17. Magma
+18. Lava
 
-[^1]: Unfinished.
-[^2]: The unfinished portion of the song.
+[^1]: With Happy Birthday to You interlude.
 * footnotes
 {:footnotes}
 
