@@ -51,3 +51,9 @@ Hot Wax was announced as a dedication to a fan named "Joe". I'm Not in Your Mind
 #### Recordings
 
 {% include archive.html type="AUD" id="kglw2022-10-28" credit="inboxcar" mic="AT4051" %}
+
+{% include youtube.html id="m6NYF7iJeYI" author="Jose Ramirez" %}
+
+{% include youtube.html id="djwoFn1WEeA" author="Everardo Campos" %}
+
+{% include youtube.html id="-AdajC0CQpk" author="Everardo Campos" %}
