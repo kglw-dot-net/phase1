@@ -18,6 +18,7 @@ modified_date: 2023-01-16
     [^1]
  7. Hell
  8. Crumbling Castle
+    {% include segue.html type=">" %}
  9. The Fourth Colour
 10. Magenta Mountain
 11. Ice V
