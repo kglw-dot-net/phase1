@@ -175,7 +175,7 @@ footer.site-footer {
       .credit:after { content: ')'; }
     }
     iframe {
-      height: calc(250px + 30px); // [list_height param in iframe's src] plus [height of controls bar (play/skip/volume etc) within iframe]
+      height: calc(200px + 30px); // [list_height param in iframe's src] plus [height of controls bar (play/skip/volume etc) within iframe]
     }
   }
 }
