@@ -14,17 +14,22 @@ body,
 pre,
 code,
 .highlight {
-  color: #ccc;
+  color: #ddd;
   background: #111 !important;
 }
 
 a {
-  color: #49c;
+  color: #5be;
   &:hover,
   &:active,
   &:visited {
-    color: #87d;
+    color: #c9f;
   }
+}
+
+blockquote {
+  color: #ccc;
+  letter-spacing: -0.5px;
 }
 
 hr {
