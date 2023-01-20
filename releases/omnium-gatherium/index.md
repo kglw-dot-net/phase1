@@ -3,14 +3,14 @@ layout: release
 title: "Omnium Gatherum"
 release_date: 2022-04-22
 discogs: https://www.discogs.com/master/2680088-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum
+cover: ./cover.png
 ---
-
-![album cover for Omnium Gatherium](./cover.png)
 
 > I am tectonic  
 > I am megalithic  
 > My spirit runs mauve  
 > I am the mountain of which you dream
+{:class="lyrics"}
 
 _Omnium Gatherum_ wraps up the last of the pandemic lockdown-era isolation songs with the results of the first recording sessions with the band all back together jamming in the same room. _Omnium Gatherum_ is an eclectic mixture of sounds that blurs the lines between some of their most retrospective sounding songs, and some of their boldest, off-the-wall experimentation.
 

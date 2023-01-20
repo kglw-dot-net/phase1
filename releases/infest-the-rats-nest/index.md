@@ -3,14 +3,14 @@ layout: release
 title: "Infest The Rats’ Nest"
 release_date: 2019-08-16
 discogs: https://www.discogs.com/master/1590025-King-Gizzard-And-The-Lizard-Wizard-Infest-The-Rats-Nest
+cover: ./cover.png
 ---
-
-![album cover of Infest The Rats' Nest](./cover.png)
 
 > Open your eyes and light the fluid  
 > Get into it, petrol siphon  
 > Low on meals, browning fields  
 > Bury children
+{:class="lyrics"}
 
 This is the searing culmination after years of fan speculation if KGATLW would ever produce a pure-blooded Metal album. Thrash was the perfect experiment for each member to push their technical abilities further, with some familiar undertones of nerdy Stoner-Metal and classic Hard-Rock.
 

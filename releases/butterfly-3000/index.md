@@ -3,14 +3,14 @@ layout: release
 title: "Butterfly 3000"
 release_date: 2021-06-11
 discogs: https://www.discogs.com/master/2167084-King-Gizzard-And-The-Lizard-Wizard-Butterfly-3000
+cover: ./cover.jpg
 ---
-
-![album cover of Butterfly 3000](./cover.jpg)
 
 > Falling upwards through clouds of glue  
 > Split dry sky beckons me through  
 > A hand outstretched calls my name  
 > Time to wake again
+{:class="lyrics"}
 
 The most positive, uplifting album and first to be composed entirely in major scales. The band accompanies programmed synths through a trippy odyssey, looking far into the future and exploring themes of metamorphosis with newfound confidence inspired by fatherhood.
 

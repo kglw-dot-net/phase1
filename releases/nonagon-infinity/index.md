@@ -3,14 +3,14 @@ layout: release
 title: "Nonagon Infinity"
 release_date: 2016-04-29
 discogs: https://www.discogs.com/master/992310-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity
+cover: ./cover.png
 ---
-
-![album cover of Nonagon Infinity](./cover.png)
 
 > Loosen up  
 > Time to drop  
 > Fuck shit up  
 > Don't forget about it
+{:class="lyrics"}
 
 ‘Nonagon Infinity opens the door’, this self-mythologising nod to Aldous Huxley’s [_Doors of Perception_](https://en.wikipedia.org/wiki/The_Doors_of_Perception) plunges you straight into the album – a faster, more intense frontier of Heavy-Psych. The phrase also became the first big meme in the KGATLW fan base, who were now galvanized in song for the first time with a title: the ‘Weirdo Swarm’.
 

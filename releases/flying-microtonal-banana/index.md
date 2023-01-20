@@ -3,14 +3,14 @@ layout: release
 title: "Flying Microtonal Banana"
 release_date: 2017-02-24
 discogs: https://www.discogs.com/master/1136944-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu
+cover: ./cover.jpg
 ---
-
-![album cover of Flying Microtonal Banana](./cover.jpg)
 
 > Look into the sky and see the pattern  
 > Reflecting in your eye from a distance  
 > Mirroring the stars are the atoms  
 > Mixing up like a cocktail
+{:class="lyrics"}
 
 Volume 1 of ‘Explorations into Microtonal Tuning’. Named after a custom yellow Flying V gifted to the band leader by a guitar maker friend, the instrument was made with a banana shaped head stock and custom fret board that included extra frets for microtonal scales based on the Bağlama. This Turkish folk instrument was the fourth (and would be the last) chosen in a project to learn a new instrument every year.
 

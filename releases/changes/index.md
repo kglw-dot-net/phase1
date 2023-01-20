@@ -3,14 +3,14 @@ layout: release
 title: "Changes"
 release_date: 2022-10-28
 discogs: https://www.discogs.com/master/2841403-King-Gizzard-And-The-Lizard-Wizard-Changes
+cover: ./cover.jpg
 ---
-
-![album cover for Changes](./cover.jpg)
 
 > Who should we change for?  
 > Who could we be?  
 > When my race is done, how did I run?  
 > Did I par the course and pass the baton on?
+{:class="lyrics"}
 
 Release Date: 28 October 2022
 

@@ -3,14 +3,14 @@ layout: release
 title: "12 Bar Bruise"
 discogs: https://www.discogs.com/master/474693-King-Gizzard-And-The-Lizard-Wizard-12-Bar-Bruise
 release_date: 2012-09-07
+cover: ./cover.jpg
 ---
-
-![cover of 12 Bar Bruise](./cover.jpg)
 
 > Well I ain’t dumb  
 > But I ain’t that smart  
 > And I can’t spell  
 > But I can sound it out
+{:class="lyrics"}
 
 The debut album. Surfy, lo-fi, and slightly trippy Garage Rock. This album was partially recorded on iPhones and serves as a means to an end, delineating all looser prior material and establishing KGATLW as a fully functioning band.
 

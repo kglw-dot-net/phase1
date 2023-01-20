@@ -3,9 +3,8 @@ layout: release
 title: "Teenage Gizzard"
 release_date: 2020-12-25
 discogs: https://www.discogs.com/master/1888098-King-Gizzard-And-The-Lizard-Wizard-Teenage-Gizzard 
+cover: ./cover.jpg
 ---
-
-![album cover of Teenage Gizzard](./cover.jpg)
 
 Teenage Gizzard is a compilation of the earliest recorded and self published material from the band up until the [Willoughby’s Beach](../willoughbys-beach) EP – sounding similar to that release, the songs are highly characteristic of the era: fast, raw, and simple.
 

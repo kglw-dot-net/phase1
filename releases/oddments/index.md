@@ -3,14 +3,14 @@ layout: release
 title: "Oddments"
 release_date: 2014-03-07
 discogs: https://www.discogs.com/master/840091-King-Gizzard-The-Lizard-Wizard-Oddments
+cover: ./cover.jpg
 ---
-
-![album cover of Oddments](./cover.jpg)
 
 > It's kind of funny  
 > That I live the poetry I can not write  
 > But you, my beauty  
 > Shall be fixed forever loosely in my heart
+{:class="lyrics"}
 
 Oddments is a loose collection of lo-fi psych songs that were created outside of other whole album projects or for abandoned concepts. Representing several paths that the band never went down, these are some of the most unique KGATLW songs that tie up the loose ends of their early period for bigger and better sounding projects.
 
