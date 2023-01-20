@@ -12,8 +12,6 @@ cover: ./cover.jpg
 > Did I par the course and pass the baton on?
 {:class="lyrics"}
 
-Release Date: 28 October 2022
-
 Changes takes the crown for the most time in development. Initially started in 2017, it had been recorded and locked-in as the conclusion of their project to release five albums in that year — but they weren’t fully satisfied. Upon realising that they didn’t yet have the ‘musical vocabulary’ to fully do justice to its concept, it was shelved in favour of [Gumboot Soup](../gumboot-soup), a concept-less wrap-up for the year’s material.
 
 This dissatisfaction came from a tricky feature of Changes’ composition, based on the key change between D and F#, this is a fiddly transition with few options due to the high degree of separation between keys that are centred a major third apart. Devising several variations on the key change spawned the originally album-length title track, which was later condensed and branched-off, forming a ‘song-cycle’ based on each variation that slowly coming to fruition in spare time over the years.
