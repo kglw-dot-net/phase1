@@ -272,9 +272,18 @@ footer.site-footer {
 }
 
 article.release {
+  .post-title {
+    text-align: center;
+  }
+
   .release-meta {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-evenly;
+    margin: 1.5em;
+    border-radius: 1em;
+    padding: 0.5em;
+    background: #333;
+    color: #ccc;
 
     > * {
       margin: 0 1em;
@@ -291,9 +300,18 @@ article.release {
       height: 1em;
     }
   }
+
+  img[itemprop="thumbnailUrl"] {
+    float: right;
+    width: 50%;
+    max-width: 500px;
+    margin: 1em;
+  }
+
   .post-content {
-    img {
-      max-width: 50vh;
+    .lyrics {
+      border: 0;
+      text-align: center;
     }
   }
 }

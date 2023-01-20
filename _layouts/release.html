@@ -20,7 +20,7 @@ layout: default
         </time>
       </p>
 
-      <p hidden itemprop="byArtist">King Gizzard and the Lizard Wizard</p>
+      <p hidden itemprop="byArtist copyrightHolder">King Gizzard and the Lizard Wizard</p>
 
       <ul>
         {%- if page.discogs -%}
@@ -31,10 +31,11 @@ layout: default
           </li>
         {%- endif -%}
       </ul>
-
     </div>
 
   </header>
+
+  <img src="{{page.cover}}" itemprop="thumbnailUrl" />
 
   <div class="post-content e-content" itemprop="description">
     {{ content }}
