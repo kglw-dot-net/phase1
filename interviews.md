@@ -25,6 +25,7 @@ title: "Archive of King Gizzard interviews"
 * Jun 21: (video) [3voor12 extra, Sagid Carter](https://www.youtube.com/watch?v=WKXDI_INZgs) with Stu
 * Jun 11: Under the Radar, ["King Gizzard & The Lizard Wizard's Stu Mackenzie on 'Butterfly 3000' and their incredible fanbase"](https://www.undertheradarmag.com/interviews/king_gizzard_the_lizard_wizards_stu_mackenzie_on_butterfly_3000_and_their_i) by Jake Uitti (with Stu) - [(archived)](https://web.archive.org/web/20230104035348/https://www.undertheradarmag.com/interviews/king_gizzard_the_lizard_wizards_stu_mackenzie_on_butterfly_3000_and_their_i)
 * May 27: National Public Radio, (audio) ["King Gizzard & The Lizard Wizard on making microtonal music during a pandemic](https://www.npr.org/2021/05/27/1000902256/king-gizzard-the-lizard-wizard-on-making-microtonal-music-during-a-pandemic) by Stephen Kallao and John Myers - [(archived)](https://web.archive.org/web/20230104033504/https://www.npr.org/2021/05/27/1000902256/king-gizzard-the-lizard-wizard-on-making-microtonal-music-during-a-pandemic)
+* May 25: (audio) [Dive For Your Memory - Ep 15 - Ambrose Kenny Smith](https://diveforyourmemory.podbean.com/e/dive-for-your-memory-ep-15-ambrose-kenny-smith/)
 * May 1: (video) [Tape Notes Podcast Ep. 64: King Gizzard & the Lizard Wizard](https://www.youtube.com/watch?v=ODI0x2unT2Q)
 * Feb 18: Loud and Quiet, ["Reactivating the soul: the first interview with King Gizzard about new album LW"](https://www.loudandquiet.com/interview/reactivating-the-soul-the-first-interview-with-king-gizzard-about-new-album-lw/) by Luke Cartledge
 * Jan 14: (video) [Songwriters on Process](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Stu
@@ -64,23 +65,33 @@ title: "Archive of King Gizzard interviews"
 
 * Nov 22: AudioTechnology, [Audio technology King Gizzard’s Lo-Fi Gut Feeling](https://www.audiotechnology.com/features/king-gizzards-lo-fi-gut-feeling)
 * Jun 17: (video) [Live in Limbo](https://www.youtube.com/watch?v=8hW_OeSrLQA) with Stu
+* Mar 2: (video) SRF 3, [King Gizzard & The Lizard Wizard: Australische Reptilien in Zurich gesichtet](https://www.youtube.com/watch?v=nPBDcgNw6Pc) with Stu
 
 ### 2015
 
 * Dec 1: Rolling Stone [King Gizzard and the Lizard Wizard Talk Infinitely Looping Concept LP](https://www.rollingstone.com/music/music-features/king-gizzard-and-the-lizard-wizard-talk-infinitely-looping-concept-lp-187873/)
 * Nov 10: DIY, ["King Gizzard & the Lizard Wizard talk shedding skin: 'People can think whatever they want'"](https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon) by Tom Connick - [(archived)](https://web.archive.org/web/20230104052938/https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon)
+* Jul: (video) Best of Baltic Entertainment, [...Plays 'Would You Rather' Game at Positivus Festival 2015](https://www.youtube.com/watch?v=ZW03AAEYaiQ&t=43s)
 
 ### 2014
 
+* Nov: (video) [Vodafone Mexefest 2014, Portugal](https://www.youtube.com/watch?v=8604AT8aAhk)
 * Apr 23: (video) [The AU Review](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Cavs, Joey, and Lucas
 * Feb 14: Rolling Stone, [Why King Gizzard and the Lizard Wizard Released Five Albums in a Single Year](https://www.rollingstone.com/music/music-features/why-king-gizzard-and-the-lizard-wizard-released-five-albums-in-a-single-year-198057/)
 * unknown: (video) [Griffin Brown, School Project Interview](https://www.youtube.com/watch?v=PuL45bLHEWI) with Stu (including solo acoustic Vegemite)
 
+### 2013
+
+* Oct 16: (video) Banalarama, [DD Dumbo, King Gizzard, Willow Beats (live) on ABABCd](https://youtu.be/MPk4viiXIUU?t=691)
+* Oct 9: (video) [2013 AIR Awards for Best Independent Hard Rock or Punk Album](https://www.youtube.com/watch?v=Sf1M4Sl6TyY) with Ambrose and Cook
+
 ### 2012 
 
+* Dec 8: (video)[1700 at Face the Music 2012](https://www.youtube.com/watch?v=z6ZnE5pwPqw) with Stu & Eric
 * Dec: (video) [Interview on Speaker TV](https://www.youtube.com/watch?v=QIJgqO6MKO4) with Stu & Eric
 * May 1: (video) [Poncho](https://www.youtube.com/watch?v=LdcVrR8Fh1Q) Cavs, Stu, Eric, and Ambrose on recording their first album and prepping for first national tour.
 
 ### 2011
 
 * Oct 220: FasterLouder/Junkee, [Features: King Gizzard And The Lizard Wizard](https://web.archive.org/web/20160322110642/http://fasterlouder.junkee.com/king-gizzard-and-the-lizard-wizard/823749)
+* Jun 18: (video) [Poncho S02E09, "LOL"](https://www.youtube.com/watch?v=gsLDMnFErOA) by Nick Clarke [(archived)](http://web.archive.org/web/20130928131241/http://www.poncho.tv/eps_s02e09.php)
