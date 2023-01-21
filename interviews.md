@@ -10,7 +10,7 @@ title: "Archive of King Gizzard interviews"
   [additional questions cut from article](https://www.reddit.com/r/KGATLW/comments/yxtsso/i_interviewed_amby_heres_the_story/)
 * Oct 31: The New Yorker, ["Into the Gizzverse with Shrimp and Juicy"](https://www.newyorker.com/magazine/2022/11/07/into-the-gizzverse-with-shrimp-and-juicy) - [(archived)](https://web.archive.org/web/20230104050548/https://www.newyorker.com/magazine/2022/11/07/into-the-gizzverse-with-shrimp-and-juicy)
 * Oct 26: NME, ["King Gizzard And The Lizard Wizard: 'If something is shit and no one likes it, you just put out another one the next month.'"](https://www.nme.com/big-reads/king-gizzard-and-the-lizard-wizard-cover-interview-2022-changes-3335897) by Josh Martin (with full band)
-* Oct 26: (video) [ABC News Australia](https://www.youtube.com/watch?v=0arTQa4IJoU)
+* Oct 26: (video) [ABC News Australia](https://www.youtube.com/watch?v=rxle4toNKHU)
 * Jun 13: Exberliner, ["King Gizzard & The Lizard Wizard: 'We're a fucking weird band'](https://beat.com.au/interview-psych-rock-chameleons-king-gizzard-and-the-lizard-wizard-on-what-makes-them-unique/) by Damien Cummings (with Joey)
 * May/Jun: TapeOp, ["Stu Mackenzie of King Gizzard & the Lizard Wizard: A Lot More Considered"](https://tapeop.com/interviews/149/stu-mackenzie-king-gizzard-amp-lizard-wizard/) by Geoff Stanfield (with Stu)
 * May 31: (video) Andy Frasco's World Saving Podcast, ["EP 174 w/ Stu Mackenzie"](https://www.youtube.com/watch?v=aUnZ7iEmDxQ)
