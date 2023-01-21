@@ -28,10 +28,10 @@ tour: "World Tour '22"
 
 #### Recordings
 
-{% include archive.html id="kglw2022-10-21.BOOTS" type="AUD" mic="Shure MX88" taper="BOOTsy Jacobs" %}
+{% include archive.html id="kglw2022-10-21.BOOTS" type="AUD" mic="Shure MX88" credit="BOOTsy Jacobs" %}
 
-{% include youtube.html id="U7Hdux73rug" credit="Mystery Jack" %}
+{% include youtube.html id="U7Hdux73rug" author="Mystery Jack" %}
 
-{% include youtube.html id="beEGosKdgfM" credit="Micheál McAuley" %}
+{% include youtube.html id="beEGosKdgfM" author="Micheál McAuley" %}
 
-{% include youtube.html id="aBfIrxr7jlI" credit="relentfx" %}
+{% include youtube.html id="aBfIrxr7jlI" author="relentfx" %}
