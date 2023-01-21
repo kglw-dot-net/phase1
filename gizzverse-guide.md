@@ -44,11 +44,11 @@ Here are some other general playlist links:
 
 ## Criticism
 
-While music critics and fan bases always clash, due credit for [Pitchfork](https://pitchfork.com/artists/32633-king-gizzard-the-lizard-wizard/), [NME](https://www.nme.com/artists/king-gizzard-the-lizard-wizard), and Anthony Fantano at [The Needle Drop](https://www.youtube.com/playlist?list=PLW8qY_BtlPqcMWd3nn8E8p3rm3YlcFV0d) for (mostly) giving KGATLW a fair shot.
+While music critics and fan bases always clash, due credit for [Pitchfork](https://pitchfork.com/artists/32633-king-gizzard-the-lizard-wizard/), [NME](https://www.nme.com/artists/king-gizzard-the-lizard-wizard), and Anthony Fantano at [The Needle Drop](https://www.youtube.com/playlist?list=PLW8qY_BtlPqcMWd3nn8E8p3rm3YlcFV0d) for (mostly) giving KGLW a fair shot.
 
 ## Live Material
 
-We are currently in a renaissance of KGATLW live performance, and the 2022 NA tour is what gathered together the fans that created this site. After two years of paused touring, the band have bottled up their energy and returned in the style of a 'jam-band' placing particular emphasis on offering unique live shows with sequences and jams you can't get from the studio recordings.  
+We are currently in a renaissance of KGLW live performance, and the 2022 NA tour is what gathered together the fans that created this site. After two years of paused touring, the band have bottled up their energy and returned in the style of a 'jam-band' placing particular emphasis on offering unique live shows with sequences and jams you can't get from the studio recordings.  
 The band have provided permission for uploading of audience tapes to [archive.org](https://archive.org/details/KingGizzardAndTheLizardWizard) where the biggest selection of recordings are available to listen to.  
 If you are looking for particular times or locations, check out our [set-lists](../setlists) page. We have links to listen available where applicable, but for the most comprehensive selection of King Gizzard live recordings anywhere, check out the [King Gizzard Live Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1D5YoZkFG29Ldbi8M2XvfXY3ipmb6ydnAyeQoMK0wIZQ/htmlview) by Reddit user u/yebrent.  
 The band also have the [Official Bootlegger](./releases#official-bootlegger-program) program available, where several mixed soundboard recordings are available for anyone to freely publish their own editions of (with some restrictions).  
