@@ -4,7 +4,7 @@ title: "Releases: Official and Bootlegger"
 
 ## Canonical Albums
 
-The main output of the band. Most groups never make so many albums in a full career, so it is this feat that KGATLW will go down in history for. There is something for everyone in this discography, the home of the ‘Gizzverse’. But this extended universe must be experienced to be understood, so more on that as we go.
+The main output of the band. Most groups never make so many albums in a full career, so it is this feat that KGLW will go down in history for. There is something for everyone in this discography, the home of the ‘Gizzverse’. But this extended universe must be experienced to be understood, so more on that as we go.
 
 *   [12 Bar Bruise](../releases/12-bar-bruise)
 *   [Eyes Like the Sky](../releases/eyes-like-the-sky)
