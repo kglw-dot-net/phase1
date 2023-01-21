@@ -32,6 +32,7 @@ hr {
 }
 
 .site-header {
+  z-index: 1; // above nav.setlist
   border: 0;
   background: $gizz-magenta;
   font-variant: small-caps;
@@ -163,7 +164,7 @@ footer.site-footer {
   }
 
   .archive-embed {
-    margin: 1em;
+    margin: 1em 0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -234,39 +235,59 @@ footer.site-footer {
     margin-bottom: 2em;
   }
 
-  nav { // next/prev links
-    display: flex;
-    justify-content: center;
+}
 
-    a {
-      margin: 0 5vw;
-      border: 1px solid $gizz-magenta;
-      border-radius: 1em;
-      padding: 1vh 2vw;
-      color: $gizz-magenta;
+.wrapper {
+  display: flex; // so we can reorder the children
+  flex-flow: row wrap;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+article.setlist {
+  order: 2;
+  margin-top: 4em; // slightly more than height of nav.setlist
+  @media (min-width: 1149px) {
+    margin-top: 0;
+  }
+}
+nav.setlist { // next/prev links
+  order: 1;
+  position: absolute; // old-school...
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
 
-      &:hover {
-        text-decoration: none;
-        border-color: $gizz-bright-green;
-        background: $gizz-magenta;
-        color: black;
-      }
+  a {
+    margin: 0 5px;
+    border: 1px solid $gizz-magenta;
+    border-radius: 1em;
+    padding: 0.2em 0.7em;
+    text-align: center;
+    white-space: pre-line; // to allow linebreak between content-label and date
+    color: $gizz-magenta;
+
+    @media (min-width: 500px) {
+      white-space: inherit; // turn linebreak into single line on wider screens
     }
 
-    :first-child {
-      &:before {
-        // content: 'prior show: ';
-      }
+    &:hover {
+      text-decoration: none;
+      border-color: $gizz-bright-green;
+      background: $gizz-magenta;
+      color: black;
     }
-    :last-child {
-      &:before {
-        // content: 'next show: ';
-      }
+    &:first-child:before {
+      content: 'prior show:\0A';
+    }
+    &:last-child:before {
+      content: 'next show:\0A';
     }
   }
 }
 
 .corrections {
+  order: 3;
   width: 75%;
   margin: 0 auto;
   padding: 5px 15px;
