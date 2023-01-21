@@ -34,7 +34,7 @@ modified_date: 2023-01-16
 
 Rattlesnake contained Sleep Drifter teases. The outro to Sleep Drifter contained Honey quotes before returning to the earlier Rattlesnake jam. Before Pleura, the band shouted out [The Murlocs](https://unclemurl.com) (with Cavs filling in on drums) for killing it prior to their set. Before Gaia, it was noted that Fishing for Fishies had been recorded by Gareth Liddiard of [Tropical Fuck Storm](https://www.tropicalfuckstormrecords.com). Gaia featured a Cavs drum solo over a metal vamp from the band. Before The Dripping Tap, Joey again shouted out The Murlocs, [Leah Senior](https://leahsenior.bandcamp.com/album/the-passing-scene), and "Tropical Fuck Cunts".
 
-**KGLW Staff Notes:**  
+**KGLW.net Staff Notes:**  
 For those wondering about the nature of the show-opening Rattlesnake sequence, the band is jamming on Rattlesnake themes before an immediate and natural transition to Honey, which is immediately followed by a segue into Sleep Drifter that contains elements of Honey all the way through, and finally a return to the bridge and "Rattle, rattle, rattle" portion of the preceding Rattlesnake jam, thus completing the "Snake Sandwich".
 
 
