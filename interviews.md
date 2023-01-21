@@ -65,6 +65,7 @@ title: "Archive of King Gizzard interviews"
 
 * Nov 22: AudioTechnology, [Audio technology King Gizzard’s Lo-Fi Gut Feeling](https://www.audiotechnology.com/features/king-gizzards-lo-fi-gut-feeling)
 * Jun 17: (video) [Live in Limbo](https://www.youtube.com/watch?v=8hW_OeSrLQA) with Stu
+* May: (audio) Goetia Media, [King Gizzard & the Lizard Wizard interview for GoetiaMedia 2016](https://www.youtube.com/watch?v=YcSCJgkAg3o) with Stu
 * Mar 2: (video) SRF 3, [King Gizzard & The Lizard Wizard: Australische Reptilien in Zurich gesichtet](https://www.youtube.com/watch?v=nPBDcgNw6Pc) with Stu
 
 ### 2015
@@ -72,11 +73,14 @@ title: "Archive of King Gizzard interviews"
 * Dec 1: Rolling Stone [King Gizzard and the Lizard Wizard Talk Infinitely Looping Concept LP](https://www.rollingstone.com/music/music-features/king-gizzard-and-the-lizard-wizard-talk-infinitely-looping-concept-lp-187873/)
 * Nov 10: DIY, ["King Gizzard & the Lizard Wizard talk shedding skin: 'People can think whatever they want'"](https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon) by Tom Connick - [(archived)](https://web.archive.org/web/20230104052938/https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon)
 * Jul: (video) Best of Baltic Entertainment, [...Plays 'Would You Rather' Game at Positivus Festival 2015](https://www.youtube.com/watch?v=ZW03AAEYaiQ&t=43s)
+* Mar: (video) 3RRRFM, [Interview at Golden Plains 2014](https://www.youtube.com/watch?v=gsCD9KlLcDk)
 
 ### 2014
 
 * Nov: (video) [Vodafone Mexefest 2014, Portugal](https://www.youtube.com/watch?v=8604AT8aAhk)
+* Nov: (video) Side Stage Collective, [Vodafone Mexefest 2014](https://www.youtube.com/watch?v=FAXgfld3MEM)
 * Apr 23: (video) [The AU Review](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Cavs, Joey, and Lucas
+* Mar: (video) Speaker TV, [Six Sevenths of King Gizzard and the Lizard Wizard Descrbie Getting 'Serious' as a Band](https://www.youtube.com/watch?v=VGP5xFp0U2c)
 * unknown: (video) [Griffin Brown, School Project Interview](https://www.youtube.com/watch?v=PuL45bLHEWI) with Stu (including solo acoustic Vegemite)
 
 ### 2013
