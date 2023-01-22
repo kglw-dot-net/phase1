@@ -237,7 +237,7 @@ footer.site-footer {
 
 }
 
-.wrapper {
+main > .wrapper {
   display: flex; // so we can reorder the children
   flex-flow: row wrap;
   padding-left: 10px;
