@@ -2,6 +2,7 @@
 layout: setlist
 date: "2022-10-19"
 venue: "Olympia de Montréal, Montreal, QC, Canada"
+title: "19 October 22 at Olympia de Montréal"
 tour: "World Tour '22"
 ---
 
