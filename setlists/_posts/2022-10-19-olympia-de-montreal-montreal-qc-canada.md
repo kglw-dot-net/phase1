@@ -2,6 +2,7 @@
 layout: setlist
 date: "2022-10-19"
 venue: "Olympia de Montréal, Montreal, QC, Canada"
+title: "19 October 22 at Olympia de Montréal"
 tour: "World Tour '22"
 ---
 
@@ -28,6 +29,8 @@ tour: "World Tour '22"
 #### Recordings
 
 {% include archive.html id="kglw2022-10-19" type="AUD" credit="Kingcrowing" mic="Samsung Z Flip 3" %}
+
+{% include youtube.html id="M09muNZNP6A" author="Kingcrowing" %}
 
 {% include youtube.html id="q0Rml4m-IX8" author="gizzy" %}
 
