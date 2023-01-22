@@ -1,10 +1,12 @@
 ---
 title: "Associated Music Projects"
+redirect_from:
+- /the-murlocs
 ---
 
 During the formative years of the band it would have been accurate to describe King Gizzard and the Lizard Wizard as everyone's side project; now, they are the nexus for a range of solo and side acts, peers, collaborators, and even a new generation of bands who draw from their influence.
 
-## Music Projects Of King Gizzard Band Members
+## Music Projects of King Gizzard Band Members
 
 Stu is the only member of King Gizzard not actively involved with composing music in other bands or solo projects (he does technical duties for some of these though):
 
@@ -17,13 +19,14 @@ This is the solo project of Cook, who began releasing music under the title in 2
 ### Bullant  
 Bullant is the solo techno/IDM production project of Joey. His debut album _Tyson, Crying_ shows the learning process of Ableton in real time, unable to save a project using the free version of the software, each song was completed in a single session under the stairs at the studio. Beginning in 2019, one could infer that this project was the offshoot of the electronic experiments of King Gizzard such as can be heard at the end of [_Fishing For Fishies_](https://kglw.net/releases/fishing-for-fishies), or in [_Made In Timeland_](https://kglw.net/releases/made-in-timeland).
 
-### CAVS  
-In 2021, Cavs released his debut solo self-titled drumming album. A pure expression of his drumming ability, CAVS shows off chops in various percussive styles outside of what he usually gets to play with King Gizzard.
+### CAVS
+In 2021, Cavs released his debut solo self-titled drumming album. A pure expression of his drumming ability, [_CAVS_](https://www.discogs.com/master/2280727-Cavs-Cavs) shows off chops in various percussive styles outside of what he usually gets to play with King Gizzard.
 
 ### Heavy Moss  
 Still yet to debut, Heavy Moss is a band fronted by Lucas. Since the dissolution of his independent record label _Dusky Tracks_, Lucas has started a new project to develop his musical composition ability, even getting piano lessons for the purpose.
 
-## Prior and Inactive Projects Of King Gizzard Band Members  
+## Prior and Inactive Projects of King Gizzard Band Members  
+
 Prior to the formation of King Gizzard, each member had already been in an array of bands and musical projects populated with other locals from the Deniliquin, Barwon Heights, Geelong, Angelsea, and Melbourne areas:
 
 ### The Houses  
