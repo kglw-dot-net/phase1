@@ -29,6 +29,8 @@ tour: "World Tour '22"
 
 {% include archive.html id="kglw2022-10-19" type="AUD" credit="Kingcrowing" mic="Samsung Z Flip 3" %}
 
+{% include youtube.html id="M09muNZNP6A" author="Kingcrowing" %}
+
 {% include youtube.html id="q0Rml4m-IX8" author="gizzy" %}
 
 {% include youtube.html id="e9VghAoLEmI" author="mcqq" title="360-degree video" %}
