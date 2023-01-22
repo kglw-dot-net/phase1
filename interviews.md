@@ -53,6 +53,7 @@ title: "Archive of King Gizzard interviews"
 ### 2017
 
 * Dec 6: Consequence, [Band of the Year King Gizzard and the Lizard Wizard Can’t Stop, Won’t Stop, and Don’t Need to Stop](https://consequence.net/2017/12/band-of-the-year-king-gizzard-and-the-lizard-wizard-cant-stop-wont-stop-and-dont-need-to-stop/)
+* Nov 27: (print) Beat, "Welcome to Gizzfest" [page 1](https://preview.redd.it/rox0bbpbkbda1.jpg?width=3024&format=pjpg&auto=webp&v=enabled&s=535e49e11002514606802a6e71399c0d0f942091), [page 2](https://preview.redd.it/x4vwuapbkbda1.jpg?width=3024&format=pjpg&auto=webp&v=enabled&s=019eb7f8a76341fd4c7a50681b2bf4e1fd98ffab), [page 3](https://preview.redd.it/brqebbpbkbda1.jpg?width=3024&format=pjpg&auto=webp&v=enabled&s=a3505ddd0670e05db4a78b57c0fab485e6c8c74b), by Tom Parker
 * Nov 17: NME, ["King Gizzard & the Lizard Wizard on making the world's first release-your-own album"](https://www.nme.com/features/king-gizzard-lizard-wizard-polygondwanaland-album-interview-2159670) by Jamie Milton (with Stu) - [(archived)](https://web.archive.org/web/20230104051204/https://www.nme.com/features/king-gizzard-lizard-wizard-polygondwanaland-album-interview-2159670)
 * Aug 15: (video) [Amoeba Whats In My Bag? Series](https://www.youtube.com/watch?v=e8oexqhDaEo)
 * Jul 17: Relix, ['Journey to the Center of the Gizzverse with King Gizzard and the Lizard Wizard'](https://relix.com/articles/detail/journey_to_the_center_of_the_gizzverse_with_king_gizzard_and_the_lizard_wizard/)
