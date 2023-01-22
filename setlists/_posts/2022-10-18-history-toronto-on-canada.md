@@ -2,6 +2,7 @@
 layout: setlist
 date: "2022-10-18"
 venue: "History, Toronto, ON, Canada"
+title: "18 October @ History in Toronto"
 tour: "World Tour '22"
 ---
 
