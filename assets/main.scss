@@ -303,47 +303,89 @@ nav.setlist { // next/prev links
 }
 
 article.release {
-  .post-title {
-    text-align: center;
+  display: flex;
+  flex-flow: row wrap;
+  
+  .post-header {
+    order: 2;
+    flex-basis: 100%;
+    margin: 0.5em 0.5em 1em;
+    @media (min-width: 479px) {
+      order: 1;
+    }
+
+    h1 {
+      margin: 0;
+    }
+    .post-title {
+      text-align: center;
+    }
   }
 
   .release-meta {
-    display: flex;
-    justify-content: space-evenly;
-    margin: 1.5em;
-    border-radius: 1em;
-    padding: 0.5em;
-    background: #333;
-    color: #ccc;
-
-    > * {
-      margin: 0 1em;
+    order: 3;
+    flex-basis: 100%;
+    margin: 1em;
+    padding: 0;
+    list-style: none;
+    @media (min-width: 479px) {
+      order: 2;
     }
+
     ul {
-      margin: 0;
-      padding: 0;
       list-style: none;
+      display: flex;
+      justify-content: space-evenly;
+      margin: 0;
     }
     li {
-      margin: 0 1em;
+      margin: 0 0.5em;
     }
-    img {
-      height: 1em;
-    }
+    .discogs {
+      a {
+        background: $gizz-magenta;
+        color: black;
+        padding: 0.3em;
+      }
+      img {
+        height: 1em;
+      }
+    } 
   }
 
   img[itemprop="thumbnailUrl"] {
-    float: right;
-    width: 50%;
-    max-width: 500px;
-    margin: 1em;
+    order: 1;
+    width: 100%;
+    object-fit: contain;
+    @media (min-width: 479px) {
+      order: 4;
+      width: 50%;
+    }
+  }
+
+  .release-tracklist {
+    order: 4;
+    flex-basis: 100%;
+    @media (min-width: 479px) {
+      order: 3;
+      flex-basis: 50%;
+    }
   }
 
   .post-content {
+    order: 5;
+    flex-basis: 100%;
+
     .lyrics {
+      display: none; // temporary
       border: 0;
       text-align: center;
     }
+  }
+
+  .post-meta {
+    order: 6;
+    flex-basis: 100%;
   }
 }
 

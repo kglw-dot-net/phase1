@@ -7,43 +7,50 @@ layout: default
 <article class="release post h-entry" itemscope itemtype="http://schema.org/MusicAlbum">
 
   <header class="post-header">
-
     <h1 class="post-title p-name" itemprop="name">
       {{ page.title }}
     </h1>
+  </header>
 
-    <div class="release-meta">
-      <p>
-        Released
+  <div class="release-meta">
+    <p hidden itemprop="byArtist copyrightHolder">King Gizzard and the Lizard Wizard</p>
+    <ul>
+      <li class="date">Released
         <time class="dt-published" datetime="{{ page.release_date | date: "%Y-%b-%0d" }}" itemprop="datePublished">
           {{ page.release_date | date: date_format }}
         </time>
-      </p>
-
-      <p hidden itemprop="byArtist copyrightHolder">King Gizzard and the Lizard Wizard</p>
-
-      <ul>
-        {%- if page.discogs -%}
-          <li>
-            <a href="{{page.discogs}}" target="_blank" title="check out this release on Discogs.com">
-              <img src="https://i.imgur.com/suDWFsf.gif" alt="Discogs.com icon" />
-            </a>
-          </li>
-        {%- endif -%}
-      </ul>
-    </div>
-
-  </header>
+      </li>
+      <!-- <li><a href="#credits">Credits</a></li> -->
+      {%- if page.discogs -%}
+        <li class="discogs">
+          <a href="{{page.discogs}}" target="_blank" title="check out this release on Discogs.com">
+            <img src="https://i.imgur.com/suDWFsf.gif" alt="Discogs.com icon" />
+          </a>
+        </li>
+      {%- endif -%}
+    </ul>
+  </div>
 
   <img src="{{page.cover}}" alt="album cover of {{page.title}}" itemprop="thumbnailUrl" />
+
+  {% for album in site.data.discography.studio %}
+    {% if album.title == page.title %}
+      {% assign album_data = album %}
+    {% endif %}
+  {% endfor %}
+  {% if album_data %}
+    <div class="release-tracklist">
+      <ol>
+        {% for track in album_data.tracks %}
+          <li><a href="/songs/{{track.title | slugify}}">{{track.title}}</a></li>
+        {% endfor %}
+      </ol>
+    </div>
+  {% endif %}
 
   <div class="post-content e-content" itemprop="description">
     {{ content }}
   </div>
-
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
 
   <p class="post-meta">
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
