@@ -91,3 +91,14 @@ Interlude music played from tape: Hypertension
     (w/ Iron Lung tease outro)
 
 Pre-show song selection included Calypso of House by Key Tronics Ensemble, I Saw the Light by Todd Rundgren, Under Mi Sleng Teng by Wayne Smith, Milestones by Miles Davis, Tell Me What It Is by Graham Central Station, and Ramble Tamble by CCR.
+
+
+#### Recordings
+
+{% include archive.html type="SBD" id="kglw2022-10-11.rr" %}
+
+{% include youtube.html author="Logan Bentley" id="3KFJoHgAS7Y" %}
+
+{% include youtube.html author="that1skeleyton" id="0pWDFTUOOJY" %}
+
+{% include youtube.html author="atthebeach70" id="SjloISlMVY0" %}
