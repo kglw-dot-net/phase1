@@ -3,6 +3,7 @@ layout: setlist
 date: "2022-10-11"
 venue: "Red Rocks Amphitheatre, Morrison, CO, USA"
 tour: "World Tour '22"
+title: "Red Rocks Night 2"
 ---
 
 
