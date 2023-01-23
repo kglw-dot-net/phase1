@@ -9,13 +9,13 @@ title: "Laminated Denim"
 > The river has been spanned  
 > Behold: the land before Timeland
 
-Release Date: 12 October 2022
+Release Date: 12 October 2022.
 
 Touted as the spiritual successor to Made In Timeland, Laminated Denim was the first album to be started and completed after pandemic lockdown ended in Melbourne. Their first jams back in the same room together were so enjoyable that they would base this album and the next ([Ice, Death, Planets, Lungs, Mushrooms And Lava](../ice-death-planets-lungs-mushrooms-and-lava)) on the process.
 
-Though being a guitar-based, chill jam as opposed to the deep techno-IDM journey of its predecessor; the two albums share the disengaged compositional design of interlude music, with tick-tock based polyrhythms and two exactly fifteen minute songs each.
+Though being a guitar-based, chill jam as opposed to the deep techno-IDM journey of its predecessor, the two albums share the disengaged compositional design of interlude music, with tick-tock based polyrhythms and two exactly fifteen minute songs each.
 
-While Made In Timeland was originally intended to serve as the interlude music for the career-defining three hour marathon shows at the legendary Red Rocks Amphitheatre in Colorado, the significant delay of these shows due to the pandemic necessitated this updated version; one song of which was debuted at each of the first two nights, with the album published at the conclusion of the shows — alongside its counterpart, finally breaking the show-delaying curse of Timeland.
+While _Made In Timeland_ was originally intended to serve as the interlude music for the career-defining three hour marathon shows at the legendary Red Rocks Amphitheatre in Colorado, the significant delay of these shows due to the pandemic necessitated this updated version. One song was debuted at each of the first two nights, with the album published at the conclusion of the shows — alongside its counterpart, finally breaking the show-delaying curse of Timeland.
 
 What to listen to next:
 
