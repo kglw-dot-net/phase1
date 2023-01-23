@@ -1,10 +1,7 @@
 ---
 ---
 
-@import
-  "{{ site.theme }}"
-  // , "minima/syntax-highlighting"
-;
+@import "{{ site.theme }}";
 
 $gizz-bright-green: #3d3;
 $gizz-magenta: #f39;
@@ -164,16 +161,30 @@ footer.site-footer {
   }
 
   .archive-embed {
+    width: 380px; // match iframe width attr
     margin: 1em 0;
+    border-top-left-radius: 1.5em;
+    border-top-right-radius: 1.5em;
+    box-shadow: 0 0 10px 1px #666; // 🤘
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 380px; // match iframe width attr
-    box-shadow: 0 0 10px 1px #666; // 🤘
+
     a {
-      padding: 1vmax;
-      .credit:before { content: '('; }
-      .credit:after { content: ')'; }
+      padding: 0.5em;
+      text-align: center;
+      color: #8cf;
+    }
+    .type {
+      margin-right: 0.5em;
+      border-radius: 1em;
+      padding: 0.2em 0.4em;
+      background: $gizz-yellow;
+      color: black;
+    }
+    .mic {
+      display: block;
+      &:before { content: '🎙️\a0'; }
     }
     iframe {
       height: calc(200px + 30px); // [list_height param in iframe's src] plus [height of controls bar (play/skip/volume etc) within iframe]
