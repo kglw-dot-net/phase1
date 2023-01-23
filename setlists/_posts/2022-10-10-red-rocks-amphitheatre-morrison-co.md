@@ -82,3 +82,14 @@ Interlude music played from tape: The Land Before Timeland
 Ataraxia, Honey, The Garden Goblin, The Lord of Lightning.
 
 Pre-show song selection was One More Night (Can), Only You Know (Dion), Raining Blood (Slayer), Children of the Grave (Black Sabbath) & Sugar on My Tongue (Talking Heads).
+
+
+#### Recordings
+
+{% include archive.html type="SBD" id="kglw2022-10-10" %}
+
+{% include youtube.html author="Logan Bentley" id="wP3stlzXxDg" %}
+
+{% include youtube.html author="Kristopher Elyea" id="iE3jFflvXek" title="video of 'Evil Death Roll'" %}
+
+{% include youtube.html author="Kristopher Elyea" id="XDiSdjPu3k0" title="video of 'The Grim Reaper' and 'Planet B'" %}
