@@ -44,5 +44,13 @@ tour: "World Tour '22"
 
 Note: Soundcheck included The Grim Reaper and Altered Beast IV.
 
-Recordings:
-* AUD: [Papaphunk (Schoeps MK41)](https://archive.org/details/kglw2022-10-22.ScheopsMK41.Flac24)
+
+#### Recordings
+
+{% include archive.html id="kglw2022-10-22.ScheopsMK41.Flac24" type="AUD" credit="Papaphunk" mic="Schoeps MK41" %}
+
+{% include youtube.html id="zPJQJY6vY8E" author="markit aneight" %}
+
+{% include youtube.html id="pRm6UXrKNmo" author="L Ron Jesus" %}
+
+{% include youtube.html id="VE5yfUlFdwk" author="Rock Wrestling" %}

@@ -43,3 +43,11 @@ There was a good deal of discussion about whether the jam in Evil Death Roll con
 #### Recordings
 
 {% include archive.html type="AUD" id="kglw2022-10-27.ShureMV88" credit="RLBayers" mic="Shure MV88" %}
+
+{% include archive.html type="AUD" id="kglw2022-10-27.twenty8" credit="Twenty8" mic="LA CM4 > AT3031" %}
+
+{% include youtube.html id="dFmecOw9ago" author="Mystery Jack" %}
+
+{% include youtube.html id="6hME_aaYfok" author="whodatlilgizzywizzy B" %}
+
+{% include youtube.html id="VnVz2wbZs_0" author="Paul Dean" %}

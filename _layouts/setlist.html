@@ -65,36 +65,36 @@ layout: default
     {%- endif -%}
   </p>
 
-  <nav>
-
-    {% assign cat = page.categories[0] %}
-    {% assign cat_list = site.categories[cat] %}
-    {% for post in cat_list %}
-      {% if post.url == page.url %}
-        {% assign pOffset = forloop.index0 | minus: 1 %}
-        {% assign nOffset = pOffset | plus: 2 %}
-        {% if forloop.first == false %}
-          {% assign next_post = cat_list[pOffset] %}
-        {% endif %}
-        {% if forloop.last == false %}
-          {% assign previous_post = cat_list[nOffset] %}
-        {% endif %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-
-
-    {%- if previous_post -%}
-      {%- assign prevdate = previous_post.date | date: date_format -%}
-      <a class="link-prev" href="{{previous_post.url}}">prior: {{prevdate}}</a>
-    {% endif %}
-    {%- if next_post -%}
-      {%- assign nextdate = next_post.date | date: date_format -%}
-      <a class="link-next" href="{{next_post.url}}">next: {{nextdate}}</a>
-    {% endif %}
-  </nav>
-
 </article>
+
+<nav class="setlist">
+
+  {% assign cat = page.categories[0] %}
+  {% assign cat_list = site.categories[cat] %}
+  {% for post in cat_list %}
+    {% if post.url == page.url %}
+      {% assign pOffset = forloop.index0 | minus: 1 %}
+      {% assign nOffset = pOffset | plus: 2 %}
+      {% if forloop.first == false %}
+        {% assign next_post = cat_list[pOffset] %}
+      {% endif %}
+      {% if forloop.last == false %}
+        {% assign previous_post = cat_list[nOffset] %}
+      {% endif %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {%- if previous_post -%}
+    {%- assign prevdate = previous_post.date | date: date_format -%}
+    <a class="link-prev" href="{{previous_post.url}}">{{prevdate}}</a>
+  {% endif %}
+  {%- if next_post -%}
+    {%- assign nextdate = next_post.date | date: date_format -%}
+    <a class="link-next" href="{{next_post.url}}">{{nextdate}}</a>
+  {% endif %}
+
+</nav>
 
 <p class="corrections">
   <b>Something missing or wrong??</b> Please get in touch!

@@ -42,3 +42,12 @@ tour: "World Tour '22"
 15. Lava
 
 
+#### Recordings
+
+Audio: [one long file on Archive.org](https://archive.org/details/kglw2022-10-16)
+
+{% include youtube.html author="Mystery Jack" id="UZwMzla30J0" %}
+
+{% include youtube.html author="Joel Van" id="MSkeohRhKzo" %}
+
+{% include youtube.html author="LeeACDC1" id="IOCzKsrkY60" %}

@@ -4,7 +4,7 @@ title: "Releases: Official and Bootlegger"
 
 ## Canonical Albums
 
-The main output of the band. Most groups never make so many albums in a full career, so it is this feat that KGATLW will go down in history for. There is something for everyone in this discography, the home of the ‘Gizzverse’. But this extended universe must be experienced to be understood, so more on that as we go.
+The main output of the band. Most groups never make so many albums in a full career, so it is this feat that KGLW will go down in history for. There is something for everyone in this discography, the home of the ‘Gizzverse’. But this extended universe must be experienced to be understood, so more on that as we go.
 
 *   [12 Bar Bruise](../releases/12-bar-bruise)
 *   [Eyes Like the Sky](../releases/eyes-like-the-sky)
@@ -42,7 +42,7 @@ So you’ve heard enough studio albums for the tendrils of the Gizzverse to star
 
 ## Official Bootlegger Program
 
-Around Christmas time in 2020, the band announced the [Official Bootlegger program](https://kinggizzardandthelizardwizard.com/bootlegger), allowing anyone to produce and distribute their own copies of select KGATLW releases. Based off the experimental release of 2017’s [Polygondwanaland](../releases/polygondwanaland), which is available with a Creative Commons attribution license, the scene that immediately flourished around this album paved the way for a bigger, slightly more thought out scheme.
+Around Christmas time in 2020, the band announced the [Official Bootlegger program](https://kinggizzardandthelizardwizard.com/bootlegger), allowing anyone to produce and distribute their own copies of select KGLW releases. Based off the experimental release of 2017’s [Polygondwanaland](../releases/polygondwanaland), which is available with a Creative Commons attribution license, the scene that immediately flourished around this album paved the way for a bigger, slightly more thought out scheme.
 A range of compilation and live albums are available for fans and labels to create and sell any edition as they see fit, With the simple condition that if you create a release, you must provide a proportion of copies to the band to sell on [their own platform](https://gizzverse.com/). In order to ‘keep it underground’, the band request that these releases are not published on digital streaming platforms, moderation of this policy is lax when it comes to Youtube, where several have been posted by the band anyway.
 
 *   [Demos Vol. 1 – Music To Kill Bad People To, 2020](../releases/demos-vol-1-music-to-kill-bad-people-to)
