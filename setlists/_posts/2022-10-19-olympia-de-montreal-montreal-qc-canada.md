@@ -51,6 +51,6 @@ Gaia featured a Cavs drum solo over a metal vamp from the band. Leah Senior was 
 
 {% include youtube.html id="M09muNZNP6A" author="Kingcrowing" %}
 
-{% include youtube.html id="q0Rml4m-IX8" author="gizzy" title="live debut of 'Red Smoke'" %}
+{% include youtube.html id="q0Rml4m-IX8" author="gizzy" %}
 
 {% include youtube.html id="e9VghAoLEmI" author="mcqq" title="360-degree video" %}
