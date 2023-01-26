@@ -9,11 +9,11 @@ title: "I’m In Your Mind Fuzz"
 > When I’m in your mind fuzz  
 > Then I'm in your mind
 
-Release Date: 31 October 2014
+Release Date: 31 October 2014.
 
-With a clean Krautrock inspired foundation, KGATLW make their first big evolution with a pivot away from lo-fi production. im-in-your-mind-fuzz moves more confidently between driving and relaxed psychedelic sounds, and features the Flute as part of a project to learn a new instrument every year. The first album recorded in a professional studio, the first published internationally, and the first truly essential, realised, KGATLW album.
+With a clean Krautrock inspired foundation, King Gizzard make their first big evolution with a pivot away from lo-fi production. I’m In Your Mind Fuzz moves more confidently between driving and relaxed psychedelic sounds, and features the Flute as part of a project to learn a new instrument every year. The first album recorded in a professional studio, the first published internationally, and the first truly essential, realised, King Gizzard album.
 
-Traditionally recommended as the best starting point of the discography, it implements several ideas that would eventually coalesce into what is now known as the ‘Gizzverse’. These include visual elements of the album artwork and music videos, and seamless track medleys that link songwriting elements — Both aspects lay significant groundwork for imagery and concepts that are built upon in later albums.
+Traditionally recommended as the best starting point of the discography, it implements several ideas that would eventually coalesce into what is now known as the ‘[Gizzverse](https://kglw.net/blog/gizzverse/2023/01/02/compendium-vol-00.html)’. These include visual elements of the album artwork and music videos, and seamless track medleys that link songwriting elements. Both aspects lay significant groundwork for imagery and concepts that are built upon in later albums.
 
 What to listen to next:
 
