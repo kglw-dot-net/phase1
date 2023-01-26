@@ -2,7 +2,8 @@
 title: "Live At Red Rocks ’22"
 ---
 
-<!--album artwork-->
+![King Gizzard The Lizard Wizard Live At Red Rocks '22 album artwork](https://user-images.githubusercontent.com/114916472/214950947-a19e5998-8d59-4748-811a-d685a8f09d89.png
+
 
 Release Date: 12 August 2022
 
