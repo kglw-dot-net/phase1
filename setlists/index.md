@@ -1,5 +1,5 @@
 ---
-title: King Gizzard setlists
+title: King Gizzard concert setlists
 ---
 
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
