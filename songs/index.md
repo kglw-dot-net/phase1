@@ -4,8 +4,13 @@ title: King Gizzard Songs and Lyrics
 
 <ul>
   {% for album in site.data.discography.studio %}
-    <li data-album="{{album.slug}}">
-      <a href="/releases/{{album.slug}}">{{album.title}}</a>
+    {% if album.slug %}
+      {% assign slug = album.slug %}
+    {% else %}
+      {% assign slug = album.title | slugify %}
+    {% endif %}
+    <li data-album="{{slug}}">
+      <a href="/releases/{{slug}}">{{album.title}}</a>
       <ol>
         {% for track in album.tracks %}
           {% if track.slug %}
