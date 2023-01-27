@@ -361,7 +361,6 @@ article.release {
   }
 
   .release-tracklist {
-    display: none; // temp til #90 is out
     order: 4;
     flex-basis: 100%;
     @media (min-width: 479px) {

@@ -42,7 +42,14 @@ layout: default
     <div class="release-tracklist">
       <ol>
         {% for track in album_data.tracks %}
-          <li><a href="/songs/{{track.title | slugify}}">{{track.title}}</a></li>
+          <li>
+            {% if track.slug %}
+              <a href="/songs/{{track.slug}}" title="info & lyrics for the song &quot;{{track.title}}&quot;">{{track.title}}</a>
+            {% else %}
+              {% assign slug = track.title | slugify %}
+              <a href="/songs/{{slug}}" title="info & lyrics for the song &quot;{{track.title}}&quot;">{{track.title}}</a>
+            {% endif %}
+          </li>
         {% endfor %}
       </ol>
     </div>
