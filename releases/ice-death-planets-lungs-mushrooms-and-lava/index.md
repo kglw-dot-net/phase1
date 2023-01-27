@@ -1,15 +1,16 @@
 ---
+layout: release
 title: "Ice, Death, Planets, Lungs, Mushrooms and Lava"
+release_date: 2022-10-07
+discogs: https://www.discogs.com/master/2815559-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava
+cover: ./cover.jpg
 ---
-
-![album cover for Ice Death Planets Lungs Mushrooms And Lava](./cover.jpg)
 
 > Fragmentation  
 > New permutations  
 > Needlepoint mutilations  
 > Stick the fork in the powerpoint to be perturbed by revelations
-
-Release Date: 7 October 2022.
+{:class="lyrics"}
 
 Ice, Death, Planets, Lungs, Mushrooms, And Lava is the logical conclusion of a King Gizzard jam album. Each word from the title represents a ‘totem’ chosen by each member of the band; which was then paired with one of the Greek modes, making the only preparation for an extended multi-hour jam that was later trimmed down into each song.
 

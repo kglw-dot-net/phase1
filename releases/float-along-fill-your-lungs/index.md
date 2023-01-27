@@ -1,15 +1,16 @@
 ---
+layout: release
 title: "Float Along — Fill Your Lungs"
+release_date: 2013-09-27
+discogs: https://www.discogs.com/master/901365-King-Gizzard-And-The-Lizard-Wizard-Float-Along-Fill-Your-Lungs-Oddments
+cover: ./cover.jpg
 ---
-
-![album cover of Float Along — Fill Your Lungs](./cover.jpg)
 
 > Just yesterday, I sat across from my legs  
 > They weren't connected to me  
 > And I couldn't see 'cause my eyes weren't in me  
 > Hold me up straight while I screw my head on
-
-Release Date: 27 September 2013.  
+{:class="lyrics"}
 
 The first true psychedelic album. A lo-fi throwback in sound to The Beatles’ Indian influenced era, thanks to the extensive use of a Sitar. This instrument was chosen as the first in a project to learn a new instrument every year, also marking the beginning of a discography wide fascination with sounds from ‘the East’.
 

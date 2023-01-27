@@ -11,17 +11,22 @@ body,
 pre,
 code,
 .highlight {
-  color: #ccc;
+  color: #ddd;
   background: #111 !important;
 }
 
 a {
-  color: #49c;
+  color: #5be;
   &:hover,
   &:active,
   &:visited {
-    color: #87d;
+    color: #c9f;
   }
+}
+
+blockquote {
+  color: #ccc;
+  letter-spacing: -0.5px;
 }
 
 hr {
@@ -285,6 +290,95 @@ nav.setlist { // next/prev links
     &:last-child:before {
       content: 'next show:\0A';
     }
+  }
+}
+
+article.release {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  
+  .post-header {
+    order: 2;
+    flex-basis: 100%;
+    margin: 0.5em 0.5em 1em;
+    @media (min-width: 479px) {
+      order: 1;
+    }
+
+    h1 {
+      margin: 0;
+    }
+    .post-title {
+      text-align: center;
+    }
+  }
+
+  .release-meta {
+    order: 3;
+    flex-basis: 100%;
+    margin: 1em;
+    padding: 0;
+    list-style: none;
+    @media (min-width: 479px) {
+      order: 2;
+    }
+
+    ul {
+      list-style: none;
+      display: flex;
+      justify-content: space-evenly;
+      margin: 0;
+    }
+    li {
+      margin: 0 0.5em;
+    }
+    .discogs {
+      a {
+        background: $gizz-magenta;
+        color: black;
+        padding: 0.3em;
+      }
+      img {
+        height: 1em;
+      }
+    } 
+  }
+
+  img[itemprop="thumbnailUrl"] {
+    order: 1;
+    width: 100%;
+    object-fit: contain;
+    @media (min-width: 479px) {
+      order: 4;
+      width: 50%;
+    }
+  }
+
+  .release-tracklist {
+    display: none; // temp til #90 is out
+    order: 4;
+    flex-basis: 100%;
+    @media (min-width: 479px) {
+      order: 3;
+      flex-basis: 50%;
+    }
+  }
+
+  .post-content {
+    order: 5;
+    flex-basis: 100%;
+
+    .lyrics {
+      display: none; // temporary
+      border: 0;
+      text-align: center;
+    }
+  }
+
+  .post-meta {
+    order: 6;
+    flex-basis: 100%;
   }
 }
 

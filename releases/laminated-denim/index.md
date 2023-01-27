@@ -1,15 +1,16 @@
 ---
+layout: release
 title: "Laminated Denim"
+release_date: 2022-10-12
+discogs: https://www.discogs.com/master/2821265-King-Gizzard-And-The-Lizard-Wizard-Laminated-Denim
+cover: ./cover.jpg
 ---
-
-![album cover of Laminated Denim](./cover.jpg)
 
 > Back on track  
 > Change the clock through sleight of hand  
 > The river has been spanned  
 > Behold: the land before Timeland
-
-Release Date: 12 October 2022.
+{:class="lyrics"}
 
 Touted as the spiritual successor to Made In Timeland, Laminated Denim was the first album to be started and completed after pandemic lockdown ended in Melbourne. Their first jams back in the same room together were so enjoyable that they would base this album and the next ([Ice, Death, Planets, Lungs, Mushrooms And Lava](../ice-death-planets-lungs-mushrooms-and-lava)) on the process.
 

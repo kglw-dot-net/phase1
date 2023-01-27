@@ -1,15 +1,16 @@
 ---
+layout: release
 title: "I’m In Your Mind Fuzz"
+release_date: 2014-10-31
+discogs: https://www.discogs.com/master/761067-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz
+cover: ./cover.jpg
 ---
-
-![album cover for I'm In Your Mind Fuzz](./cover.jpg)
 
 > When I’m in your mind  
 > Then I’m in your mind  
 > When I’m in your mind fuzz  
 > Then I'm in your mind
-
-Release Date: 31 October 2014.
+{:class="lyrics"}
 
 With a clean Krautrock inspired foundation, King Gizzard make their first big evolution with a pivot away from lo-fi production. I’m In Your Mind Fuzz moves more confidently between driving and relaxed psychedelic sounds, and features the Flute as part of a project to learn a new instrument every year. The first album recorded in a professional studio, the first published internationally, and the first truly essential, realised, King Gizzard album.
 
