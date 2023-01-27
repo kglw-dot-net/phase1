@@ -1,9 +1,9 @@
 _Dr. Barry Hill is the Senior Lecturer at Southern Cross University School of Arts and Social Sciences at the Lismore campus in regional New South Wales, and currently teaches in the Bachelor of Contemporary Music Undergraduate program. He has a PhD in Ethnomusicology: ‘Twenty-first Century Models of Music Performance Practice in an Australian Contemporary Music Community’.
 He is also an accomplished musician, having music independently published with multiple bands and having made several successful international tours.
 Between 2009-2011, Dr. Hill lectured in the Bachelor of Music Industry course at Royal Melbourne Institute of Technology, where he taught Stu Mackenzie, Eric Moore, Joe Walker, and Lucas Harwood (né Skinner) who were in the process of forming King Gizzard and the Lizard Wizard.
-In October 2010, he recorded one of their music performance assessments, and in December 2022 uploaded the video of the performance to [Youtube](https://www.youtube.com/watch?v=MsVIVFLqrfY), it is one of their first ever performances and the earliest publicly available recording of the band.
+In October 2010, he recorded one of their music performance assessments, and in December 2022 uploaded the video of the performance to [Youtube](https://www.youtube.com/watch?v=MsVIVFLqrfY), it is one of their first ever performances and the earliest publicly available recording of the band._
 
-Throughout our conversation, we cover the stand-out approach of the band, the unique aspects of the Australian music industry, what they did right to make success, innovation driven by the arts sector, and generally break down King Gizzard in terms of their cultural and environmental contexts._
+_Throughout our conversation, we cover the stand-out approach of the band, the unique aspects of the Australian music industry, what they did right to make success, innovation driven by the arts sector, and generally break down King Gizzard in terms of their cultural and environmental contexts._
 
 W.B.T.G. Slinger:  
 So I've got a few topics in mind, I've read through some of your research and stuff as well.
