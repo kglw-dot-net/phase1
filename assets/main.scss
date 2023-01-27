@@ -49,15 +49,6 @@ hr {
 }
 
 footer.site-footer {
-  .wrapper {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: flex-start;
-  }
-  img {
-    max-height: 5em;
-  }
 }
 
 @mixin commas-setlist {
@@ -408,7 +399,47 @@ article.release {
 }
 
 .site-footer {
-  ul {
-    margin-bottom: 0;
+  .wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: flex-start;
   }
+
+  .copyright {
+    order: 1;
+    flex-basis: 100%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    @media (min-width: 650px) {
+      flex-basis: 32%;
+      order: 2;
+    }
+  }
+
+  nav {
+    flex-basis: 6em;
+    order: 3;
+    direction: rtl;
+    @media (min-width: 650px) {
+      flex-basis: 32%;
+      order: 4;
+    }
+    ul {
+      list-style: inside;
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+  .social-links {
+    flex-basis: 9em;
+    order: 2;
+    @media (min-width: 650px) {
+      flex-basis: 32%;
+      order: 1;
+    }
+  }
+
 }

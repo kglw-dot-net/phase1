@@ -98,8 +98,8 @@ Pre-show song selection included Calypso of House by Key Tronics Ensemble, I Saw
 
 {% include archive.html type="SBD" id="kglw2022-10-11.rr" %}
 
-{% include youtube.html author="Logan Bentley" id="3KFJoHgAS7Y" %}
+{% include youtube.html id="3KFJoHgAS7Y" %}
 
-{% include youtube.html author="that1skeleyton" id="0pWDFTUOOJY" %}
+{% include youtube.html id="0pWDFTUOOJY" %}
 
-{% include youtube.html author="atthebeach70" id="SjloISlMVY0" %}
+{% include youtube.html id="SjloISlMVY0" %}

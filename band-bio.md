@@ -16,7 +16,7 @@ King Gizzard & the Lizard Wizard are a six-piece band based in Naarm (Melbourne)
 
 Note: As a group, the guitar playing roles tend to revolve and therefore 'lead' and 'rhythm' titles are less necessary. Two guitars often play accompanying melodies, and solos are rare.
 
-**Lucas Harwood** (formerly Skinner) – Lucas' primary musical role is playing bass live, and occasionally performs in studio recordings.  
+**Lucas Harwood** (né Skinner) – Lucas' primary musical role is playing bass live, and occasionally performs in studio recordings.  
 
 **Michael Cavanagh \[Cavs\]** – The drummer, composes and performs all primary percussion duties.
 

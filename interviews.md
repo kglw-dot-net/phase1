@@ -11,6 +11,7 @@ title: "Archive of King Gizzard interviews"
 * Oct 31: The New Yorker, ["Into the Gizzverse with Shrimp and Juicy"](https://www.newyorker.com/magazine/2022/11/07/into-the-gizzverse-with-shrimp-and-juicy) - [(archived)](https://web.archive.org/web/20230104050548/https://www.newyorker.com/magazine/2022/11/07/into-the-gizzverse-with-shrimp-and-juicy)
 * Oct 26: NME, ["King Gizzard And The Lizard Wizard: 'If something is shit and no one likes it, you just put out another one the next month.'"](https://www.nme.com/big-reads/king-gizzard-and-the-lizard-wizard-cover-interview-2022-changes-3335897) by Josh Martin (with full band)
 * Oct 26: (video) [ABC News Australia](https://www.youtube.com/watch?v=rxle4toNKHU)
+* Oct 11: [Stereogum - The Wild, Wonderful World Of King Gizzard & The Lizard Wizard](https://www.stereogum.com/2202315/king-gizzard-and-the-lizard-wizard-stu-mackenzie/interviews/cover-story/)
 * Jun 13: Exberliner, ["King Gizzard & The Lizard Wizard: 'We're a fucking weird band'](https://beat.com.au/interview-psych-rock-chameleons-king-gizzard-and-the-lizard-wizard-on-what-makes-them-unique/) by Damien Cummings (with Joey)
 * May/Jun: TapeOp, ["Stu Mackenzie of King Gizzard & the Lizard Wizard: A Lot More Considered"](https://tapeop.com/interviews/149/stu-mackenzie-king-gizzard-amp-lizard-wizard/) by Geoff Stanfield (with Stu)
 * May 31: (video) Andy Frasco's World Saving Podcast, ["EP 174 w/ Stu Mackenzie"](https://www.youtube.com/watch?v=aUnZ7iEmDxQ)
@@ -26,6 +27,8 @@ title: "Archive of King Gizzard interviews"
 * Jun 11: Under the Radar, ["King Gizzard & The Lizard Wizard's Stu Mackenzie on 'Butterfly 3000' and their incredible fanbase"](https://www.undertheradarmag.com/interviews/king_gizzard_the_lizard_wizards_stu_mackenzie_on_butterfly_3000_and_their_i) by Jake Uitti (with Stu) - [(archived)](https://web.archive.org/web/20230104035348/https://www.undertheradarmag.com/interviews/king_gizzard_the_lizard_wizards_stu_mackenzie_on_butterfly_3000_and_their_i)
 * May 27: National Public Radio, (audio) ["King Gizzard & The Lizard Wizard on making microtonal music during a pandemic](https://www.npr.org/2021/05/27/1000902256/king-gizzard-the-lizard-wizard-on-making-microtonal-music-during-a-pandemic) by Stephen Kallao and John Myers - [(archived)](https://web.archive.org/web/20230104033504/https://www.npr.org/2021/05/27/1000902256/king-gizzard-the-lizard-wizard-on-making-microtonal-music-during-a-pandemic)
 * May 25: (audio) [Dive For Your Memory - Ep 15 - Ambrose Kenny Smith](https://diveforyourmemory.podbean.com/e/dive-for-your-memory-ep-15-ambrose-kenny-smith/)
+* May 21: (audio) [Stu Mackenzie - 101 Part Time Jobs](https://www.youtube.com/watch?v=d7IBZFoDxhk)
+* May 4: (audio) [Tape Op Magazine - Episode 52: Stu Mackenzie](https://www.youtube.com/watch?v=tCCNkdWyOXI)
 * May 1: (video) [Tape Notes Podcast Ep. 64: King Gizzard & the Lizard Wizard](https://www.youtube.com/watch?v=ODI0x2unT2Q)
 * Feb 18: Loud and Quiet, ["Reactivating the soul: the first interview with King Gizzard about new album LW"](https://www.loudandquiet.com/interview/reactivating-the-soul-the-first-interview-with-king-gizzard-about-new-album-lw/) by Luke Cartledge
 * Jan 14: (video) [Songwriters on Process](https://www.youtube.com/watch?v=Icnno_Qno1I) with Stu
@@ -93,6 +96,7 @@ title: "Archive of King Gizzard interviews"
 
 * Dec 8: (video)[1700 at Face the Music 2012](https://www.youtube.com/watch?v=z6ZnE5pwPqw) with Stu & Eric
 * Dec: (video) [Interview on Speaker TV](https://www.youtube.com/watch?v=QIJgqO6MKO4) with Stu & Eric
+* Oct 3: (video) [King Gizzard and the Lizard Wizard - Interview with Shag on FBi Radio](https://www.youtube.com/watch?v=azuedaRzLzs)
 * May 1: (video) [Poncho](https://www.youtube.com/watch?v=LdcVrR8Fh1Q) Cavs, Stu, Eric, and Ambrose on recording their first album and prepping for first national tour.
 
 ### 2011
