@@ -41,10 +41,8 @@ Almacknjack was a garage rock band featuring Stu on guitar, Almo Troup with voca
 ### The Lexies  
 The Lexies featured Eric and released an EP _Do You Want Some Money?_ in 2007, which has likely been lost.
 
-### Love Migrate (Formerly Goodnight Owl)  
+### Love Migrate (formerly Goodnight Owl)  
 Love Migrate were a borderline ambient indie-rock band featuring Eric on Drums, Joey on guitar and various electronic instruments, Edward Alexander, Bella Walker, Casey Hartnett, Monty Hartnett, Pete Sismanes, and Glen Smith. Love Migrate had the distinction of continuing well into the formation of King Gizzard, and were published by Flightless Records and then Dusky Tracks.
-
-### Sagamore  
 
 
 ### Revolver & Sun  
@@ -80,14 +78,17 @@ Keyboards, recording, mixing by Stu
 Clarinet from Stu on debut album.
 
 ### Rough River  
+Lucas on Bass
 
 ### Beans
 
 ### Aunty Donna
-Lucas on Bass
+Joey guitar
 
 ### Forever Son  
 Friend of Leah Senior
+
+### Sagamore  
 
 ### Fraser A. Gorman  
 Vocals from Stu
