@@ -41,13 +41,65 @@ Almacknjack was a garage rock band featuring Stu on guitar, Almo Troup with voca
 ### The Lexies  
 The Lexies featured Eric and released an EP _Do You Want Some Money?_ in 2007, which has likely been lost.
 
-### Goodnight Owl / Love Migrate
+### Love Migrate (Formerly Goodnight Owl)  
+Love Migrate were a borderline ambient indie-rock band featuring Eric on Drums, Joey on guitar and various electronic instruments, Edward Alexander, Bella Walker, Casey Hartnett, Monty Hartnett, Pete Sismanes, and Glen Smith. Love Migrate had the distinction of continuing well into the formation of King Gizzard, and were published by Flightless Records and then Dusky Tracks.
 
-### Revolver & Sun
+### Sagamore  
+
+
+### Revolver & Sun  
+Revolver & Sun were a 60s inspired folk-rock band featuring Stu and Cook on guitar and bass, Monty Hartnett on drums and Fraser Gorman with lead vocals.
 
 ### Your Ailing Girls Heart  
 This seems to have been a project of Cook's, little evidence of its existence remains. Two songs were uploaded to a [Myspace page](https://myspace.com/yourailinggirlsheart) which are now lost due to a [botched server migration](https://arstechnica.com/information-technology/2019/03/myspace-apparently-lost-12-years-worth-of-music-and-almost-no-one-noticed/).
 
 ### Trumpdisco / Sub Humans
 
+
 ### Buried Horses
+
+### Dreamin' Wild
+
+## King Gizzard Associated Music Projects  
+Members of King Gizzard are associated in various ways with many other musicians, either as collaborators, personal friends, or through contributing to their releases in technical roles.
+
+### ORB  
+Keyboards, recording, mixing by Stu
+
+### Traffik Island
+
+### Stonefield
+
+### Amyl and the Sniffers
+
+### Tropical Fuck Storm
+
+### Leah Senior  
+
+### The Babe Rainbow  
+Clarinet from Stu on debut album.
+
+### Rough River  
+
+### Beans
+
+### Aunty Donna
+Lucas on Bass
+
+### Forever Son  
+Friend of Leah Senior
+
+### Fraser A. Gorman  
+Vocals from Stu
+
+### Kairos Creature Club
+A psychedelic-surf rock band, Lucas contributed bass for several songs on their debut album, _Join The Club_.
+
+### Sunbeam Sound Machine  
+2014 album featured artwork by Jason Galea and was mixed by Stu.
+
+### Broderick Smith  
+Broderick is the writer and narrator of 2012's [_Eyes Like The Sky_](https://kglw.net/releases/eyes-like-the-sky), a legend of the music industry in his own right, he was a member of Sundown, Carson, and the Dingoes, he is also Ambrose's father.
+
+### Mallee Songs  
+Featuring tracking by Lucas and Stu, and guitar by Casey Hartnett.
