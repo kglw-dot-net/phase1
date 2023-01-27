@@ -9,7 +9,7 @@ modified_date: 2023-01-23
 
  1. Oddlife
  2. Billabong Valley
- 3. K.G.L.W.
+ 3. K.G.L.W. (Outro)
  4. Mars for the Rich
     {% include segue.html type=">" %}
  5. Predator X
