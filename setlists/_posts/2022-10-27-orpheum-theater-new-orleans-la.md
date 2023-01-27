@@ -6,7 +6,7 @@ tour: "World Tour '22"
 modified_date: 2023-01-16
 ---
 
-1. K.G.L.W.
+1. K.G.L.W. (Outro)
 2. Minimum Brain Size
    {% include segue.html type=">" %}
 3. Billabong Valley
