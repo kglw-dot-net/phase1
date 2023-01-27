@@ -12,7 +12,7 @@ Dr. Barry Hill:
 Oh, wow. Okay you’ve been stalking me?
 
 W.B.T.G. Slinger:  
-Just a little bit. I skimmed your PhD, and then found some recent stuff.
+Just a little bit. I skimmed [your PhD](https://drbazhspace.wordpress.com/ph-d/), and then found some recent stuff.
 
 Dr. Barry Hill:  
 Wow, you even went back that far?
@@ -21,6 +21,8 @@ W.B.T.G. Slinger:  We found you through the YouTube video, so at first there was
 
 Dr. Barry Hill:  
 Yep, I used to even play in bands.
+
+<iframe width="1903" height="768" src="https://www.youtube.com/embed/b7CabUk5LPY" title="awesome live Electro band From Byron bay Australia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 W.B.T.G. Slinger:  
 Yeah, I did listen to an album by The Bird as well.
@@ -117,6 +119,8 @@ I feel really sort of vindicated because of what I talked about in my lectures a
 
 W.B.T.G. Slinger:  
 Like with The Avalanches.
+
+<iframe width="1904" height="768" src="https://www.youtube.com/embed/qLrnkK2YEcE" title="The Avalanches - Frontier Psychiatrist (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Dr. Barry Hill:  
 Hm, The Avalanches, you know. Being with bands like the Resin Dogs, I used to love playing with them, I gave some basslines to a few of their tracks. They were this crew of people who were just driven and they had a community around them.
