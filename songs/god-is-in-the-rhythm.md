@@ -27,7 +27,7 @@ album: Quarters!
 > Seasons move  
 > Everybody knows it's true  
 > Spring brings a dew  
-> Hibernates winters tune  
+> Hibernates winter's tune  
 >  
 > Summer's waiting  
 > Expectating  
