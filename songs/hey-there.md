@@ -13,3 +13,7 @@ album: Teenage Gizzard
 > Your hair and your hair  
 >  
 > Girl, what's in my hair?  
+
+# Credits
+
+> Recorded some time in 2010 in Angelsea, Victoria, Australia.  
