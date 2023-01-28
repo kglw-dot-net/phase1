@@ -40,7 +40,7 @@ album: Paper Mâché Dream Balloon
 
 **Paper Mâché Dream Balloon Album Credits**
 
-* Stu Mackenzie: Acoustic Guitar, Drum Kit, Piano, Vocals, FLute, Clarinet, Double Bass, Electric Bass, Violin, Percussion, Sitar
+* Stu Mackenzie: Acoustic Guitar, Drum Kit, Piano, Vocals, Flute, Clarinet, Double Bass, Electric Bass, Violin, Percussion, Sitar
 * Lucas Skinner: Piano, Electric Bass
 * Joey Walker: Acoustic Guitar, Vocals, Electric Bass, Double Bass
 * Cook Craig: Acoustic Guitar, Vocals, Double Bass, Percussion
