@@ -19,8 +19,7 @@ This truly unique Spaghetti Western soundtrack uses spoken narration rather than
 > confused locals.  
 > 
 > That got me thinking about trying a multi-song, read-along, narrative based, western musical record. Brod seemed keen to compose a story and provide narration 
-> so Cavs, Lucas and I raced to my parents' garage and recorded Fort Whipple and The Killing Ground. You can hear my parents' dogs barking in the background and my  
-> dad banging on some old rusted saw blade. I didn't really have much of an idea about recording back then (still don't really). I think I had 2 microphones and  
+> so Cavs, Lucas and I raced to my parents' garage and recorded Fort Whipple and The Killing Ground. You can hear my parents' dogs barking in the background and my dad > banging on some old rusted saw blade. I didn't really have much of an idea about recording back then (still don't really). I think I had 2 microphones and  
 > was recording onto this hunk-of-shit-but-kinda-awesome digital 8 track machine. We had no mic stands so one mic was taped onto a shoebox in front of a guitar  
 > amp and one was hanging over the drum kit boxing ring style from the roof truss. I sent these recordings to Brod and he wrote the first chapter of Eyes  
 > Like The Sky that night and sent me a recording of him reading it into his computer mic. It sounded kind of fucked up so played it through a guitar amp,  
