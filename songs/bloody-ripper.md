@@ -15,3 +15,13 @@ album: 12 Bar Bruise
 > Sink my teeth in you   
 > You already told me to   
 > You said it's alright   
+
+# Credits
+
+* Michael Cavanagh - Drums  
+* Cook Craig - Guitar + Sing  
+* Ambrose Kenny Smith - Harmonica + Sing  
+* Eric Moore - Theremin + Keys + Percussion  
+* Stu Mackenzie - Sing + Guitar  
+* Lucas Skinner - Bass + Sing  
+* Joe Walker - Guitar + Sing  
