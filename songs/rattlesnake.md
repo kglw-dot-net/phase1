@@ -117,3 +117,10 @@ album: Flying Microtonal Banana
 
 # Song Credits
 
+* Michael Cavanagh: Drum Kit
+* Cook Craig: Microtonal Guitar
+* Ambrose Kenny-Smith: Microtonal Harmonica
+* Stu Mackenzie: Microtonal Guitar / Piano / Zurna / Vocals / Percussion
+* Eric Moore: Drum Kit
+* Lucas Skinner: Microtonal Bass Guitar
+* Joey Walker: Microtonal Guitar
