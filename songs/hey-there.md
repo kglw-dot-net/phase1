@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Teenage Gizzard
+title: Hey There
 album: Teenage Gizzard
 ---
 
