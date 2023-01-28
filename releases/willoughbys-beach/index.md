@@ -8,6 +8,18 @@ cover: ./cover.jpg
 
 The precursor to debut album [12 Bar Bruise](../12-bar-bruise), this EP is an even rougher blend of Surf-Punk with little of the psychedelic elements KGATLW would become known for. Named after a beach local to some of the group members, it shows the roots of the group’s formation as an underground party band.
 
+# Credits
+
+* Recorded and mixed in 2011 by Paul Maybury at a secret location, Melbourne  
+
+* Mastered by Joseph Carra at Crystal Mastering  
+
+* Cover art by Ican Harem  
+
+* Editing and layout by Jason Galea  
+
+* Photo by Ben Butcher  
+
 What to listen to next:
 
 *   [If you want to continue with the evolution of the band](../12-bar-bruise)
