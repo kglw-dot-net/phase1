@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Stressin
+title: Stressin'
 album: Oddments
 ---
 
@@ -12,9 +12,9 @@ album: Oddments
 > About what I've been missin'  
 > And I'm feeling stressin' is an instinct  
 > Stress colours all of my dreams orange  
-> I'm dreamin' stressin' is an instinct  
+> I'm dreaming stressin' is an instinct  
 > Now I'm biting down on my jaw  
-> Now it's making all of my teeth sore  
+> Now it's making all my teeth sore  
 > Seein' trouble  
 > One thing to another  
 > I'm feelin stressin' is an instinct  
@@ -23,7 +23,7 @@ album: Oddments
 
 # Credits
 
-* Michael Cavanah
+* Michael Cavanagh
 * Cook Craig
 * Ambrose Kenny-Smith
 * Stu Mackenzie
