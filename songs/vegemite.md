@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Oddments
+title: Vegemite
 album: Oddments
 ---
 
