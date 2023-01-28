@@ -123,7 +123,7 @@ album: Quarters!
 > I'll cook  
 > A big chook  
 
-# Credits
+# Album Credits
 
 * Michael Cavanagh: Drums, Conga
 * Cook Craig: Guitar
