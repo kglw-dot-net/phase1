@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Float Along - Fill Your Lungs
+title: Mystery Jack
 album: Float Along - Fill Your Lungs
 ---
 
