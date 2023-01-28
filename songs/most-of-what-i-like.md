@@ -27,7 +27,7 @@ album: Paper Mâché Dream Balloon
 >  
 > Face to face is nice  
 > But sharper than a knife  
-> I teeter on it's edge  
+> I teeter on its edge  
 > Just waiting to be sliced  
 > Returning home brain dead  
 > And you inject the life  
