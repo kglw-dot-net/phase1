@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Willoughby's Beach
+title: Dead Beat
 album: Willoughby's Beach
 ---
 
