@@ -12,4 +12,4 @@ Including the Angelsea EP, the ‘Hey There / Ants & Bats’, and ‘Sleep / Sum
 
 # Credits
 
-> Mixed by Stu Mackenzie. Mastered by Angel Hair Audio.  
+* Mixed by Stu Mackenzie. Mastered by Angel Hair Audio.  
