@@ -10,3 +10,8 @@ album: Teenage Gizzard
 > Summer, to me  
 > Green grass, won't last  
 > Sky blue, me too   
+
+# Credits
+
+> Recorded some time in 2010 in Angelsea, Victoria, Australia.  
+
