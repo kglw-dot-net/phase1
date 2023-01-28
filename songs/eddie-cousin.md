@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Teenage Gizzard
+title: Eddie Cousin
 album: Teenage Gizzard
 ---
 
