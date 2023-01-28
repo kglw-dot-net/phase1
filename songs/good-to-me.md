@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Teenage Gizzard
+title: Good To Me
 album: Teenage Gizzard
 ---
 
