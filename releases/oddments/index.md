@@ -16,7 +16,19 @@ Oddments is a loose collection of lo-fi psych songs that were created outside of
 
 The first opus of Jason Galea, this intricate artwork spreads over the triple gatefold of the first vinyl issue with its own little world of idiosyncratic characters.
 
-What to listen to next:
+# Credits 
+
+* All songs produced by Stu Mackenzie except Stressin and Work This Time produced by Joe Walker and Stu Mackenzie and ABABCd. produced by Joe Walker
+
+* Mastered by Joe Carra
+
+* Monty Hartnett plays Drums on Crying and Pipe-Dream
+
+* Cover art and layout by Jason Galea
+
+* Thanks to Jarrad Brown for the help recording Sleepwalker
+
+# What to listen to next:
 
 *   [If you want a newer more hi-fi eclectic concept-less album](../gumboot-soup)
 *   [If you want the newest eclectic concept-less album](../omnium-gatherium)
