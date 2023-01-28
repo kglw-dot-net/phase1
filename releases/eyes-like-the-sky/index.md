@@ -14,9 +14,9 @@ This truly unique Spaghetti Western soundtrack uses spoken narration rather than
 
 # Credits
 
-> Some time in July 2012 we played a show in Castlemaine with Brod Smith. He's a crazy-genius-western-nut-ex-rocker and is also Ambrose's father.  
-> This was not long after we had collaborated with him on the recording of Sam Cherry's Last Shot so we performed an off the cuff version of that song to   
-> half-a-dozen confused locals.  
+> Some time in July 2012 we played a show in Castlemaine with Brod Smith. He's a crazy-genius-western-nut-ex-rocker and is also Ambrose's father. This was not 
+> long after we had collaborated with him on the recording of Sam Cherry's Last Shot so we performed an off the cuff version of that song to half-a-dozen 
+> confused locals.  
 > 
 > That got me thinking about trying a multi-song, read-along, narrative based, western musical record. Brod seemed keen to compose a story and provide narration so  
 > Cavs, Lucas and I raced to my parents' garage and recorded Fort Whipple and The Killing Ground. You can hear my parents' dogs barking in the background and my  
