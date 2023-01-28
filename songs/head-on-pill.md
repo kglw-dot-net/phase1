@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Float Along - Fill Your Lungs
+title: Head On/Pill
 album: Float Along - Fill Your Lungs
 ---
 
