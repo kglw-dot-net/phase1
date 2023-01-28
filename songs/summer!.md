@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Teenage Gizzard
+title: Summer!
 album: Teenage Gizzard
 ---
 
