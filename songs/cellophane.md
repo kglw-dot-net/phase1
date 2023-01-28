@@ -10,6 +10,7 @@ album: I'm In Your Mind Fuzz
 > It's so strange with cellophane  
 >  
 > Do do do do  
+>   
 > You can colour everything you see  
 > It's so strange with cellophane  
 
@@ -17,7 +18,7 @@ album: I'm In Your Mind Fuzz
 
 * Michael Cavanagh - Drums  
 * Cook Craig - Guitar + Sing  
-* Ambrose Kenny Smith - Harmonica + Sing  
+* Ambrose Kenny-Smith - Harmonica + Sing  
 * Eric Moore - Theremin + Keys + Percussion  
 * Stu Mackenzie - Sing + Guitar  
 * Lucas Skinner - Bass + Sing  
