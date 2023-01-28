@@ -43,7 +43,7 @@ album: Quarters!
 > Red light  
 >  
 > Satan  
-> Is hatin  
+> Is hatin'  
 > Days old  
 > Bread mould  
 > Jesus  
@@ -60,7 +60,7 @@ album: Quarters!
 > What's more?  
 > What's it for right now?  
 >  
-> Free style  
+> Freestyle  
 > Meanwhile  
 > White wash  
 > Kibosh  
