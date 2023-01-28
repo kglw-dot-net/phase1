@@ -32,3 +32,13 @@ album: 12 Bar Bruise
 > Such is the way out in the west.   
 > People die by extreme barbaric ways.   
 > But we're taking their land, and in return they take our viscera and spread it across the desert plains.   
+
+# Credits
+
+> Michael Cavanagh - Drums  
+> Cook Craig - Guitar + Sing  
+> Ambrose Kenny Smith - Harmonica + Sing  
+> Eric Moore - Theremin + Keys + Percussion  
+> Stu Mackenzie - Sing + Guitar  
+> Lucas Skinner - Bass + Sing  
+> Joe Walker - Guitar + Sing  
