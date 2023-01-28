@@ -14,3 +14,7 @@ album: Teenage Gizzard
 > Then you crash  
 > Slit your wrists  
 > Slash your neck  
+
+# Credits
+
+> Recorded some time in 2011 in Carlton, Victoria, Australia.  
