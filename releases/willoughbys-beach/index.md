@@ -20,7 +20,7 @@ The precursor to debut album [12 Bar Bruise](../12-bar-bruise), this EP is an ev
 
 * Photo by Ben Butcher  
 
-What to listen to next:
+# What to listen to next:
 
 *   [If you want to continue with the evolution of the band](../12-bar-bruise)
 *   [If you want to hear more rough early material](../teenage-gizzard)
