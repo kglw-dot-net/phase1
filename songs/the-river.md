@@ -34,7 +34,7 @@ album: Quarters!
 > Melt your little zone  
 > And sink into the waterfall flow  
 
-# Credits
+# Album Credits
 
 * Michael Cavanagh: Drums, Conga
 * Cook Craig: Guitar
