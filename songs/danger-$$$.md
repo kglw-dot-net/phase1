@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Willoughby's Beach
+title: Danger $$$
 album: Willoughby's Beach
 ---
 
