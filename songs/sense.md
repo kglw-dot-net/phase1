@@ -45,7 +45,7 @@ album: Paper Mâché Dream Balloon
 
 * Recorded by Stu Mackenzie, Lucas Skinner, and Joey Walker in various homes/sheds/garages/apartments/hotels/tunnels early 2015.
 
-Paper Mâché Dream Balloon
+<b>Paper Mâché Dream Balloon
 
 * Stu Mackenzie: Acoustic Guitar, Drum Kit, Piano, Vocals, FLute, Clarinet, Double Bass, Electric Bass, Violin, Percussion, Sitar
 * Lucas Skinner: Piano, Electric Bass
