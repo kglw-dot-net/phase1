@@ -41,7 +41,7 @@ The album cover was the first by Jason Galea, now considered a member of the gro
 * Mastered by Joseph Carra  
 * Photo by Lauren Bamford  
 
-What to listen to next:
+# What to listen to next:
 
 *   [If you want a step up from the (literal) tin shed garage style production quality](../im-in-your-mind-fuzz)
 *   [If you liked the narrated track, Sam Cherry’s Last Shot](../eyes-like-the-sky)
