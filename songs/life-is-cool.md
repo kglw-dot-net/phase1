@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Teenage Gizzard
+title: Life Is Cool
 album: Teenage Gizzard
 ---
 
