@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Teenage Gizzard
+title: Ants & Bats
 album: Teenage Gizzard
 ---
 
