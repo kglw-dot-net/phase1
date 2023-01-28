@@ -41,13 +41,13 @@ album: Paper Mâché Dream Balloon
 > Ohhh no no no sense at all  
 > Ohhh no no no sense at all  
 
-# Credits
+# Song Credits
 
 * Recorded by Stu Mackenzie, Lucas Skinner, and Joey Walker in various homes/sheds/garages/apartments/hotels/tunnels early 2015.
 
-**Paper Mâché Dream Balloon**
+**Paper Mâché Dream Balloon Album Credits**
 
-* Stu Mackenzie: Acoustic Guitar, Drum Kit, Piano, Vocals, FLute, Clarinet, Double Bass, Electric Bass, Violin, Percussion, Sitar
+* Stu Mackenzie: Acoustic Guitar, Drum Kit, Piano, Vocals, Flute, Clarinet, Double Bass, Electric Bass, Violin, Percussion, Sitar
 * Lucas Skinner: Piano, Electric Bass
 * Joey Walker: Acoustic Guitar, Vocals, Electric Bass, Double Bass
 * Cook Craig: Acoustic Guitar, Vocals, Double Bass, Percussion
