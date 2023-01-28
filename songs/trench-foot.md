@@ -12,3 +12,7 @@ album: Teenage Gizzard
 > All the time  
 >  
 > Let it go  
+
+# Credits
+
+> Recorded some time in 2011 in Carlton, Victoria, Australia.  
