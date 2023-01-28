@@ -32,8 +32,8 @@ Now with a more familiar platform, a half complete Bağlama based folk album was
 * Michael Cavanagh: Drum Kit (1-8) / Bongos (3-5, 8, 9) / Percussion (9)
 * Cook Craig: Microtonal Guitar (1, 3, 7) / Microtonal Bass Guitar (4, 6)
 * Ambrose Kenny-Smith: Microtonal Harmonica (1, 4, 7-9) / Vocals (5)
-* Stu Mackenzie: Microtonal Guitar (1-8) / Microtonal Bass Guitar (2, 8) / Piano (1, 5, 9) / 
-> Synthesiser (2, 3, 8, 9) / Zurna (1, 3, 5-7, 9) / Vocals (1-4, 7, 8) / Percussion (1, 2, 3, 9)
+* Stu Mackenzie: Microtonal Guitar (1-8) / Microtonal Bass Guitar (2, 8) / Piano (1, 5, 9) /  
+Synthesiser (2, 3, 8, 9) / Zurna (1, 3, 5-7, 9) / Vocals (1-4, 7, 8) / Percussion (1, 2, 3, 9)
 * Eric Moore: Drum Kit (1, 3) / Bongos (9)
 * Lucas Skinner: Microtonal Bass Guitar (1-3, 7)
 * Joey Walker: Microtonal Guitar (1, 3, 4, 6, 8, 9) / Microtonal Bass Guitar (5) / Vocals (6)
