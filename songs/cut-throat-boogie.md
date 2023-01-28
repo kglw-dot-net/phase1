@@ -41,3 +41,14 @@ album: 12 Bar Bruise
 > Stitch up the past to cure their whoremented heart   
 >    
 > Tormented dreams it’s all left in between...   
+
+
+# Credits
+
+> Michael Cavanagh - Drums  
+> Cook Craig - Guitar + Sing  
+> Ambrose Kenny Smith - Harmonica + Sing  
+> Eric Moore - Theremin + Keys + Percussion  
+> Stu Mackenzie - Sing + Guitar  
+> Lucas Skinner - Bass + Sing  
+> Joe Walker - Guitar + Sing  
