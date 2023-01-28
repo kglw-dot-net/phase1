@@ -34,11 +34,11 @@ album: Paper Mâché Dream Balloon
 > Like a magpie's morning monologue  
 > Whispers bending backwards in the dirt  
 
-# Credits
+# Song Credits
 
 * Recorded by Stu Mackenzie, Lucas Skinner, and Joey Walker in various homes/sheds/garages/apartments/hotels/tunnels early 2015.
 
-**Paper Mâché Dream Balloon**
+**Paper Mâché Dream Balloon Album Credits**
 
 * Stu Mackenzie: Acoustic Guitar, Drum Kit, Piano, Vocals, FLute, Clarinet, Double Bass, Electric Bass, Violin, Percussion, Sitar
 * Lucas Skinner: Piano, Electric Bass
