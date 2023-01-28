@@ -32,8 +32,7 @@ The first true psychedelic album. A lo-fi throwback in sound to The Beatles’ I
 
 * Produced by Stu Mackenzie with Paul Maybury and Jarrad Brown 
 
-* Recorded in homes, studios and sheds during 2013 
-* By Stu Mackenizie, Jarrad Brown and Paul Maybury 
+* Recorded in homes, studios and sheds during 2013 by Stu Mackenizie, Jarrad Brown and Paul Maybury 
 
 * Mixed by Paul Maybury except the first movement of Head On mixed by Michael Badger and the left side of mystery jack mixed by Jarrad Brown 
 
