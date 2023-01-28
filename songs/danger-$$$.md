@@ -16,3 +16,13 @@ album: Willoughby's Beach
 > Danger money, danger money  
 > Danger money, danger money  
 > C'mon  
+
+# Credits
+
+* Michael Cavanagh - Drums  
+* Cook Craig - Guitar + Vocals  
+* Ambrose Kenny-Smith - Harmonica  
+* Stu Mackenzie - Vocals + Guitar  
+* Eric Moore - Drums + Theremin  
+* Lucas Skinner - Bass + Vocals  
+* Joey Walker - Guitar + Vocals  
