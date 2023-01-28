@@ -11,7 +11,7 @@ album: Paper Mâché Dream Balloon
 > The bitter boogie comes without a warning  
 > When it's inside of me it is exhausting  
 > I don't like the way it makes me freeze up  
-> And all it makes me say  
+> And what it makes me say  
 > I know it comes off bitter  
 > Bitter  
 > Bitter  
