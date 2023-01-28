@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Teenage Gizzard
+title: Trench Foot
 album: Teenage Gizzard
 ---
 
