@@ -28,3 +28,13 @@ album: 12 Bar Bruise
 > They have not seen   
 > The bruise that I’ve seen   
 > Broo-oo-oo-oo-uize   
+
+# Credits
+
+> Michael Cavanagh - Drums  
+> Cook Craig - Guitar + Sing  
+> Ambrose Kenny Smith - Harmonica + Sing  
+> Eric Moore - Theremin + Keys + Percussion  
+> Stu Mackenzie - Sing + Guitar  
+> Lucas Skinner - Bass + Sing  
+> Joe Walker - Guitar + Sing  
