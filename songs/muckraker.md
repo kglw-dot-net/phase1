@@ -16,3 +16,13 @@ album: 12 Bar Bruise
 > 
 > Oh no, oh no  
 > Muckraker  
+
+# Credits
+
+> Michael Cavanagh - Drums  
+> Cook Craig - Guitar + Sing  
+> Ambrose Kenny Smith - Harmonica + Sing  
+> Eric Moore - Theremin + Keys + Percussion  
+> Stu Mackenzie - Sing + Guitar  
+> Lucas Skinner - Bass + Sing  
+> Joe Walker - Guitar + Sing  
