@@ -37,8 +37,6 @@ Now with a more familiar platform, a half complete Bağlama based folk album was
 * Lucas Skinner: Microtonal Bass Guitar (1-3, 7)
 * Joey Walker: Microtonal Guitar (1, 3, 4, 6, 8, 9) / Microtonal Bass Guitar (5) / Vocals (6)
 
-
-
 NOTHING is sacred in our western music.
 Over hundreds of years our music de-evolved to featuer less emphasis on rhythm and more attention to harmonic IMPERFECTION.
 
