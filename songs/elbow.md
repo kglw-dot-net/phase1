@@ -17,7 +17,6 @@ album: 12 Bar Bruise
 
 # Credits
 
-
 > Michael Cavanagh - Drums  
 > Cook Craig - Guitar + Sing  
 > Ambrose Kenny Smith - Harmonica + Sing  
