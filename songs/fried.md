@@ -16,3 +16,8 @@ album: Teenage Gizzard
 > (Is this for you?)  
 > Is this alright?  
 > (Is this alright?)  
+
+# Credits
+
+> Recorded some time in 2010 in Angelsea, Victoria, Australia.  
+
