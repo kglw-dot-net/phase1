@@ -11,7 +11,7 @@ album: Paper Mâché Dream Balloon
 > I can dissect anything  
 > And save the skin for later  
 >  
-> I know its just a time  
+> I know it's just a time  
 > And things will get better  
 > But I don't mind much anyway  
 > Vampire reflection  
