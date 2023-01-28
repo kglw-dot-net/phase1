@@ -14,7 +14,7 @@ album: Paper Mâché Dream Balloon
 > Outside my window  
 > Full of testosterone  
 >  
-> When I get trouble my way  
+> When I get troubles my way  
 > Like paper mâché  
 > They stick to chimera balloon  
 > And I kick it out my door  
@@ -29,14 +29,14 @@ album: Paper Mâché Dream Balloon
 > Under a moonbeam  
 > Head on my pillow at home  
 >  
-> When I get trouble my way  
+> When I get troubles my way  
 > Like paper mâché  
 > They stick to chimera balloon  
 > And I hide it in my drawer  
 >  
 > Paper mâché dream balloon!  
 >  
-> When I get trouble my way  
+> When I get troubles my way  
 > Like paper mâché  
 > I stick them to a dream balloon  
 > And I kick it out my door  
