@@ -20,3 +20,8 @@ album: Teenage Gizzard
 > And you always sleep  
 > Before the day goes  
 > It's time to wake up  
+
+# Credits
+
+> Recorded some time in 2010 in Angelsea, Victoria, Australia.  
+
