@@ -30,7 +30,7 @@ album: Eyes Like The Sky
 > The guard suddenly cried out as his head exploded in a bubble of pink spray and he fell forward.  
 > The other two went to ground and nervously called out to each other.  
 >  
-> "Do you see the bastard?"    "No, he must be close."  
+> "Do you see the bastard?" "No, he must be close."  
 >  
 > But he wasn't. A Sharps sporting rifle will reach a long way in the right hands.  
 > The young man took careful aim and the smaller of the two men felt his right leg blasted away.  
