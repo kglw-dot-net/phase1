@@ -1,6 +1,6 @@
 ---
 layout: song
-title: "Elbow"
+title: Elbow
 album: 12 Bar Bruise
 ---
 
