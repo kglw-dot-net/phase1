@@ -15,3 +15,8 @@ album: Teenage Gizzard
 > Is all I need  
 > His tired eyes  
 > Will help me sleep  
+
+# Credits
+
+> Recorded some time in 2010 in Angelsea, Victoria, Australia.  
+
