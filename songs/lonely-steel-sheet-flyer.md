@@ -39,7 +39,7 @@ album: Quarters!
 > This flight  
 > Lover I'm lonely, a lonely steel sheet flyer  
 
-# Credits
+# Album Credits
 
 * Michael Cavanagh: Drums, Conga
 * Cook Craig: Guitar
