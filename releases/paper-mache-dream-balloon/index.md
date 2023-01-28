@@ -14,7 +14,22 @@ cover: ./cover.jpg
 
 This refreshing psych-pop album was recorded almost entirely on acoustic instruments for a quaint, folk-pop effect. The lyrics provide a dark undertone hinting at stories that highly contrast the sound. Showcases the Clarinet as part of a project to learn a new instrument every year.
 
-What to listen to next:
+# Credits
+
+> Thanks to mum, dad, grandy and gramps for having us in the shipping container.  
+> Thanks to Liza and Neve for having us at your house.  
+> Thanks to Jarrad and Richie for the bass.  
+> Thanks to Mladen and the girl across the street for the panio.  
+> Thanks to Mark and The Foreign National for your studio.  
+> Thanks and sorry to Andria for being a loud and annoying housemate.  
+> Thanks to Alex for the continual lend of the guitar.  
+> And thanks Philippa for well, everything! Love Stu  
+
+* Mixed by Mikey Young
+* Mastered by Joe Carra
+* Artwork & Photography by Jason Galea
+
+# What to listen to next:
 
 *   [If you liked the brighter, positive sound](../butterfly-3000)
 *   [If you want another Pop-based album](../changes)
