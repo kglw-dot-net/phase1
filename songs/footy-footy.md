@@ -46,3 +46,13 @@ album: 12 Bar Bruise
 > I’m gonna eat a banana   
 > I am gonna love every second of it   
 > I hate what this game has become.   
+
+# Credits
+
+* Michael Cavanagh - Drums  
+* Cook Craig - Guitar + Sing  
+* Ambrose Kenny Smith - Harmonica + Sing  
+* Eric Moore - Theremin + Keys + Percussion  
+* Stu Mackenzie - Sing + Guitar  
+* Lucas Skinner - Bass + Sing  
+* Joe Walker - Guitar + Sing  
