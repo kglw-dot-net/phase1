@@ -60,7 +60,7 @@ album: Quarters!
 > Expectating  
 > God is in the rhythm  
 
-# Credits
+# Album Credits
 
 * Michael Cavanagh: Drums, Conga
 * Cook Craig: Guitar
