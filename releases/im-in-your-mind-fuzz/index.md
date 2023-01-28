@@ -18,9 +18,9 @@ Traditionally recommended as the best starting point of the discography, it impl
 
 # Credits
 
-> This album is dedicated to all of the people that help make things happen - 
-> Maybs, Badger, Wayne and the crew at Daptone, Michelle, Sloanie, Harvey, Steve,  
-> Lorrae,Linda and all of our families and girlfriends. We love the lot of ya!  
+> This album is dedicated to all of the people that help make things happen -  
+> Maybs, Badger, Wayne and the crew at Daptone, Michelle, Sloanie, Harvey, Steve, Lorrae,Linda and all of our families and girlfriends.  
+> We love the lot of ya!  
 
 * All songs written by Stu Mackenzie except Hot Water by Joey Walker/Stu Mackenzie.
 * Produced by Stu Mackenzie
