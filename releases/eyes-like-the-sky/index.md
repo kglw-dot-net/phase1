@@ -25,8 +25,8 @@ This truly unique Spaghetti Western soundtrack uses spoken narration rather than
 > Like The Sky that night and sent me a recording of him reading it into his computer mic. It sounded kind of fucked up so played it through a guitar amp, recorded it, 
 > and synched it to the next recording we made which ended up being the title track.  
 >  
-> Brod and I went back and forward from there, sometimes the music inspiring the words or the words inspiring the music. It all came together pretty fast.  
-> So as you may be able to tell, it is flattering and bemusing to me that people would want to listen to this fried, weird, lo-fi record of ours. So thank   
+> Brod and I went back and forward from there, sometimes the music inspiring the words or the words inspiring the music. It all came together pretty fast. So as you 
+> may be able to tell, it is flattering and bemusing to me that people would want to listen to this fried, weird, lo-fi record of ours. So thank   
 > you very much! Enjoy, Love Stu  
 
 * Story written and narrated by Broderick Smith
