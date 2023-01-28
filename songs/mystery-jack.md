@@ -21,3 +21,13 @@ album: Float Along - Fill Your Lungs
 >  
 > Oh, die  
 > 'Cos I, oh I hope I don't wake up  
+
+# Credits
+
+* Michael Cavanagh
+* Cook Craig
+* Ambrose Kenny-Smith
+* Stu Mackenzie
+* Eric Moore
+* Lucas Skinner
+* Joe Walker
