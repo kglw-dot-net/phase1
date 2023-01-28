@@ -26,8 +26,8 @@ This truly unique Spaghetti Western soundtrack uses spoken narration rather than
 > and synched it to the next recording we made which ended up being the title track.  
 >  
 > Brod and I went back and forward from there, sometimes the music inspiring the words or the words inspiring the music. It all came together pretty fast. So as you 
-> may be able to tell, it is flattering and bemusing to me that people would want to listen to this fried, weird, lo-fi record of ours. So thank   
-> you very much! Enjoy, Love Stu  
+> may be able to tell, it is flattering and bemusing to me that people would want to listen to this fried, weird, lo-fi record of ours. So thank you very much! 
+> Enjoy, Love Stu  
 
 * Story written and narrated by Broderick Smith
 * Music by King Gizzard & The Lizard Wizard 
