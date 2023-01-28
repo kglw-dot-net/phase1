@@ -16,12 +16,15 @@ The first true psychedelic album. A lo-fi throwback in sound to The Beatles’ I
 
 # Credits
 
-This the record where we started to play together for the first time. Like that kind of in the pocket intuitive feeling you can have while playing with certain people. We were playing a lot of shows and had started jamming and improvising a lot live. 
-Out of the ether came head on/pill. It was short at first but it just kept fucking growing like pond scum. We thought we had better record it before we forgot it so we spend a day with paul maybury and laid the beast to rest. 
-Eric's almighty return to the drum kit here too, praise the lord. Although he had been a drummer for years, we had him for some reason playing keyboards and prancing around on stage with a theremin. Two kits just seemed louder and funner to me. 
-We went bush with the rest of the album. Home recordings made in Darraweit Guim, Deniliquin and Anglesea. Pretty fuckin aussie really. We recorded all day and sat around the campfire all night. 
-It seems funny to look back on but i think we were trying to make something psychedelic. And for us at the time, I suppose it was our psychedelic record. We were experimenting with synthesisers, the sitar and some odd time signatures for the first time. Music was starting to unravel and we were pulling the thread. 
-Plenty more string to unravel though! Heres hoping you can find some enjoyment in this loose ball of vaguely associated tunes. Love, Stu 
+> This the record where we started to play together for the first time. Like that kind of in the pocket intuitive feeling you can have while playing with certain > > > people. We were playing a lot of shows and had started jamming and improvising a lot live. 
+> Out of the ether came head on/pill. It was short at first but it just kept fucking growing like pond scum. We thought we had better record it before we forgot it so > we spend a day with paul maybury and laid the beast to rest. 
+> Eric's almighty return to the drum kit here too, praise the lord. Although he had been a drummer for years, we had him for some reason playing keyboards and 
+> prancing around on stage with a theremin. Two kits just seemed louder and funner to me. 
+> We went bush with the rest of the album. Home recordings made in Darraweit Guim, Deniliquin and Anglesea. Pretty fuckin aussie really. We recorded all day and sat 
+> around the campfire all night. 
+> It seems funny to look back on but i think we were trying to make something psychedelic. And for us at the time, I suppose it was our psychedelic record. We were 
+> experimenting with synthesisers, the sitar and some odd time signatures for the first time. Music was starting to unravel and we were pulling the thread. 
+> Plenty more string to unravel though! Heres hoping you can find some enjoyment in this loose ball of vaguely associated tunes. Love, Stu 
 
 * All songs written by Stu Mackenzie except pop in my step written by Cook Craig and let me mend the past written by Stu Mackenzie and Ambrose Kenny-Smith  
 
