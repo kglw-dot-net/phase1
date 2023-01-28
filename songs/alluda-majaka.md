@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Oddments
+title: Alluda Majaka
 album: Oddments
 ---
 
