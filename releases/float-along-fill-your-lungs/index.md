@@ -43,7 +43,7 @@ The first true psychedelic album. A lo-fi throwback in sound to The Beatles’ I
 * Layout and back cover photo by Jason Galea 
 * Poster artwork by Ican Harem 
 
-What to listen to next:
+# What to listen to next:
 
 *   [If you want an album of long, trippy jams](../quarters)
 *   [If you want more of the ‘Eastern’ sound](../flying-microtonal-banana)
