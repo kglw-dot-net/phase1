@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Willoughby's Beach
+title: Black Tooth
 album: Willoughby's Beach
 ---
 
