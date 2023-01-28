@@ -16,3 +16,7 @@ album: Teenage Gizzard
 > To the beach now  
 > You look fine, yeah  
 > Like a beach, yeah  
+
+# Credits
+
+> Recorded some time in 2011 in Carlton, Victoria, Australia.  
