@@ -16,7 +16,22 @@ With a clean Krautrock inspired foundation, King Gizzard make their first big ev
 
 Traditionally recommended as the best starting point of the discography, it implements several ideas that would eventually coalesce into what is now known as the ‘[Gizzverse](https://kglw.net/blog/gizzverse/2023/01/02/compendium-vol-00.html)’. These include visual elements of the album artwork and music videos, and seamless track medleys that link songwriting elements. Both aspects lay significant groundwork for imagery and concepts that are built upon in later albums.
 
-What to listen to next:
+# Credits
+
+* All songs written by Stu Mackenzie except Hot Water by Joey Walker/Stu Mackenzie.
+* Produced by Stu Mackenzie
+* Mastered by Joe Carra
+* Art by Jason Galea
+
+* Tracks 1,3,4,6,7 recorded by Wayne Gordon at Daptone, Brooklyn
+* Tracks 2,5,8,9,10 recorded by Paul Maybury at a secret location, Melbourne 
+* Additional recording by Stu Mackenzie at Hunter Mountain, New York
+
+* Tracks 1,3,4,7 mixed by Michael Badger at Jaya Jaya music with additional mixing by Stu Mackenzie.
+* Tracks 2,8,10 mixed by Paul Maybury and Stu Mackenzie at a secret location
+* Tracks 5,6,9 mixed by Stu Mackenzie on a laptop in the tour van
+
+# What to listen to next:
 
 *   [If you want the next ‘essential’ Gizzverse album](../nonagon-infinity)
 *   [If you liked the driving basslines of Krautrock influence](../flying-microtonal-banana)
