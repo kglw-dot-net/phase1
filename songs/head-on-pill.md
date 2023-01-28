@@ -8,7 +8,7 @@ album: Float Along - Fill Your Lungs
 
 > Just yesterday I sat across from my legs  
 > They weren't connected to me  
-> I couldn't see cause my eyes were in me  
+> I couldn't see cause my eyes weren't in me  
 > Hold me up straight while I screw my head on  
 >  
 > Head on  
