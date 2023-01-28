@@ -26,7 +26,7 @@ The album cover was the first by Jason Galea, now considered a member of the gro
 >  
 > Recorded and Mixed in 2012 by Paul Maybury and King Gizzard in Melbourne.  
 > Except 12 Bar Bruise, Recorded late at night in Anglesea with 4 iPhones around the room and Stu singing straight into one.  
-
+>  
 > Artwork by Jason Galea  
 > Mastered by Joseph Carra  
 > Photo by Lauren Bamford  
