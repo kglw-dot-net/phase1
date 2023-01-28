@@ -18,14 +18,14 @@ album: Paper Mâché Dream Balloon
 > I said, "What's the problem?"  
 > She said, "It's the cold cadaver"  
 >  
-> "Cold cadaver"  
+> "Cold cadaver!"  
 >  
 > I was sleeping  
 > When I heard her preaching  
 > I said, "What's the problem?"  
 > She said, "It's the cold cadaver"  
 >  
-> "Cold cadaver"  
+> "Cold cadaver!"  
 >  
 > My tongue is big  
 > But not as big as his  
@@ -38,7 +38,7 @@ album: Paper Mâché Dream Balloon
 > She said, "What's the problem?"  
 > I said, "It's the cold cadaver"  
 >  
-> "Cold cadaver"  
+> "Cold cadaver!"  
 
 # Song Credits
 
