@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Willoughby's Beach
+title: Let It Bleed
 album: Willoughby's Beach
 ---
 
