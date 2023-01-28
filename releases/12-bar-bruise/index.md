@@ -26,8 +26,8 @@ The album cover was the first by Jason Galea, now considered a member of the gro
 > confused, wide eyed, living off goon bags, ciggies, doritos and the dole. Paul Maybury engineered and really guided us through this one. He let me take control of  > the faders and experiment with his seemingly endless array of recording equipment. I pretended I knew what I was doing. Anyway, he pulled it all together - 
 > I shudder to think what it would have sounded like without his road hardened wisdom. Many firsts here- first collaborations and early narrative based music with 
 > Brod Smith which would lead to making eyes like the sky with him a few months later. More firsts-like working with Jason Galea. Ambrose knew Jase from 
-> skateboarding circles and we found his drawing of a royal looking lizard beast-thing stabbing some teddy bear-ish monster. Seemed perfect. He's  
-> become part of the furniture and we've worked with him on everything since. Formative >years? I think it was that time of your life where you start using  
+> skateboarding circles and we found his drawing of a royal looking lizard beast-thing stabbing some teddy bear-ish monster. Seemed perfect. He's become part 
+> of the furniture and we've worked with him on everything since. Formative >years? I think it was that time of your life where you start using  
 > your brain for the first time in general. Lizard brain. Who am I? Who was me?  
 > Enjoy! Love Stu   
 
