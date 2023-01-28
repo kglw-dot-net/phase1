@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Willoughby's Beach
+title: Stoned Mullet
 album: Willoughby's Beach
 ---
 
