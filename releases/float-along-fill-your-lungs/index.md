@@ -18,7 +18,8 @@ The first true psychedelic album. A lo-fi throwback in sound to The Beatles’ I
 
 > This the record where we started to play together for the first time. Like that kind of in the pocket intuitive feeling you can have while playing with certain
 > people. We were playing a lot of shows and had started jamming and improvising a lot live. 
-> Out of the ether came head on/pill. It was short at first but it just kept fucking growing like pond scum. We thought we had better record it before we forgot it so > we spend a day with paul maybury and laid the beast to rest. 
+> Out of the ether came head on/pill. It was short at first but it just kept fucking growing like pond scum. We thought we had better record it before we forgot it
+> so we spend a day with paul maybury and laid the beast to rest. 
 > Eric's almighty return to the drum kit here too, praise the lord. Although he had been a drummer for years, we had him for some reason playing keyboards and 
 > prancing around on stage with a theremin. Two kits just seemed louder and funner to me. 
 > We went bush with the rest of the album. Home recordings made in Darraweit Guim, Deniliquin and Anglesea. Pretty fuckin aussie really. We recorded all day and sat 
