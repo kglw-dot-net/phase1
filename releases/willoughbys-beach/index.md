@@ -10,7 +10,7 @@ The precursor to debut album [12 Bar Bruise](../12-bar-bruise), this EP is an ev
 
 # Credits
 
-* Recorded and mixed in 2011 by Paul Maybury at a secret location, Melbourne  
+* Recorded and mixed in 2011 by Paul Maybury at A Secret Location, Melbourne  
 
 * Mastered by Joseph Carra at Crystal Mastering  
 
