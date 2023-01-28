@@ -11,4 +11,4 @@ album: Teenage Gizzard
 
 # Credits
 
-> Recorded some time in 2010 in Angelsea, Victoria, Australia.  
+* Recorded some time in 2010 in Angelsea, Victoria, Australia.  
