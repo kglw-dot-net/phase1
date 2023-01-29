@@ -36,10 +36,10 @@ album: Gumboot Soup
 
 # Song Credits
 
-Stu: Guitar, Vocals, Saxophone, Percussion
-Cavs: Drums
-Mu: Drums
-Amby: Vocals, Harmonica, Keys
-Joey: Guitar
-Cooky: Guitar
-Lukey: Bass
+* Stu: Guitar, Vocals, Saxophone, Percussion
+* Cavs: Drums
+* Mu: Drums
+* Amby: Vocals, Harmonica, Keys
+* Joey: Guitar
+* Cooky: Guitar
+* Lukey: Bass
