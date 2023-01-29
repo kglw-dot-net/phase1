@@ -36,9 +36,9 @@ album: Sketches Of Brunswick East
 
 # Song Credits
 
-Alex: Electric Piano
-Stu: Wah Wah Guitar, Vocals, Mellotron
-Joey: Bass Guitar
-Cavs: Drum Kit 1, Drum Kit 2
-Lucas: Electric Piano, Mellotron
-Ambrose: Vocals
+* Alex: Electric Piano
+* Stu: Wah Wah Guitar, Vocals, Mellotron
+* Joey: Bass Guitar
+* Cavs: Drum Kit 1, Drum Kit 2
+* Lucas: Electric Piano, Mellotron
+* Ambrose: Vocals
