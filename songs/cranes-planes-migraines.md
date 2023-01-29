@@ -10,7 +10,7 @@ album: Sketches Of Brunswick East
 
 > (Instrumental)
 
-**Song Credits**
+# Song Credits
 
 * Alex: Synthesiser, Microtonal Synthesiser
 * Stu: Glass Marimbas, Mellotron
