@@ -40,5 +40,5 @@ album: Gumboot Soup
 
 # Song Credits
 
-Stu: Vocals, Drums, Keys, Mellotron, Guitar, Bass, Percussion
-Amby: Harmonica, Vocals
+* Stu: Vocals, Drums, Keys, Mellotron, Guitar, Bass, Percussion
+* Amby: Harmonica, Vocals
