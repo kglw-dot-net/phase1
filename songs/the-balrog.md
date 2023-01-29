@@ -22,7 +22,7 @@ album: Murder Of The Universe
 > Balrog, yep!  
 >  
 > Balrog fears not the lightning lord  
-> He's fixed on us, has him ignored  
+> He's fixed on us, has Him ignored  
 >  
 > Feel a tingle  
 > Crawling up your left arm when you  
@@ -100,4 +100,4 @@ Mellotron Choir, Yamaha Reface YC, Fender Mustang Bass, Natural Reader UK Charle
 * Lucas Skinner: Fender Mustang Bass
 * Eric Moore: Management
 
-* Leah Senior: Spoken Word Track 1-9,11-15
+* Leah Senior: Spoken Word Tracks 1-9,11-15
