@@ -41,8 +41,8 @@ Almacknjack was a garage rock band featuring Stu on guitar, Almo Troup with voca
 ### The Lexies  
 The Lexies featured Eric and released an EP _Do You Want Some Money?_ in 2007, which has likely been lost.
 
-### Love Migrate (formerly Goodnight Owl)  
-Love Migrate were a borderline ambient indie-rock band featuring Eric on Drums, Joey on guitar and various electronic instruments, Edward Alexander, Bella Walker, Casey Hartnett, Monty Hartnett, Pete Sismanes, and Glen Smith. Love Migrate had the distinction of continuing well into the formation of King Gizzard, and were published by Flightless Records and then Dusky Tracks.
+### Love Migrate  
+Formerly known as Goodnight Owl, Love Migrate were a borderline ambient indie-rock band featuring Eric on Drums, Joey on guitar and various electronic instruments, Edward Alexander, Bella Walker, Casey Hartnett, Monty Hartnett, Pete Sismanes, and Glen Smith. Love Migrate had the distinction of continuing well into the formation of King Gizzard, and were published by Flightless Records and then Dusky Tracks.
 
 ### Revolver & Sun  
 Revolver & Sun were a 60s inspired folk-rock band featuring Stu and Cook on guitar and bass, Monty Hartnett on drums and Fraser Gorman with lead vocals.
@@ -50,8 +50,8 @@ Revolver & Sun were a 60s inspired folk-rock band featuring Stu and Cook on guit
 ### Your Ailing Girls Heart  
 This seems to have been a project of Cook's, little evidence of its existence remains. Two songs were uploaded to a [Myspace page](https://myspace.com/yourailinggirlsheart) which are now lost due to a [botched server migration](https://arstechnica.com/information-technology/2019/03/myspace-apparently-lost-12-years-worth-of-music-and-almost-no-one-noticed/).
 
-### Trumpdisco / SUB-Humans
-Trumpdisco was an electronic production and DJ duo consisting of Joey and Alexander Braithwaite, since Joey's apparant departure in 2016 the project has continued under the name SUB-humans.
+### SUB-Humans
+Formerly known as Trumpdisco, this was an electronic production and DJ duo consisting of Joey and Alexander Braithwaite, since Joey's apparant departure in 2016 the project has continued under the name SUB-humans.
 
 ### Buried Horses
 Buried Horses were a short-lived band featuring Eric on drums, Jim Westmore, Tom Westmore, Liam O'Shannessy, and Mark Berry. They released an album, _Tempest_, in 2011. 
@@ -59,7 +59,7 @@ Buried Horses were a short-lived band featuring Eric on drums, Jim Westmore, Tom
 ### Dreamin' Wild
 Dreamin' Wild were an easy listening Jazz and Blues rock band featuring Cook on bass, Chris Jennings, Monty Hartnett, Sam Cooper, and Tim Karmouche, and released albums in 2016 and 2019.
 
-## King Gizzard Associated Music Projects  
+## Associated Music Projects  
 Members of King Gizzard are associated in various ways with many other musicians, either as collaborators, personal friends, or through contributing to their releases in technical roles.
 
 ### Mild High Club
