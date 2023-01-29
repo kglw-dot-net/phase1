@@ -9,7 +9,6 @@ This website (KGLW.net) is wholly managed and operated separately from the band 
 [kinggizzardandthelizardwizard.com]: https://kinggizzardandthelizardwizard.com
 [gizzverse.com]: https://gizzverse.com
 
-
 **KGLW.net DMCA Policy**
 
 KGLW.net (the Site) respects the intellectual property rights of others.  
