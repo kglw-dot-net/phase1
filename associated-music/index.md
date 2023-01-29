@@ -109,3 +109,19 @@ Broderick is the writer and narrator of 2012's [_Eyes Like The Sky_](https://kgl
 
 ### Mallee Songs  
 Featuring tracking by Lucas and Stu, and guitar by Casey Hartnett.
+
+## Influences
+
+### Hawkwind
+
+### Frank Zappa
+
+## Influencees
+
+### Liminal
+
+### The Lazy Eyes
+
+### Psychedelic Porn Crumpets
+
+### Battlesnake
