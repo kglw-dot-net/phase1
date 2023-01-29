@@ -1,6 +1,6 @@
 ---
 layout: song
-title: A New World
+title: Murder Of The Universe
 album: Murder Of The Universe
 ---
 
