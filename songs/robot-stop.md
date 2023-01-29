@@ -52,7 +52,7 @@ album: Nonagon Infinity
 > My body's overworked  
 > It's just the same I know  
 > When can my body work  
-> Cold static overload?  
+> Cold static overload  
 > My body works I know  
 > It's just the same I know  
 > My only difference  
@@ -67,7 +67,7 @@ album: Nonagon Infinity
 > My body's overworked  
 > It's just the same I know  
 > When can my body work  
-> Cold static overload?  
+> Cold static overload  
 > My body works I know  
 > It's just the same I know  
 > My only difference  
