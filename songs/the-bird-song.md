@@ -30,4 +30,6 @@ album: Fishing For Fishies
 <br>
 
 * Recorded by Stu at Flightless Records in September 2018.
-* Overdubs recorded by Stu and Cook i
+* Overdubs recorded by Stu and Cook in Melbourne in September through November 2018.
+* Mixed by Sam Joseph.
+
