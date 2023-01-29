@@ -6,8 +6,6 @@ redirect_from:
 
 During the formative years of the band it would have been accurate to describe King Gizzard and the Lizard Wizard as everyone's side project; now, they are the nexus for a range of solo and side acts, peers, collaborators, and even a new generation of bands who draw from their influence.
 
-[test](#the-lexies)
-
 ## Music Projects of King Gizzard Band Members
 
 Stu is the only member of King Gizzard not actively involved with composing music in other bands or solo projects (he does technical duties for some of these though):
@@ -38,7 +36,7 @@ This was a Garage Rock band formed in 2005 featuring Stu on guitar, Cavs drummin
 This was a Blues Rock band featuring Ambrose and Lucas, also with Sam Cooper, Cal Shortal and Lonnie Carland. They released two EPs and an album, [_Beat Boom Soul_](https://www.youtube.com/watch?v=OrfVJicYwuo) in 2009.
 
 ### Almacknjack  
-Almacknjack was a garage rock band featuring Stu on guitar, Almo Troup with vocals, and Jack Robbins (who went on to make music as [Forever Son](https://www.youtube.com/watch?v=4J76WBb6XW0)). In 2008, they released their only album [_Taste of an Orange_](https://www.youtube.com/watch?v=PJMCC1Ommms&t=684s).
+Almacknjack was a garage rock band featuring Stu on guitar, Almo Troup with vocals, and Jack Robbins (who went solo as [Forever Son](#forever-son)). In 2008, they released their only album [_Taste of an Orange_](https://www.youtube.com/watch?v=PJMCC1Ommms&t=684s).
 
 ### The Lexies  
 The Lexies featured Eric and released an EP _Do You Want Some Money?_ in 2007, which has likely been lost.
@@ -46,22 +44,26 @@ The Lexies featured Eric and released an EP _Do You Want Some Money?_ in 2007, w
 ### Love Migrate (formerly Goodnight Owl)  
 Love Migrate were a borderline ambient indie-rock band featuring Eric on Drums, Joey on guitar and various electronic instruments, Edward Alexander, Bella Walker, Casey Hartnett, Monty Hartnett, Pete Sismanes, and Glen Smith. Love Migrate had the distinction of continuing well into the formation of King Gizzard, and were published by Flightless Records and then Dusky Tracks.
 
-
 ### Revolver & Sun  
 Revolver & Sun were a 60s inspired folk-rock band featuring Stu and Cook on guitar and bass, Monty Hartnett on drums and Fraser Gorman with lead vocals.
 
 ### Your Ailing Girls Heart  
 This seems to have been a project of Cook's, little evidence of its existence remains. Two songs were uploaded to a [Myspace page](https://myspace.com/yourailinggirlsheart) which are now lost due to a [botched server migration](https://arstechnica.com/information-technology/2019/03/myspace-apparently-lost-12-years-worth-of-music-and-almost-no-one-noticed/).
 
-### Trumpdisco / Sub Humans
-
+### Trumpdisco / SUB-Humans
+Trumpdisco was an electronic production and DJ duo consisting of Joey and Alexander Braithwaite, since Joey's apparant departure in 2016 the project has continued under the name SUB-humans.
 
 ### Buried Horses
+Buried Horses were a short-lived band featuring Eric on drums, Jim Westmore, Tom Westmore, Liam O'Shannessy, and Mark Berry. They released an album, _Tempest_, in 2011. 
 
 ### Dreamin' Wild
+Dreamin' Wild were an easy listening Jazz and Blues rock band featuring Cook on bass, Chris Jennings, Monty Hartnett, Sam Cooper, and Tim Karmouche, and released albums in 2016 and 2019.
 
 ## King Gizzard Associated Music Projects  
 Members of King Gizzard are associated in various ways with many other musicians, either as collaborators, personal friends, or through contributing to their releases in technical roles.
+
+### Mild High Club
+Mild High Club is the hypnagogic-psych project of Alex Brettin, and collaborator on [_Sketches Of Brunswick East_]. The Mild High Club live band had been booked for 2016's Gizzfest, and Alex hit it off so well with King Gizzard that he stuck around for a couple of extra weeks and put down a series of demos that later became the album.
 
 ### ORB  
 Keyboards, recording, mixing by Stu
@@ -89,6 +91,7 @@ Joey guitar
 
 ### Forever Son  
 Friend of Leah Senior
+https://www.youtube.com/watch?v=4J76WBb6XW0
 
 ### Sagamore  
 
@@ -102,7 +105,7 @@ A psychedelic-surf rock band, Lucas contributed bass for several songs on their 
 2014 album featured artwork by Jason Galea and was mixed by Stu.
 
 ### Broderick Smith  
-Broderick is the writer and narrator of 2012's [_Eyes Like The Sky_](https://kglw.net/releases/eyes-like-the-sky), a legend of the music industry in his own right, he was a member of Sundown, Carson, and the Dingoes, he is also Ambrose's father.
+Broderick is the writer and narrator of 2012's [_Eyes Like The Sky_](https://kglw.net/releases/eyes-like-the-sky), a legend of the Australian music industry in his own right as a member of Sundown, Carson, and the Dingoes, he is also Ambrose's father.
 
 ### Mallee Songs  
 Featuring tracking by Lucas and Stu, and guitar by Casey Hartnett.
