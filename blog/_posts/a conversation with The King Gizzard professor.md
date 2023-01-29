@@ -26,11 +26,11 @@ Because by the nineties, a lot of the traditional ways of being a musician were 
 So, Stu, Joey, Eric, and Lucas turned up in 2010, and you could really tell that they had a plan, that there was already a project bubbling in the background.
 
 W.B.T.G. Slinger:  
-Well, each of them had been in quite a few pretty loose bands over the years leading up to that.
+Well, each of them had been in quite a few pretty loosely structured bands over the years leading up to that.
 
 Dr. Barry Hill:  
 So that footage that I've posted, I've gone through that archive, and I've actually got all these different performances by Eric and Stu and Joey doing all different things. I've thought, maybe I could release these as well, but I'd have to make sure that they're happy with that.
-Eric in particular was obviously a superb drummer. I wanted to play with him, he really sounded like Elvin Jones from John Coltrane's band, he's got that amount of creativity. And yeah, lovely guy. But he was really lazy on assessments and getting prepared. He'd rock up to the performance exam and go, ‘I just put this together yesterday’. So posting that sort of stuff, he might not be very happy with. As I said, I've got a bit of an archive of other content, which I'm gonna see if I might contact them first and see if they think it's suitable or if they're happy for it to be put up. As they obviously had a project together, and were sort of like a little bit of a gang.
+Eric in particular was obviously a superb drummer. I wanted to play with him, he really sounded like Elvin Jones from John Coltrane's band, he's got that amount of creativity. And yeah, lovely guy. But he was really lazy on assessments and getting prepared. He'd rock up to the performance exam and go, ‘I just put this together yesterday’. So posting that sort of stuff, he might not be very happy with. I'm gonna see if I might contact them first and see if they think it's suitable or if they're happy for it to be put up. As they obviously had a project together, and were sort of like a little bit of a gang.
 
 W.B.T.G. Slinger:  
 So that stood out to you among their whole course? Was there a sort of ‘spark’, do you think? 
@@ -79,7 +79,7 @@ I find it interesting that historical periods might not be documented very well.
 <iframe width="1903" height="768" src="https://www.youtube.com/embed/b7CabUk5LPY" title="awesome live Electro band From Byron bay Australia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 W.B.T.G. Slinger:  
-That's an issue that I've had trying to track the early history of King Gizzard members as well. You know, some of that stuff only existed on MySpace and is now just lost.
+That's an issue that I've had trying to track the early history of King Gizzard members as well. Some of that stuff only existed on MySpace and is now just lost.
 I was born early in that era, so I noticed in your PhD you mentioned the _Resin Dogs_, which is a band that I only know of because they were one of the more popular live acts to tour regularly in our region; I’m sure they now have some stuff published digitally, but I bet it's not being streamed very much.
 
 <iframe width="1904" height="768" src="https://www.youtube.com/embed/QTTElvVlwMY" title="Resin Dogs - "Set It Off" (Live at Jungle Love 2015)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -91,8 +91,8 @@ W.B.T.G. Slinger:
 I was a bit young for the after party, but yeah, the Global Carnival was very much a defining aspect of my childhood.
 
 Dr. Barry Hill:  
-Oh, well you probably would have seen me play, because I used to play in a variety of groups, like as a hired drum and bass player in the nineties. I was with a lot of multicultural groups playing African music, South American music, and hybrid Indian music.
-That era was really instrumental for me, I was very much a Sydney based musician then - and just trying to circle this back to King Gizzard - back then, Sydney and Melbourne bands didn't really get to know each other that much. It's just a little bit too far when you're starting out. I remember going to Melbourne for the first time in the early 90s and getting blown away by the strength of the music scene. While it was happening, we had just been through a progression of shutdowns of live music venues being replaced by pokies [slot machines]. Melbourne just seemed to be really vibrant with amazing music, but not many people getting paid very well. Little cafes and pubs that could get liquor licenses that they wouldn’t be able to in New South Wales. It's like a different country.
+Oh, well you probably would have seen me play, because I used to play in a variety of groups there, like as a hired drum and bass player. I was with a lot of multicultural groups playing African music, South American music, and hybrid Indian music.
+That era was really instrumental for me, I was very much a Sydney based musician then - and just trying to circle this back to King Gizzard - back then, Sydney and Melbourne bands didn't really get to know each other that much. It's just a little bit too far when you're starting out. I remember going to Melbourne for the first time in the early 90s and getting blown away by the strength of the music scene. While it was happening, we had just been through a progression of shutdowns of live music venues being replaced by pokies _[slot machines]_. Melbourne just seemed to be really vibrant with amazing music, but not many people getting paid very well. Little cafes and pubs that could get liquor licenses that they wouldn’t be able to in New South Wales. It's like a different country.
 
 W.B.T.G. Slinger:  
 It's funny how little has changed. You had the Sydney lockout laws through the 2010s - which were implemented not long after I moved there — and then I could see friends trying to make it in the Melbourne music scene, the difference is just incredible.
@@ -118,34 +118,35 @@ Dr. Barry Hill:
 Look, I think it's sort of a two-edged sword, it's definitely different. Definitely very, very difficult to make money. That's in the Australian market itself, unless you're really supported by Triple J and paying a publicist. So to get access to Triple J, this might be quite controversial, but these days you need to pay a publicist to promote your act to Triple J programmers. And they take <!--Waiting feedback-->bribes and stuff on the back door for that. So in a sense, Triple J really control the development of independent artists in Australia, and that's not a very good situation.
 
 W.B.T.G. Slinger:  
-I've been a lifelong Triple J listener. With King Gizz, my sense is that they've had some of that support, it is how I discovered the band. But I've always had this feeling that Triple J doesn't really know what to do with King Gizz. Most years they'll put one song in good rotation, which is more than most bands could hope for, but it never feels like the ‘right’ song and they typically don’t perform well in the Hottest 100. I guess King Gizz don't really fit the model of the release cycle and the touring cycle, with their prolificacy and diversity. It always seemed to be kind of a funny relationship with Triple J.
+I've been a lifelong Triple J listener. With King Gizz, my sense is that they've had some of that support, it is how I discovered the band. But I've always had this feeling that Triple J doesn't really know what to do with King Gizz. Most years they'll put one song in good rotation, which is more than most bands could hope for, but it never feels like the ‘right’ song and they typically don’t perform well in the Hottest 100. I guess King Gizz don't really fit the model of the release cycle and the touring cycle, with their prolificacy and diversity; it always seemed to be kind of a funny relationship with Triple J.
 
 Dr. Barry Hill:  
-Look, I could go into a big rant about what I think about Triple J. But just basically, Triple J is part of an older music industry model where they have a relationship with the major labels, which is a problem because Triple J has centralized programming now. When I was listening to it as a student back in the 80s and early 90s, each DJ got to program their own show, so it wasn't a monopoly. There were maybe eight or nine DJs all programming different stuff, drawing on all different networks of music in Australia. Now, it's one person making those decisions, someone who's a middle-aged white man. So they have strong relationships with record companies, and they recognize that getting a new artist on the station is a stepping stone to get commercially famous. That happens because of the way copyright payments and APRA payments work in Australia. So as a record label, because there's only a few big radio stations, Triple J is one way you can promote your artists out there, get APRA royalties for your act, and get some money for the investment that you've made in them. For independent artists, you really need to come through the Triple J Unearthed program and then get someone in Triple J to really support you, otherwise you have to pay a publicist $10,000 a month to keep pushing your stuff to the head honchos. With King Gizzard, because they're independent, because their music sometimes is not radio friendly, the whole identity of the band doesn't fit well into one genre, so that doesn't fit into a particular show they want to promote.
+Look, I could go into a big rant about what I think about Triple J. But just basically, Triple J is part of an older music industry model where they have a relationship with the major labels, which is a problem because Triple J has centralized programming now. When I was listening to it as a student back in the 80s and early 90s, each DJ got to program their own show, so it wasn't a monopoly. There were maybe eight or nine DJs all programming different stuff, drawing on all different networks of music in Australia. Now, it's one person making those decisions, someone who's a middle-aged white man. So they have strong relationships with record companies, who recognize that getting a new artist on the station is a stepping stone to get them commercially famous. That happens because of the way copyright payments and APRA payments work in Australia. So as a record label, because there's only a few big radio stations, Triple J is one way you can promote your artists out there, get APRA royalties for your act, and get some money for the investment that you've made in them. For independent artists, you really need to come through the Triple J Unearthed program and then get someone in Triple J to really support you, otherwise you have to pay a publicist $10,000 a month to keep pushing your stuff to the head honchos.  
+With King Gizzard, because they're independent, because their music sometimes is not radio friendly, the whole identity of the band doesn't fit well into one genre, so that doesn't fit into a particular show they want to promote.
 
 W.B.T.G. Slinger:  
-The fans are actually pushing to get The Dripping Tap into the Hottest 100 Next week.
+The fans are actually pushing to get The Dripping Tap into the Hottest 100 next week.
 
 Dr. Barry Hill:   
-Even the J Hottest 100, that's become this hilarious, sort of way of ‘let's see how we can stack the voting’.
+Even the Hottest 100, that's become this hilarious, sort of way of ‘let's see how we can stack the voting’.
 
 W.B.T.G. Slinger:  
-I'm personally a bit of a purist when it comes to the Hottest 100, you know, I manually write-in my votes and all that. But this trend does make it a little more difficult to engage with over time I feel.
+I'm personally a bit of a purist when it comes to the Hottest 100, you know, I manually write-in my votes and all that, but this trend does make it a little more difficult to engage with over time I feel.
 
-_Triple J’s Hottest 100 is thought to be the world's largest public annual music poll and the results as broadcast are typically listened to by approximately one-fifth of the entire adult population of Australia. King Gizzard and the Lizard Wizard have appeared in the countdown with 2016’s Gamma Knife and 2017’s Nuclear Fusion, but have been under-represented compared with a typical band of their status and presence. Despite the push from fans, King Gizzard made no appearance in the [countdown for 2022](https://en.wikipedia.org/wiki/Triple_J_Hottest_100,_2022)._
+_Triple J’s Hottest 100 is thought to be the world's largest public annual music poll and the results as broadcast are typically listened to by approximately one-fifth of the entire adult population of Australia. King Gizzard and the Lizard Wizard have appeared in the countdown with 2016’s Gamma Knife and 2017’s Nuclear Fusion, but have been under-represented compared with the expected placement of similar band of their status and presence. Despite the push from fans, King Gizzard made no appearance in the [countdown for 2022](https://en.wikipedia.org/wiki/Triple_J_Hottest_100,_2022)._
 
 Dr. Barry Hill:  
-To get back to what your question was about the music industry, it's hard financially, but one thing that's better about it than overseas markets is that when you're starting out, it's not so cut-throat. I've known people who've gone to the states, to Nashville to try and make it in that scene. There's so many people living in their cars, still paying rent to a friend's house, so they've got access to a shower and a kitchen. Just struggling, and struggling, and struggling to get that first step into the music industry in America as American artists. Same in Europe or England, there's just so many bands, you're competing with so many things.
+To get back to what your question was about the music industry, it's hard financially, but one thing that's better about it than overseas markets is that when you're starting out, it's not so cut-throat. I've known people who've gone to the states, to Nashville to try and make it in that scene. There's so many people living in their cars, still paying rent to a friend's house so they've got access to a shower and a kitchen. Just struggling, and struggling, and struggling to get that first step into the music industry in America as American artists. Same in Europe or England, there's just so many bands, you're competing with so many things.
 
 W.B.T.G. Slinger:  
 So there's a bit more space down here.
 
 Dr. Barry Hill:   
 Yeah, it's similar to living in regions like we do as opposed to Living in New York, you've got space to go out to beautiful waterholes, establish your creative practice and establish a network of people. The great thing about the music industry now, is that if you are driven, if you have a really good project together, and you've got a few people on board that have the time to develop it, you can develop your international networks completely outside of the record companies and radio stations.
-The social media thing is a real help that we didn't have in the 90s, to actually connect with people overseas who might like your music and that might be able to put on a gig for you. I'd love to get Stu and everyone up to my current course to tell my kids how they did it, what the breakthrough moments were. But I reckon the first couple of tours to America must have been in the back of a bus.
+The social media thing is a real help that we didn't have in the nineties, to actually connect with people overseas who might like your music and that might be able to put on a gig for you. I'd love to get Stu and everyone up to my current course to tell my kids how they did it, what the breakthrough moments were. But I reckon the first couple of tours to America must have been in the back of a bus.
 
 W.B.T.G. Slinger:  
-Oh, absolutely they were. They’d just won the $50,000 AUD Carlton Dry Global Music Grant at the Australian Independent Record Labels Association Awards. So they used that to get to the US and really cut their teeth with a real tour like you can’t do here, where they made all sorts of connections. Then they rented a cheap cabin in upstate New York for a month and bought a bunch of equipment off Craigslist, and traveled down to Brooklyn every weekend to do a residency in the 3am slot at Baby’s All Right. I think half of them would go in the van and the rest had to rotate each week for who would take the bus. That cabin is where I’m In Your Mind Fuzz started coming together, and they had just enough left over to buy some studio time at Daptone for that as well.
+Oh, absolutely they were. That $50,000 AUD grant _[the Carlton Dry Global Music Grant won at eh Australian Independent Record Labels Association awards for [Float Along - Fill Your Lungs](https://kglw.net/releases/float-along-fill-your-lungs)]_ got them to the US where they really cut their teeth with a real tour like you can’t do here, and made all sorts of connections. Then they were still able to rent a cheap cabin in upstate New York for a month and buy a bunch of equipment off Craigslist, and traveled down to Brooklyn every weekend to do a residency in the 3am slot at Baby’s All Right. I think half of them would go in the van and the rest had to rotate each week for who would take the bus. That cabin is where [I’m In Your Mind Fuzz](https://kglw.net/releases/im-in-your-mind-fuzz) started coming together, and they had just enough left over to buy some studio time at Daptone for that as well.
 So that was their first big leap, in terms of being able to produce their first truly realised studio album, and to tour that much at the same time. They’d hooked up with John Dwyer from Thee Oh Sees, and so that album was their first international publication on his independent label, Castle Face Records.
 
 Dr. Barry Hill:  
@@ -164,11 +165,11 @@ _The Oud is a Lute-like Persian instrument that is approximately one thousand ye
 
 W.B.T.G. Slinger:  
 I'm always on the lookout for the post King Gizz generation, and there's one 
-band I've kind of had my eye on that I discovered on Rage, Liminal. There are several, but I wanted to mention them because they're actually from Lismore.
+band I've kind of had my eye on that I discovered on [_Rage_](https://en.wikipedia.org/wiki/Rage_(TV_program)), _Liminal_. There are several, but I wanted to mention them because they're actually from Lismore where you are.
 
 Dr. Barry Hill:  
-Ah, I know Liminal very well, its interesting, there’s a current little bubbling scene in Lismore, and they’re all King Gizz fanatics. they're all taking on different aspects of King Gizz. Another band called [PUFF](https://www.abc.net.au/triplejunearthed/artist/puff/). <!--Waiting feedback-->And then there's these three guys who struck me that they're sort of like Eric, but they've got a project together, they’ve just started out doing all night testing in the studio up here at the uni, it's really interesting music but unfortunately I can't remember the name. But it's Ariel (Pacanowski), Eden (Yeigh), and Michael, are all doing really interesting music.
-Alako Myles who is behind Liminal, he's doing a lot of things, like he plays drums too. As his independent project last year, he produced eight episodes of a video program called <!--Waiting feedback-->Anemoia. It's sort of like a Recovery or Rage type project he put together himself. So he’d do all the shooting of the content, then do a live gig to a three camera shoot in our auditorium, and set up a little sort of TV studio style interview space in front of a live audience, and posted online every Saturday. Another type of these people who are just really driven.
+Ah, I know _Liminal_ very well, its interesting, there’s a current little bubbling scene in Lismore, and they’re all King Gizz fanatics. they're all taking on different aspects of King Gizz. Another band called [_PUFF_](https://www.abc.net.au/triplejunearthed/artist/puff/). <!--Waiting feedback-->And then there's these three guys who struck me that they're sort of like Eric, but they've got a project together, they’ve just started out doing all night testing in the studio up here at the uni, it's really interesting music but unfortunately I can't remember the name. But it's Ariel (Pacanowski), Eden (Yeigh), and Michael, are all doing really interesting music.
+Alako Myles who is behind _Liminal_, he's doing a lot of things, like he plays drums too. As his independent project last year, he produced eight episodes of a video program called <!--Waiting feedback-->_Anemoia_. It's sort of like a [_Recovery_](https://en.wikipedia.org/wiki/Recovery_(TV_series)) or _Rage_ type project he put together himself. So he’d do all the shooting of the content, then do a live gig to a three camera shoot in our auditorium, and set up a little sort of TV studio style interview space in front of a live audience, and posted online every Saturday. Another type of these people who are just really driven.
 
 All my students were flabbergasted when they heard that I taught Stu, Eric, Lucas, and Joey, and they started to doubt it, so posting that video gave me a lot of credit.
 The marketing manager of my faculty has a son who is really into King Gizzard, I was having a meeting with him about general boring university stuff, and I just mentioned about the YouTube clip and this interview, and he suddenly ran off and then came back on the Zoom with the new album in front of the camera.
@@ -178,11 +179,11 @@ W.B.T.G. Slinger:
 So you’ve obviously loosely followed their professional career, but I don't really have a sense of how much of a fan of their music you are. Are you at the level where you’ve heard all their albums, or do you have a favorite?
 
 Dr. Barry Hill:  
-I haven't heard all their albums yet, but I absolutely love their music, like even that gig I posted online. I was there behind the camera with Bobby Flynn, the Australian Idol finalist. He’s an indie lover, not your classic Australian Idol crooner type, we just looked at each other after they went off stage and went: ‘wow that was fantastic!’.
-I love Frank Zappa. I'm sort of an old alternative punk rocker, my early music that I was making was all about that. I’m into a lot of crazy alternative rock bands, like Camper Van Beethoven or The Modern Lovers.
+I haven't heard all their albums yet, but I absolutely love their music, like even that gig I posted online. I was there behind the camera with _Bobby Flynn_, the _Australian Idol_ finalist. He’s an indie lover, not your classic _Australian Idol_ crooner type, we just looked at each other after they went off stage and went: ‘wow that was fantastic!’.
+I love _Frank Zappa_. I'm sort of an old alternative punk rocker, my early music that I was making was all about that. I’m into a lot of crazy alternative rock bands, like _Camper Van Beethoven_ or _The Modern Lovers_.
 
 W.B.T.G. Slinger:  
-The thing that shocked me about your video from 2010 was Joey in particular, almost doing that kind of psychobilly thing that Nick Cave was doing in the early 80s.
+The thing that shocked me about your video from 2010 was Joey in particular, almost doing that kind of psychobilly thing that _Nick Cave_ was doing in the early 80s.
 
 Dr. Barry Hill:  
 He would turn up to lectures looking like that.
@@ -194,7 +195,7 @@ Dr. Barry Hill:
 I thought he was gonna go solo, he was playing with all different people in the course. It was like Joey is with this person, Joey is with Eric doing a duo…
 
 W.B.T.G. Slinger:  
-He does have a solo side project, and is just promoting new material for it now. Bullant, It's a sort of an abstract techno-IDM-type thing.
+He does have a solo side project, and is just promoting new material for it now. _Bullant_, It's a sort of an abstract techno-IDM-type thing.
 
 Dr. Barry Hill:  
 Part of the course was the computer sound production unit, I've got all these assessments on my hard drive still that Joey’s put in of electronic stuff. Eric's electronic stuff was awesome as well. Yeah, it doesn't surprise me he's doing electronic solo stuff.
@@ -202,7 +203,7 @@ Part of the course was the computer sound production unit, I've got all these as
 W.B.T.G. Slinger:  
 You know, King Gizz are obviously very environmentally conscious; and as a worker in the renewable energy industry, I also wanted to ask you about one of your more recent research projects: the <!--Waiting feedback-->Sunflower.
 Image/link
-So it's a portable lithium battery bank with solar charging and AC power supply to replace diesel generators at live music events. I was curious if it has features that specifically facilitate Audio Visual Production?
+So it's a portable lithium battery bank with solar charging and AC power supply to use in place of a diesel generator for a live music event. I was curious if it has features that specifically facilitate audio visual Production?
 
 Dr. Barry Hill:  
 Yes, it is specified for audio visual production. We actually built the precursor to the Sunflower, the Gemini Project, at RMIT. We did a power audit on every single piece of gear you need to run a sound system with the research question: ‘how much power do you need to run a medium sized festival venue?’, enough for maybe one or two thousand people. So we got the amount we'd need for the backline for a small LED lighting array, for the front of house, foldback, and all the gear. This gave us a battery and inverter capacity that would be able to provide the power for a festival stage for a weekend. Then we added a solar panel array that was big enough to supplement the average power consumption of the stage through the day.
@@ -219,7 +220,7 @@ W.B.T.G. Slinger:
 It's impressive that you have a lithium bank that has lasted this long, you must have been among the first people to specify a bank with that high a capacity for practical use. So it sounds like you have been able to eliminate the need for a diesel generator at an outdoor festival?
 
 Dr. Barry Hill:  
-We've demonstrated proof of concept. At the moment, there's no way that the Sunflower could run the mainstage at Splendour In The Grass. But the thing is, you would only need a certain number, or you just need to up the numbers, so you can make that happen. At the moment, to get enough power out of something that has the footprint of a diesel generator, it's only just able to happen.
+We've demonstrated proof of concept. At the moment, there's no way that the Sunflower could run the mainstage at _Splendour In The Grass [one of Australia's biggest annual music festivals]_. But the thing is, you would only need a certain number, or you just need to up the numbers, so you can make that happen. At the moment, to get enough power out of something that has the footprint of a diesel generator, it's only just able to happen.
 
 W.B.T.G. Slinger:  
 I read it's been used at fifty or so events?
