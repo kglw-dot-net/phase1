@@ -12,7 +12,6 @@ contact information for the copyright owner or authorized agent;  a statement th
 the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and a statement that the information in the  
 notice is accurate, and under penalty of perjury, that the person sending the notice is authorized to act on behalf of the copyright owner.  
 
-
 **Counter-Notices**  
 
 If you have received a notice of material being taken down because of a copyright infringement claim, you may provide us with a counter-notice  
@@ -23,7 +22,6 @@ faith belief that the material was removed or disabled due to mistake or misiden
 address, and telephone number, and a statement that you consent to the jurisdiction of Federal District Court for the judicial district in which  
 the address is located, or if the subscriber’s address is outside of the United States, for any judicial district in which the service provider  
 may be found, and that you will accept service of process from the person who provided notification or an agent of such person.  
-
 
 **All infringement/takedown notices and counter-notices must be submitted as a written notification to the following designated DMCA agent:**
 
@@ -38,10 +36,7 @@ Please send by email for prompt attention. Please also label the communication a
 **Additional Notices:**  
 
 There can be penalties for false claims under the DMCA. We suggest that you consult your legal advisor before filing a notice or counter-notice.   
-
 We may share the identity and information in any copyright infringement claim we receive with the alleged infringer.  
 In submitting a claim, you understand, accept, and agree that your identity and claim may be communicated to the alleged infringer.  
-
 It is our policy to terminate access rights to the Site of repeat infringers, in appropriate circumstances.  
-
 Nothing in this notice should be construed as legal advice.  For further details on the DMCA, see https://www.copyright.gov/dmca/  
