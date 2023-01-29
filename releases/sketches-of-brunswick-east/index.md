@@ -16,7 +16,17 @@ The first real stab at Jazz, its title is an homage to Miles Davis’ [_Sketches
 
 A collaborative album with Hypnagogic-psych-pop act [Mild High Club](https://www.stonesthrow.com/artist/mildhighclub/), who played the 2016 iteration of the band’s now defunct showcase festival, Gizzfest. Alex Brettin (of MHC) stuck around for a couple of weeks, and naturally some voice memo ‘sketches’ of songs materialised. With the sketches later completed by the band, the album retains the laid-back stoner fingerprints of MHC, tied together by the KGATLW signature ‘took too much’ weirdness.
 
-What to listen to next:
+# Album Credits
+
+* Recorded by Stu Mackenzie at Flightless HQ, East Brunswick.
+* Additional overdubbing recorded by Alex Brettin, Joey Walker, Cook Craig, and Lucas Skinner in Melbourne and Los Angeles.
+* Mixed by Stu Mackenzie at Newmarket Studios, North Melbourne except Countdown mixed by Alex Brettin.
+* Mastered by Joseph Carra.
+* Produced by Stu Mackenzie.
+* Album artwork and layout by Jason Galea.
+* Album photography by Jamie Wdziekonski.
+
+# What to listen to next:
 
 *   [If you want more Jazz sounds](../changes)
 *   [If you want jazzy, stoner-psych rock](../quarters)
