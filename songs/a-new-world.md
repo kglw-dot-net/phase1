@@ -25,7 +25,8 @@ album: Murder Of The Universe
 
 # Album Credits
 
-* Stu Mackenzie: Vocals, Hagström F12 , Roland Juno-60, Yamaha DX-7, Mellotron Flute, Mellotron Choir, Yamaha Reface YC, Fender Mustang Bass, Natural Reader UK Charles
+* Stu Mackenzie: Vocals, Hagström F12 , Roland Juno-60, Yamaha DX-7, Mellotron Flute,  
+Mellotron Choir, Yamaha Reface YC, Fender Mustang Bass, Natural Reader UK Charles
 * Michael Cavanagh: '62 Maxwin Drum Kit, '61 Yamaha Tiger Red Swirl Kit
 * Joey Walker: Yamaha SG-3, Yamaha Reface YC, Roland JX-3P, Roland Juno-60
 * Ambrose Kenny-Smith: Hohner Special 20, Yamaha Reface YC
