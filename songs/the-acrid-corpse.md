@@ -12,8 +12,7 @@ album: Murder Of The Universe
 > Its crimson-orange light melts into the setting sun  
 >  
 > And leaving us not without a final clap of light  
-> The lightning lord escapes as day fades into  
-> Moonless night  
+> The Lightning Lord escapes as day fades into moonless night  
 
 # Album Credits
 
@@ -26,4 +25,4 @@ Mellotron Choir, Yamaha Reface YC, Fender Mustang Bass, Natural Reader UK Charle
 * Lucas Skinner: Fender Mustang Bass
 * Eric Moore: Management
 
-* Leah Senior: Spoken Word Track 1-9,11-15
+* Leah Senior: Spoken Word Tracks 1-9,11-15
