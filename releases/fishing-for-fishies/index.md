@@ -16,7 +16,16 @@ Three different songs contain the word ‘boogie’ in this track list, which pr
 
 The strong environmental anti-consumerism theme deserves credit for spurring the realisation of hypocrisy in producing so much waste as a by product of the vinyl record industry. Every record since this album is packaged in recycled materials, and usually available on recycled vinyl as well.
 
-What to listen to next:
+# Album Credits
+
+> "This record is for Gaz & Fi. We love ya heaps"  
+
+* Produced by Stu Mackenzie
+* Mastered by Joeseph Carra
+* Artwork and layout by Jason Galea
+* Photography by Jamie Wdziekonski
+
+# What to listen to next:
 
 *   [If you want something else fun/not serious sounding](../oddments)
 *   [If you want another bright sounding album with dark lyrics](../paper-mache-dream-balloon)
