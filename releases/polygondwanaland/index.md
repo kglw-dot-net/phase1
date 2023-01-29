@@ -26,7 +26,7 @@ Such a special album was deemed to get a special release, so as a gift to the fa
 * Artwork and layout by Jason Galea  
 <br>  
   
-**Recorded by**  
+**Recorded by:**  
   
 * Tracks 2-5 and 7+8 recorded by Casey Hartnett at 255 Lygon St, Brunswick East  
 * Searching... and Loyalty recorded by Stu Mackenzie at 255 Lygon St,  Brunswick East  
