@@ -33,7 +33,6 @@ album: Polygondwanaland
 > I'm analyzing information  
 > Now I am a god  
 
-
 # Song Credits
 
 * Cook Craig: Synthesizers
