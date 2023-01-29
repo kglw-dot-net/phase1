@@ -16,7 +16,24 @@ This is the searing culmination after years of fan speculation if KGATLW would e
 
 With a Satanic environmental apocalypse narrative – this is the mission that jettisoned the Gizzverse away from a decayed, spent Earth.
 
-What to listen to next:
+# Album Credits
+
+**XV**
+<br>
+
+* Recorded by Michael Badger and Stu Mackenzie
+* Mixed by Stu Mackenzie
+* Produced by Stu Mackenzie
+<br>
+
+* Mastered by Joseph Carra
+<br>
+
+* Art direction, design and sculpture by Jason Galea
+* Sculpture photography by John Angus Stewart
+* Gatefold fire photography by Michéle Iannello and John Angus Stewart
+
+# What to listen to next:
 
 *   [If you liked the heaviness and don’t mind getting weirder](../murder-of-the-universe)
 *   [If you want the same amount of energy and less heaviness is okay](../nonagon-infinity)
