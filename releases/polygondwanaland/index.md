@@ -18,7 +18,18 @@ This psychedelic folklore voyage both expands and deepens the Gizzverse in a mul
 
 Such a special album was deemed to get a special release, so as a gift to the fans, was given away for free; not just free as in ‘free beer’, but completely free of copyright under a creative commons attribution license, meaning anyone could (and still can!) create and sell their own edition of the album using the raw master files and art assets made available. At the time of writing, over 300 different editions are available on at least 15 formats (including reel-to-reel, minidisc, floppy disc, and just about every existing size and type of vinyl record). Several record labels now exist that were established or launched just to publish this album that will forever hold a special place in the heart of many KGLW fans.
 
-What to listen to next:
+# Album Credits
+
+* Mixed by Sam Joseph
+* Mastered by Joe Carra
+* Produced by Stu Mackenzie
+* Artwork and layout by Jason Galea
+* Tracks 2-5 and 7+8 recorded by Casey Hartnett at 255 Lygon St, Brunswick East
+* Searching... and Loyalty recorded by Stu Mackenzie at 255 Lygon St,  Brunswick East
+* Crumbling Castle and The Fourth Colour recorded by Ryan K. Brennan at Tender Trap Studios, Melbourne
+* Additional recording by Stu Mackenzie and Joey Walker at 255 Lygon St, Brunswick East
+
+# What to listen to next:
 
 *   [If you want the next Gizzverse album (technical and heavy)](../infest-the-rats-nest)
 *   [If you want another strongly narrative driven multi-act album](../murder-of-the-universe)
