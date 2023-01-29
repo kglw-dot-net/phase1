@@ -75,12 +75,7 @@ album: Murder Of The Universe
 > Tell me would you honestly  
 > Dare to face up next to me  
 > Sugar coated pills won't keep  
-> You from feeling so woozy  
->  
-> Tell me would you honestly  
-> Dare to face up next to me  
-> Sugar coated pills won't keep  
-> You from feeling so woozy  
+> You from feeling so woozy   
 >  
 > I am an altered beast!  
 
