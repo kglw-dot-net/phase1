@@ -6,74 +6,21 @@ In October 2010, he recorded one of their music performance assessments, and in 
 _Throughout our conversation, we cover the stand-out approach of the band, the unique aspects of the Australian music industry, what they did right to make success, innovation driven by the arts sector, and generally break down King Gizzard in terms of their cultural and environmental contexts._
 
 W.B.T.G. Slinger:  
-So I've got a few topics in mind, I've read through some of your research and stuff as well.
+So we wanted to speak to you because of the video you posted of King Gizzard performing in 2010 for an assessment in your course at RMIT. Can you elaborate on the context of teaching most of the band at university?
 
 Dr. Barry Hill:  
-Oh, wow. Okay you’ve been stalking me?
-
-W.B.T.G. Slinger:  
-Just a little bit. I skimmed [your PhD](https://drbazhspace.wordpress.com/ph-d/), and then found some recent stuff.
-
-Dr. Barry Hill:  
-Wow, you even went back that far?
-
-W.B.T.G. Slinger:  We found you through the YouTube video, so at first there was actually not all that much to go by.
-
-Dr. Barry Hill:  
-Yep, I used to even play in bands.
-
-<iframe width="1903" height="768" src="https://www.youtube.com/embed/b7CabUk5LPY" title="awesome live Electro band From Byron bay Australia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-W.B.T.G. Slinger:  
-Yeah, I did listen to an album by The Bird as well.
-
-Dr. Barry Hill:  
-The Bird and Amphibian, sort of came up in the early to late nineties, early noughties. That was the transition period between the old style music industry and the new style. So it means back then there was no YouTube, you didn’t really video much, videos back then involved bulky cameras and tape.
-I find it interesting that historical periods might not be documented very well. Generally in music, like from 1995 to 2005, we're not going to get much of a record of that time, because there was hardly any vinyl, CDs were declining. There's downloads, but mp3s can be complicated with rights management.
-
-W.B.T.G. Slinger:  
-That's an issue that I've had trying to track the early history of King Gizzard members as well. You know, some of that stuff only existed on MySpace and is now just lost.
-I was born early in that era, and skimming through your PhD, I noticed you mentioned the Resin Dogs, which is a band that I only know of because they were one of the more popular acts to tour regularly in our region; I’m sure they now have some stuff published digitally, but I bet it's not being streamed very much.
-
-Dr. Barry Hill:  
-You did have the Global Carnival, that was a really iconic festival. The after party was always a cracker as well.
-
-W.B.T.G. Slinger:  
-I was a bit young for the after party, but yeah, the Global Carnival was very much a defining aspect of my childhood.
-
-Dr. Barry Hill:  
-Oh, well you probably would have seen me play, because I used to play in a variety of groups, like as a hired drum and bass player in the nineties. I was with a lot of multicultural groups playing African music, South American music, and hybrid Indian music.
-That era was really instrumental for me, I was very much a Sydney based musician then - and just trying to circle this back to King Gizzard - back then, Sydney and Melbourne bands didn't really get to know each other that much. It's just a little bit too far when you're starting out. I remember going to Melbourne for the first time in the early 90s and getting blown away by the strength of the music scene. While it was happening, we had just been through a progression of shutdowns of live music venues being replaced by pokies [slot machines]. Melbourne just seemed to be really vibrant with amazing music, but not many people getting paid very well. Little cafes and pubs that could get liquor licenses that they wouldn’t be able to in New South Wales. It's like a different country.
-
-W.B.T.G. Slinger:  
-It's funny how little has changed. You had the Sydney lockout laws through the 2010s - which were implemented not long after I moved there — and then I could see friends trying to make it in the Melbourne music scene, the difference is just incredible.
-
-_In February 2014, the New South Wales Government implemented a set of laws that restricted patrons from entering venues after 1:30AM and the sale of alcohol after 3:30AM [exempting venues that had slot machines]. This resulted in the closure of dozens of live music venues, and was not reversed until January 2020._
-
-Dr. Barry Hill:  
-There is a deep-set culture in Sydney, it's sort of like Los Angeles while Melbourne is a bit more like New York. In terms of: shit weather, pollution, and traffic. While I was working at RMIT, trying to drive down Punt Road on a Saturday, with the AFL on you can forget it. Music culture is going to propagate more, because people are just stuck in houses on cold days. Whereas in Sydney you can just go to the beach. There's much more of a bodied beautiful culture in Sydney, and Melbourne is more about: ‘we're funky, passionate artists’.
-
-W.B.T.G. Slinger:  
-I lived out West in Sydney, which was a great way to get acquainted with the city as a sheltered kid from the country.
-
-Dr. Barry Hill:  
-I grew up in the country too, and ran directly to Sydney as well, and copped the same sort of culture shock. I was sort of up for it, because I was into being a musician.
-
-W.B.T.G. Slinger:  
-So when were you based at RMIT?
-
-Dr. Barry Hill:  
-So here's the backstory to me getting back into academia for my PhD. I really went into the music industry sort of gung-ho from the 90s into the early noughties, I was really trying to make it work as a career. My two bands: The Bird, and Amphibian had gotten really close, we were getting ‘Triple J famous’, we had independent record deals, we were doing little tours over to Europe. This is relevant to the King Gizz story because I noticed how much you got appreciated overseas as an Australian artist overseas. When my Amphibian instrumental trio went to Europe for the first time everyone was really interested. At the time we were also really quite popular in Melbourne, but the money we were getting from gigs was next to nothing, and we didn't really get much record company interest. There were a couple of people at Triple J who liked the music, so we're getting a bit of airplay, but we were finding touring in Australia was a struggle. If you could find a way to get overseas, all of a sudden, you’d sell out all your CDs, and you'd get a bit of a following, festivals were paying good money, which would make it possible for you to actually come back with some in your pocket.
+So here's the backstory to me getting back into academia after my [PhD](https://drbazhspace.wordpress.com/ph-d/). I really went into the music industry sort of gung-ho from the nineties into the early noughties, I was really trying to make it work as a career. My two bands: The Bird, and Amphibian had gotten really close, we were getting ‘Triple J famous’, we had independent record deals, we were doing little tours over to Europe. This is relevant to the King Gizz story because I noticed how much you got appreciated overseas as an Australian artist overseas. When my Amphibian instrumental trio went to Europe for the first time everyone was really interested. At the time we were also really quite popular in Melbourne, but the money we were getting from gigs was next to nothing, and we didn't really get much record company interest. There were a couple of people at Triple J who liked the music, so we're getting a bit of airplay, but we were finding touring in Australia was a struggle. If you could find a way to get overseas, all of a sudden, you’d sell out all your CDs, and you'd get a bit of a following, festivals were paying good money, which would make it possible for you to actually come back with some in your pocket.
 
 _Triple J is a government funded national radio station geared toward alternative music for a youth audience, it has been broadcasting since 1975. Triple J is a cornerstone of the Australian music industry, and as a part of the Australian Broadcasting Corporation is subject to strict editorial policy and not allowed to run advertisements._
 
 W.B.T.G. Slinger:  
-That was the break for King Gizz really, they got their grant in 2014, and got to go to the US for the first time. And I think that's really where it all kind of came together for them.
+Well, that was the break for King Gizz really, they won their grant in 2014 and got to go to the US for the first time. That's really where it all kind of came together for them.
 
 Dr. Barry Hill:  
 I'm really proud of the fact that they were able to do that. I came away from the music industry because we were losing so much money, my band members were just like: 'we can't deal with this anymore'. It's just too much of a rip-off in the Australian music industry.
 So I went back to: ‘well what the hell am I gonna do now?' I've always been interested in popular musical culture in Australia, so I went back to university, specifically to get a PhD scholarship to see if I could make it as an academic. I managed to get into honors at Monash, had a fantastic time at uni, whereas previously, I didn't really want to go. This was the first time I was studying something I was really interested in and passionate about. I'd been living sort of between the Byron Bay area, Sydney, and Melbourne. I had a few connections up at Southern Cross University through the old bass teacher, Greg Lyon, and he liked what I did. So I got my scholarship to study at Lismore. Then when I was finishing my PhD, this was 2004, 2005, I was back to: ‘well, what am I going to do after I finish?’
-I was down in Melbourne, sitting with some friends and having coffee in East Brunswick. I looked at The Age and here was an ad for a music industry lecturer. This is the first job I’ve seen in the papers that I could apply for, I was perfectly qualified for what they want. So I applied for the job and got it and RMIT moved me down to Melbourne. They were just starting out this music industry course which was being delivered by the business school and the arts school with a focus of getting people ready to become professional musicians. Because by the nineties, a lot of the traditional ways of being a musician were disappearing, laptops had basically killed the session music industry for example. RMIT recognized the need for a course that taught music industry artists how to be business people, because I'd had a bit of industry experience I thought ‘that's the course for me’. They must have hit the nail on the head, because in the first year they ran the course, which was the year before I was there, they doubled their student numbers. I was there for the next three years, and numbers doubled every year, from 30-50 students applying to 500 students applying, and the uptake going up to 90 students. It just meant that we'd meet all these people and we'd be talking to them about their plans and what sort of musical ability they had. So the focus of the course was much more about: ‘you have to understand, with music, you are the product as a musician these days’. The music industry was rapidly changing. At the time, the whole downloads thing was destroying the monopolies that the big four record companies had on the CD industry. So there were all these new opportunities, and King Gizzard has really snuck in on this wave of being able to be totally independent and access a market through the internet.
+I was down in Melbourne, sitting with some friends and having coffee in East Brunswick. I looked at The Age and here was an ad for a music industry lecturer. This is the first job I’ve seen in the papers that I could apply for, I was perfectly qualified for what they want. So I applied for the job and got it and RMIT moved me down to Melbourne. They were just starting out this music industry course which was being delivered by the business school and the arts school with a focus of getting people ready to become professional musicians.  
+Because by the nineties, a lot of the traditional ways of being a musician were disappearing, laptops had basically killed the session music industry. RMIT recognized the need for a course that taught music industry artists how to be business people, because I'd had a bit of industry experience I thought ‘that's the course for me’. They must have hit the nail on the head, because in the first year they ran the course, which was the year before I was there, they doubled their student numbers. I was there for the next three years, and numbers doubled every year, from 30-50 students applying to 500 students applying, and the uptake going up to 90 students. It just meant that we'd meet all these people and we'd be talking to them about their plans and what sort of musical ability they had. So the focus of the course was much more about: ‘you have to understand, with music, you are the product as a musician these days’. The music industry was rapidly changing. At the time, the whole downloads thing was destroying the monopolies that the big four record companies had on the CD industry. So there were all these new opportunities, and King Gizzard has really snuck in on this wave of being able to be totally independent and access a market through the internet.
 So, Stu, Joey, Eric, and Lucas turned up in 2010, and you could really tell that they had a plan, that there was already a project bubbling in the background.
 
 W.B.T.G. Slinger:  
@@ -111,7 +58,7 @@ Not more recently no. I think I might have seen them play another gig at some li
 So it would be very strange for me to see, after seeing them just rock up in my dusty old lecture theater where the video was shot. In the class, if everyone turned up there might have been 15 people there.
 
 W.B.T.G. Slinger:  
-I brought a musician friend to see them for the first time in 2019, and his first comment afterwards was that they do it like a high school band. Like it's pretty simple up on stage and very straightforward, there's not much pretense to it. You might find it remarkable how organic they still are, but yeah it's the crowd that's a pretty big deal these days.
+I brought a musician friend to see them for the first time in 2019, and his first comment afterwards was that they're still doing it like a high school band. Like it's pretty simple up on stage and very straightforward, there's not much pretense to it. You might find it remarkable how organic they still are, but yeah it's the crowd that's a pretty big deal these days.
 
 Dr. Barry Hill:  
 Yeah, I've watched a lot of YouTube videos of them performing and sort of just tracked their career, because it's been so great to see them. 
@@ -123,8 +70,37 @@ Like with The Avalanches.
 <iframe width="1904" height="768" src="https://www.youtube.com/embed/qLrnkK2YEcE" title="The Avalanches - Frontier Psychiatrist (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Dr. Barry Hill:  
-Hm, The Avalanches, you know. Being with bands like the Resin Dogs, I used to love playing with them, I gave some basslines to a few of their tracks. They were this crew of people who were just driven and they had a community around them.
-I think that's the other important thing that King Gizzard has. They have people who are happy to do kooky videos for them, do amazing artwork for them, have managed their record label for them, and organized tours for them. So they've managed to cultivate this network. And I think, you know, from my memory of Stu and Joey, and Eric, and Lucas, they were all really, really nice guys.
+Hm, The Avalanches, you know.
+The Bird and Amphibian, sort of came up in the early to late nineties, early noughties. That was the transition period between the old style music industry and the new style. So it means back then there was no YouTube, you didn’t really video much, videos back then involved bulky cameras and tape.
+I find it interesting that historical periods might not be documented very well. Generally in music, like from 1995 to 2005, we're not going to get much of a record of that time, because there was hardly any vinyl, CDs were declining. There's downloads, but mp3s can be complicated with rights management.
+
+<iframe width="1903" height="768" src="https://www.youtube.com/embed/b7CabUk5LPY" title="awesome live Electro band From Byron bay Australia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+W.B.T.G. Slinger:  
+That's an issue that I've had trying to track the early history of King Gizzard members as well. You know, some of that stuff only existed on MySpace and is now just lost.
+I was born early in that era, so I noticed in your PhD you mentioned the _Resin Dogs_, which is a band that I only know of because they were one of the more popular live acts to tour regularly in our region; I’m sure they now have some stuff published digitally, but I bet it's not being streamed very much.
+
+<iframe width="1904" height="768" src="https://www.youtube.com/embed/QTTElvVlwMY" title="Resin Dogs - "Set It Off" (Live at Jungle Love 2015)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Dr. Barry Hill:  
+You did have the Global Carnival where you were, that was a really iconic festival. The after party was always a cracker as well.
+
+W.B.T.G. Slinger:  
+I was a bit young for the after party, but yeah, the Global Carnival was very much a defining aspect of my childhood.
+
+Dr. Barry Hill:  
+Oh, well you probably would have seen me play, because I used to play in a variety of groups, like as a hired drum and bass player in the nineties. I was with a lot of multicultural groups playing African music, South American music, and hybrid Indian music.
+That era was really instrumental for me, I was very much a Sydney based musician then - and just trying to circle this back to King Gizzard - back then, Sydney and Melbourne bands didn't really get to know each other that much. It's just a little bit too far when you're starting out. I remember going to Melbourne for the first time in the early 90s and getting blown away by the strength of the music scene. While it was happening, we had just been through a progression of shutdowns of live music venues being replaced by pokies [slot machines]. Melbourne just seemed to be really vibrant with amazing music, but not many people getting paid very well. Little cafes and pubs that could get liquor licenses that they wouldn’t be able to in New South Wales. It's like a different country.
+
+W.B.T.G. Slinger:  
+It's funny how little has changed. You had the Sydney lockout laws through the 2010s - which were implemented not long after I moved there — and then I could see friends trying to make it in the Melbourne music scene, the difference is just incredible.
+
+_In February 2014, the New South Wales Government implemented a set of laws that restricted patrons from entering venues after 1:30AM and the sale of alcohol after 3:30AM [exempting venues that had slot machines]. This resulted in the closure of dozens of live music venues, and was not reversed until January 2020._
+
+Dr. Barry Hill:  
+There is a deep-set culture in Sydney, it's sort of like Los Angeles while Melbourne is a bit more like New York. In terms of: shit weather, pollution, and traffic. While I was working at RMIT, trying to drive down Punt Road on a Saturday, with the AFL on you can forget it. Music culture is going to propagate more, because people are just stuck in houses on cold days. Whereas in Sydney you can just go to the beach. There's much more of a bodied beautiful culture in Sydney, and Melbourne is more about: ‘we're funky, passionate artists’.
+
+I think that network is another important thing that King Gizzard has. They have people who are happy to do kooky videos for them, do amazing artwork for them, have managed their record label for them, and organized tours for them. So they've managed to cultivate this network. And I think, you know, from my memory of Stu and Joey, and Eric, and Lucas, they were all really, really nice guys.
 
 W.B.T.G. Slinger:   
 Yeah, definitely. Every fan that meets them says that too.
@@ -134,7 +110,7 @@ So if you're a nice person with creative ideas, and you support and listen to ot
 Interestingly enough, one of the members of The Smith Street Band was also attending RMIT at that time, as well as Lucy Wilson who became a little bit ‘indie famous’ in Melbourne. So The Smith Street Band crew were hanging around RMIT, then Lucy Wilson was hanging around RMIT, the King Gizzard guys were hanging around RMIT. It was a couple of years where there were these really driven artists who were studying there, and we sort of made a really nice vibe in the course.
 
 W.B.T.G. Slinger:  
-About needing to get out of the country, do you think it is a blessing or curse? A lot of Australian musicians talk about how difficult the industry here is. You’ve established it brings a potential advantage, but I wonder if you think it's more difficult here than other international markets?
+About needing to get out of the country early, do you think it is a blessing or curse? A lot of Australian musicians talk about how difficult the industry here is. You’ve established it brings a potential advantage, but I wonder if you think it's more difficult here than other international markets?
 
 Dr. Barry Hill:  
 Look, I think it's sort of a two-edged sword, it's definitely different. Definitely very, very difficult to make money. That's in the Australian market itself, unless you're really supported by Triple J and paying a publicist. So to get access to Triple J, this might be quite controversial, but these days you need to pay a publicist to promote your act to Triple J programmers. And they take <!--Waiting feedback-->bribes and stuff on the back door for that. So in a sense, Triple J really control the development of independent artists in Australia, and that's not a very good situation.
@@ -146,7 +122,7 @@ Dr. Barry Hill:
 Look, I could go into a big rant about what I think about Triple J. But just basically, Triple J is part of an older music industry model where they have a relationship with the major labels, which is a problem because Triple J has centralized programming now. When I was listening to it as a student back in the 80s and early 90s, each DJ got to program their own show, so it wasn't a monopoly. There were maybe eight or nine DJs all programming different stuff, drawing on all different networks of music in Australia. Now, it's one person making those decisions, someone who's a middle-aged white man. So they have strong relationships with record companies, and they recognize that getting a new artist on the station is a stepping stone to get commercially famous. That happens because of the way copyright payments and APRA payments work in Australia. So as a record label, because there's only a few big radio stations, Triple J is one way you can promote your artists out there, get APRA royalties for your act, and get some money for the investment that you've made in them. For independent artists, you really need to come through the Triple J Unearthed program and then get someone in Triple J to really support you, otherwise you have to pay a publicist $10,000 a month to keep pushing your stuff to the head honchos. With King Gizzard, because they're independent, because their music sometimes is not radio friendly, the whole identity of the band doesn't fit well into one genre, so that doesn't fit into a particular show they want to promote.
 
 W.B.T.G. Slinger:  
-The fans are actually pushing to get The Dripping Tap into the Hottest 100 Next week, and it's looking like it possibly could.
+The fans are actually pushing to get The Dripping Tap into the Hottest 100 Next week.
 
 Dr. Barry Hill:   
 Even the J Hottest 100, that's become this hilarious, sort of way of ‘let's see how we can stack the voting’.
@@ -154,7 +130,7 @@ Even the J Hottest 100, that's become this hilarious, sort of way of ‘let's se
 W.B.T.G. Slinger:  
 I'm personally a bit of a purist when it comes to the Hottest 100, you know, I manually write-in my votes and all that. But this trend does make it a little more difficult to engage with over time I feel.
 
-_Triple J’s Hottest 100 is thought to be the world's largest public annual music poll and the results as broadcast are typically listened to by approximately one-fifth of the entire adult population of Australia. King Gizzard and the Lizard Wizard have appeared in the countdown with 2016’s Gamma Knife and 2017’s Nuclear Fusion, but have been under-represented compared with a typical band of their status and presence._
+_Triple J’s Hottest 100 is thought to be the world's largest public annual music poll and the results as broadcast are typically listened to by approximately one-fifth of the entire adult population of Australia. King Gizzard and the Lizard Wizard have appeared in the countdown with 2016’s Gamma Knife and 2017’s Nuclear Fusion, but have been under-represented compared with a typical band of their status and presence. Despite the push from fans, King Gizzard made no appearance in the [countdown for 2022](https://en.wikipedia.org/wiki/Triple_J_Hottest_100,_2022)._
 
 Dr. Barry Hill:  
 To get back to what your question was about the music industry, it's hard financially, but one thing that's better about it than overseas markets is that when you're starting out, it's not so cut-throat. I've known people who've gone to the states, to Nashville to try and make it in that scene. There's so many people living in their cars, still paying rent to a friend's house, so they've got access to a shower and a kitchen. Just struggling, and struggling, and struggling to get that first step into the music industry in America as American artists. Same in Europe or England, there's just so many bands, you're competing with so many things.
@@ -178,8 +154,11 @@ And then you can just put in the work.
 
 Dr. Barry Hill:  
 They've done it really well.
-I know musicians from all different walks of life, like in the classical music scene as well. Australian classical musicians are playing in half the orchestras around Europe, and they’re the key musicians. My friend, Joseph Tawadros the Oud player, went directly over to New York and recorded with really great musicians, and he's now got multiple ARIAs for World Music albums and doing stuff all over the world, because he developed an international network. I've got my friend <!--Waiting feedback-->Paul Cawley, who I met here and is an amazing audio engineer, he went over to Iceland and is now working with Björk and those sorts of people. To me, the thing about being an Australian artist is to recognize that the way to monetize your practice is to get overseas as quickly as possible.
+I know musicians from all different walks of life, like in the classical music scene as well. Australian classical musicians are playing in half the orchestras around Europe, and they’re the key musicians. My friend, _Joseph Tawadros_ the Oud player, went directly over to New York and recorded with really great musicians, and he's now got multiple ARIAs for World Music albums and doing stuff all over the world, because he developed an international network. I've got my friend <!--Waiting feedback-->_Paul Cawley_, who I met here and is an amazing audio engineer, he went over to Iceland and is now working with Björk and those sorts of people. To me, the thing about being an Australian artist is to recognize that the way to monetize your practice is to get overseas as quickly as possible.
 The limited success that I had with Amphibian, we sold more albums in Japan than we ever had here. It was the same sort of thing. We established a relationship with an independent international record label and then from there, you can expand out. Whereas trying to establish a relationship with an indie label here, there's just too many people involved to pay the bills. If you've spent the time developing your practice in Australia, you can't afford to pay a publicist, you can't afford to pay a tour manager, can't afford to pay a manager or a sound engineer. You just gotta go with whatever and do it yourself, which means it's a much slower process, much more frustrating and much more taxing on your band’s practice.
+
+_The Oud is a Lute-like Persian instrument that is approximately one thousand years old:_  
+<iframe width="1903" height="768" src="https://www.youtube.com/embed/7LFhFt1PQjg" title="Oud - Vivaldi Four Seasons Summer 3rd Movement - Joseph Tawadros, Richard Tognetti & the ACO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 W.B.T.G. Slinger:  
 I'm always on the lookout for the post King Gizz generation, and there's one 
