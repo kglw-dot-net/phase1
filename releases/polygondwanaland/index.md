@@ -25,6 +25,7 @@ Such a special album was deemed to get a special release, so as a gift to the fa
 * Produced by Stu Mackenzie
 * Artwork and layout by Jason Galea  
 <br>  
+
 * Tracks 2-5 and 7+8 recorded by Casey Hartnett at 255 Lygon St, Brunswick East
 * Searching... and Loyalty recorded by Stu Mackenzie at 255 Lygon St,  Brunswick East
 * Crumbling Castle and The Fourth Colour recorded by Ryan K. Brennan at Tender Trap Studios, Melbourne
