@@ -22,12 +22,15 @@ After four studio albums and two international tours in 2017 alone, one would th
 * Track 5 recorded by Joey in his bedroom  
 * Additional recording on tracks, 2, 4, 5 by Stu at Whammy Bar, Auckland  
 <br>  
+
 * Tracks 1, 7, 8 Mixed by Michael Badger  
 * Tracks 2, 5 mixed by Joey  
 * Tracks 3, 4, 6, 9, 10, 11 mixed by Stu  
 <br>  
+
 * Mastered by Joseph Carra  
 <br>  
+
 * Artwork and layout by Jason Galea  
 * Photography by Jamie Wdziekonski  
 
