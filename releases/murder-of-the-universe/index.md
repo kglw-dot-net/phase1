@@ -20,8 +20,8 @@ Perhaps the most unique record in the catalogue, Murder Of The Universe is a dar
 
 * Lyrics by Stu Mackenzie
 
-* Stories written by Stu Mackenzie, Except Track 21,  
-"The Murder Of The Universe"  by Joey Walker and Stu Mackenzie
+* Stories written by Stu Mackenzie,  
+Except Track 21, "The Murder Of The Universe"  by Joey Walker and Stu Mackenzie
 
 * Recorded by Casey Hartnett, Stu Mackenzie, Michael Badger and Joey Walker
 * Produced by Stu Mackenzie
