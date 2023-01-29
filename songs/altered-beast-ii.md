@@ -1,6 +1,6 @@
 ---
 layout: song
-title: A New World
+title: Altered Beast II
 album: Murder Of The Universe
 ---
 
