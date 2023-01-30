@@ -18,7 +18,19 @@ Though being a guitar-based, chill jam as opposed to the deep techno-IDM journey
 
 While _Made In Timeland_ was originally intended to serve as the interlude music for the career-defining three hour marathon shows at the legendary Red Rocks Amphitheatre in Colorado, the significant delay of these shows due to the pandemic necessitated this updated version. One song was debuted at each of the first two nights, with the album published at the conclusion of the shows — alongside its counterpart, finally breaking the show-delaying curse of Timeland.
 
-What to listen to next:
+# Album Credits
+
+> This album is for our fans. We are so lucky to have you!  
+
+* Recorded by Stu
+* Mixed by Stu
+* Mastered by Joe Carra
+* Words by Stu
+* Music by King Gizz
+* Artwork and photography by Jason Galea
+* Produced by Stu
+
+# What to listen to next:
 
 *   [If you want to hear the ‘spiritual predecessor’ to this album](../made-in-timeland)
 *   [If you want to hear another jam based album with long songs](../ice-death-planets-lungs-mushrooms-and-lava)
