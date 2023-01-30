@@ -18,8 +18,6 @@ Now with a more familiar platform, a half complete Bağlama based folk album was
 
 # Album Credits
 
-**Explorations Into Microtonal Tuning Volume 1**
-
 * Recorded by Stu Mackenzie at Flightless HQ between April and September 2016
 * Mixed by Jarvis Taveniere
 * Mastered by Joe Carra
