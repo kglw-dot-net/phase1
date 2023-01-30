@@ -22,6 +22,7 @@ album: Made In Timeland
 
 * Recorded by Stu Mackenzie, Lucas Harwood, Ambrose Kenny-Smith, Joey Walker and Michael Cavanagh in Melbourne
 * Mixed by Stu Mackenzie and Joey Walker
+<br>
 
-Contains a sample of the recording "Untitled" performed by Bobby Cook & the Explosions
+* Contains a sample of the recording "Untitled" performed by Bobby Cook & the Explosions
 Courtesy of The Numero Group. Used with permission. All rights reserved.
