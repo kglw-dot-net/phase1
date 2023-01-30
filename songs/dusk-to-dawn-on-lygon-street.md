@@ -9,14 +9,14 @@ album: Sketches Of Brunswick East
 # Lyrics
 
 > Bedtime for the birds as night cloaks the earth  
-> Then the moon smiles at the suns birth  
+> Then the moon smiles at the sun's birth  
 > Faceless night cowers underneath the ever changing moonlit sky  
 > Can you believe the way night falls away?  
 > As the sun starts a new day  
 >  
 > Plants raise their leaves as the sun waves goodbye  
 > Dusk greets the horizon as day fades  
-> Black lines bend round a cityscape while trailing off in the sunsets wake  
+> Black lines bend round a cityscape while trailing off in the sunset's wake  
 > I can foresee that dawn will bring the light  
 > As the sun gives way to night  
 
