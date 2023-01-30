@@ -19,7 +19,24 @@ This may well justify Changes as their most genuine example of Jazz, with the lu
 
 Surprisingly, this ‘highly considered’ approach still wound up seeing its conclusion as intended, released as the fifth studio album within a year. Always building momentum, of course something had to be done to out-do 2017’s volume of releases, and so Changes is the fitting end to ‘Gizztober’ as the third album released just within a month, further pushing the boundaries of prolificacy and frequency.
 
-What to listen to next:
+# Album Credits
+
+* Mixed by Stu Mackenzie
+* Produced by Stu Mackenzie
+* Mastered by Joe Carra
+<br>
+
+* Track 1 Recorded by Nico Wilson and Stu Mackenzie
+* Track 2, 3, 4, 5, 7 recorded by Stu Mackenzie
+* Track 6 recorded by Sam Joseph
+<br>
+
+* Recorded between 2017-2022 in various studios, home studios, buses, hotel rooms, green rooms, planes, parking lots etc...
+<br> 
+
+* Photography and design by Jason Galea
+
+# What to listen to next:
 
 *   [If you want another Jazz-based album with groovy bass and keys](../sketches-of-brunswick-east)
 *   [If you want more nerdy music theory to unpack](../polygondwanaland)
