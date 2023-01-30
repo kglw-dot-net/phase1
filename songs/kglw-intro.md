@@ -14,5 +14,7 @@ album: K.G.
 
 * Amby: Harmonica
 * Stu: Guitar, Percussion, Bass, Keyboards, Flute, Sitar
+<br>
+
 * Recorded by Stu Mackenzie
 * Mixed by Stu Mackenzie
