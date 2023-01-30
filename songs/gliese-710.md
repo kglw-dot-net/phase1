@@ -4,7 +4,7 @@ title: Gliese 710
 album: Ice, Death, Planets, Lungs, Mushrooms And Lava
 ---
 
-(Mackenzie/Kenny-Smith/Walker/Craig/Cavanagh/Harwood)
+(Mackenzie/Kenny-Smith/Craig/Harwood/Cavanagh)
 
 # Lyrics
 
