@@ -19,8 +19,8 @@ album: Sketches Of Brunswick East
 >  
 > These aren't fables  
 > Between pages  
-> My books ageless  
-> And its page-less  
+> My book's ageless  
+> And it's page-less  
 > 
 > The book  
 > The book  
