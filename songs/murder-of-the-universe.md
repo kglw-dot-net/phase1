@@ -13,7 +13,7 @@ album: Murder Of The Universe
 > And the stream becomes a waterfall.  
 > Munt is finally cascading from my input.  
 >  
-> The creeping sick moves from my breath.  
+> The creeping sick moves from my breath  
 > And into my heart where it is pumped to every inch of my body.  
 > I feel it snake through the knots of my deepest veins  
 > And eats through the walls of my zells.  
@@ -37,7 +37,7 @@ album: Murder Of The Universe
 > I force myself upon others.  
 > I slide up legs and crawl down throats.  
 > I integrate.  
-> I am double.  
+> I am double,  
 > Triple.  
 > I am ten times the size.  
 >  
