@@ -54,7 +54,7 @@ album: Flying Microtonal Banana
 > Rattle, rattle, rattle...  
 >  
 > I'm the serpent  
-> Devils servant  
+> Devil's servant  
 > Time to meet your end  
 >  
 > Fangs are ready for the strike  
@@ -80,7 +80,7 @@ album: Flying Microtonal Banana
 > Rattle, rattle, rattle...  
 >  
 > I'm the serpent  
-> Devils servant  
+> Devil's servant  
 > Time your meet your end  
 >  
 > Fangs are ready for the strike  
