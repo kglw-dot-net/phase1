@@ -17,7 +17,6 @@ Volume 2 of ‘Explorations into Microtonal Tuning’. This is the first of two 
 Less sonically focused than ‘Explorations into Microtonal Tuning Vol. 1’, a greater variety of genres and sounds emerge from the originally Anatolian instrument tunings. These include familar variations on folk and metal; but also explore new experiments with rapping and Turkish-throwback-synth-disco-pop (yep).
 
 # Album Credits
-**Explorations Into Microtonal Tuning Volume 2**
 
 * Mastered by Joseph Carra
 * Artwork by Jason Galea
