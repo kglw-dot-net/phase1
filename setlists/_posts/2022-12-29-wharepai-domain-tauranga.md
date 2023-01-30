@@ -36,7 +36,7 @@ modified_date: 2023-01-12
 Notes: Gaia featured a Cavs drum solo over the top of a metal vamp from the rest of the band. Ice V contained Hypertension teases. Stu threw water bottles into the crowd during Hot Water. Amusing banter before The Dripping Tap referenced the heat, sweating, church, God, Satan, weed, and vaping. The Dripping Tap subsequently contained Hypertension teases and quotes.
 
 **KGLW.net Staff Notes:**  
-During the Ice V intro, Ambrose riffs a couple of times on the phrase "Just a bunch of nice guys." Ice V appears to have -> Hypertension, but the current video evidence is not conclusive. If anyone can confirm any details about the "nice guys" quotes or Hypertension segue, please email the staff at [kglw.net@gmail.com](email:kglw.net@gmail.com).
+The recording for this show is incomplete (missing Hypertension). Despite the incomplete recording, KGLW.net staff supports the -> transition from Ice V  -> Hypertension based on available audio evidence of the start of the transition near the end of Ice V. If anyone has any further information or, ideally, a complete or conclusive recording please contact KGLW.net staff at [kglw.net@gmail.com](email:kglw.net@gmail.com).
 
 King Gizzard appeared as part of the [Summer Haze festival](https://summerhazenz.com/).
 Also playing:
