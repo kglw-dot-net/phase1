@@ -17,7 +17,7 @@ album: Made In Timeland
 * Michael Cavanagh - Drums, Percussion
 * Ambrose Kenny-Smith - Vocals
 * Cook Craig - Keyboards, Synthesiser
+<br>
 
 * Recorded by Stu Mackenzie, Joey Walker, Cook Craig, Ambrose Kenny-Smith and Michael Cavanagh in Bangkok, Shanghai, and Melbourne
-
 * Mixed by Stu Mackenzie and Joey Walker
