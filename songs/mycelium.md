@@ -71,13 +71,12 @@ album: Ice, Death, Planets, Lungs, Mushrooms And Lava
 > Mycelium. Mycelium. Mycelium. Mycelium...  
 
 # Song Credits
-* Words written by Stu, Amby, Joey, Cookie, and Lukey
-* Music composed by Stu, Amby, Cavs, Joey, and Cookie
-<br>
-
-**Performer Credits:**
 * Stu: Piano, Bass, Guitar, Organ, Vocals, Percussion, Flute
 * Amby: Keys, Saxophone, Percussion, Vocals
 * Cavs: Drums
 * Joey: Bass, Keys, Guitar
 * Cookie: Bass, Keys, Guitar
+<br>
+
+* Words written by Stu, Amby, Joey, Cookie, and Lukey
+* Music composed by Stu, Amby, Cavs, Joey, and Cookie
