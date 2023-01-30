@@ -16,7 +16,14 @@ Volume 2 of ‘Explorations into Microtonal Tuning’. This is the first of two 
 
 Less sonically focused than ‘Explorations into Microtonal Tuning Vol. 1’, a greater variety of genres and sounds emerge from the originally Anatolian instrument tunings. These include familar variations on folk and metal; but also explore new experiments with rapping and Turkish-throwback-synth-disco-pop (yep).
 
-What to listen to next:
+# Album Credits
+**Explorations Into Microtonal Tuning Volume 2**
+
+* Mastered by Joseph Carra
+* Artwork by Jason Galea
+* Produced by Stu Mackenzie
+
+# What to listen to next:
 
 *   [If you want Volume 1 of ‘Explorations into Microtonal Tuning’](../flying-microtonal-banana)
 *   [If you want Volume 3 of ‘Explorations into Microtonal Tuning’ (counterpart to this album)](../lw)
