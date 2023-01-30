@@ -65,7 +65,7 @@ album: Changes
 
 # Song Credits
 
-Stu: Bass Guitar, Vocals, Mellotron, Organ, Wurlitzer, Synthesiser, Keyboards, Flute
-Cavs: Drums
-Amby: Keyboards, Saxophone, Vocals, Percussion
-Joey: Synthesiser, Guitar
+* Stu: Bass Guitar, Vocals, Mellotron, Organ, Wurlitzer, Synthesiser, Keyboards, Flute
+* Cavs: Drums
+* Amby: Keyboards, Saxophone, Vocals, Percussion
+* Joey: Synthesiser, Guitar
