@@ -19,6 +19,7 @@ album: Made In Timeland
 * Lucas Harwood - Keyboards, Synthesiser, Bass, Fretless Bass
 * Joey Walker - Synthesisers, Percussion
 <br>
+
 * Recorded by Stu Mackenzie, Lucas Harwood, Ambrose Kenny-Smith, Joey Walker and Michael Cavanagh in Melbourne
 * Mixed by Stu Mackenzie and Joey Walker
 
