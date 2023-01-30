@@ -26,10 +26,11 @@ King Gizzard & the Lizard Wizard: Mickey Cavanagh, Cookie Craig, Lukey Harwood, 
 * Mastered by Joe Carra
 * Photography and design by Jason Galea
 <br>
-* Recorded between 2017-2022 in various studios, home studios, buses, hotel rooms, green rooms, planes, parking lots etc...
-* Track 1 Recorded by Nico Wilson and Stu Mackenzie
-* Track 2, 3, 4, 5, 7 recorded by Stu Mackenzie
-* Track 6 recorded by Sam Joseph
+
+* Recorded between 2017-2022 in various studios, home studios, buses, hotel rooms, green rooms, planes, parking lots etc...  
+* Track 1 Recorded by Nico Wilson and Stu Mackenzie  
+* Track 2, 3, 4, 5, 7 recorded by Stu Mackenzie  
+* Track 6 recorded by Sam Joseph  
 
 # What to listen to next:
 
