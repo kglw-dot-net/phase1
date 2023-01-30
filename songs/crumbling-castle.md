@@ -28,7 +28,7 @@ album: Polygondwanaland
 > We wait for the death  
 > That does not come  
 > Crumbling castle  
-> Dug all of the holes in God's acre  
+> Dug all the holes in God's Acre  
 > Crumbling castle  
 > We have even said our last rites  
 > Crumbling castle  
