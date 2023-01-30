@@ -54,10 +54,10 @@ album: Omnium Gatherum
 
 # Song Credits
 
-* Amby: Vocals/Percussion
+* Amby: Vocals, Percussion
 * Cavs: Drums
-* Joey: Synthesiser/Baglama
-* Stu: Turntable/Percussion
+* Joey: Synthesiser, Baglama
+* Stu: Turntable, Percussion
 <br>
 
 * Recorded by Stu Mackenzie and Michael Cavanagh
