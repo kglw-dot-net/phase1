@@ -24,5 +24,5 @@ album: Made In Timeland
 * Mixed by Stu Mackenzie and Joey Walker
 <br>
 
-* Contains a sample of the recording "Untitled" performed by Bobby Cook & the Explosions
-Courtesy of The Numero Group. Used with permission. All rights reserved.
+* Contains a sample of the recording "Untitled" performed by Bobby Cook & the Explosions Courtesy of The Numero Group.  
+Used with permission. All rights reserved.
