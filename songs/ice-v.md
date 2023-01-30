@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Mycelium
+title: Ice V
 album: Ice, Death, Planets, Lungs, Mushrooms And Lava
 ---
 
