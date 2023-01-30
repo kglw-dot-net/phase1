@@ -4,23 +4,20 @@ date: "2011-03-04"
 venue: "The Grace Darling Hotel, Melbourne, Australia"
 ---
 
- 1. Ants and Bats
+ 1. Good to Me
+    [^1]
+ 2. Unknown song
 
- 2. Hey There
+<!--snippet-->
+* footnotes
+{:footnotes}
 
- 3. Life Is Cool
-
- 4. Tomb/Beach
-
- 5. Good to Me
-
- 6. Eddie Cousin
-
- 7. Fried
-
- 8. Oh God
-
- 9. Lunch Meat
+[^1]: Earliest known performance.
 
 
-Note: Release party for the Angelsea EP.
+#### Notes
+
+This show was a release party for the Anglesea EP.
+
+**KGLW.net Staff Notes:**
+The setlist and recording for this show are incomplete. Good to Me and the unknown song have been verified by audio recording. If anyone has any further information on what else was played at this show or, ideally, a complete or conclusive recording please contact KGLW.net staff at [kglw.net@gmail.com](email:kglw.net@gmail.com). 
