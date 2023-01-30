@@ -48,7 +48,7 @@ John is the director of [PHC Films](https://phcfilms.com/), a visual production 
 Jamie is the dedicated band photographer, who produces much of their press material and shoots various live performances. He has a highly distinct style — mostly black and white images with a signature heavy film grain. He has a book published documenting the band's 2019 Europe tour, _Chunky_; and is an employee of PHC Films.
 
 ### Paul Maybury  
-Paul is a recording Engineer associated with _A Secret Location_ recording studio in Melbourne. He recorded and mixed King Gizzard's early material up until _[I'm In Your Mind Fuzz](https://kglw.net/releases/im-in-your-mind-fuzz)_, and mentored Stu in these processes to the point where he now carries them out himself.
+Paul Maybury is a recording Engineer associated with _A Secret Location_ recording studio in Melbourne. He recorded and mixed King Gizzard's early material up until _[I'm In Your Mind Fuzz](https://kglw.net/releases/im-in-your-mind-fuzz)_, and mentored Stu in these processes to the point where he now carries them out himself.
 
 ### Wayne Gordon  
 Wayne Gordon is an in-house Engineer and Producer at Brooklyn's _[Daptone Records](https://daptonerecords.com/)_, where he recorded the band to a full professional quality for the first time for _[I'm In Your Mind Fuzz](https://kglw.net/releases/im-in-your-mind-fuzz)_, _[Quarters!](https://kglw.net/releases/quarters)_, and _[Nonagon Infinity](https://kglw.net/releases/nonagon-infinity)_.
