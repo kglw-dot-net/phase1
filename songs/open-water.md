@@ -52,14 +52,14 @@ album: Flying Microtonal Banana
 > Over by the sunken ship  
 >  
 > And bells are ringing in my head  
-> I think i'm done - I think i'm dead  
+> I think I'm done - I think I'm dead  
 > As something pulls my paddling leg under...  
 >  
 > Asphyxiate: it's more than I can take  
 > This briny, tangy, salty water in my lungs  
 >  
 > And deeper darker bluish dread  
-> The pressures squeezing on my head  
+> The pressure's squeezing on my head  
 > The kraken's got the best of me this time  
 >  
 > I know something is lurking in  
@@ -68,14 +68,14 @@ album: Flying Microtonal Banana
 > Over by the sunken ship  
 >  
 > And bells are ringing in my head  
-> I think i'm done - I think i'm dead  
+> I think I'm done - I think I'm dead  
 > As something pulls my paddling leg under...  
 >  
 > Asphyxiate: it's more than I can take  
 > This briny, tangy, salty water in my lungs  
 >  
 > And deeper darker bluish dread  
-> The pressures squeezing on my head  
+> The pressure's squeezing on my head  
 > The kraken's got the best of me this time  
 >  
 > Open water  
