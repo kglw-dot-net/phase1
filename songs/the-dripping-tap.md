@@ -4,6 +4,8 @@ title: The Dripping Tap
 album: Omnium Gatherum
 ---
 
+(Mackenzie/Kenny-Smith)
+
 # Lyrics
 
 > The dripping tap won't be turned off by the suits in charge of the world  
