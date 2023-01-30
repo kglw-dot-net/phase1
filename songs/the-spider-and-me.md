@@ -20,7 +20,7 @@ album: Sketches Of Brunswick East
 > The spider and me  
 > The spider and me  
 >  
-> Laze in the sun  
+> Laze in the afternoon sun  
 > Gazing at  
 > Each other's beauty  
 > The huntsman's heart forever beats  
