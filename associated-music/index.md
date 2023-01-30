@@ -4,7 +4,7 @@ redirect_from:
 - /the-murlocs
 ---
 
-During the formative years of the band, it would have been accurate to describe King Gizzard and the Lizard Wizard as everyone's side project. Now, they are the nexus for a range of solo and side acts, peers, collaborators, and even a new generation of bands who draw from their influence.
+During the formative years of the band, it would have been accurate to describe King Gizzard and the Lizard Wizard as everyone's side project. Now, they are the nexus for a range of solo and side acts, peers, collaborators, and even a new generation of bands who draw influence from them.
 
 ## Other Music Projects  
 Stu is the only member of King Gizzard not actively involved with composing music in other bands or solo projects, tending to focus on only one band at a time while the rest spread out their compositional work.
