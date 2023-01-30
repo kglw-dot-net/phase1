@@ -17,7 +17,7 @@ album: Flying Microtonal Banana
 > The most wanted men  
 > Bushrangers reigning in  
 >  
-> Blood thirsty tendencies  
+> Bloodthirsty tendencies  
 > Antiauthority  
 >  
 > Mad dog Morgan  
@@ -34,7 +34,7 @@ album: Flying Microtonal Banana
 > The most wanted men  
 > Bushrangers reigning in  
 >  
-> Blood thirsty tendencies  
+> Bloodthirsty tendencies  
 > Antiauthority  
 >  
 > Mad dog Morgan  
