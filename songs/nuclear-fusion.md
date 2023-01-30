@@ -40,7 +40,7 @@ album: Flying Microtonal Banana
 > My spirit leaves my body in frustration  
 > Flying through the world in radiation  
 >  
-> The devils inside all the detail  
+> The devil's inside all the detail  
 > The tittle runs wild under veil  
 > Coming together in the pattern  
 > Fit tightly like a dovetail  
