@@ -20,7 +20,7 @@ This may well justify Changes as their most genuine example of Jazz, with the lu
 Surprisingly, this ‘highly considered’ approach still wound up seeing its conclusion as intended, released as the fifth studio album within a year. Always building momentum, of course something had to be done to out-do 2017’s volume of releases, and so Changes is the fitting end to ‘Gizztober’ as the third album released just within a month, further pushing the boundaries of prolificacy and frequency.
 
 # Album Credits
-
+King Gizzard & the Lizard Wizard: Mickey Cavanagh, Cookie Craig, Lukey Harwood, Amby Kenny-Smith, Stu Mackenzie, Joey Walker  
 * Mixed by Stu Mackenzie
 * Produced by Stu Mackenzie
 * Mastered by Joe Carra
@@ -35,14 +35,6 @@ Surprisingly, this ‘highly considered’ approach still wound up seeing its co
 <br> 
 
 * Photography and design by Jason Galea
-
-King Gizzard & the Lizard Wizard:
-Mickey Cavanagh
-Cookie Craig
-Lukey Harwood
-Amby Kenny-Smith
-Stu Mackenzie
-Joey Walker
 
 # What to listen to next:
 
