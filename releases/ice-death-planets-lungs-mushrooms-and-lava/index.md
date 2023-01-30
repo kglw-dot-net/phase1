@@ -23,11 +23,7 @@ The most collaboratively composed album to date, the band breeze through various
 * Produced by Stu Mackenzie
 * Mastered by Joe Carra
 * Performed by King Gizz on on Wurrundjeri land
-<br>
-
 * Cover art, photography and layout by Jason Galea
-<br>
-
 * Special thanks to Nico Wilson
 
 # What to listen to next:
