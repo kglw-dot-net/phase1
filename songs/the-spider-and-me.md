@@ -22,7 +22,7 @@ album: Sketches Of Brunswick East
 >  
 > Laze in the sun  
 > Gazing at  
-> Each others beauty  
+> Each other's beauty  
 > The huntsman's heart forever beats  
 > Our union is forever  
 >  
