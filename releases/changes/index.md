@@ -36,6 +36,14 @@ Surprisingly, this ‘highly considered’ approach still wound up seeing its co
 
 * Photography and design by Jason Galea
 
+King Gizzard & the Lizard Wizard:
+Mickey Cavanagh
+Cookie Craig
+Lukey Harwood
+Amby Kenny-Smith
+Stu Mackenzie
+Joey Walker
+
 # What to listen to next:
 
 *   [If you want another Jazz-based album with groovy bass and keys](../sketches-of-brunswick-east)
