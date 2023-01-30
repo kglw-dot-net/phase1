@@ -18,7 +18,14 @@ Ultimately, it was unveiled at the [Return of the Curse of Timeland show at the 
 
 MIT is a deep, trance-like exploration into Techno and IDM production, and oddly contains the first real foray into vocal rapping by ‘Shrimpomaniac’, the alter-ego of Ambrose.
 
-What to listen to next:
+# Album Credits
+
+* Produced by Stu Mackenzie
+* Mastering by Joe Carra
+* Photography by Jason Galea
+* Cover design and artwork by Jason Galea
+
+# What to listen to next:
 
 *   [If you want to hear the ‘spiritual successor’ to this album](../laminated-denim)
 *   [If you want an album that has a song that kind of sounds like this 'Acarine'](../fishing-for-fishies)
