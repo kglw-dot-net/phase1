@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Magenta Mountain
+title: Gaia
 album: Omnium Gatherum
 ---
 
