@@ -44,8 +44,8 @@ album: Murder Of The Universe
 >  
 > So I took over my creation.  
 > The spew coated protein.  
-> I plugged myself in  
-> And became one with machine  
+> I plugged myself in.  
+> And became one with machine.  
 >  
 > I don't feel blessed  
 > With the vomit  
