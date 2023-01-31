@@ -25,9 +25,7 @@ The record is titled for this concept, featuring nine songs that all seamlessly 
 
 > This album is for the road crew who put up with us in our big black bus while we were writing/playing/recording this album.  
 >   
-> Joe Santarpia, Sam Fromlr, Roberto Pagano, Jason Galea, Jamie Wdziekonski, Pooneh Ghana, Philippa Gleeson, Tessa Parsons, Jay Bauer -  
->   
-> we love you very, very, much xoxox  
+> Joe Santarpia, Sam Fromlr, Roberto Pagano, Jason Galea, Jamie Wdziekonski, Pooneh Ghana, Philippa Gleeson, Tessa Parsons, Jay Bauer -  we love you very, very, much xoxox  
 
 * All songs written by Stu Mackenzie and performed by King Gizzard & The Lizard Wizard
 
