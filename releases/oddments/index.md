@@ -23,31 +23,13 @@ The first opus of Jason Galea, this intricate artwork spreads over the triple ga
 
 > Ahhh... what can I say about this record?  
 >  
-> We used to go the local grocery store and pick up what was labeled as an oddment.  
-> This was to my understanding at the time,  
-> a delicious can of soda left over from a larger pack sold at a discounted rate.   
-> We were poor thirsty young men looking for a bargain and this sugar kick fuelled the record.  
-> It also fittingly described the nature of the songs.  
-> Leftovers, potpourri, a bubble and squeak of a record.  
+>  We used to go the local grocery store and pick up what was labeled as an oddment. This was to my understanding at the time, a delicious can of soda left over from a larger pack sold at a discounted rate. We were poor thirsty young men looking for a bargain and this sugar kick fuelled the record. It also fittingly described the nature of the songs. Leftovers, potpourri, a bubble and squeak of a record.  
 >  
-> Cooky wrote Crying when he was 16 and the two of us used to play it in our old band,  
-> we tried It's Got Old for 12 Bar Bruise and Float Along before the 3rd and final recording worked,  
-> Sleepwalker is a reworking of a song we cut from Willoughby's beach,  
-> ABABCd was a TV show theme Joey wrote.  
+> Cooky wrote Crying when he was 16 and the two of us used to play it in our old band, we tried It's Got Old for 12 Bar Bruise and Float Along before the 3rd and final recording worked, Sleepwalker is a reworking of a song we cut from Willoughby's beach, ABABCd was a TV show theme Joey wrote.  
 >  
-> The rest were recording experiments.  
-> Work This Time and Stressin' were Joey and I trying to record soulful music,  
-> Alluda Majaka was a way to test out a new synthesiser I had bought,  
-> Homeless Man In Adidas is an attempt to make quiet music,  
-> Hot wax was a home recording Ambrose and I made and Vegemite is just Vegemite.  
->   
-> This record was a slate-clearer, a head-cleaner. Spring cleaning for the mind.  
-> It helped us move on to I'm In Your Mind Fuzz and Quarters!,  
-> which were made abroad amongst fairly constant Europe and USA touring.  
-> Our last innocent record maybe.  
-> I think it was a full stop at the end of a period of adolesence.  
-> A dying flower.  
-> A rogue pube.  
+> The rest were recording experiments. Work This Time and Stressin' were Joey and I trying to record soulful music, Alluda Majaka was a way to test out a new synthesiser I had bought, Homeless Man In Adidas is an attempt to make quiet music, Hot wax was a home recording Ambrose and I made and Vegemite is just Vegemite.  
+>  
+> This record was a slate-clearer, a head-cleaner. Spring cleaning for the mind. It helped us move on to I'm In Your Mind Fuzz and Quarters!, which were made abroad amongst fairly constant Europe and USA touring. Our last innocent record maybe. I think it was a full stop at the end of a period of adolesence. A dying flower. A rogue pube.  
 >   
 > Anyway,  
 >  
