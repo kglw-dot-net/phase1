@@ -40,9 +40,11 @@ The album cover was the first by Jason Galea, now considered a member of the gro
 * Recorded in 2012 by Paul Maybury and King Gizzard in Melbourne.  
 * Except 12 Bar Bruise, Recorded late at night in Anglesea with 4 iPhones around the room and Stu singing straight into one.  
 <br>
+
 * Artwork by Jason Galea  
 * Photo by Lauren Bamford  
 <br>
+
 * Spoken word in Sam Cherry's Last Shot by Broderick Smith and taken from the 1883 novel 33 Years Among Wild Indians  
 
 # What to listen to next:
