@@ -19,3 +19,6 @@ Under the Digital Millennium Copyright Act of 1998 (DMCA) a copyright owner or t
 
 Want to submit a removal request?
 [Click Here](/legal/dmca)
+
+[kinggizzardandthelizardwizard.com]: https://kinggizzardandthelizardwizard.com
+[gizzverse.com]: https://gizzverse.com
