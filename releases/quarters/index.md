@@ -17,6 +17,8 @@ This slow, chill, Jazz-Rock album consists of four jams with a duration of 10 mi
 
 # Album Credits
 
+**Quarters! - ℗ & © 2015 KGLW**
+
 > "Quarters is for everybody who has come to our shows over the years or bought our records (that's you!) Without you we are nothing. Thank-you!"  
 
 
