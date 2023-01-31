@@ -28,8 +28,9 @@ This truly unique Spaghetti Western soundtrack uses spoken narration rather than
 * Story written and narrated by Broderick Smith
 * Music by King Gizzard & The Lizard Wizard 
 * Words by Broderick Smith 
+<br>
 
-* Recorded and mixed by Stu Mackenzie
+* Recorded, mixed and produced by Stu Mackenzie
 * Mastered by Joseph Carra
 * Artwork by Jason Galea
 * Photography by Lauren Bamford
