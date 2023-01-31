@@ -17,6 +17,8 @@ The first true psychedelic album. A lo-fi throwback in sound to The Beatles’ I
 
 # Album Credits
 
+**Float Along — Fill Your Lungs - ℗ & © 2022 KGLW**
+
 > This the record where we started to play together for the first time. Like that kind of in the pocket intuitive feeling you can have while playing with certain
 > people. We were playing a lot of shows and had started jamming and improvising a lot live. 
 > Out of the ether came head on/pill. It was short at first but it just kept fucking growing like pond scum. We thought we had better record it before we forgot it
