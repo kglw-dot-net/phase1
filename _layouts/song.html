@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% for album in site.data.discography.studio %}
+  {% if album.title == page.title %}
+    {% assign album_data = album %}
+  {% endif %}
+{% endfor %}
+
 <article class="song post h-entry" itemscope itemtype="http://schema.org/MusicRecording">
 
   <header class="post-header">
@@ -10,7 +16,13 @@ layout: default
     
     <h1 class="post-title p-name" itemprop="name">{{page.title}}</h1>
 
-    <p>on the album <a href="/releases/{{page.album | slugify}}" title="{{page.album}}" itemprop="inAlbum">{{page.album}}</a></p>
+    {% if album_data %}
+      {% if album_data.slug %}
+        <p>on the album <a href="/releases/{{album_data.slug}}" title="{{album_data.title}}" itemprop="inAlbum">{{album_data.title}}</a></p>
+      {% else %}
+        <p>on the album <a href="/releases/{{album_data.title | slugify}}" title="{{album_data.title}}" itemprop="inAlbum">{{album_data.title}}</a></p>
+      {% endif %}
+    {% endif %}
 
   </header>
 
