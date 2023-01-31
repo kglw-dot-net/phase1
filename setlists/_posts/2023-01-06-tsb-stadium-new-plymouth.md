@@ -4,6 +4,7 @@ date: "2023-01-06"
 venue: "TSB Stadium, New Plymouth, Aotearoa New Zealand"
 title: "TSB Stadium, New Plymouth"
 tour: "World Tour '22"
+modified_date: 2023-01-10
 ---
 
 
