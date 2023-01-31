@@ -20,8 +20,6 @@ With a Satanic environmental apocalypse narrative – this is the mission that j
 # Album Credits
 **Infest the Rats' Nest "XV" - ℗ & © 2019 Flightless Records - Used by permission.**
 
-<br>
-
 * Recorded by Michael Badger and Stu Mackenzie
 * Mixed by Stu Mackenzie
 * Produced by Stu Mackenzie
