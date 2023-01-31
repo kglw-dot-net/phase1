@@ -4,6 +4,8 @@ title: Hey There
 album: Teenage Gizzard
 ---
 
+(King Gizzard & The Lizard Wizard)
+
 # Lyrics
 
 > You, you, 1, 2,  
