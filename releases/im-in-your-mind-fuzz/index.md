@@ -19,7 +19,7 @@ Traditionally recommended as the best starting point of the discography, it impl
 
 # Album Credits
 
-**I'm In Your Mind Fuzz - ℗ & © 2014 KGLW**
+**I'm In Your Mind Fuzz - ℗ & © 2014 KGLW - Used by permission.**
 
 > This album is dedicated to all of the people that help make things happen -  
 >   
