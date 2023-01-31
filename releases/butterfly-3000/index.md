@@ -12,6 +12,7 @@ cover: ./cover.jpg
 > A hand outstretched calls my name  
 > Time to wake again
 {:class="lyrics"}
+<br>
 
 The most positive, uplifting album and first to be composed entirely in major scales. The band accompanies programmed synths through a trippy odyssey, looking far into the future and exploring themes of metamorphosis with newfound confidence inspired by fatherhood.
 
