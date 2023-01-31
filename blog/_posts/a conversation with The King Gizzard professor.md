@@ -205,6 +205,7 @@ W.B.T.G. Slinger:
 You know, King Gizz are obviously very environmentally conscious; and as a worker in the renewable energy industry, I also wanted to ask you about one of your more recent research projects, the Sunflower.
 
 ![image](https://user-images.githubusercontent.com/114916472/215660088-c633f87d-2a7f-4bfd-93c6-471f3b5fa50e.png)  
+
 _The Sunflower in use at an outdoor event_
 
 So it's a portable lithium battery bank with solar charging and AC power supply to use in place of a diesel generator for a live music event. I was curious if it has features that specifically facilitate audio visual Production?
@@ -272,8 +273,9 @@ I think that circles back nicely to King Gizz, who as environmentalists themselv
 Dr. Barry Hill:  
 They sponsor a football team! It's fantastic that they’re sponsoring an AFLW football team, that can't get more Melbourne.
 
-![image](https://user-images.githubusercontent.com/114916472/215664596-985ec6d3-0928-47eb-865b-1d2c96e2b124.png)
-_Growing up in Angelsea, Stu was a keen AFL player, and in 2004 captained a team that included future AFL champion Patrick Dangerfield. Stu is arelative of Angelsea club president Jamie Mackenzie, and so when they started their first women's team in 2022, King Gizzard and the Lizard Wizard became a sponsor._
+![image](https://user-images.githubusercontent.com/114916472/215664596-985ec6d3-0928-47eb-865b-1d2c96e2b124.png)  
+
+_Growing up in Angelsea, Stu was a keen AFL player, and in 2004 captained a team that included future AFL champion Patrick Dangerfield. Stu is a relative of Angelsea club president Jamie Mackenzie, and so when they started their first women's team in 2022, King Gizzard and the Lizard Wizard became a sponsor._
 
 W.B.T.G. Slinger:  
 With all that in mind, there's going to be a lot of international readers. I wondered if you could provide insight to the environmentalism of a millennial rock band from rural Victoria — where does it come from, or what does environmentalism mean to them?
