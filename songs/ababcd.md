@@ -1,6 +1,6 @@
 ---
 layout: song
-title: ABABCd.
+title: ABABCD
 album: Oddments
 ---
 
@@ -15,7 +15,7 @@ album: Oddments
 > I want to leave but I can't conceive that  
 > I'll snap back to reality  
 
-# Credits
+# Album Credits
 
 * Michael Cavanagh
 * Cook Craig

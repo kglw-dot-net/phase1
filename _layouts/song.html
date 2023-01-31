@@ -3,9 +3,11 @@ layout: default
 ---
 
 {% for album in site.data.discography.studio %}
-  {% if album.title == page.title %}
-    {% assign album_data = album %}
-  {% endif %}
+  {% for track in album.tracks %}
+    {% if track.title == page.title %}
+      {% assign album_data = album %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
 
 <article class="song post h-entry" itemscope itemtype="http://schema.org/MusicRecording">

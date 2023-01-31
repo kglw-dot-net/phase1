@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Pipe Dream
+title: Pipe-Dream
 album: Oddments
 ---
 
