@@ -21,6 +21,8 @@ While _Made In Timeland_ was originally intended to serve as the interlude music
 
 # Album Credits
 
+**Laminated Denim - ℗ & © 2022 KGLW - Used by permission.**
+
 > This album is for our fans. We are so lucky to have you!  
 
 * Recorded by Stu
