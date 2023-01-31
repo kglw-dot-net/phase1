@@ -24,7 +24,7 @@ The main output of the band. Most groups never make so many albums in a full car
 *   [K.G.](../releases/kg)
 *   [L.W.](../releases/lw)
 *   [Butterfly 3000](../releases/butterfly-3000)
-*   [Omnium Gatherum](../releases/omnium-gatherium)
+*   [Omnium Gatherum](../releases/omnium-gatherum)
 *   [Ice, Death, Planets, Lungs, Mushrooms and Lava](../releases/ice-death-planets-lungs-mushrooms-and-lava)
 *   [Made In Timeland](../releases/made-in-timeland)
 *   [Laminated Denim](../releases/laminated-denim)

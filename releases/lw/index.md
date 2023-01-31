@@ -5,6 +5,8 @@ bandcamp: https://kinggizzard.bandcamp.com/album/l-w
 release_date: 2021-02-25
 discogs: https://www.discogs.com/master/1996411-King-Gizzard-And-The-Lizard-Wizard-LW
 cover: ./cover.png
+redirect_from:
+  - /releases/l-w
 ---
 
 > When the blue sky turns to black  
@@ -12,7 +14,7 @@ cover: ./cover.png
 > When all the people die  
 > If not now, then when?
 {:class="lyrics"}
-<br>
+
 Volume 3 of ‘Explorations into Microtonal Tuning’. This is the second of two ‘working from home’ albums developed by sending snippets back and forth online between band members during pandemic lockdown. Slightly more focused in genre than its counterpart, it embraces its Anatolian roots with a more solid brand of Prog-Rock and of course, strains of funk and metal.
 
 # Album Credits

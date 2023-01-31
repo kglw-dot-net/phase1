@@ -5,6 +5,8 @@ bandcamp: https://kinggizzard.bandcamp.com/album/k-g
 release_date: 2020-11-20
 discogs: https://www.discogs.com/master/1850181-King-Gizzard-And-The-Lizard-Wizard-KG-Explorations-Into-Microtonal-Tuning-Volume-2
 cover: ./cover.jpg
+redirect_from:
+  - /releases/k-g
 ---
 
 > Galvanising uncertainty  
@@ -12,7 +14,7 @@ cover: ./cover.jpg
 > Hierarchy, it's been cracking aegis  
 > Embodied in this black heart shameless
 {:class="lyrics"}
-<br>
+
 Volume 2 of ‘Explorations into Microtonal Tuning’. This is the first of two ‘working from home’ albums developed by sending snippets back and forth online between band members during pandemic lockdown. This process introduced new songwriter combinations that reinvent old ideas and get some new weirder ones out at the same time.
 
 Less sonically focused than ‘Explorations into Microtonal Tuning Vol. 1’, a greater variety of genres and sounds emerge from the originally Anatolian instrument tunings. These include familar variations on folk and metal; but also explore new experiments with rapping and Turkish-throwback-synth-disco-pop (yep).

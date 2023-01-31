@@ -250,6 +250,7 @@ studio:
       - title: Hell
 
   - title: K.G.
+    slug: kg
     tracks:
       - title: K.G.L.W. (Intro)
         slug: kglw-intro
@@ -264,6 +265,7 @@ studio:
       - title: The Hungry Wolf of Fate
 
   - title: L.W.
+    slug: lw
     tracks:
       - title: If Not Now, Then When?
       - title: O.N.E.
