@@ -17,6 +17,8 @@ After four studio albums and two international tours in 2017 alone, one would th
 
 # Album Credits
 
+**Gumboot Soup - ℗ & © 2017 Flightless Records - Used by permission.**
+
 * Tracks 1, 4, 8, 9, 10, 11 recorded by Stu at Flightless HQ  
 * Tracks 2, 7 recorded by Stu at Rada Studios, Perth, with additional recording at Flightless HQ  
 * Tracks 3, 6 recorded by Cooky on his phone with additional recording by Stu at Flightless HQ  
