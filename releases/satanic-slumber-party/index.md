@@ -11,7 +11,7 @@ During the recording of [Fishing For Fishies](../fishing-for-fishies), at inspir
 # Album Credits
 **Satanic Slumber Party - ℗ & © 2022 Joyful Noise Recordings & Tropical Fuck Storm - Used by permission.**
 
-* Performed by: 
+Performed by:  
 * Ambrose Kenny-Smith, 
 * Cook Craig, 
 * Eric Moore, 
