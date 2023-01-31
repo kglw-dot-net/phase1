@@ -13,7 +13,6 @@ cover: ./cover.jpg
 > But I can sound it out
 {:class="lyrics"}
 <br>
- 
 The debut album. Surfy, lo-fi, and slightly trippy Garage Rock. This album was partially recorded on iPhones and serves as a means to an end, delineating all looser prior material and establishing KGLW as a fully functioning band.
 
 Distribution necessitated the founding of Flightless Records, the independent label that published all the work of the group for nearly a decade.
