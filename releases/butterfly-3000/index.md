@@ -33,6 +33,6 @@ Butterfly 3000 is the first to get a completed accompanying visual album, where 
 *   [If you liked the positive, relaxed atmosphere](../paper-mache-dream-balloon)
 *   [If you want more complex rhythmic interplay between synths and the band](../polygondwanaland)
 
-I’m familiar with the main albums and want to go deeper:
+I’m familiar with the main albums and want to go deeper: 
 
 *   [If you want to hear the remix version](../butterfly-3001)
