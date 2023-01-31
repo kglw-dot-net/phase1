@@ -32,16 +32,20 @@ The album cover was the first by Jason Galea, now considered a member of the gro
 > skateboarding circles and we found his drawing of a royal looking lizard beast-thing stabbing some teddy bear-ish monster. Seemed perfect. He's become part 
 > of the furniture and we've worked with him on everything since. Formative years? I think it was that time of your life where you start using  your brain for 
 > the first time in general. Lizard brain. Who am I? Who was me?  
-> Enjoy! Love Stu   
+> Enjoy! Love Stu    
 
-* Spoken word in Sam Cherry's Last Shot by Broderick Smith and taken from the 1883 novel 33 Years Among Wild Indians  
-
-* Recorded and Mixed in 2012 by Paul Maybury and King Gizzard in Melbourne.  
+* Produced by Stu Mackenzie  
+* Mastered by Joseph Carra  
+* Mixed by Paul Maybury and Stu Mackenzie  
+* Recorded in 2012 by Paul Maybury and King Gizzard in Melbourne.  
 * Except 12 Bar Bruise, Recorded late at night in Anglesea with 4 iPhones around the room and Stu singing straight into one.  
+<br>
 
 * Artwork by Jason Galea  
-* Mastered by Joseph Carra  
 * Photo by Lauren Bamford  
+<br>
+
+* Spoken word in Sam Cherry's Last Shot by Broderick Smith and taken from the 1883 novel 33 Years Among Wild Indians  
 
 # What to listen to next:
 
