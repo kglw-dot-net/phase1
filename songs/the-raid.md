@@ -4,6 +4,8 @@ title: The Raid
 album: Eyes Like The Sky
 ---
 
+(Mackenzie/Smith)
+
 # Lyrics
 
 > They were not after the money, they were not after alcohol.  
