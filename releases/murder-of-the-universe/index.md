@@ -14,7 +14,22 @@ cover: ./cover.jpg
 
 Perhaps the most unique record in the catalogue, Murder Of The Universe is a dark, noisy, unashamed deep dive into the Gizzverse. Progressing through various forms of geeky psychedelic Metal, extensive spoken narration is used in conjunction with vocals. This narration is provided by the ‘Reticent Raconteur’ (folk singer-songwriter and label mate Leah Senior), and ‘Han-Tyumi’ the ‘confused cyborg’ (text to speech software). Between the lyrics and the poetry of the characters, an epic tale is spun in three acts, infamously dubbed ‘post-audiobook’ by music critic Anthony Fantano. It could be equally described as sci-fi metal opera – but the unavoidable fact is that MOTU defies description and must be heard to be comprehended.
 
-What to listen to next:
+# Album Credits
+
+* Music by King Gizzard and the Lizard Wizard
+
+* Lyrics by Stu Mackenzie
+
+* Stories written by Stu Mackenzie,  
+Except Track 21, "The Murder Of The Universe"  by Joey Walker and Stu Mackenzie
+
+* Recorded by Casey Hartnett, Stu Mackenzie, Michael Badger and Joey Walker
+* Produced by Stu Mackenzie
+* Mixed by Michael Badger
+* Mastered by Joe Carra
+* Artwork by Jason Galea
+
+# What to listen to next:
 
 *   [If you want the next Gizzverse album (clean and proggy)](../polygondwanaland)
 *   [If you want another heavy album but less weird](../infest-the-rats-nest)

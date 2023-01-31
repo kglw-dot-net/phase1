@@ -17,7 +17,7 @@ album: Oddments
 
 # Credits
 
-* Michael Cavanah
+* Michael Cavanagh
 * Cook Craig
 * Ambrose Kenny-Smith
 * Stu Mackenzie

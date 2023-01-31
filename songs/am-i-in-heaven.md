@@ -20,16 +20,16 @@ album: I'm In Your Mind Fuzz
 > C'mon suck our mother's breast  
 >  
 > And everybody that I knew has taken bits and pieces out of you  
-> And I swear even the sky has changed it's blue  
+> And I swear even the sky has changed its blue  
 > The lesson rings again repeats within my brain  
-> Let's all put her to the tes  
+> Let's all put her to the test  
 > C'mon suck our mother's breast  
 
 # Credits
 
 * Michael Cavanagh - Drums  
 * Cook Craig - Guitar + Sing  
-* Ambrose Kenny Smith - Harmonica + Sing  
+* Ambrose Kenny-Smith - Harmonica + Sing  
 * Eric Moore - Theremin + Keys + Percussion  
 * Stu Mackenzie - Sing + Guitar  
 * Lucas Skinner - Bass + Sing  

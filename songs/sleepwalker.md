@@ -9,6 +9,7 @@ album: Oddments
 # Lyrics
 
 > Who? He!  
+> Sleepwalker  
 > Well I want to, I want to, I want to  
 > I want to walk in your shoes  
 > Oh No!  
@@ -27,7 +28,7 @@ album: Oddments
 
 # Credits
 
-* Michael Cavanah
+* Michael Cavanagh
 * Cook Craig
 * Ambrose Kenny-Smith
 * Stu Mackenzie

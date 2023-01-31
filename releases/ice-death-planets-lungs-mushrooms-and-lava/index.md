@@ -16,7 +16,17 @@ Ice, Death, Planets, Lungs, Mushrooms, And Lava is the logical conclusion of a K
 
 The most collaboratively composed album to date, the band breeze through various ideas, narrowing down on the best by oscillating between simple poetic lyrics and extended instrumental sections to produce one of their trippiest, and surprisingly most consistent records.
 
-What to listen to next:
+# Album Credits
+
+* Recorded by Stu Mackenzie
+* Mixed by Stu Mackenzie
+* Produced by Stu Mackenzie
+* Mastered by Joe Carra
+* Performed by King Gizz on on Wurrundjeri land
+* Cover art, photography and layout by Jason Galea
+* Special thanks to Nico Wilson
+
+# What to listen to next:
 
 *   [If you like extended jazzy guitar jamming](../quarters)
 *   [If you liked the unusual sound of 'Gliese 710' and want another album in a non-standard mode](../flying-microtonal-banana)

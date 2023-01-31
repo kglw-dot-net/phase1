@@ -6,6 +6,7 @@ album: I'm In Your Mind Fuzz
 
 # Lyrics
 
+> Empty  
 > Life is nothing like it used to be  
 > People used to be so nice to me  
 > Feeling so empty  
@@ -20,7 +21,7 @@ album: I'm In Your Mind Fuzz
 > And feeling so empty  
 > And now I know  
 > It's because I never set it stone  
-> I'm wandering around so lazily  
+> And I'm wandering around so lazily  
 > Feeling so empty  
 >  
 > But I don't feel empty when I'm with you  
@@ -33,7 +34,7 @@ album: I'm In Your Mind Fuzz
 
 * Michael Cavanagh - Drums  
 * Cook Craig - Guitar + Sing  
-* Ambrose Kenny Smith - Harmonica + Sing  
+* Ambrose Kenny-Smith - Harmonica + Sing  
 * Eric Moore - Theremin + Keys + Percussion  
 * Stu Mackenzie - Sing + Guitar  
 * Lucas Skinner - Bass + Sing  

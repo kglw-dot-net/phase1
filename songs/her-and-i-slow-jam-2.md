@@ -7,7 +7,7 @@ album: I'm In Your Mind Fuzz
 # Lyrics
 
 > It wouldn't hurt to give you more of my love  
-> The sun shines through into a wave of thought  
+> The sun shone through into a wave of thought  
 > It said the one I'll wed has got a thinking head on her  
 > Her will will shine from up above on us  
 >  
@@ -15,13 +15,14 @@ album: I'm In Your Mind Fuzz
 > It wouldn't hurt to put in some work on this angel  
 > I'll fill her heart with a lot of love  
 > So the sun can shine a little brighter  
+>  
 > On her and I  
 
 # Credits
 
 * Michael Cavanagh - Drums  
 * Cook Craig - Guitar + Sing  
-* Ambrose Kenny Smith - Harmonica + Sing  
+* Ambrose Kenny-Smith - Harmonica + Sing  
 * Eric Moore - Theremin + Keys + Percussion  
 * Stu Mackenzie - Sing + Guitar  
 * Lucas Skinner - Bass + Sing  
