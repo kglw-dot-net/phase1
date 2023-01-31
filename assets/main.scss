@@ -217,6 +217,7 @@ footer.site-footer {
 }
 
 .post {
+  width: 100%;
   margin-bottom: 2em;
 
   .setlist-meta {
@@ -401,6 +402,10 @@ article.release {
     order: 6;
     flex-basis: 100%;
   }
+}
+
+ul.songlist {
+  columns: 14em;
 }
 
 .corrections {
