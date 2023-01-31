@@ -4,6 +4,8 @@ title: Bloody Ripper
 album: 12 Bar Bruise
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > Push me down I will not crack   
