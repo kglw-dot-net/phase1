@@ -21,6 +21,8 @@ The record is titled for this concept, featuring nine songs that all seamlessly 
 
 # Album Credits
 
+**Nonagon Infinity - ℗ & © 2022 KGLW**
+
 > This album is for the road crew who put up with us in our big black bus while we were writing/playing/recording this album.  
 Joe Santarpia, Sam Fromlr, Roberto Pagano, Jason Galea, Jamie Wdziekonski, Pooneh Ghana, Philippa Gleeson, Tessa Parsons, Jay Bauer -  
 > we love you very, very, much xoxox  
