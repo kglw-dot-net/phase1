@@ -333,9 +333,8 @@ article.release {
       list-style: none;
       display: flex;
       flex-flow: row wrap;
-      justify-content: space-between;
-      justify-items: center;
-      align-items: center;
+      justify-content: space-evenly; // horizontally aligns the <li>s to the <ul> center
+      align-items: center; // vertically aligns each <li> to center of the row's (tallest) <li>
       margin: 0;
     }
     li.date {
@@ -348,7 +347,9 @@ article.release {
       text-decoration: underline;
     }
     a.button {
+      width: 60px;
       display: flex;
+      align-items: center;
       border-radius: 10px;
       box-shadow: -1px -1px 5px #ffffff88 inset;
     }
