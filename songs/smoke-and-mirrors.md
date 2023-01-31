@@ -25,7 +25,7 @@ album: Made In Timeland
 >  
 > Quit the chit-chatter, backstabber  
 > Face up to the matter on a silver platter  
-> Talking and diving, you've been hiding  
+> Ducking and diving, you've been hiding  
 > Undermining our capabilities  
 > This operation is breaking, you're flaking, it's all unfolding at the seams  
 >  
