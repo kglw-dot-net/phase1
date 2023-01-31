@@ -16,7 +16,13 @@ Omnium Gatherum wraps up the last of the pandemic lockdown-era isolation songs w
 
 This blurring is a product of the high volume of live show rehearsals by the band in preparation for their first live performances in two years. The heavily delayed marathon jam shows of March 2020 were originally intended as the ultimate reflection of an already accomplished career, and the fixation on finally fulfilling this goal has seen KGLW re-emerge as a ‘jam band’. The resulting album feels more complementary to the tours that are now enhanced with extended jam versions of fan favourites, guitar solos, and new songs that can serve as live segues between disconnected older material.
 
-What to listen to next:
+# Album Credits
+
+* Artwork, layout and photography by Jason Galea
+* Mastered by Joseph Carra
+* Additional photography by KGLW
+
+# What to listen to next:
 
 *   [If you want the first eclectic concept-less album](../oddments)
 *   [If you want another eclectic concept-less album](../gumboot-soup)

@@ -14,7 +14,27 @@ cover: ./cover.jpg
 
 After four studio albums and two international tours in 2017 alone, one would think KGATLW were done for the year. With one more promised, something had to be done with all the extra material that either didn’t fit on, or was developed separate from the first four of the year. Gumboot Soup is an eclectic mix of songs; some exist ‘between’ albums with the concept of one and the sound of another, others simply too good to rot in the vault waiting for a future project to fit into. Don’t be fooled into thinking of these as B-sides. Gumboot Soup is the high quality culmination of the insane project to release five studio albums in one calendar year, arriving just in time in the last days of December.
 
-What to listen to next:
+# Album Credits
+
+* Tracks 1, 4, 8, 9, 10, 11 recorded by Stu at Flightless HQ  
+* Tracks 2, 7 recorded by Stu at Rada Studios, Perth, with additional recording at Flightless HQ  
+* Tracks 3, 6 recorded by Cooky on his phone with additional recording by Stu at Flightless HQ  
+* Track 5 recorded by Joey in his bedroom  
+* Additional recording on tracks, 2, 4, 5 by Stu at Whammy Bar, Auckland  
+<br>  
+
+* Tracks 1, 7, 8 Mixed by Michael Badger  
+* Tracks 2, 5 mixed by Joey  
+* Tracks 3, 4, 6, 9, 10, 11 mixed by Stu  
+<br>  
+
+* Mastered by Joseph Carra  
+<br>  
+
+* Artwork and layout by Jason Galea  
+* Photography by Jamie Wdziekonski  
+
+# What to listen to next:
 
 *   [If you want an earlier lo-fi eclectic concept-less album](../oddments)
 *   [If you want the newest eclectic concept-less album](../omnium-gatherium) <!-- TODO revisit "newest" 😄  -->
