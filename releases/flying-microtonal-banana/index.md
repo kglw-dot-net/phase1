@@ -12,7 +12,7 @@ cover: ./cover.jpg
 > Mirroring the stars are the atoms  
 > Mixing up like a cocktail
 {:class="lyrics"}
-
+<br>
 Volume 1 of ‘Explorations into Microtonal Tuning’. Named after a custom yellow [Flying V](https://en.wikipedia.org/wiki/Gibson_Flying_V) gifted to [Stu](https://kglw.net/band-bio) by a luthier friend, who made the instrument with a banana shaped head stock and custom fret board including extra frets for microtonal scales based on the [Bağlama](https://en.wikipedia.org/wiki/Ba%C4%9Flama). This Turkish folk instrument was the fourth (and would be the last) chosen in a project to learn a new instrument every year.
 
 Now with a more familiar platform, a half complete Bağlama based folk album was scrapped, and the band customised their own set of instruments to accompany the microtones of the flying microtonal banana. This Anatolian sound shines through another psychedelic [Krautrock](https://en.wikipedia.org/wiki/Krautrock) inspired album that instantly became a fan favourite with its theme of cosmic-horror environmentalism.

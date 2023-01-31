@@ -12,7 +12,7 @@ cover: ./cover.jpg
 > We are our own nature, abuser  
 > No future, computer, abuser
 {:class="lyrics"}
-
+<br>
 Perhaps the most unique record in the catalogue, Murder Of The Universe is a dark, noisy, unashamed deep dive into the Gizzverse. Progressing through various forms of geeky psychedelic Metal, extensive spoken narration is used in conjunction with vocals. This narration is provided by the ‘Reticent Raconteur’ (folk singer-songwriter and label mate Leah Senior), and ‘Han-Tyumi’ the ‘confused cyborg’ (text to speech software). Between the lyrics and the poetry of the characters, an epic tale is spun in three acts, infamously dubbed ‘post-audiobook’ by music critic Anthony Fantano. It could be equally described as sci-fi metal opera – but the unavoidable fact is that MOTU defies description and must be heard to be comprehended.
 
 # Album Credits

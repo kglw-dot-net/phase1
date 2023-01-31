@@ -12,7 +12,7 @@ cover: ./cover.png
 > When all the people die  
 > If not now, then when?
 {:class="lyrics"}
-
+<br>
 Volume 3 of ‘Explorations into Microtonal Tuning’. This is the second of two ‘working from home’ albums developed by sending snippets back and forth online between band members during pandemic lockdown. Slightly more focused in genre than its counterpart, it embraces its Anatolian roots with a more solid brand of Prog-Rock and of course, strains of funk and metal.
 
 # Album Credits

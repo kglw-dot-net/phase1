@@ -12,7 +12,7 @@ cover: ./cover.jpg
 > I know it's recognizable  
 > But it don't make no sense at all, oh
 {:class="lyrics"}
-
+<br>
 This refreshing psych-pop album was recorded almost entirely on acoustic instruments for a quaint, folk-pop effect. The lyrics provide a dark undertone hinting at stories that highly contrast the sound. Showcases the Clarinet as part of a project to learn a new instrument every year.
 
 # Album Credits

@@ -12,7 +12,7 @@ cover: ./cover.jpg
 > Water is your bed  
 > The ripples cushion your head
 {:class="lyrics"}
-
+<br>
 This slow, chill, Jazz-Rock album consists of four jams with a duration of 10 minutes and 10 seconds each. It is best known for fan-favourite track _The River_, that interpolates Dave Brubeck’s standard _Take Five_, establishing a fascination with time signatures that use odd numbers of beats.
 
 # Album Credits

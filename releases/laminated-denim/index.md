@@ -12,7 +12,7 @@ cover: ./cover.jpg
 > The river has been spanned  
 > Behold: the land before Timeland
 {:class="lyrics"}
-
+<br>
 Touted as the spiritual successor to Made In Timeland, Laminated Denim was the first album to be started and completed after pandemic lockdown ended in Melbourne. Their first jams back in the same room together were so enjoyable that they would base this album and the next ([Ice, Death, Planets, Lungs, Mushrooms And Lava](../ice-death-planets-lungs-mushrooms-and-lava)) on the process.
 
 Though being a guitar-based, chill jam as opposed to the deep techno-IDM journey of its predecessor, the two albums share the disengaged compositional design of interlude music, with tick-tock based polyrhythms and two exactly fifteen minute songs each.

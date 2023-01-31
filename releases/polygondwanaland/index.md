@@ -12,7 +12,7 @@ cover: ./cover.jpg
 > We're gonna get there  
 > Polygondwanaland
 {:class="lyrics"}
-
+<br>
 Polygondwanaland is hard to deny as the first opus of the group. Developed for at least three years, this extra care clearly shows in the end product. Clean, meticulous, proggy and mathy, the primary ‘gimmick’ is that the album is composed entirely in a dizzying array of polymeters and polyrythms (simply put, each musical voice plays in a different time signature).
 
 This psychedelic folklore voyage both expands and deepens the Gizzverse in a multi-act structure that uses subtle spoken word narration to explore the vast sands of time.
