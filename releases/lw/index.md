@@ -17,6 +17,8 @@ Volume 3 of ‘Explorations into Microtonal Tuning’. This is the second of two
 
 # Album Credits
 
+**L.W. - ℗ & © 2021 KGLW - Used by permission.**
+
 * Mastered by Joe Carra
 * Artwork by Jason Galea
 * Produced by Stu Mackenzie
