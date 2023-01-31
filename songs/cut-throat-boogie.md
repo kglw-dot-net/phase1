@@ -4,6 +4,8 @@ title: Cut Throat Boogie
 album: 12 Bar Bruise
 ---
 
+(Mackenzie/Kenny-Smith)
+
 # Lyrics
 
 > As a child I felt inclined   
