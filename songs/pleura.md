@@ -4,7 +4,7 @@ title: Pleura
 album: L.W.
 ---
 
-(Walekr/Mackenzie)
+(Walker/Mackenzie)
 
 # Lyrics
 
