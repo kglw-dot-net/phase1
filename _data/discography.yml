@@ -318,6 +318,9 @@ studio:
 
   - title: Made In Timeland
     tracks:
+      - title: Timeland
+      - title: Smoke & Mirrors
+        slug: smoke-and-mirrors
 
   - title: Laminated Denim
     tracks:
