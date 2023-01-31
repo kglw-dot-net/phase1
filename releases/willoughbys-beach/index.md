@@ -11,7 +11,7 @@ The precursor to debut album [12 Bar Bruise](../12-bar-bruise), this EP is an ev
 
 # Album Credits
 
-**Willoughby's Beach - ℗ & © 2022 KGLW**
+**Willoughby's Beach - ℗ & © 2022 KGLW - Used by permission.**
 
 * Recorded and mixed in 2011 by Paul Maybury at A Secret Location, Melbourne  
 
