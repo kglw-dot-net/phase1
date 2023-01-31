@@ -12,7 +12,7 @@ cover: ./cover.jpg
 > And I couldn't see 'cause my eyes weren't in me  
 > Hold me up straight while I screw my head on
 {:class="lyrics"}
-
+<br>
 The first true psychedelic album. A lo-fi throwback in sound to The Beatles’ Indian influenced era, thanks to the extensive use of a Sitar. This instrument was chosen as the first in a project to learn a new instrument every year, also marking the beginning of a discography wide fascination with sounds from ‘the East’.
 
 # Album Credits
