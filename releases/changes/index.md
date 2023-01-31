@@ -21,6 +21,9 @@ This may well justify Changes as their most genuine example of Jazz, with the lu
 Surprisingly, this ‘highly considered’ approach still wound up seeing its conclusion as intended, released as the fifth studio album within a year. Always building momentum, of course something had to be done to out-do 2017’s volume of releases, and so Changes is the fitting end to ‘Gizztober’ as the third album released just within a month, further pushing the boundaries of prolificacy and frequency.
 
 # Album Credits
+
+**Changes - ℗ & © 2022 KGLW - Used by permission.**
+
 King Gizzard & the Lizard Wizard: Mickey Cavanagh, Cookie Craig, Lukey Harwood, Amby Kenny-Smith, Stu Mackenzie, Joey Walker  
 * Recorded between 2017-2022 in various studios, home studios, buses, hotel rooms, green rooms, planes, parking lots etc...  
 * Track 1 Recorded by Nico Wilson and Stu Mackenzie  
