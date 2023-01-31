@@ -15,6 +15,8 @@ This truly unique Spaghetti Western soundtrack uses spoken narration rather than
 
 # Album Credits
 
+**Eyes Like The Sky - ℗ & © 2022 KGLW**
+
 > Some time in July 2012 we played a show in Castlemaine with Brod Smith. He's a crazy-genius-western-nut-ex-rocker and is also Ambrose's father. This was not 
 > long after we had collaborated with him on the recording of Sam Cherry's Last Shot so we performed an off the cuff version of that song to half-a-dozen 
 > confused locals. 
