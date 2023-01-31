@@ -37,14 +37,13 @@ The first opus of Jason Galea, this intricate artwork spreads over the triple ga
 >  
 > Love Stu  
 
-* All songs produced by Stu Mackenzie except Stressin and Work This Time produced by Joe Walker and Stu Mackenzie and ABABCd. produced by Joe Walker
-
+* All songs produced by Stu Mackenzie except Stressin and Work This Time produced by Joey Walker and Stu Mackenzie and ABABCd. produced by Joey Walker
+* Recorded by: Stu Mackenzie, Joey Walker
+* Mixed by: Stu Mackenzie, Joey Walker
 * Mastered by Joe Carra
 
 * Monty Hartnett plays Drums on Crying and Pipe-Dream
-
 * Cover art and layout by Jason Galea
-
 * Thanks to Jarrad Brown for the help recording Sleepwalker
 
 # What to listen to next:
