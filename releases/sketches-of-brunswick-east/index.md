@@ -22,7 +22,7 @@ A collaborative album with Hypnagogic-psych-pop act [Mild High Club](https://www
 
 * Recorded by Stu Mackenzie at Flightless HQ, East Brunswick.
 * Additional overdubbing recorded by Alex Brettin, Joey Walker, Cook Craig, and Lucas Skinner in Melbourne and Los Angeles.
-* Mixed by Stu Mackenzie at Newmarket Studios, North Melbourne except Countdown mixed by Alex Brettin.
+* Mixed by Stu Mackenzie at Newmarket Studios, North Melbourne - Countdown mixed by Alex Brettin.  
 * Mastered by Joseph Carra.
 * Produced by Stu Mackenzie.
 * Album artwork and layout by Jason Galea.
