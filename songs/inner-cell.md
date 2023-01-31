@@ -14,7 +14,7 @@ album: Polygondwanaland
 > Look for me with a beak  
 > A cloak adorned  
 > Scented leaves  
-> A void between foulest stench  
+> A void between fouler stench  
 > Of those above whispering  
 > Inner cell  
 >  
@@ -25,7 +25,7 @@ album: Polygondwanaland
 >  
 > From under the skin  
 > Insurrection  
-> From hollowed logs  
+> From hollow logs  
 > From shallow streams  
 > And drying seas  
 >  
