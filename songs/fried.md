@@ -4,6 +4,8 @@ title: Fried
 album: Teenage Gizzard
 ---
 
+(King Gizzard & The Lizard Wizard)
+
 # Lyrics
 
 > Hey, ey hey  
