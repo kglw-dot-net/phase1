@@ -4,13 +4,7 @@ title: King Gizzard Songs and Lyrics
 
 {% assign tracks = '' | split: '' %}
 {% for album in site.data.discography.studio %}
-  {% unless album.slug %}
-    {% assign album.slug = album.title | slugify %}
-  {% endunless %}
   {% for track in album.tracks %}
-    {% unless track.slug %}
-      {% assign track.slug = track.title | slugify %}
-    {% endunless %}
     {% assign track.album_data = album %}
     {% assign tracks = tracks | push: track %}
   {% endfor %}
@@ -20,6 +14,11 @@ title: King Gizzard Songs and Lyrics
 
 <ul class="songlist">
   {% for track in sorted_tracks %}
-    <li><a href="/songs/{{track.slug}}" title="song info and lyrics for &quot;{{track.title}}&quot;">{{track.title}}</a></li>
+    {% if track.slug %}
+      {% assign slug = track.slug %}
+    {% else %}
+      {% assign slug = track.title | slugify %}
+    {% endif %}
+    <li><a href="/songs/{{slug}}" title="song info and lyrics for &quot;{{track.title}}&quot;">{{track.title}}</a> {{track.album_data.title}}</li>
   {% endfor %}
 </ul>
