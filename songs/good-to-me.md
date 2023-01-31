@@ -4,6 +4,8 @@ title: Good To Me
 album: Teenage Gizzard
 ---
 
+(King Gizzard & The Lizard Wizard)
+
 # Lyrics
 
 > Girl hear what I say  
