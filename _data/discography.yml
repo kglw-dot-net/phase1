@@ -322,16 +322,16 @@ studio:
       - title: Iron Lung
       - title: Gliese 710
 
+  - title: Laminated Denim
+    tracks:
+      - title: The Land Before Timeland
+      - title: Hypertension
+
   - title: Made In Timeland
     tracks:
       - title: Timeland
       - title: Smoke & Mirrors
         slug: smoke-and-mirrors
-
-  - title: Laminated Denim
-    tracks:
-      - title: The Land Before Timeland
-      - title: Hypertension
 
   - title: Changes
     tracks:
