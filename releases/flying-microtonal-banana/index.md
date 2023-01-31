@@ -19,6 +19,8 @@ Now with a more familiar platform, a half complete Bağlama based folk album was
 
 # Album Credits
 
+**Flying Microtonal Banana - ℗ & © 2017 Flightless Records - Used by permission.**
+
 * Recorded by Stu Mackenzie at Flightless HQ between April and September 2016
 * Mixed by Jarvis Taveniere
 * Mastered by Joe Carra

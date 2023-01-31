@@ -1,6 +1,6 @@
 ---
 layout: release
-title: "Fishing for Fishies"
+title: "Fishing For Fishies"
 bandcamp: https://kinggizzard.bandcamp.com/album/fishing-for-fishies
 release_date: 2019-04-26
 discogs: https://www.discogs.com/master/1535227-King-Gizzard-And-The-Lizard-Wizard-Fishing-For-Fishies
@@ -18,6 +18,8 @@ Three different songs contain the word ‘boogie’ in this track list, which pr
 The strong environmental anti-consumerism theme deserves credit for spurring the realisation of hypocrisy in producing so much waste as a by product of the vinyl record industry. Every record since this album is packaged in recycled materials, and usually available on recycled vinyl as well.
 
 # Album Credits
+
+**Fishing For Fishies - ℗ & © 2019 Flightless Records - Used by permission.**
 
 > "This record is for Gaz & Fi. We love ya heaps"  
 

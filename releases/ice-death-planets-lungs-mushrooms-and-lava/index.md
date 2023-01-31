@@ -1,6 +1,6 @@
 ---
 layout: release
-title: "Ice, Death, Planets, Lungs, Mushrooms and Lava"
+title: "Ice, Death, Planets, Lungs, Mushrooms And Lava"
 release_date: 2022-10-07
 bandcamp: https://kinggizzard.bandcamp.com/album/ice-death-planets-lungs-mushrooms-and-lava
 discogs: https://www.discogs.com/master/2815559-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava
@@ -18,6 +18,8 @@ Ice, Death, Planets, Lungs, Mushrooms, And Lava is the logical conclusion of a K
 The most collaboratively composed album to date, the band breeze through various ideas, narrowing down on the best by oscillating between simple poetic lyrics and extended instrumental sections to produce one of their trippiest, and surprisingly most consistent records.
 
 # Album Credits
+
+**Ice, Death, Planets, Lungs, Mushrooms And Lava  - ℗ & © 2022 KGLW - Used by permission.**
 
 * Recorded by Stu Mackenzie
 * Mixed by Stu Mackenzie

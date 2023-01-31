@@ -20,6 +20,7 @@ Distribution necessitated the founding of Flightless Records, the independent la
 The album cover was the first by Jason Galea, now considered a member of the group, who as well as creating most of the other visual work of the band, has designed every cover since.
 
 # Album Credits
+**12 Bar Bruise - ℗ & © 2022 KGLW - Used by permission.**  
 
 > Firstly, thank you so much for buying this record or slipping it on your turntable or listening to my ramblings. It would have been hilarious and 
 > unfathomable to my 21 year old self that anyone beyond our immediate group of friends and a few garage rock nerds would care in the slightest! In fact I don't 

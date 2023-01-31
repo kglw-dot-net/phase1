@@ -21,6 +21,8 @@ Such a special album was deemed to get a special release, so as a gift to the fa
 
 # Album Credits
 
+**Polygondwanaland - ℗ & © 2017 ATO Records - Used by permission.**
+
 * Mixed by Sam Joseph
 * Mastered by Joe Carra
 * Produced by Stu Mackenzie

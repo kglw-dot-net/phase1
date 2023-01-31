@@ -18,15 +18,13 @@ This is the searing culmination after years of fan speculation if KGTLW would ev
 With a Satanic environmental apocalypse narrative – this is the mission that jettisoned the Gizzverse away from a decayed, spent Earth.
 
 # Album Credits
+**Infest the Rats' Nest "XV" - ℗ & © 2019 Flightless Records - Used by permission.**
 
-**XV**
 <br>
 
 * Recorded by Michael Badger and Stu Mackenzie
 * Mixed by Stu Mackenzie
 * Produced by Stu Mackenzie
-<br>
-
 * Mastered by Joseph Carra
 <br>
 

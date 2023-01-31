@@ -15,6 +15,25 @@ Other visual work includes Chunky, a high quality photo book shot by Jamie Wdzie
 
 Lastly, this tour was the genesis of Jason’s meticulously drawn, limited screen printed posters, now highly collectable, these distinct prints give a unique visual flavour for every show and round out the content of a live album like few others.
 
-What to listen to next:
+# Album Credits
+**Chunky Shrapnel - ℗ & © 2020 Flightless Records - Used by permission.**
+
+* Bass – Lucas Harwood
+* Michael Cavanagh - Drums
+* Eric Moore - Drums
+* Cook Craig: Guitar, Keyboards, Synthesizer
+* Joey Walker: Guitar, Vocals
+* Ambrose Kenny-Smith: Harmonica, Keyboards, Synthesizer, Vocals, Percussion
+* Stu Mackenzie: Vocals, Guitar, Keyboards, Synthesizer
+<br>
+
+* Mastered by: Joe Carra
+* Mixed by: Stu Mackenzie
+* Produced by: Stu Mackenzie
+* Photography by: John Angus Stuart
+* Recorded by: Gaspard De Meulemeester, Sam Joseph, Stacey Wilson
+* Artwork: Jason Galea
+
+# What to listen to next:
 
 *   [If you want to hear individual live albums from this tour](../live-in-paris-2019)

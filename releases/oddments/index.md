@@ -19,6 +19,8 @@ The first opus of Jason Galea, this intricate artwork spreads over the triple ga
 
 # Album Credits 
 
+**Oddments - ℗ & © 2022 KGLW - Used by permission.**
+
 > Ahhh... what can I say about this record?  
 >  
 > We used to go the local grocery store and pick up what was labeled as an oddment.   

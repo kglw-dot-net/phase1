@@ -19,6 +19,8 @@ Butterfly 3000 is the first to get a completed accompanying visual album, where 
 
 # Album Credits
 
+**Butterfly 3000 - ℗ & © 2021 KGLW - Used by permission.**
+
 * Recorded by King Gizzard in 2019 and 2020
 * All songs mixed by Stu Mackenzie except Interior People Mixed by Joey Walker  
  and Catching Smoke mixed by Joey Walker and Stu Mackenzie  

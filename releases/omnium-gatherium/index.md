@@ -19,6 +19,8 @@ This blurring is a product of the high volume of live show rehearsals by the ban
 
 # Album Credits
 
+**Omnium Gatherum - ℗ & © 2022 KGLW - Used by permission.**
+
 * Artwork, layout and photography by Jason Galea
 * Mastered by Joseph Carra
 * Additional photography by KGLW
