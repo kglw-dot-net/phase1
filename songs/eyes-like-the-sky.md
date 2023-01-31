@@ -4,6 +4,8 @@ title: Eyes Like The Sky
 album: Eyes Like The Sky
 ---
 
+(Mackenzie/Smith)
+
 # Lyrics
 
 > The bad, white men call him the devil.  
