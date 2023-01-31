@@ -4,6 +4,8 @@ title: The God Mans Goat Lust
 album: Eyes Like The Sky
 ---
 
+(Mackenzie/Smith)
+
 # Lyrics
 
 > Chapter 4:  
