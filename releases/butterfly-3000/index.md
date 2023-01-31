@@ -17,7 +17,7 @@ The most positive, uplifting album and first to be composed entirely in major sc
 
 Butterfly 3000 is the first to get a completed accompanying visual album, where each track has a music video. This was attempted for [Nonagon Infinity](../nonagon-infinity), but the project was abandoned by the band's primary visual collaborator Jason Galea in order to keep up with the flurry of albums proceeding that release. This time a diverse spread of friends and new collaborators were commissioned, producing a remarkable body of visual work and appealing to new demographics.
 
-# Album Credits
+# Album Credits 
 
 **Butterfly 3000 - ℗ & © 2021 KGLW - Used by permission.**
 
