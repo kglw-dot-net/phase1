@@ -17,7 +17,7 @@ This refreshing psych-pop album was recorded almost entirely on acoustic instrum
 
 # Album Credits
 
-**Paper Mâché Dream Balloon - ℗ & © 2015 Flightless Records**
+**Paper Mâché Dream Balloon - ℗ & © 2015 Flightless Records - Used by permission.**
 
 > Thanks to mum, dad, grandy and gramps for having us in the shipping container.  
 > Thanks to Liza and Neve for having us at your house.  
