@@ -28,7 +28,22 @@ studio:
       - title: Uh Oh, I Called Mum
       - title: Sea of Trees
       - title: Footy Footy
- 
+
+  - title: Willoughby's Beach
+    slug: willougbys-beach
+    tracks:
+      - title: Danger $$$
+        slug: danger-money
+      - title: Black Tooth
+      - title: Lunch Meat
+      - title: Crookedile
+      - title: Let It Bleed
+      - title: Dead-Beat
+      - title: Dustbin Fletcher
+      - title: Stoned Mullet
+      - title: Willoughby's Beach
+        slug: willoughbys-beach
+
   - title: Eyes Like The Sky
     tracks:
       - title: Eyes Like The Sky
