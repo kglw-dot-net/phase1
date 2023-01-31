@@ -4,7 +4,7 @@ title: Hot Water
 album: I'm In Your Mind Fuzz
 ---
 
-(Mackenzie)
+(Mackenzie/Walker)
 
 # Lyrics
 
