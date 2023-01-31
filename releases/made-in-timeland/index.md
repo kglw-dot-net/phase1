@@ -21,6 +21,8 @@ MIT is a deep, trance-like exploration into Techno and IDM production, and oddly
 
 # Album Credits
 
+**Made In Timeland - ℗ & © 2022 ATO Records - Used by permission.**
+
 * Produced by Stu Mackenzie
 * Mastering by Joe Carra
 * Photography by Jason Galea
