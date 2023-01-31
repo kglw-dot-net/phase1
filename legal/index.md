@@ -16,4 +16,4 @@ Under the Digital Millennium Copyright Act of 1998 (DMCA) a copyright owner or t
 
 **Infringement/Takedown Notices**
 Want to submit a removal request?
-[Click Here](/dmca)
+[Click Here](/legal/dmca)
