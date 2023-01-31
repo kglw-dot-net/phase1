@@ -19,6 +19,8 @@ Less sonically focused than ‘Explorations into Microtonal Tuning Vol. 1’, a 
 
 # Album Credits
 
+**K.G. - ℗ & © 2020 KGLW - Used by permission.**
+
 * Mastered by Joseph Carra
 * Artwork by Jason Galea
 * Produced by Stu Mackenzie
