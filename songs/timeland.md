@@ -8,7 +8,7 @@ album: Made In Timeland
 
 # Lyrics
 
-> (Instrumental)
+> Timeland  
 
 # Song Credits
 
