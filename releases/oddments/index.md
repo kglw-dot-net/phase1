@@ -19,7 +19,7 @@ The first opus of Jason Galea, this intricate artwork spreads over the triple ga
 
 # Album Credits 
 
-**Oddments - ℗ & © 2022 KGLW**
+**Oddments - ℗ & © 2022 KGLW - Used by permission.**
 
 > Ahhh... what can I say about this record?  
 >  
