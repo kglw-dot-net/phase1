@@ -12,15 +12,15 @@ During the recording of [Fishing For Fishies](../fishing-for-fishies), at inspir
 **Satanic Slumber Party - ℗ & © 2022 Joyful Noise Recordings & Tropical Fuck Storm - Used by permission.**
 
 Performed by:  
-* Ambrose Kenny-Smith, 
-* Cook Craig, 
-* Eric Moore, 
-* Erica Dunn, 
-* Fiona Kitschin,  
-* Joey Walker, 
-* Lauren Hammel, 
-* Michael Cavanagh, 
-* Stu Mackenzie, 
+* Ambrose Kenny-Smith
+* Cook Craig  
+* Eric Moore  
+* Erica Dunn  
+* Fiona Kitschin  
+* Joey Walker  
+* Lauren Hammel  
+* Michael Cavanagh  
+* Stu Mackenzie  
 * Gareth Liddiard  
 <br>
 
