@@ -4,6 +4,8 @@ title: Eddie Cousin
 album: Teenage Gizzard
 ---
 
+(King Gizzard & The Lizard Wizard)
+
 # Lyrics
 
 > I say, oh I say  
