@@ -42,7 +42,7 @@ album: Polygondwanaland
 > I will draw and quarter  
 > All their children  
 > Just to prove I'm not a coward  
-> I will put them all on the Judas Cradle  
+> I will put them all on Judas Cradle  
 > Just to show them a god incarnate  
 >  
 > Where's the loyalty?  
