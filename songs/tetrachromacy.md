@@ -26,12 +26,12 @@ album: Polygondwanaland
 > And in subarctic caribou eyes  
 > The metal wires burst into life  
 >  
-> They flicker across the territory  
-> Resplendent mackerel sky  
+> They flick across the territory  
+> Resplendent like the sky  
 > Some of the snow absorbs UV  
-> Unseeable crumbs in dye  
+> Unseeable crumbs and dye  
 >  
-> Picking up clues 'bout my eyes, I  
+> Picking up clues by my mind's eye  
 > Scrutinize the iris of the storm's eye  
 > My three shades are divisible  
 > Lust to see the invisible  
