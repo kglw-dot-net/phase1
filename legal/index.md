@@ -7,9 +7,8 @@ This website (KGLW.net) is wholly managed and operated separately from the band 
 Go to the band's official sites: [kinggizzardandthelizardwizard.com], and [gizzverse.com] for more information about tours, ticketing, band merchandise and other concerns.
 
 
-## Lyrics
+<!-- ## Lyrics -->
 
-TBD — permission from the band/publisher
 
 
 ### KGLW.net DMCA Policy
