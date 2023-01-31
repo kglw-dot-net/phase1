@@ -2,6 +2,7 @@
 layout: release
 title: "Ice, Death, Planets, Lungs, Mushrooms and Lava"
 release_date: 2022-10-07
+bandcamp: https://kinggizzard.bandcamp.com/album/ice-death-planets-lungs-mushrooms-and-lava
 discogs: https://www.discogs.com/master/2815559-King-Gizzard-And-The-Lizard-Wizard-Ice-Death-Planets-Lungs-Mushrooms-And-Lava
 cover: ./cover.jpg
 ---

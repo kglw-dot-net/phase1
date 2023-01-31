@@ -15,19 +15,31 @@ layout: default
   <div class="release-meta">
     <p hidden itemprop="byArtist copyrightHolder">King Gizzard and the Lizard Wizard</p>
     <ul>
+
       <li class="date">Released
         <time class="dt-published" datetime="{{ page.release_date | date: "%Y-%b-%0d" }}" itemprop="datePublished">
           {{ page.release_date | date: date_format }}
         </time>
       </li>
-      <!-- <li><a href="#credits">Credits</a></li> -->
+
+      <li><a href="#album-credits">Credits</a></li>
+
+      {%- if page.bandcamp -%}
+        <li class="bandcamp">
+          <a class="button" href="{{page.bandcamp}}" target="_blank" title="buy the &quot;{{page.title}}&quot; album from the band!">
+            <img src="{{'/assets/bandcamp-logotype.svg' | relative_url}}" alt="Bandcamp icon" />
+          </a>
+        </li>
+      {%- endif -%}
+
       {%- if page.discogs -%}
         <li class="discogs">
-          <a href="{{page.discogs}}" target="_blank" title="check out this release on Discogs.com">
+          <a class="button" href="{{page.discogs}}" target="_blank" title="check out this release on Discogs.com">
             <img src="https://i.imgur.com/suDWFsf.gif" alt="Discogs.com icon" />
           </a>
         </li>
       {%- endif -%}
+
     </ul>
   </div>
 

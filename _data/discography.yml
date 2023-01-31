@@ -1,4 +1,18 @@
 studio:
+  - title: Teenage Gizzard
+    tracks:
+      - title: Hey There
+      - title: Ants & Bats
+        slug: ants-and-bats
+      - title: Sleep
+      - title: Summer!
+      - title: Eddie Cousin
+      - title: Fried
+      - title: Good To Me
+      - title: Tomb/Beach
+      - title: Trench Foot
+      - title: Life Is Cool
+
   - title: 12 Bar Bruise
     tracks:
       - title: Elbow
@@ -27,17 +41,19 @@ studio:
       - title: The Killing Ground
       - title: Dust In The Wind
       - title: Guns & Horses
+        slug: guns-and-horses
 
   - title: Float Along — Fill Your Lungs
     tracks:
       - title: Head On/Pill
       - title: I'm Not A Man Unless I Have A Woman
+        slug: im-not-a-man-unless-i-have-a-woman
       - title: God Is Calling Me Back Home
       - title: 30 Past 7
       - title: Let Me Mend The Past
       - title: Mystery Jack
       - title: Pop In My Step
-      - title: Float Along
+      - title: Float Along — Fill Your Lungs
 
   - title: Oddments
     tracks:
@@ -45,6 +61,7 @@ studio:
       - title: Stressin
       - title: Vegemite
       - title: It's Got Old
+        slug: its-got-old
       - title: Work This Time
       - title: ABABCD
       - title: Sleepwalker
@@ -58,12 +75,15 @@ studio:
     slug: im-in-your-mind-fuzz
     tracks:
       - title: I'm In Your Mind
+        slug: im-in-your-mind
       - title: I'm Not In Your Mind
+        slug: im-not-in-your-mind
       - title: Cellophane
       - title: I'm In Your Mind Fuzz
+        slug: im-in-your-mind-fuzz
       - title: Empty
       - title: Hot Water
-      - title: Am I In Heaven
+      - title: Am I In Heaven?
       - title: Slow Jam 1
       - title: Satan Speeds Up
       - title: Her And I (Slow Jam 2)
@@ -80,15 +100,20 @@ studio:
       - title: Sense
       - title: Bone
       - title: Dirt
-      - title: Paper Mache Dream Balloon
+      - title: Paper Mâché Dream Balloon
+        slug: paper-mache-dream-balloon
       - title: Trapdoor
       - title: Cold Cadaver
       - title: The Bitter Boogie
       - title: N.G.R.I. (Bloodstain)
+        slug: ngri-bloodstain
       - title: Time=Fate
+        slug: time-equals-fate
       - title: Time=$$$
+        slug: time-equals-money
       - title: Most Of What I Like
-      - title: Paper Mache
+      - title: Paper Mâché
+        slug: paper-mache
 
   - title: Nonagon Infinity
     tracks:
@@ -170,6 +195,7 @@ studio:
   - title: Gumboot Soup
     tracks:
       - title: Beginner's Luck
+        slug: beginners-luck
       - title: Greenhouse Heat Death 
       - title: Barefoot Desert
       - title: Muddy Water
@@ -179,6 +205,7 @@ studio:
       - title: The Last Oasis
       - title: All Is Known
       - title: I'm Sleepin' In
+        slug: im-sleepin-in
       - title: The Wheel
 
   - title: Fishing for Fishies
@@ -189,6 +216,7 @@ studio:
       - title: Plastic Boogie
       - title: The Cruel Millennial
       - title: Real's Not Real
+        slug: reals-not-real
       - title: This Thing
       - title: Acarine
       - title: Cyboogie
@@ -269,6 +297,7 @@ studio:
       - title: Magma
       - title: Lava
       - title: Hell's Itch
+        slug: hells-itch
       - title: Iron Lung
       - title: Gliese 710
 

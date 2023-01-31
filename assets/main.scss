@@ -332,22 +332,33 @@ article.release {
     ul {
       list-style: none;
       display: flex;
-      justify-content: space-evenly;
+      justify-content: space-between;
+      align-items: center;
       margin: 0;
     }
-    li {
-      margin: 0 0.5em;
+    li.date {
+      flex-basis: 175px;
     }
-    .discogs {
-      a {
-        background: $gizz-magenta;
-        color: black;
-        padding: 0.3em;
-      }
-      img {
-        height: 1em;
-      }
-    } 
+    a:not(.button) {
+      text-decoration: underline;
+    }
+    a.button {
+      display: flex;
+      border-radius: 10px;
+      box-shadow: -1px -1px 5px #ffffff88 inset;
+    }
+    .bandcamp a {
+      padding: 0 5px;
+      height: 50px;
+      background: $gizz-yellow;
+      color: black;
+    }
+    .discogs a {
+      padding: 5px 10px;
+      height: 20px;
+      background: $gizz-magenta;
+      color: black;
+    }
   }
 
   img[itemprop="thumbnailUrl"] {
