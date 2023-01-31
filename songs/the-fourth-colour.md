@@ -19,7 +19,7 @@ album: Polygondwanaland
 > I see the light  
 > It's in my face  
 > My brain is storing information  
-> Now I am a god in a photon  
+> Now I'm a god in a photon  
 > I see through walls  
 > I see your heat  
 > I can see your terror  
