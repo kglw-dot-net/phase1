@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Demos Vol. 2 – Music To Eat Bananas To"
+bandcamp: https://kinggizzard.bandcamp.com/album/demos-vol-1-vol-2
 release_date: 2020-09-29
 discogs: https://www.discogs.com/master/2075629-King-Gizzard-The-Lizard-Wizard-Demos-Vol-2-Music-To-Eat-Bananas-To
 cover: ./cover.jpg

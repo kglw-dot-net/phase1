@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Flying Microtonal Banana"
+bandcamp: https://kinggizzard.bandcamp.com/album/flying-microtonal-banana
 release_date: 2017-02-24
 discogs: https://www.discogs.com/master/1136944-King-Gizzard-And-The-Lizard-Wizard-Flying-Microtonal-Banana-Explorations-Into-Microtonal-Tuning-Volu
 cover: ./cover.jpg

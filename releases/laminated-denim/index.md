@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Laminated Denim"
+bandcamp: https://kinggizzard.bandcamp.com/album/laminated-denim
 release_date: 2022-10-12
 discogs: https://www.discogs.com/master/2821265-King-Gizzard-And-The-Lizard-Wizard-Laminated-Denim
 cover: ./cover.jpg

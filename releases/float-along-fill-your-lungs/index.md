@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Float Along — Fill Your Lungs"
+bandcamp: https://kinggizzard.bandcamp.com/album/float-along-fill-your-lungs
 release_date: 2013-09-27
 discogs: https://www.discogs.com/master/901365-King-Gizzard-And-The-Lizard-Wizard-Float-Along-Fill-Your-Lungs-Oddments
 cover: ./cover.jpg
@@ -14,7 +15,7 @@ cover: ./cover.jpg
 
 The first true psychedelic album. A lo-fi throwback in sound to The Beatles’ Indian influenced era, thanks to the extensive use of a Sitar. This instrument was chosen as the first in a project to learn a new instrument every year, also marking the beginning of a discography wide fascination with sounds from ‘the East’.
 
-# Credits
+# Album Credits
 
 > This the record where we started to play together for the first time. Like that kind of in the pocket intuitive feeling you can have while playing with certain
 > people. We were playing a lot of shows and had started jamming and improvising a lot live. 

@@ -332,12 +332,17 @@ article.release {
     ul {
       list-style: none;
       display: flex;
+      flex-flow: row wrap;
       justify-content: space-between;
+      justify-items: center;
       align-items: center;
       margin: 0;
     }
     li.date {
-      flex-basis: 175px;
+      min-width: 11em;
+    }
+    li.credits {
+      min-width: 5em;
     }
     a:not(.button) {
       text-decoration: underline;

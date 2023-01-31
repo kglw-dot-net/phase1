@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Live In Paris ’19"
+bandcamp: https://kinggizzard.bandcamp.com/album/live-in-paris-19
 release_date: 2020-01-10
 discogs: https://www.discogs.com/master/2013943-King-Gizzard-The-Lizard-Wizard-Live-In-Paris-19
 cover: ./cover.jpg

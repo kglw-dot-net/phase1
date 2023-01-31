@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Live At Bonnaroo ’22"
+bandcamp: https://kinggizzard.bandcamp.com/album/live-at-bonnaroo-22
 release_date: 2022-08-12
 discogs: https://www.discogs.com/master/2791457-King-Gizzard-And-The-Lizard-Wizard-Live-At-Bonnaroo-22
 cover: ./cover.jpg

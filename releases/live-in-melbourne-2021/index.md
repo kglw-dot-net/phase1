@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Live In Melbourne ’21"
+bandcamp: https://kinggizzard.bandcamp.com/album/live-in-melbourne-21
 release_date: 2021-03-19
 discogs: https://www.discogs.com/master/2037586-King-Gizzard-And-The-Lizard-Wizard-Live-In-Melbourne-21
 cover: ./cover.jpg

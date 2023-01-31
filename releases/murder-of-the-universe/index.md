@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Murder of the Universe"
+bandcamp: https://kinggizzard.bandcamp.com/album/murder-of-the-universe
 release_date: 2017-06-23
 discogs: https://www.discogs.com/master/1196366-King-Gizzard-And-The-Lizard-Wizard-Murder-Of-The-Universe
 cover: ./cover.jpg

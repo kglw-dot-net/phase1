@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Demos Vol. 1 – Music To Kill Bad People To"
+bandcamp: https://kinggizzard.bandcamp.com/album/demos-vol-1-vol-2
 release_date: 2020-09-29
 discogs: https://www.discogs.com/master/1981171-King-Gizzard-The-Lizard-Wizard-Demos-Vol-1-Vol-2
 cover: ./cover.jpg

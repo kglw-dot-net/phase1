@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Oddments"
+bandcamp: https://kinggizzard.bandcamp.com/album/oddments
 release_date: 2014-03-07
 discogs: https://www.discogs.com/master/840091-King-Gizzard-The-Lizard-Wizard-Oddments
 cover: ./cover.jpg
@@ -16,7 +17,7 @@ Oddments is a loose collection of lo-fi psych songs that were created outside of
 
 The first opus of Jason Galea, this intricate artwork spreads over the triple gatefold of the first vinyl issue with its own little world of idiosyncratic characters.
 
-# Credits 
+# Album Credits 
 
 > Ahhh... what can I say about this record?  
 >  

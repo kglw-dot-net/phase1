@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "I'm In Your Mind Fuzz"
+bandcamp: https://kinggizzard.bandcamp.com/album/im-in-your-mind-fuzz
 release_date: 2014-10-31
 discogs: https://www.discogs.com/master/761067-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz
 cover: ./cover.jpg
@@ -16,11 +17,11 @@ With a clean Krautrock inspired foundation, King Gizzard make their first big ev
 
 Traditionally recommended as the best starting point of the discography, it implements several ideas that would eventually coalesce into what is now known as the ‘[Gizzverse](https://kglw.net/blog/gizzverse/2023/01/02/compendium-vol-00.html)’. These include visual elements of the album artwork and music videos, and seamless track medleys that link songwriting elements. Both aspects lay significant groundwork for imagery and concepts that are built upon in later albums.
 
-# Credits
+# Album Credits
 
 > This album is dedicated to all of the people that help make things happen -  
 >   
-> Maybs, Badger, Wayne and the crew at Daptone, Michelle, Sloanie, Harvey, Steve, Lorrae,Linda and all of our families and girlfriends.  
+> Maybs, Badger, Wayne and the crew at Daptone, Michelle, Sloanie, Harvey, Steve, Lorrae, Linda and all of our families and girlfriends.  
 >   
 > We love the lot of ya!  
 

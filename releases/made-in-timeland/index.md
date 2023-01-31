@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Made In Timeland"
+bandcamp: https://kinggizzard.bandcamp.com/album/made-in-timeland
 release_date: 2022-03-05
 discogs: https://www.discogs.com/master/2517286-King-Gizzard-And-The-Lizard-Wizard-Made-In-Timeland
 cover: ./cover.jpg

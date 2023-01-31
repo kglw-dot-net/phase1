@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Butterfly 3001"
+bandcamp: https://kinggizzard.bandcamp.com/album/butterfly-3001
 release_date: 2022-01-21
 discogs: https://www.discogs.com/master/2473996-King-Gizzard-And-The-Lizard-Wizard-Butterfly-3001
 cover: ./cover.jpg
@@ -12,4 +13,4 @@ The result is more DJ friendly and perhaps not intended to be listened to all in
 
 What to listen to next:
 
-*   [If you want more electronic KGATLW material](../made-in-timeland)
+*   [If you want more electronic KGLW material](../made-in-timeland)

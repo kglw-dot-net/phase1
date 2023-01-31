@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Infest the Rats' Nest"
+bandcamp: https://kinggizzard.bandcamp.com/album/infest-the-rats-nest-2
 release_date: 2019-08-16
 discogs: https://www.discogs.com/master/1590025-King-Gizzard-And-The-Lizard-Wizard-Infest-The-Rats-Nest
 cover: ./cover.png
@@ -12,7 +13,7 @@ cover: ./cover.png
 > Bury children
 {:class="lyrics"}
 
-This is the searing culmination after years of fan speculation if KGATLW would ever produce a pure-blooded Metal album. Thrash was the perfect experiment for each member to push their technical abilities further, with some familiar undertones of nerdy Stoner-Metal and classic Hard-Rock.
+This is the searing culmination after years of fan speculation if KGTLW would ever produce a pure-blooded Metal album. Thrash was the perfect experiment for each member to push their technical abilities further, with some familiar undertones of nerdy Stoner-Metal and classic Hard-Rock.
 
 With a Satanic environmental apocalypse narrative – this is the mission that jettisoned the Gizzverse away from a decayed, spent Earth.
 

@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Live In Asheville ’19"
+bandcamp: https://kinggizzard.bandcamp.com/album/live-in-asheville-19
 release_date: 2020-10-01
 discogs: https://www.discogs.com/master/1981168-King-Gizzard-The-Lizard-Wizard-Live-In-Asheville-19
 cover: ./cover.jpg

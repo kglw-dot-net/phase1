@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Demos Vol. 3 – Music To Eat Pond Scum To"
+bandcamp: https://kinggizzard.bandcamp.com/album/demos-vol-3-vol-4
 release_date: 2022-07-15
 discogs: https://www.discogs.com/master/2824130-King-Gizzard-And-The-Lizard-Wizard-Demos-Vol-3-Vol-4
 cover: ./cover.jpg

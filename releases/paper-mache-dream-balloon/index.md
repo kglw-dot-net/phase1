@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Paper Mâché Dream Balloon"
+bandcamp: https://kinggizzard.bandcamp.com/album/paper-m-ch-dream-balloon
 release_date: 2015-11-13
 discogs: https://www.discogs.com/master/912352-King-Gizzard-And-The-Lizard-Wizard-Paper-M%C3%A2ch%C3%A9-Dream-Balloon
 cover: ./cover.jpg
@@ -14,7 +15,7 @@ cover: ./cover.jpg
 
 This refreshing psych-pop album was recorded almost entirely on acoustic instruments for a quaint, folk-pop effect. The lyrics provide a dark undertone hinting at stories that highly contrast the sound. Showcases the Clarinet as part of a project to learn a new instrument every year.
 
-# Credits
+# Album Credits
 
 > Thanks to mum, dad, grandy and gramps for having us in the shipping container.  
 > Thanks to Liza and Neve for having us at your house.  

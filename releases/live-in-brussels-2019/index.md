@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Live In Brussels ’19"
+bandcamp: https://kinggizzard.bandcamp.com/album/live-in-brussels-19
 release_date: 2020-01-15
 discogs: https://www.discogs.com/master/1897413-King-Gizzard-The-Lizard-Wizard-Live-In-Brussels-19
 cover: ./cover.jpg

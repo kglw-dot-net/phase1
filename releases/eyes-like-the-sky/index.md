@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Eyes Like The Sky"
+bandcamp: https://kinggizzard.bandcamp.com/album/eyes-like-the-sky
 release_date: 2013-02-22
 discogs: https://www.discogs.com/master/553357-King-Gizzard-And-The-Lizard-Wizard-Eyes-Like-The-Sky
 cover: ./cover.jpg
@@ -12,7 +13,7 @@ cover: ./cover.jpg
 
 This truly unique Spaghetti Western soundtrack uses spoken narration rather than sung lyrics. It is a collaboration with Broderick Smith who wrote and narrated the story, and is the father of band member Ambrose.
 
-# Credits
+# Album Credits
 
 > Some time in July 2012 we played a show in Castlemaine with Brod Smith. He's a crazy-genius-western-nut-ex-rocker and is also Ambrose's father. This was not 
 > long after we had collaborated with him on the recording of Sam Cherry's Last Shot so we performed an off the cuff version of that song to half-a-dozen 

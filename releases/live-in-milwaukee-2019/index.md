@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Live In Milwaukee ’19"
+bandcamp: https://kinggizzard.bandcamp.com/album/live-in-milwaukee-19
 release_date: 2021-10-01
 discogs: https://www.discogs.com/master/2397547-King-Gizzard-And-The-Lizard-Wizard-Live-In-Milwaukee-19
 cover: ./cover.png

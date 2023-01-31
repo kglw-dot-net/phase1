@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Live In Brisbane ’21"
+bandcamp: https://kinggizzard.bandcamp.com/album/live-in-brisbane-21
 release_date: 2022-01-27
 discogs: https://www.discogs.com/master/2494771-King-Gizzard-And-The-Lizard-Wizard-Live-In-Brisbane-21
 cover: ./cover.png

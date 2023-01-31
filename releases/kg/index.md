@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "K.G."
+bandcamp: https://kinggizzard.bandcamp.com/album/k-g
 release_date: 2020-11-20
 discogs: https://www.discogs.com/master/1850181-King-Gizzard-And-The-Lizard-Wizard-KG-Explorations-Into-Microtonal-Tuning-Volume-2
 cover: ./cover.jpg
@@ -29,4 +30,4 @@ Less sonically focused than ‘Explorations into Microtonal Tuning Vol. 1’, a 
 *   [If you want another eclectic mix of genres with some microtonal songs](../gumboot-soup)
 *   [If you like the folk vibes of 'Honey'](../paper-mache-dream-balloon)
 *   [If you like the Metal sound of 'The Hungry Wolf Of Fate'](../infest-the-rats-nest)
-*   [If you want more vocal rapping like on 'Oddlife'](../omnium-gatherium)
+*   [If you want more vocal rapping like on 'Oddlife'](../omnium-gatherum)

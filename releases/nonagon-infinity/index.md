@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Nonagon Infinity"
+bandcamp: https://kinggizzard.bandcamp.com/album/nonagon-infinity-2
 release_date: 2016-04-29
 discogs: https://www.discogs.com/master/992310-King-Gizzard-And-The-Lizard-Wizard-Nonagon-Infinity
 cover: ./cover.png

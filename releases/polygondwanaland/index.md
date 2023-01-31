@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Polygondwanaland"
+bandcamp: https://kinggizzard.bandcamp.com/album/polygondwanaland
 release_date: 2017-11-17
 discogs: https://www.discogs.com/master/1268453-King-Gizzard-And-The-Lizard-Wizard-Polygondwanaland
 cover: ./cover.jpg

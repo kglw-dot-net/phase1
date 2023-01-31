@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "12 Bar Bruise"
+bandcamp: https://kinggizzard.bandcamp.com/album/12-bar-bruise
 discogs: https://www.discogs.com/master/474693-King-Gizzard-And-The-Lizard-Wizard-12-Bar-Bruise
 release_date: 2012-09-07
 cover: ./cover.jpg
@@ -18,7 +19,7 @@ Distribution necessitated the founding of Flightless Records, the independent la
 
 The album cover was the first by Jason Galea, now considered a member of the group, who as well as creating most of the other visual work of the band, has designed every cover since.
 
-# Credits
+# Album Credits
 
 > Firstly, thank you so much for buying this record or slipping it on your turntable or listening to my ramblings. It would have been hilarious and 
 > unfathomable to my 21 year old self that anyone beyond our immediate group of friends and a few garage rock nerds would care in the slightest! In fact I don't 

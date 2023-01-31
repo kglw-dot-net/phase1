@@ -1,12 +1,13 @@
 ---
 layout: release
 title: "Live In London ’19"
+bandcamp: https://kinggizzard.bandcamp.com/album/live-in-london-19
 release_date: 2020-12-24
 discogs: https://www.discogs.com/master/1891959-King-Gizzard-And-The-Lizard-Wizard-Live-In-London-19
 cover: ./cover.jpg
 ---
 
-Recorded live at [Alexandra Palace, London, England, October 5th 2019](/setlists/2019/10/05/alexandra-palace-london-england.html). The 10,000 capacity venue hosted KGATLW’s biggest ever live show at the time. The band were promoting [Infest The Rats Nest](../infest-the-rats-nest), and recording material for [Chunky Shrapnel](../chunky-shrapnel) through this tour, the set-list for this landmark show is full of heavy staples and concludes with a shortened 10 minute version of Float Along — Fill Your Lungs ([Float Along — Fill Your Lungs](../float-along-fill-your-lungs)). Compared with the other 2019 live albums it has notably higher audio quality with well mixed crowd sounds.
+Recorded live at [Alexandra Palace, London, England, October 5th 2019](/setlists/2019/10/05/alexandra-palace-london-england.html). The 10,000 capacity venue hosted KGLW’s biggest ever live show at the time. The band were promoting [Infest The Rats Nest](../infest-the-rats-nest), and recording material for [Chunky Shrapnel](../chunky-shrapnel) through this tour, the set-list for this landmark show is full of heavy staples and concludes with a shortened 10 minute version of Float Along — Fill Your Lungs ([Float Along — Fill Your Lungs](../float-along-fill-your-lungs)). Compared with the other 2019 live albums it has notably higher audio quality with well mixed crowd sounds.
 
 What to listen to next:
 

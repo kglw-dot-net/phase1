@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Live in San Francisco ’16"
+bandcamp: https://kinggizzard.bandcamp.com/album/live-in-san-francisco-16
 release_date: 2020-11-20
 discogs: https://www.discogs.com/master/1841534-King-Gizzard-And-The-Lizard-Wizard-Live-In-San-Francisco-16
 cover: ./cover.jpg

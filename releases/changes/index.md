@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Changes"
+bandcamp: https://kinggizzard.bandcamp.com/album/changes
 release_date: 2022-10-28
 discogs: https://www.discogs.com/master/2841403-King-Gizzard-And-The-Lizard-Wizard-Changes
 cover: ./cover.jpg

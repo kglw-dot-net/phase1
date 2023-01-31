@@ -1,6 +1,7 @@
 ---
 layout: release
 title: "Butterfly 3000"
+bandcamp: https://kinggizzard.bandcamp.com/album/butterfly-3000
 release_date: 2021-06-11
 discogs: https://www.discogs.com/master/2167084-King-Gizzard-And-The-Lizard-Wizard-Butterfly-3000
 cover: ./cover.jpg
