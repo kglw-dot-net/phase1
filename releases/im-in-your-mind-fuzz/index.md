@@ -1,6 +1,6 @@
 ---
 layout: release
-title: "I’m In Your Mind Fuzz"
+title: "I'm In Your Mind Fuzz"
 release_date: 2014-10-31
 discogs: https://www.discogs.com/master/761067-King-Gizzard-The-Lizard-Wizard-Im-In-Your-Mind-Fuzz
 cover: ./cover.jpg

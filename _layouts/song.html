@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<article class="song post h-entry" itemscope itemtype="http://schema.org/...">
+<article class="song post h-entry" itemscope itemtype="http://schema.org/MusicRecording">
 
   <header class="post-header">
 
-    <p itemprop="performer" hidden>King Gizzard and the Lizard Wizard</p>
+    <p itemprop="byArtist performer" hidden>King Gizzard and the Lizard Wizard</p>
     
     <h1 class="post-title p-name" itemprop="name">{{page.title}}</h1>
 
-    <p>on the album <a href="/releases/{{page.album | slugify}}" title="{{page.album}}">{{page.album}}</a></p>
+    <p>on the album <a href="/releases/{{page.album | slugify}}" title="{{page.album}}" itemprop="inAlbum">{{page.album}}</a></p>
 
   </header>
 
@@ -24,7 +24,7 @@ layout: default
     {%- if page.modified_date -%}
       Updated:
       {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-      <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+      <time class="dt-modified" datetime="{{ mdate }}" itemprop="sdDatePublished">
         {{ mdate | date: date_format }}
       </time>
     {%- endif -%}

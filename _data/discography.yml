@@ -54,7 +54,8 @@ studio:
       - title: Homeless Man In Adidas
       - title: Oddments
 
-  - title: I’m in Your Mind Fuzz
+  - title: I'm In Your Mind Fuzz
+    slug: im-in-your-mind-fuzz
     tracks:
       - title: I'm In Your Mind
       - title: I'm Not In Your Mind
@@ -273,8 +274,6 @@ studio:
 
   - title: Made In Timeland
     tracks:
-      - title: Timeland
-      - title: Smoke & Mirrors
 
   - title: Laminated Denim
     tracks:
