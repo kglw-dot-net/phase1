@@ -12,7 +12,7 @@ cover: ./cover.png
 > Low on meals, browning fields  
 > Bury children
 {:class="lyrics"}
-
+<br>
 This is the searing culmination after years of fan speculation if KGTLW would ever produce a pure-blooded Metal album. Thrash was the perfect experiment for each member to push their technical abilities further, with some familiar undertones of nerdy Stoner-Metal and classic Hard-Rock.
 
 With a Satanic environmental apocalypse narrative – this is the mission that jettisoned the Gizzverse away from a decayed, spent Earth.
