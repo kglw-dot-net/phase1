@@ -28,18 +28,20 @@ Traditionally recommended as the best starting point of the discography, it impl
 >   
 > We love the lot of ya!  
 
-* All songs written by Stu Mackenzie except Hot Water by Joey Walker/Stu Mackenzie.
-* Produced by Stu Mackenzie
-* Mastered by Joe Carra
-* Art by Jason Galea
+* All songs written by Stu Mackenzie except Hot Water by Joey Walker/Stu Mackenzie.  
+* Produced by Stu Mackenzie  
+* Mastered by Joe Carra  
+* Art by Jason Galea  
+<br>
 
-* Tracks 1,3,4,6,7 recorded by Wayne Gordon at Daptone, Brooklyn
-* Tracks 2,5,8,9,10 recorded by Paul Maybury at a secret location, Melbourne 
-* Additional recording by Stu Mackenzie at Hunter Mountain, New York
+* Tracks 1,3,4,6,7 recorded by Wayne Gordon at Daptone, Brooklyn  
+* Tracks 2,5,8,9,10 recorded by Paul Maybury at a secret location, Melbourne  
+* Additional recording by Stu Mackenzie at Hunter Mountain, New York  
+<br>
 
-* Tracks 1,3,4,7 mixed by Michael Badger at Jaya Jaya music with additional mixing by Stu Mackenzie.
-* Tracks 2,8,10 mixed by Paul Maybury and Stu Mackenzie at a secret location
-* Tracks 5,6,9 mixed by Stu Mackenzie on a laptop in the tour van
+* Tracks 1,3,4,7 mixed by Michael Badger at Jaya Jaya music with additional mixing by Stu Mackenzie.  
+* Tracks 2,8,10 mixed by Paul Maybury and Stu Mackenzie at a secret location  
+* Tracks 5,6,9 mixed by Stu Mackenzie on a laptop in the tour van  
 
 # What to listen to next:
 
