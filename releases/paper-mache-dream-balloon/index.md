@@ -28,6 +28,8 @@ This refreshing psych-pop album was recorded almost entirely on acoustic instrum
 > Thanks to Alex for the continual lend of the guitar.  
 > And thanks Philippa for well, everything! Love Stu  
 
+* Produced by Stu Mackenzie
+* Recorded by Stu Mackenzie, Lucas Skinner, Joe Walker, Jacob Portrait
 * Mixed by Mikey Young
 * Mastered by Joe Carra
 * Artwork & Photography by Jason Galea
