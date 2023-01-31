@@ -23,7 +23,9 @@ MIT is a deep, trance-like exploration into Techno and IDM production, and oddly
 
 **Made In Timeland - ℗ & © 2022 ATO Records - Used by permission.**
 
+* Recorded by King Gizz in Bangkok, Shanghai and Melbourne in 2019 and 2020
 * Produced by Stu Mackenzie
+* Mixed by Stu Mackenzie and Joey Walker
 * Mastering by Joe Carra
 * Photography by Jason Galea
 * Cover design and artwork by Jason Galea
