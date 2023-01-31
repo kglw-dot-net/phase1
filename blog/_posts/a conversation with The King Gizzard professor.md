@@ -275,7 +275,7 @@ They sponsor a football team! It's fantastic that they’re sponsoring an AFLW f
 
 ![image](https://user-images.githubusercontent.com/114916472/215664596-985ec6d3-0928-47eb-865b-1d2c96e2b124.png)  
 
-_Growing up in Angelsea, Stu was a keen AFL player, and in 2004 captained a team that included future AFL champion Patrick Dangerfield. Stu is a relative of Angelsea club president Jamie Mackenzie, and so when they started their first women's team in 2022, King Gizzard and the Lizard Wizard became a sponsor._
+_Growing up in Angelsea, Stu was a keen AFL player, and in 2004 captained a team that included future AFL champion Patrick Dangerfield. Stu is a relative of Angelsea club president Jamie Mackenzie, and so when they started their first women's team in 2022, King Gizzard and the Lizard Wizard became a sponsor. (Photo - ABC News: Jeremy Story Carter)_
 
 W.B.T.G. Slinger:  
 With all that in mind, there's going to be a lot of international readers. I wondered if you could provide insight to the environmentalism of a millennial rock band from rural Victoria — where does it come from, or what does environmentalism mean to them?
