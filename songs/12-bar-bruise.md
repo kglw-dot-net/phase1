@@ -4,6 +4,8 @@ title: 12 Bar Bruise
 album: 12 Bar Bruise
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > Better be slave   
