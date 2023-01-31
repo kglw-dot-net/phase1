@@ -11,6 +11,15 @@ This is a remix album of [Butterfly 3000](../butterfly-3000). Stems for the orig
 
 The result is more DJ friendly and perhaps not intended to be listened to all in sequence. At nearly two hours in length each original song is re-interpreted at least once (With five different remixes of Blue Morpho), and bound to contain something for everyone.
 
-What to listen to next:
+# Song Credits
+**Butterfly 3001 - ℗ & © 2022 KGLW - Used by permission.**  
+
+Butterfly 3000 was originally recorded by King Gizzard And The Lizard Wizard. 
+> Special thanks to Michelle Cable, without whom this record would not be possible.  
+
+* Mastered by Joseph Carra
+* Design and Layout by Jason Galen
+
+# What to listen to next:
 
 *   [If you want more electronic KGLW material](../made-in-timeland)
