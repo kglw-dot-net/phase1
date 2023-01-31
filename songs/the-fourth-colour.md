@@ -4,6 +4,8 @@ title: The Fourth Colour
 album: Polygondwanaland
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > I believe the hyperbole  
