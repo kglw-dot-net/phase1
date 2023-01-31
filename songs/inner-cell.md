@@ -25,7 +25,7 @@ album: Polygondwanaland
 >  
 > From under the skin  
 > Insurrection  
-> From hollowed logs  
+> From hollow logs  
 > From shallow streams  
 > And drying seas  
 >  
