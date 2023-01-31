@@ -1,6 +1,6 @@
 ---
 layout: release
-title: "Infest The Rats’ Nest"
+title: "Infest the Rats' Nest"
 release_date: 2019-08-16
 discogs: https://www.discogs.com/master/1590025-King-Gizzard-And-The-Lizard-Wizard-Infest-The-Rats-Nest
 cover: ./cover.png

@@ -1,6 +1,6 @@
 ---
 layout: release
-title: "Fishing For Fishies"
+title: "Fishing for Fishies"
 release_date: 2019-04-26
 discogs: https://www.discogs.com/master/1535227-King-Gizzard-And-The-Lizard-Wizard-Fishing-For-Fishies
 cover: ./cover.png

@@ -135,7 +135,7 @@ studio:
       - title: Robot Stop
       - title: Big Fig Wasp
       - title: Gamma Knife
-      - title: People
+      - title: People-Vultures
       - title: Mr. Beat
       - title: Evil Death Roll
       - title: Invisible Face
@@ -236,7 +236,7 @@ studio:
       - title: Acarine
       - title: Cyboogie
 
-  - title: Infest the Rats’ Nest
+  - title: Infest the Rats' Nest
     tracks:
       - title: Planet B
       - title: Mars For The Rich
@@ -251,6 +251,7 @@ studio:
   - title: K.G.
     tracks:
       - title: K.G.L.W. (Intro)
+        slug: kglw-intro
       - title: Automation
       - title: Minimum Brain Size
       - title: Straws In The Wind
@@ -272,6 +273,7 @@ studio:
       - title: Ataraxia
       - title: See Me
       - title: K.G.L.W. (Outro)
+        slug: kglw-outro
 
   - title: Butterfly 3000
     tracks:
@@ -282,6 +284,7 @@ studio:
       - title: Interior People
       - title: Catching Smoke
       - title: 2.02 Killer Year
+        slug: 2.02-killer-year
       - title: Black Hot Soup
       - title: Ya Love
       - title: Butterfly 3000

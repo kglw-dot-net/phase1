@@ -1,6 +1,6 @@
 ---
 layout: release
-title: "Murder Of The Universe"
+title: "Murder of the Universe"
 release_date: 2017-06-23
 discogs: https://www.discogs.com/master/1196366-King-Gizzard-And-The-Lizard-Wizard-Murder-Of-The-Universe
 cover: ./cover.jpg
