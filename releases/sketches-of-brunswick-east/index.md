@@ -1,6 +1,6 @@
 ---
 layout: release
-title: "Sketches of Brunswick East"
+title: "Sketches Of Brunswick East"
 release_date: 2017-08-18
 discogs: https://www.discogs.com/master/1224720-King-Gizzard-The-Lizard-Wizard-With-Mild-High-Club-Sketches-Of-Brunswick-East
 cover: ./cover.jpg
@@ -17,6 +17,8 @@ The first real stab at Jazz, its title is an homage to Miles Davis’ [_Sketches
 A collaborative album with Hypnagogic-psych-pop act [Mild High Club](https://www.stonesthrow.com/artist/mildhighclub/), who played the 2016 iteration of the band’s now defunct showcase festival, Gizzfest. Alex Brettin (of MHC) stuck around for a couple of weeks, and naturally some voice memo ‘sketches’ of songs materialised. With the sketches later completed by the band, the album retains the laid-back stoner fingerprints of MHC, tied together by the KGATLW signature ‘took too much’ weirdness.
 
 # Album Credits
+
+**Sketches of Brunswick East - ℗ & © 2017 Flightless Records - Used by permission.**
 
 * Recorded by Stu Mackenzie at Flightless HQ, East Brunswick.
 * Additional overdubbing recorded by Alex Brettin, Joey Walker, Cook Craig, and Lucas Skinner in Melbourne and Los Angeles.
