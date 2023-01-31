@@ -60,7 +60,7 @@ album: Omnium Gatherum
 >  
 > I am tectonic.  
 > I am megalithic.  
-> My spit runs mauve.  
+> My spirit runs mauve.  
 > I am the mountain of which you dream.  
 > I see you now behind the lens looking back at me.  
 >  
