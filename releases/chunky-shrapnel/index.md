@@ -16,7 +16,7 @@ Other visual work includes Chunky, a high quality photo book shot by Jamie Wdzie
 Lastly, this tour was the genesis of Jason’s meticulously drawn, limited screen printed posters, now highly collectable, these distinct prints give a unique visual flavour for every show and round out the content of a live album like few others.
 
 # Album Credits
-**Chunky Shrapnel - ℗ & © 2022 KGLW - Used by permission.**
+**Chunky Shrapnel - ℗ & © 2020 Flightless Records - Used by permission.**
 
 * Bass – Lucas Harwood
 * Michael Cavanagh - Drums
