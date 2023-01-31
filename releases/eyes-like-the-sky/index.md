@@ -11,6 +11,8 @@ cover: ./cover.jpg
 > The Yavapai call him "Eyes Like the Sky"
 {:class="lyrics"}
 
+<br>
+
 This truly unique Spaghetti Western soundtrack uses spoken narration rather than sung lyrics. It is a collaboration with Broderick Smith who wrote and narrated the story, and is the father of band member Ambrose.
 
 # Album Credits
