@@ -4,6 +4,8 @@ title: Footy Footy
 album: 12 Bar Bruise
 ---
 
+(Mackenzie/Walker)
+
 # Lyrics
 
 > Footy footy   
