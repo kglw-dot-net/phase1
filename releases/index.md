@@ -29,6 +29,7 @@ The main output of the band. Most groups never make so many albums in a full car
 *   [Made In Timeland](../releases/made-in-timeland)
 *   [Laminated Denim](../releases/laminated-denim)
 *   [Changes](../releases/changes)
+{:class="albums-canon"}
 
 ## Non-Canonical Releases
 
@@ -39,6 +40,7 @@ So you’ve heard enough studio albums for the tendrils of the Gizzverse to star
 *   [Chunky Shrapnel](../releases/chunky-shrapnel)
 *   [Live in San Francisco ’16](../releases/live-in-san-francisco-2016)
 *   [Satanic Slumber Party](../releases/satanic-slumber-party)
+{:class="albums-noncanon"}
 
 ## Official Bootlegger Program
 
@@ -63,3 +65,4 @@ A range of compilation and live albums are available for fans and labels to crea
 *   [Live At Levitation ’16](../releases/live-at-levitation-2016)
 *   [Live At Bonnaroo ’22](../releases/live-at-bonnaroo-2022)
 *   [Live At Red Rocks ’22](../releases/live-at-red-rocks-22)
+{:class="albums-offboot"}
