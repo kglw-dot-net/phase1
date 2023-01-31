@@ -3,7 +3,7 @@ He is also an accomplished musician, having music independently and internationa
 Between 2009-2011, Dr. Hill lectured in the Bachelor of Music Industry course at Royal Melbourne Institute of Technology, where he taught Stu Mackenzie, Eric Moore, Joe Walker, and Lucas Harwood (né Skinner) who were in the process of forming King Gizzard and the Lizard Wizard.
 On October 29th 2010, he recorded one of their music performance assessments, and in December 2022 uploaded the video of the performance to Youtube. It is one of their first ever performances and the earliest publicly available recording of the band:_
 
-<iframe width="1903" height="768" src="https://www.youtube.com/embed/MsVIVFLqrfY" title="One of King Gizzard's very first performances in 2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1903" height="768" src="https://www.youtube.com/embed/MsVIVFLqrfY" title="One of King Gizzard's very first performances in 2010" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 _Throughout our conversation, we cover the stand-out approach of the band, the unique aspects of the Australian music industry, what they did right to make success, innovation driven by the arts sector, and generally break down King Gizzard in terms of their cultural and environmental contexts._
 
@@ -16,7 +16,7 @@ So here's the backstory to me getting back into academia after my [PhD](https://
 _Triple J is a government funded national radio station broadcasting since 1975 and geared toward alternative music for a youth audience. Triple J is a cornerstone of the Australian music industry, and as a part of the Australian Broadcasting Corporation is subject to strict editorial policy and not allowed to run advertisements._
 
 W.B.T.G. Slinger:  
-Well, that was the break for King Gizz really, they won their grant in 2014 and got to go to the US for the first time. That's really where it all kind of came together for them.
+Well, that was the break for King Gizz as well really, they won their grant in 2014 and got to go to the US for the first time. That's really where it all kind of came together for them.
 
 Dr. Barry Hill:  
 I'm really proud of the fact that they were able to do that. I came away from the music industry because we were losing so much money, my band members were just like: 'we can't deal with this anymore'. It's just too much of a rip-off in the Australian music industry.
