@@ -4,6 +4,8 @@ title: Trench Foot
 album: Teenage Gizzard
 ---
 
+(King Gizzard & The Lizard Wizard)
+
 # Lyrics
 
 > Light those up  
