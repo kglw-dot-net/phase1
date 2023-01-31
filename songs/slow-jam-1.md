@@ -4,6 +4,8 @@ title: Slow Jam 1
 album: I'm In Your Mind Fuzz
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > I need to slow my mind down low  

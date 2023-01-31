@@ -4,6 +4,8 @@ title: Fort Whipple
 album: Eyes Like The Sky
 ---
 
+(Mackenzie/Smith)
+
 # Lyrics
 
 > Chapter 3:

@@ -4,6 +4,8 @@ title: Dust In The Wind
 album: Eyes Like The Sky
 ---
 
+(Mackenzie/Smith)
+
 # Lyrics
 
 > Suddenly the girl pitched sideways and a split second later the young man heard the distant shot.  

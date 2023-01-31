@@ -4,6 +4,8 @@ title: Hot Water
 album: I'm In Your Mind Fuzz
 ---
 
+(Mackenzie/Walker)
+
 # Lyrics
 
 > Eat up  

@@ -4,6 +4,8 @@ title: Deserted Dunes Welcome Weary Feet
 album: Polygondwanaland
 ---
 
+(Mackenzie/Walker/Cavanagh)
+
 # Lyrics
 
 > Deserted dunes  

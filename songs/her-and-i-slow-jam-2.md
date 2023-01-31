@@ -4,6 +4,8 @@ title: Her And I (Slow Jam 2)
 album: I'm In Your Mind Fuzz
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > It wouldn't hurt to give you more of my love  

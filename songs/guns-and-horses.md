@@ -4,6 +4,8 @@ title: Guns & Horses
 album: Eyes Like The Sky
 ---
 
+(Mackenzie/Smith)
+
 # Lyrics
 
 > The young man by now was astride a horse and making for a Yavapai stronghold, half a day's ride away.  

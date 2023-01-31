@@ -4,6 +4,8 @@ title: Satan Speeds Up
 album: I'm In Your Mind Fuzz
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > You brought us to your gift of generosity  

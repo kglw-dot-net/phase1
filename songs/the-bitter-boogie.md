@@ -4,6 +4,8 @@ title: The Bitter Boogie
 album: Paper Mâché Dream Balloon
 ---
 
+(Mackenzie/Kenny-Smith)
+
 # Lyrics
 
 > Bitter, bitter, bitter, bitter, bitter...  

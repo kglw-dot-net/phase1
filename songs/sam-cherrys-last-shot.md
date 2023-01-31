@@ -4,6 +4,8 @@ title: Sam Cherry's Last Shot
 album: 12 Bar Bruise
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > Early that morning, the wagon-master of the train came into the post greatly excited,   

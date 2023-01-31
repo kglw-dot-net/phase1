@@ -4,6 +4,8 @@ title: I'm In Your Mind
 album: I'm In Your Mind Fuzz
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > Everybody's lazy when they're tired  

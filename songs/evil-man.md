@@ -4,6 +4,8 @@ title: Evil Man
 album: Eyes Like The Sky
 ---
 
+(Mackenzie/Smith)
+
 # Lyrics
 
 > It is 1864 now, and the American's war has not come to the desert lands.  

@@ -4,6 +4,8 @@ title: Infinite Rise
 album: Quarters!
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > Set straight  

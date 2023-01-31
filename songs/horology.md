@@ -4,6 +4,8 @@ title: Horology
 album: Polygondwanaland
 ---
 
+(Walker/Mackenzie/Cavanagh)
+
 # Lyrics
 
 > Once upon a time  

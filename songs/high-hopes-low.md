@@ -4,6 +4,8 @@ title: High Hopes Low
 album: 12 Bar Bruise
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > Well I ain’t dumb   

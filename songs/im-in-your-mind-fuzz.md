@@ -4,6 +4,8 @@ title: I'm In Your Mind Fuzz
 album: I'm In Your Mind Fuzz
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > When I’m in your mind  

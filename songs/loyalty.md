@@ -4,6 +4,8 @@ title: Loyalty
 album: Polygondwanaland
 ---
 
+(Walker/Mackenzie/Cavanagh)
+
 # Lyrics
 
 > I see all there is and has ever been  

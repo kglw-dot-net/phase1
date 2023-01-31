@@ -4,6 +4,8 @@ title: God Is In The Rhythm
 album: Quarters!
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > Earth by the moon  

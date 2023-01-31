@@ -4,6 +4,8 @@ title: Paper Mâché
 album: Paper Mâché Dream Balloon
 ---
 
+(Craig/Mackenzie/Walker)
+
 # Lyrics
 
 > (Instrumental)
