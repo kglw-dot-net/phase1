@@ -30,7 +30,7 @@ studio:
       - title: Footy Footy
 
   - title: Willoughby's Beach
-    slug: willougbys-beach
+    slug: willoughbys-beach
     tracks:
       - title: Danger $$$
         slug: danger-money
@@ -111,6 +111,7 @@ studio:
       - title: Lonely Steel Sheet Flyer
 
   - title: Paper Mâché Dream Balloon
+    slug: paper-mache-dream-balloon
     tracks:
       - title: Sense
       - title: Bone
