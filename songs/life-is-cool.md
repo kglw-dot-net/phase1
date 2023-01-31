@@ -4,6 +4,8 @@ title: Life Is Cool
 album: Teenage Gizzard
 ---
 
+(Mackenzie)
+
 # Lyrics
 
 > Life is cool  

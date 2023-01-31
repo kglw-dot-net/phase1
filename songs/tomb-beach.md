@@ -4,6 +4,8 @@ title: Tomb/Beach
 album: Teenage Gizzard
 ---
 
+(King Gizzard & The Lizard Wizard)
+
 # Lyrics
 
 > Lie in the whirl  
