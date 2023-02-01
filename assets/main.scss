@@ -371,6 +371,7 @@ article.release {
   img[itemprop="thumbnailUrl"] {
     order: 1;
     width: 100%;
+    margin-bottom: 1em;
     object-fit: contain;
     @media (min-width: 479px) {
       order: 4;

@@ -12,7 +12,7 @@ cover: ./cover.png
 > Or me neither  
 > I feel so sorry for fishies
 {:class="lyrics"}
-<br>
+
 Three different songs contain the word ‘boogie’ in this track list, which probably tells you most of what you need to know going in to this Roots-Rock camping album. Very underrated in the discography, this anachronistic gem begs the listener to not take the music so seriously, and likely won't be enjoyed if you aren’t willing to have fun listening to it. This carefree sound is offset by genuine, stark concern for the environment and mental well being in the lyrics.
 
 The strong environmental anti-consumerism theme deserves credit for spurring the realisation of hypocrisy in producing so much waste as a by product of the vinyl record industry. Every record since this album is packaged in recycled materials, and usually available on recycled vinyl as well.
