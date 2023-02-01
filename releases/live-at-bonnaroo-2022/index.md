@@ -14,7 +14,7 @@ Recorded live at [Bonnaroo, Great Stage Park, Manchester, TN, USA, 17th June 202
 
 * Recorded by our sound crew: Sam Joseph, Nico Wilson and Gaspard De Meulemeester
 * Mixed by Stu Mackenzie
-* Photo by Bryan Lasky
+* Photo by Bryan Lasky  
 <br>  
   
 * Michael Cavanagh: Drums
