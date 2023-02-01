@@ -10,12 +10,11 @@ As a group, the guitar playing roles tend to revolve and therefore 'lead' and 'r
 
 While Stu is the primary contributor and the foundation of studio composition and demo recordings are usually carried out in a trio with Michael and Joey, the band maintain a democratic process where any member is able to contribute or veto ideas at any stage of production. This works with an independent, anti-perfectionist approach using the materials and space around them. The band have attended ‘writing retreats’ together where album ideas are born, and maintain a shared studio/office space where they can go to work.
 
-
 ### Stu Mackenzie
 The ‘front’ of the band, lead songwriter, lead vocalist, and steers the creative direction of the group either with album concepts, or the constant evolution of songwriting and instrumentation. Primarily plays guitar and often composes or plays bass in studio recordings; additionally composes with and plays flute, clarinet, and anything with a keyboard. Inspired by or formerly played [sitar](https://en.wikipedia.org/wiki/Sitar), [bağlama](https://en.wikipedia.org/wiki/Ba%C4%9Flama), and [zurna](https://en.wikipedia.org/wiki/Zurna).
 
 ### Joey Walker
-The primary of three guitarists, with the occasional lead vocal and songwriting credit, and often composes and plays bass in studio recordings. Specialises in electronic music production and occasionally performs DJ sets.
+The primary of three guitarists, with the occasional lead vocal and songwriting credit, and often composes and plays bass in studio recordings. Specialises in [electronic music production](https://kglw.net/associated-music/#Bullant) and occasionally performs DJ sets.
 
 ### Ambrose "Amby" Kenny-Smith
 Occupies a ‘spotlight’ role and provides the group’s signature harmonica wail and live percussion/keys duties. Has the second most vocal and co-writing credits, and occasionally plays alto saxophone.
