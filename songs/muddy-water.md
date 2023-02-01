@@ -21,7 +21,7 @@ album: Gumboot Soup
 > Cover up  
 > Sunburn  
 > Leather skin  
-> Heatstroke  
+> Heat stroke  
 >  
 > Make the dash across the amber coals to meet the sea  
 > So cold it freezes me  
