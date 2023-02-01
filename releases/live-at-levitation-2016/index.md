@@ -15,7 +15,7 @@ Recorded live at [Carson Creek Ranch, Austin, Texas, USA, May 1st 2016](/setlist
 * Recorded by Craig Lawrence
 * Mixed By Stu Mackenzie
 * Mastered by Joe Carra
-* Cover art by Jason Galea
+* Cover art by Jason Galea  
 <br>  
   
 * Ambrose Kenny-Smith: Harmonica, Keys, Vocals
