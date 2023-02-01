@@ -25,7 +25,7 @@ album: Gumboot Soup
 > You can't compete whatever it is you can't defeat the pull of the street  
 > You follow the drain spinning around again and again again and again  
 > Once you're in  
-> Forget every place you've ever been the city is dank you'll never be clean  
+> Forget every place you've ever been the city is dark you'll never be clean  
 > Bow your head  
 >  
 > The street  
@@ -52,7 +52,7 @@ album: Gumboot Soup
 > You can't compete whatever it is you can't defeat the pull of the street  
 > You follow the drain spinning around again and again again and again  
 > Once you're in  
-> Forget every place you've ever been the city is dank you'll never be clean  
+> Forget every place you've ever been the city is dark you'll never be clean  
 > Bow your head  
 >  
 > The street  
