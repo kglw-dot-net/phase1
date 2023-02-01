@@ -1,7 +1,7 @@
 ---
 layout: song
-title: Murder Of The Universe
-album: Murder Of The Universe
+title: Murder of the Universe
+album: Murder of the Universe
 ---
 
 (Walker/Mackenzie)

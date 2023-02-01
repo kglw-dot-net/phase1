@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Sea Of Trees
+title: Sea of Trees
 album: 12 Bar Bruise
 ---
 

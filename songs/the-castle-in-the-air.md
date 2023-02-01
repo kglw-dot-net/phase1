@@ -1,6 +1,6 @@
 ---
 layout: song
-title: The Castle In The Air
+title: The Castle in the Air
 album: Polygondwanaland
 ---
 

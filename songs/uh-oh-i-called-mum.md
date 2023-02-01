@@ -1,6 +1,6 @@
 ---
 layout: song
-title: Uh, Oh, I called Mum
+title: Uh Oh, I Called Mum
 album: 12 Bar Bruise
 ---
 

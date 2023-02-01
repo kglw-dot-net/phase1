@@ -1,7 +1,7 @@
 ---
 layout: song
-title: Float Along - Fill Your Lungs
-album: Float Along - Fill Your Lungs
+title: Float Along — Fill Your Lungs
+album: Float Along — Fill Your Lungs
 ---
 
 (Mackenzie)

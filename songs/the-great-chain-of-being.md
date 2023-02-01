@@ -1,6 +1,6 @@
 ---
 layout: song
-title: The Great Chain Of Being
+title: The Great Chain of Being
 album: Gumboot Soup
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: song
-title: The Lord Of Lightning
+title: The Lord of Lightning
 album: Murder Of The Universe
 ---
 
