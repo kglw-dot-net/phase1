@@ -282,7 +282,7 @@ I think that circles back nicely to King Gizz, who as environmentalists themselv
 **Dr. Barry Hill:**  
 They sponsor a football team! It's fantastic that they’re sponsoring an AFLW football team, that can't get more Melbourne.
 
-https://www.instagram.com/p/CjxHOrWvzyD/
+{% include instagram.html id="CSHEiLIJsMS" caption="The band's name appears on Angelsea FNC players' jerseys (Instagram, 2021)" %}
 
 > Growing up in Angelsea, Stu was a keen AFL player, and in 2004 captained a team that included future AFL champion Patrick Dangerfield. Stu is a relative of Angelsea club president Jamie Mackenzie, and so when they started their first women's team in 2022, King Gizzard and the Lizard Wizard became a sponsor. (Photo: Angelsea FNC via Instagram)
 
