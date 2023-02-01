@@ -17,7 +17,7 @@ Promoting [I’m In Your Mind Fuzz](../im-in-your-mind-fuzz) at the time, the se
 * Recorded by Craig Lawrence
 * Mixed By Stu Mackenzie
 * Mastered by Joe Carra
-* Cover art by Jason Galea and Jamie Wdziekonski
+* Cover art by Jason Galea and Jamie Wdziekonski  
 <br>  
   
 * Ambrose Kenny-Smith: Harmonica, Keys, Vocals
