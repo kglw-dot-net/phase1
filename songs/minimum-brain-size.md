@@ -13,7 +13,7 @@ album: K.G.
 > Sympathetic crowds are not well endowed.  
 > Dance like flies on shit swarming in the clouds.  
 >  
-> This is to all the people who had it coming.  
+> This is to all of the people who had it coming.  
 > A few biccys too many? I'm so lonely.  
 > It's to all of the people who said they couldn't hack it.  
 > I'll open their eyes to minimum brain size.  
@@ -28,7 +28,7 @@ album: K.G.
 > Himpathetic bro. You're weaker than you know.  
 > You don't have a say anymore.  
 >  
-> This is to all the people who have it coming.  
+> This is to all of the people who have it coming.  
 > A few biccys too many. I'm so lonely.  
 > It's to all of the people who said they couldn't hack it.  
 > Radicalise to minimum brain size.  
