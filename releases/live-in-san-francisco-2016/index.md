@@ -20,8 +20,8 @@ Recorded on [25 May 2016 at The Independent](../setlists/2016/05/25/the-independ
 * Joey Walker: Guitar, Vocals
 * Stu Mackenzie: Guitar, Vocals, Flute
 * Ambrose Kenny-Smith: Harmonica, Vocals, Organ
-<br>
-
+<br>  
+  
 * Jason Galea: Layout, Editor
 * Mastered by: Joseph Carra
 * Mixed by: Stu Mackenzie
