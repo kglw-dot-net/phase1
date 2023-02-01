@@ -4,7 +4,7 @@ title: "Fishing For Fishies"
 bandcamp: https://kinggizzard.bandcamp.com/album/fishing-for-fishies
 release_date: 2019-04-26
 discogs: https://www.discogs.com/master/1535227-King-Gizzard-And-The-Lizard-Wizard-Fishing-For-Fishies
-cover: ./cover.png
+cover: ./cover.jpg
 ---
 
 > Fishing for fishies  

@@ -4,7 +4,7 @@ title: "Omnium Gatherum"
 bandcamp: https://kinggizzard.bandcamp.com/album/omnium-gatherum
 release_date: 2022-04-22
 discogs: https://www.discogs.com/master/2680088-King-Gizzard-And-The-Lizard-Wizard-Omnium-Gatherum
-cover: ./cover.png
+cover: ./cover.jpg
 redirect_from:
   - /releases/omnium-gatherium
   - /releases/omnium-gatherium/
