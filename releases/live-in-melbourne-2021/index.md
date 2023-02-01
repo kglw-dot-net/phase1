@@ -14,7 +14,7 @@ Recorded live at [Summer Sound Festival, Sidney Myer Music Bowl, Naarm (Melbourn
 
 * Recorded by Nico Wilson and Sam Joseph
 * Mixed by Stu Mackenzie
-* Cover art by Jason Galea
+* Cover art by Jason Galea  
 <br>  
   
 * Ambrose Kenny-Smith: Harmonica, Keys, Vocals, Percussion, Guitar
