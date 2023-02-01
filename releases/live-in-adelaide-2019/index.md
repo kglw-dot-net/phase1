@@ -15,7 +15,6 @@ Recorded live at [Thebarton Theatre, Tarntanya (Adelaide), Australia, July 12th 
 * Recorded by our sound crew: Sam Joseph, Stacey Wilson
 * Mixed by Stu Mackenzie
 * Cover design by Jason Galea  
-  
 <br>  
   
 * Michael Cavanagh: Drums
