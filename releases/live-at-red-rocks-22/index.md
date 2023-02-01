@@ -11,7 +11,7 @@ Recorded live at Red Rocks Amphitheatre, Morrison, CO, USA, [Oct 10](https://kgl
 
 # Album Credits
 
-* Recorded by our sound crew: Sam Joseph, Nico Wilson, Gaspard Demulemeester and Gabe Nardin  
+* Recorded by: Sam Joseph, Nico Wilson, Gaspard Demulemeester and Gabe Nardin  
 * Mixed by Stu Mackenzie  
 * Cover design by Jason Galea  
 * Photography by Maclay Heriot  
