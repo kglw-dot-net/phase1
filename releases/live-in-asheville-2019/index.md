@@ -15,7 +15,7 @@ Recorded live at [New Belgium Brewing Company, Asheville, NC, USA, September 1st
 * Recorded by our sound crew: Sam Joseph, Stacey Wilson and Gaspard Demulemeester
 * Mixed by Stu Mackenzie
 * Mastered by Joseph Carra
-* Cover design by Jason Galea
+* Cover design by Jason Galea  
 <br>  
    
 * Michael Cavanagh: Drums  

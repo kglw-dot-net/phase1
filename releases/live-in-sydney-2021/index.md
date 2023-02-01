@@ -13,7 +13,7 @@ Recorded live at [The Enmore Theatre, Cadigal country (Sydney), Australia, April
 * Recorded by Nico Wilson, Bonnie Knight and Sam Joseph
 * Mixed by Stu Mackenzie
 * Cover Photography by Zachary Williams
-* Design and Layout by Jason Galea
+* Design and Layout by Jason Galea  
 <br>  
   
 * Ambrose Kenny-Smith: Harmonica, Keys, Vocals, Percussion, Guitar

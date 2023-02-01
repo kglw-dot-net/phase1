@@ -16,7 +16,7 @@ Recorded live at Ancienne Belgique, Brussels, Belgium, [October 8th](/setlists/2
 * Tracks 10-17 recorded on October 9th
 * Recorded by our sound crew: Sam Joseph, Stacey Wilson, Gaspard De Meulemeester
 * Mixed by Stu Mackenzie
-* Cover design by Jason Galea
+* Cover design by Jason Galea  
 <br>  
   
 * Michael Cavanagh: Drums
