@@ -22,7 +22,7 @@ album: Fishing For Fishies
 
 > Cyboogie's heart is a mess. Cables in knots in his cavity chest.  
 > Cyboogie's feeling depressed. Need to de-bug and run over the tests.  
-> Cyboogie's ticker ain't flesh. Pistons and pumps under graphine lattice.  
+> Cyboogie's ticker ain't flesh. Pistons and pumps under graphene lattice.  
 > No people to service the mess when he breaks down in spiritual stress.  
 > 
 > Cyboogie. Boogie, boogie, boogie, boogie, boogie, boogie, boogie, boogie, boogie, boogie, boogie, boogie...  
@@ -30,7 +30,7 @@ album: Fishing For Fishies
 > Boogie, boogie.  
 > Cyboogie  
 > 
-> Cyboogie. Lump in his throat. Palpitations and nausea ensue.  
+> Cyboogie: Lump in his throat. Palpitations and nausea ensue.  
 > Cyboogie's chorophobia; terminal error vascular tissue.  
 > So Cyboogie's fishing for fishies. Red-bellied trout in a binary brook.  
 > How is it that he is depressed?  

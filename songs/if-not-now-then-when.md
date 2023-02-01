@@ -15,7 +15,7 @@ album: L.W.
 > If not now, then when?  
 > When the ocean's coming up.  
 > When the rain just won't stop.  
-> when the fire's burning.  
+> When the fire's burning.  
 > If not now, then when?  
 >  
 > If not now, then when?  

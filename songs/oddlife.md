@@ -15,7 +15,7 @@ album: K.G.
 >  
 > Sugarplum fairy dances now.  
 > Echoed feet on the hallowed ground.  
-> Energy peaks on the voyagers crown.  
+> Energy peaks on the voyager's crown.  
 > Back to the bus for another round.  
 > Managing feats by managing feet.  
 > Head of the hydra tastes the breeze.  
@@ -31,7 +31,7 @@ album: K.G.
 >  
 > Sugarplum fairy dances now.  
 > Echoed feet on the hallowed ground.  
-> Energy peaks on the voyagers crown.  
+> Energy peaks on the voyager's crown.  
 > Back to the bus for another round.  
 > Managing feats by managing feet.  
 > Head of the hydra tastes the breeze.  

@@ -8,8 +8,8 @@ album: L.W.
 
 # Lyrics
 
-> How can you get away with a murder?  
-> Scot-free when you're found guilty in the first degree.  
+> How can you get away with a murder  
+> Scot-free when you're found guilty in the first degree?
 > It's pretty simple when you're so powerful.  
 > It's who ya know. Untouchable. Lying through your teeth.  
 > Break the doctrine. They're all laughing. Double parking.   

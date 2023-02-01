@@ -16,7 +16,7 @@ album: K.G.
 > Straws in the wind. Is it all ending?  
 > Straws in the wind. Is it all ending?  
 > Like a blunder brewing full to the brim.  
-> I can see the beelzebub cheshire grin.  
+> I can see the Beelzebub Cheshire grin.  
 >  
 > Cooking something raw. Cooking something big.  
 > Pandemonium. Selfish pigs. Headless chickens scared shitless.  
@@ -48,7 +48,7 @@ album: K.G.
 > Straws in the wind. Is it all ending?  
 > Straws in the wind. Is it all ending?  
 > Like a slumber and we've all just awoken.  
-> I can see the beelzebub cheshire grin.
+> I can see the Beelzebub Cheshire grin.
 >  
 > Straws in the wind. Is it all ending?  
 > Straws in the wind. Is it all ending?...  
