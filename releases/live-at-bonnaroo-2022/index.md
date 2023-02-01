@@ -17,7 +17,7 @@ Recorded live at [Bonnaroo, Great Stage Park, Manchester, TN, USA, 17th June 202
 * Photo by Bryan Lasky  
 <br>  
   
-* Michael Cavanagh: Drums
+* Michael Cavanagh: Drums 
 * Cook Craig: Guitar, Keys
 * Lucas Harwood: Bass
 * Ambrose Kenny-Smith: Harmonica, Vocals, Keys
