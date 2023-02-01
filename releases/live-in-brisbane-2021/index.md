@@ -16,7 +16,7 @@ Courtesy of the theme, the set-list contains a selection too unique to give high
 
 * Recorded by our sound crew: Sam Joseph, Nico Wilson, Toby Brandon
 * Mixed by Stu Mackenzie
-* Cover art by Jason Galea
+* Cover art by Jason Galea  
 <br>  
   
 * Michael Cavanagh: Drums
