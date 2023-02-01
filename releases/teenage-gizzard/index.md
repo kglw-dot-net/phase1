@@ -1,8 +1,9 @@
 ---
 layout: release
 title: "Teenage Gizzard"
-release_date: 2020-12-25
+bandcamp: https://kinggizzard.bandcamp.com/album/teenage-gizzard
 discogs: https://www.discogs.com/master/1888098-King-Gizzard-And-The-Lizard-Wizard-Teenage-Gizzard 
+release_date: 2020-12-25
 cover: ./cover.jpg
 ---
 <br>
