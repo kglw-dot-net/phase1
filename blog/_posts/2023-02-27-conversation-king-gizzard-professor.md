@@ -25,9 +25,7 @@ So we wanted to speak to you because of the video you posted of King Gizzard per
 **Dr. Barry Hill:**  
 So here's the backstory to me getting back into academia after my [PhD](https://drbazhspace.wordpress.com/ph-d/). I really went into the music industry sort of gung-ho from the nineties into the early noughties, I was really trying to make it work as a career. My two bands: _The Bird_, and _Amphibian_ had gotten really close, we were getting ‘Triple J famous’, we had independent record deals, we were doing little tours over to Europe. This is relevant to the King Gizz story because I noticed how much you got appreciated overseas as an Australian artist overseas. When my Amphibian instrumental trio went to Europe for the first time everyone was really interested. At the time we were also really quite popular in Melbourne, but the money we were getting from gigs was next to nothing, and we didn't really get much record company interest. There were a couple of people at Triple J who liked the music, so we're getting a bit of airplay, but we were finding touring in Australia was a struggle. If you could find a way to get overseas, all of a sudden, you’d sell out all your CDs, and you'd get a bit of a following, festivals were paying good money, which would make it possible for you to actually come back with some in your pocket.
 
-<aside>
-Triple J is a government funded national radio station broadcasting since 1975 and geared toward alternative music for a youth audience. Triple J is a cornerstone of the Australian music industry, and as a part of the Australian Broadcasting Corporation is subject to strict editorial policy and not allowed to run advertisements.
-</aside>
+<aside>Triple J is a government funded national radio station broadcasting since 1975 and geared toward alternative music for a youth audience. Triple J is a cornerstone of the Australian music industry, and as a part of the Australian Broadcasting Corporation is subject to strict editorial policy and not allowed to run advertisements.</aside>
 
 **W.B.T.G. Slinger:**  
 Well, that was the break for King Gizz as well really, they won their grant in 2014 and got to go to the US for the first time. That's really where it all kind of came together for them.
@@ -83,20 +81,26 @@ I feel really sort of vindicated because of what I talked about in my lectures a
 **W.B.T.G. Slinger:**  
 Like with The Avalanches.
 
-{% include youtube.html id="qLrnkK2YEcE" title="The Avalanches: Frontier Psychiatrist" %}
+<aside>
+  {% include youtube.html id="qLrnkK2YEcE" title="The Avalanches: Frontier Psychiatrist" %}
+</aside>
 
 **Dr. Barry Hill:**  
 Hm, The Avalanches, you know.
 The Bird and Amphibian, sort of came up in the early to late nineties, early noughties. That was the transition period between the old style music industry and the new style. So it means back then there was no YouTube, you didn’t really video much, videos back then involved bulky cameras and tape.
 I find it interesting that historical periods might not be documented very well. Generally in music, like from 1995 to 2005, we're not going to get much of a record of that time, because there was hardly any vinyl, CDs were declining. There's downloads, but mp3s can be complicated with rights management.
 
-{% include youtube.html id="b7CabUk5LPY" title="awesome live Electro band From Byron bay Australia" %}
+<aside>
+  {% include youtube.html id="b7CabUk5LPY" title="awesome live Electro band From Byron bay Australia" %}
+</aside>
 
 **W.B.T.G. Slinger:**  
 That's an issue that I've had trying to track the early history of King Gizzard members as well. Some of that stuff only existed on MySpace and is now just lost.
 I was born early in that era, so I noticed in your PhD you mentioned the _Resin Dogs_, which is a band that I only know of because they were one of the more popular live acts to tour regularly in our region; I’m sure they now have some stuff published digitally, but I bet it's not being streamed very much.
 
-{% include youtube.html id="QTTElvVlwMY" title="Resin Dogs: Set It Off (Live at Jungle Love 2015)" %}
+<aside>
+  {% include youtube.html id="QTTElvVlwMY" title="Resin Dogs: Set It Off (Live at Jungle Love 2015)" %}
+</aside>
 
 **Dr. Barry Hill:**  
 You did have the Global Carnival where you were, that was a really iconic festival. The after party was always a cracker as well.
@@ -147,7 +151,7 @@ Even the Hottest 100, that's become this hilarious, sort of way of ‘let's see 
 **W.B.T.G. Slinger:**  
 I'm personally a bit of a purist when it comes to the Hottest 100, you know, I manually write-in my votes and all that, but this trend does make it a little more difficult to engage with over time I feel.
 
-_Triple J’s Hottest 100 is thought to be the world's largest public annual music poll and the results as broadcast are typically listened to by approximately one-fifth of the entire adult population of Australia. King Gizzard and the Lizard Wizard have appeared in the countdown with 2016’s Gamma Knife and 2017’s Nuclear Fusion, but have been under-represented compared with the expected placement of similar band of their status and presence. Despite the push from fans, King Gizzard made no appearance in the [countdown for 2022](https://en.wikipedia.org/wiki/Triple_J_Hottest_100,_2022)._
+<aside>Triple J’s Hottest 100 is thought to be the world's largest public annual music poll and the results as broadcast are typically listened to by approximately one-fifth of the entire adult population of Australia. King Gizzard and the Lizard Wizard have appeared in the countdown with 2016’s Gamma Knife and 2017’s Nuclear Fusion, but have been under-represented compared with the expected placement of similar band of their status and presence. Despite the push from fans, King Gizzard made no appearance in the <a href="https://en.wikipedia.org/wiki/Triple_J_Hottest_100,_2022">countdown for 2022</a>.</aside>
 
 **Dr. Barry Hill:**  
 To get back to what your question was about the music industry, it's hard financially, but one thing that's better about it than overseas markets is that when you're starting out, it's not so cut-throat. I've known people who've gone to the states, to Nashville to try and make it in that scene. There's so many people living in their cars, still paying rent to a friend's house so they've got access to a shower and a kitchen. Just struggling, and struggling, and struggling to get that first step into the music industry in America as American artists. Same in Europe or England, there's just so many bands, you're competing with so many things.
@@ -186,7 +190,9 @@ I'm always on the lookout for the post King Gizz generation, and there's one ban
 Ah, I know _Liminal_ very well, its interesting, there’s a current little bubbling scene in Lismore, and they’re all King Gizz fanatics. They're all taking on different aspects of King Gizz. Another band called [_PUFF_](https://www.abc.net.au/triplejunearthed/artist/puff/).  
 Alako Myles who is behind _Liminal_, he's doing a lot of things, like he plays drums too. As his independent project last year, he produced eight episodes of a video program called _Anemoia_. It's sort of like a [_Recovery_](https://en.wikipedia.org/wiki/Recovery_(TV_series)) or _Rage_ type project he put together himself. So he’d do all the shooting of the content, then do a live gig to a three camera shoot in our auditorium, and set up a little sort of TV studio style interview space in front of a live audience, and posted online every Saturday. Another type of these people who are just really driven.
 
-{% include youtube.html id="lCV4Q4KvyAQ" title="Anemoia Episode 1 with Liminal" %}
+<aside>
+  {% include youtube.html id="lCV4Q4KvyAQ" title="Anemoia Episode 1 with Liminal" %}
+</aside>
 
 All my students were flabbergasted when they heard that I taught Stu, Eric, Lucas, and Joey, and they started to doubt it, so posting that video gave me a lot of credit.
 The marketing manager of my faculty has a son who is really into King Gizzard, I was having a meeting with him about general boring university stuff, and I just mentioned about the YouTube clip and this interview, and he suddenly ran off and then came back on the Zoom with the new album in front of the camera.
@@ -287,9 +293,11 @@ I think that circles back nicely to King Gizz, who as environmentalists themselv
 **Dr. Barry Hill:**  
 They sponsor a football team! It's fantastic that they’re sponsoring an AFLW football team, that can't get more Melbourne.
 
-{% include instagram.html id="CSHEiLIJsMS" caption="The band's name appears on Angelsea FNC players' jerseys (Instagram, 2021)" %}
-
-_Growing up in Angelsea, Stu was a keen AFL player, and in 2004 captained a team that included future AFL champion Patrick Dangerfield. Stu is a relative of Angelsea club president Jamie Mackenzie, and so when they started their first women's team in 2022, King Gizzard and the Lizard Wizard became a sponsor. (Photo: Angelsea FNC via Instagram)_
+<aside>
+  Growing up in Angelsea, Stu was a keen AFL player, and in 2004 captained a team that included future AFL champion Patrick Dangerfield. Stu is a relative of Angelsea club president Jamie Mackenzie, and so when they started their first women's team in 2022, King Gizzard and the Lizard Wizard became a sponsor.
+  
+  {% include instagram.html id="CSHEiLIJsMS" caption="The band's name appears on Angelsea FNC players' jerseys (Instagram, 2021)" %}
+</aside>
 
 **W.B.T.G. Slinger:**  
 With all that in mind, there's going to be a lot of international readers. I wondered if you could provide insight to the environmentalism of a millennial rock band from rural Victoria — where does it come from, or what does environmentalism mean to them?
@@ -300,13 +308,16 @@ I think Melbourne is a city that is really pushing the boundaries of Australian 
 It's a very progressive, very innovative city, like with Seattle in America, Apple's there, there are aircraft companies there, and Grunge came from there.
 So basically, I think Melbourne's really like a culturally innovative place, and also environmentally conscious, much more politically aware, and much more progressive than other communities in Australia.
 
-<aside>In February 2009, nearly 450,000 hectares of rural Victoria were decimated in the Black Saturday Bushfire disaster, killing 173 people in the worst event of its kind since Australia’s colonisation. More than ten separate fires burned in various locations across the state, devastating around 80 different communities — including areas surrounding Melbourne local to some of the members of King Gizzard and the Lizard Wizard, who were in the earliest stages of forming at the time.</aside>
+<aside>
+  <p>In February 2009, nearly 450,000 hectares of rural Victoria were decimated in the Black Saturday Bushfire disaster, killing 173 people in the worst event of its kind since Australia’s colonisation. More than ten separate fires burned in various locations across the state, devastating around 80 different communities — including areas surrounding Melbourne local to some of the members of King Gizzard and the Lizard Wizard, who were in the earliest stages of forming at the time.</p>
 
-> Each summer is getting hotter than the one before  
-> Red smoke  
-> Go away, heatwave  
-> You're all around — north to the south  
-> Red smoke  
-> Go away, heatwave  
-> You're burning down  
-> Our leaders are dumbfounded again
+  <blockquote>Each summer is getting hotter than the one before  
+    <br/>Red smoke  
+    <br/>Go away, heatwave  
+    <br/>You're all around — north to the south  
+    <br/>Red smoke  
+    <br/>Go away, heatwave  
+    <br/>You're burning down  
+    <br/>Our leaders are dumbfounded again
+  </blockquote>
+</aside>
