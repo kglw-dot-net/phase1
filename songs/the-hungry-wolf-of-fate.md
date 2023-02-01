@@ -1,6 +1,6 @@
 ---
 layout: song
-title: The Hungry Wolf Of Fate
+title: The Hungry Wolf of Fate
 album: K.G.
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: song
-title: K.G.L.W (Intro)
+title: K.G.L.W. (Intro)
 album: K.G.
 ---
 
