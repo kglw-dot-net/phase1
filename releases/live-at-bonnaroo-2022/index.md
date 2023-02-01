@@ -10,6 +10,20 @@ cover: ./cover.jpg
 
 Recorded live at [Bonnaroo, Great Stage Park, Manchester, TN, USA, 17th June 2022](/setlists/2022/06/17/great-stage-park-manchester-tn). This set contains staples from [Nonagon Infinity](../nonagon-infinity), [Infest The Rats Nest](../infest-the-rats-nest) and [I’m In Your Mind Fuzz](../im-in-your-mind-fuzz), mixed with choices from the newly released [Omnium Gatherum](../omnium-gatherum) (including rare live vocals from Cook for his track, The Garden Goblin). The bootlegger package includes the professionally shot concert footage from the festival stream.
 
-What to listen to next:
+# Album Credits
+
+* Recorded by our sound crew: Sam Joseph, Nico Wilson and Gaspard De Meulemeester
+* Mixed by Stu Mackenzie
+* Photo by Bryan Lasky
+<br>  
+  
+* Michael Cavanagh: Drums
+* Cook Craig: Guitar, Keys
+* Lucas Harwood: Bass
+* Ambrose Kenny-Smith: Harmonica, Vocals, Keys
+* Stu Mackenzie: Vocals, Guitar, Flute
+* Joey Walker: Guitar, Synthesiser, Vocals
+
+# What to listen to next:
 
 *   [If you want to hear another music festival set](../live-at-levitation-2014)
