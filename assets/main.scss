@@ -375,7 +375,7 @@ article.release {
     object-fit: contain;
     @media (min-width: 479px) {
       order: 4;
-      width: 50%;
+      width: 60%;
     }
   }
 
@@ -384,7 +384,7 @@ article.release {
     flex-basis: 100%;
     @media (min-width: 479px) {
       order: 3;
-      flex-basis: 50%;
+      flex-basis: 40%;
     }
   }
 
