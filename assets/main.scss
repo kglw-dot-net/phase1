@@ -152,13 +152,16 @@ footer.site-footer {
   .post-content > p {
     margin-top: 1em;
   }
-  .reversefootnote {
-    padding: 0.3em;
-    sup {
-      vertical-align: baseline;
-      font-size: 1em;
-      padding-left: 0.3em;
+  sup > a.footnote {
+    color: #ddd;
+    font-style: italic;
+    &:hover {
+      cursor: pointer;
+      text-decoration: none;
     }
+  }
+  .reversefootnote {
+    display: none;
   }
 
   .archive-embed {
