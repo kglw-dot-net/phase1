@@ -14,7 +14,7 @@ Recorded live at [L’Olympia, Paris, France, October 14, 2019](/setlists/2019/1
 
 * Recorded by our sound crew: Sam Joseph, Stacey Wilson, Gaspard De Meulemeester
 * Mixed by Stu Mackenzie
-* Cover design by Jason Galea
+* Cover design by Jason Galea  
 <br>  
   
 * Michael Cavanagh: Drums
