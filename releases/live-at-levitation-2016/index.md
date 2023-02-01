@@ -10,6 +10,22 @@ cover: ./cover.jpg
 
 Recorded live at [Carson Creek Ranch, Austin, Texas, USA, May 1st 2016](/setlists/2016/05/01/barracuda-austin-tx). This is the return of KGLW to psychedelic rock festival Levitation (née Austin Psych Fest). They were building up to the release of [Nonagon Infinity](../nonagon-infinity) at the time, playing songs from that album mixed with its predecessor [I’m In Your Mind Fuzz](../im-in-your-mind-fuzz), featuring live staple The River ([Quarters!](../quarters)) and concluding with a rare version of Cut Throat Boogie ([12 Bar Bruise](../12-bar-bruise))
 
-What to listen to next:
+# Album Credits
+
+* Recorded by Craig Lawrence
+* Mixed By Stu Mackenzie
+* Mastered by Joe Carra
+* Cover art by Jason Galea
+<br>  
+  
+* Ambrose Kenny-Smith: Harmonica, Keys, Vocals
+* Cook Craig: Guitar, Keys, Bass
+* Eric Moore: Drums
+* Joey Walker: Guitar, Vocals
+* Lucas Skinner: Bass
+* Michael Cavanagh: Drums
+* Stu Mackenzie: Guitar, Vocals, Flute
+
+# What to listen to next:
 
 *   [If you want to hear their previous visit to Levitation](../live-at-levitation-2014)

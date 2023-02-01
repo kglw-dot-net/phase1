@@ -12,6 +12,20 @@ Recorded live at [The Princess Theatre, Meeanjin (Brisbane), December 19th 2021]
 
 Courtesy of the theme, the set-list contains a selection too unique to give highlights – consisting of their chillest and grooviest songs, the vibes are high and the toned down, ‘unplugged’ style instrument suite gives these songs rare justice after years of frenetic live shows.
 
-What to listen to next:
+# Album Credits
+
+* Recorded by our sound crew: Sam Joseph, Nico Wilson, Toby Brandon
+* Mixed by Stu Mackenzie
+* Cover art by Jason Galea
+<br>  
+  
+* Michael Cavanagh: Drums
+* Cook Craig: Guitar, Mellotron, Piano
+* Lucas Harwood: Bass
+* Ambrose Kenny-Smith: Harmonica, Vocals, Piano, Mellotron, Percussion, Saxophone
+* Stu Mackenzie: Vocals, Guitar, Flute, Piano
+* Joey Walker: Guitar, Vocals
+
+# What to listen to next:
 
 *   [If you want to hear another themed live set-list](../live-in-melbourne-2021)
