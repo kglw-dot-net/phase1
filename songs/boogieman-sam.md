@@ -8,7 +8,7 @@ album: Fishing For Fishies
 
 # Lyrics
 
-> Well up jumped the boogieman. He ate mumma's babies and shot the shot the policeman.  
+> Well up jumped the boogieman. He ate mumma's babies and shot the policeman.  
 > Went down to the nightclub, shocked all the patrons.  
 > Boogie, boogie, boogie, boogieman with the room in his hand.  
 > Causing mayhem 'cos he's the boogieman. Causing mayhem 'cos he's the Boogieman Sam.  
@@ -17,7 +17,7 @@ album: Fishing For Fishies
 > Well up jumped the boogieman. He stole from a punter, the exact shoes he wanted,   
 > to carve holes in the floorboards and dance like a demon.  
 > Boogie, boogie, boogie, boogieman with the room in his hand.  
-> Causing mayhem 'cos he's the boogieman. Arms are flailing 'cos he's Boogieman Sam.  
+> Causing mayhem 'cos he's the boogieman. Arms are flailing 'cos he's the boogieman.  
 > Doing damage 'cos he's the boogieman. He's outlandish 'cos he's Boogieman Sam.  
 > Boogieman Sam.  
 >  
