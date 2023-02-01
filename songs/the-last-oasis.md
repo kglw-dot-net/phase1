@@ -54,7 +54,7 @@ album: Gumboot Soup
 > Says Zurbuchen  
 >  
 > The last oasis is like a flag beating in the wind  
-> The world has wasted and then squandered lands are compassionless  
+> The world has wasted and the squandered lands are compassionless  
 > The last oasis shines a beacon like a lighthouse over  
 > Lonely countries of death, like yellow sea  
 
