@@ -17,7 +17,7 @@ Recorded live at [New Belgium Brewing Company, Asheville, NC, USA, September 1st
 * Mastered by Joseph Carra
 * Cover design by Jason Galea
 <br>  
-  
+   
 * Michael Cavanagh: Drums  
 * Cook Craig: Guitar, Keys  
 * Ambrose Kenny-Smith: Harmonica, Vocals, Keys, Percussion  
