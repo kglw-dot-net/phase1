@@ -4,7 +4,7 @@ title: "Infest the Rats' Nest"
 bandcamp: https://kinggizzard.bandcamp.com/album/infest-the-rats-nest-2
 release_date: 2019-08-16
 discogs: https://www.discogs.com/master/1590025-King-Gizzard-And-The-Lizard-Wizard-Infest-The-Rats-Nest
-cover: ./cover.png
+cover: ./cover.jpg
 ---
 
 > Open your eyes and light the fluid  

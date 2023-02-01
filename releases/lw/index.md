@@ -4,7 +4,7 @@ title: "L.W."
 bandcamp: https://kinggizzard.bandcamp.com/album/l-w
 release_date: 2021-02-25
 discogs: https://www.discogs.com/master/1996411-King-Gizzard-And-The-Lizard-Wizard-LW
-cover: ./cover.png
+cover: ./cover.jpg
 redirect_from:
   - /releases/l-w
 ---
