@@ -1,8 +1,9 @@
 ---
 layout: release
 title: "Live In Adelaide ’19"
-release_date: 2020-01-10
+bandcamp: https://kinggizzard.bandcamp.com/album/live-in-adelaide-19
 discogs: https://www.discogs.com/master/2013922-King-Gizzard-The-Lizard-Wizard-Live-In-Adelaide-19
+release_date: 2020-01-10
 cover: ./cover.jpg
 ---
 <br>
