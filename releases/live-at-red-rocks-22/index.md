@@ -11,21 +11,21 @@ Recorded live at Red Rocks Amphitheatre, Morrison, CO, USA, [Oct 10](https://kgl
 
 # Album Credits
 
-* Recorded by our sound crew: Sam Joseph, Nico Wilson, Gaspard Demulemeester and Gabe Nardin
-* Mixed by Stu Mackenzie
-* Cover design by Jason Galea
-* Photography by Maclay Heriot
-<br>
-
-* Ambrose Kenny-Smith: Harmonica, Keys, Vocals, Saxophone, Percussion
-* Cook Craig: Guitar, Keys, Vocals, Synthesiser
-* Joey Walker: Guitar, Vocals, Synthesiser
-* Lucas Harwood: Bass
-* Michael Cavanagh: Drums
-* Stu Mackenzie: Guitar, Vocals, Flute, Keys
-<br>
-
-* Leah Senior: Vocals track 21-23, 46-51, 84-85
+* Recorded by our sound crew: Sam Joseph, Nico Wilson, Gaspard Demulemeester and Gabe Nardin  
+* Mixed by Stu Mackenzie  
+* Cover design by Jason Galea  
+* Photography by Maclay Heriot  
+<br>  
+  
+* Ambrose Kenny-Smith: Harmonica, Keys, Vocals, Saxophone, Percussion  
+* Cook Craig: Guitar, Keys, Vocals, Synthesiser  
+* Joey Walker: Guitar, Vocals, Synthesiser  
+* Lucas Harwood: Bass  
+* Michael Cavanagh: Drums  
+* Stu Mackenzie: Guitar, Vocals, Flute, Keys  
+<br>  
+  
+* Leah Senior: Vocals track 21-23, 46-51, 84-85  
 
 # What to listen to next:
 
