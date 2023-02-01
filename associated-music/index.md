@@ -81,7 +81,7 @@ _Traffik Island_ is the solo project of Zak Olsen from ORB. Alternating between 
 ### Stonefield  
 _Stonefield_ is a [Heavy Psych](https://www.youtube.com/watch?v=63gsuRoP5ew) quartet of sisters: Amy, Hannah, Sarah, and Holly Findlay. They are signed to Flightless Records and have toured with King Gizzard. Though uncredited, Amy plays drums on Persistence from _[Omnium Gatherum](https://kglw.net/releases/omnium-gatherium)_, and is Cavs' spouse.
 
-### Amyl and the Sniffers  
+### Amyl and The Sniffers  
 _Amyl and the Sniffers_ were the Flightless Records label-mate of King Gizzard while they went through their own meteroic rise. They are known for their [high energy live show](https://www.youtube.com/watch?v=wOob4gbiTrk), and are a frequent collaborator with King Gizzard friend [John Angus Stewart](https://kglw.net/band-bio#john-angus-stewart).
 
 ### Tropical Fuck Storm
