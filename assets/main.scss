@@ -405,8 +405,14 @@ article.release {
   }
 }
 
-ul.songlist {
+ul.songlist { // `/songs` page
   columns: 14em;
+}
+
+h2#canonical-albums ~ ul { // Releases page
+  columns: 15em;
+  &.albums-canon {
+  }
 }
 
 .corrections {
