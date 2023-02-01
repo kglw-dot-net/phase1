@@ -17,16 +17,16 @@ The ‘front’ of the band, lead songwriter, lead vocalist, and steers the crea
 The primary of three guitarists, with the occasional lead vocal and songwriting credit, and often composes and plays bass in studio recordings. Specialises in [electronic music production](https://kglw.net/associated-music/#bullant) and occasionally performs DJ sets.
 
 ### Ambrose "Amby" Kenny-Smith
-Occupies a ‘spotlight’ role and provides the group’s signature harmonica wail and live percussion/keys duties. Has the second most vocal and co-writing credits, and occasionally plays alto saxophone.
+Occupies a ‘spotlight’ role and provides the group’s signature harmonica wail and live percussion/keys duties. Has the second most vocal and co-writing credits, and occasionally plays alto saxophone. Ambrose is also the principal member of [The Murlocs](https://kglw.net/associated-music/#the-murlocs).
 
 ### Cook Craig
-The third guitarist and occasional keys player, Cook also contributes the occasional song and lead vocal in his kooky [Zolo](https://www.last.fm/tag/zolo) style.
+The third guitarist and occasional keys player, Cook also contributes the occasional song and lead vocal in his kooky [Zolo](https://www.last.fm/tag/zolo) style. Cook has the solo project [Pipe-Eye](https://kglw.net/associated-music/#pipe-eye), and plays bass in [The Murlocs](https://kglw.net/associated-music/#the-murlocs).
 
 ### Lucas Harwood (né Skinner)
 Lucas' primary musical role is playing bass live, and occasionally performs in studio recordings.
 
 ### Michael "Cavs" Cavanagh
-The drummer, composes and performs all primary percussion duties.
+The drummer, composes and performs all primary percussion duties. Releases solo percussive music as [CAVS](https://kglw.net/associated-music/#cavs).
 
 ## Ancillary Members and Associates
 
@@ -34,7 +34,7 @@ The drummer, composes and performs all primary percussion duties.
 [Jason](https://jasongalea.com/) is the primary visual artist for the group, who in turn consider him a de-facto member of the band. He works in many formats and mediums including paint, digital illustration, animation, and sculpture; producing all the album artworks for the band as well as most music videos, merch designs, tour posters and live visuals. He founded the [_Zonk Vision_ audio/visual collective](https://www.youtube.com/channel/UCRpt88xyuJpE6N510kVZDJA) and thereby discovered the band around the same time as the band was forming — as a skater, he knew Ambrose through their local skateboard scene.
 
 ### Eric Moore
-Eric began in the band as the secondary drummer, usually playing live in unison with Cavs, and rarely recorded for the studio material. Founder and director of Flightless Records, who published the band's material for nearly ten years, and also managed the band up until August 2020 when he departed the group to focus on the label full time.
+Eric began in the band as the secondary drummer, usually playing live in unison with Cavs, and rarely recorded for the studio material. He is the founder and director of Flightless Records, who published the band's material for nearly ten years, and also managed the band up until August 2020 when he departed the group to focus on the label full time.
 
 Since the split from the band, [Flightless Records](https://flightlessrecords.com/) is now just one branch of a larger organisation since including Flightless Distro, a product design/shipping fulfilment facility for the Melbourne record industry, and Flightless Factory, a niche interest record store. The band now self-publish under the 'KGLW' label (part of [Ochre / Bleep](https://bleep.com/label/2256-ochre-records)).
 
