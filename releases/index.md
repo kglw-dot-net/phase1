@@ -11,35 +11,35 @@ The main output of the band. Most groups never make so many albums in a full car
 *   [Float Along — Fill Your Lungs](../releases/float-along-fill-your-lungs) (2013)
 *   [Oddments](../releases/oddments) (2014)
 *   [I’m in Your Mind Fuzz](../releases/im-in-your-mind-fuzz) (2014)
-*   [Quarters!](../releases/quarters) (2015)
 *   [Paper Mâché Dream Balloon](../releases/paper-mache-dream-balloon) (2015)
+*   [Quarters!](../releases/quarters) (2015)
 *   [Nonagon Infinity](../releases/nonagon-infinity) (2016)
-*   [Flying Microtonal Banana](../releases/flying-microtonal-banana) (2017)
 *   [Murder of the Universe](../releases/murder-of-the-universe) (2017)
-*   [Sketches of Brunswick East](../releases/sketches-of-brunswick-east) (2017)
-*   [Polygondwanaland](../releases/polygondwanaland) (2017)
+*   [Flying Microtonal Banana](../releases/flying-microtonal-banana) (2017)
 *   [Gumboot Soup](../releases/gumboot-soup) (2017)
-*   [Fishing for Fishies](../releases/fishing-for-fishies) (2019)
+*   [Polygondwanaland](../releases/polygondwanaland) (2017)
+*   [Sketches of Brunswick East](../releases/sketches-of-brunswick-east) (2017)
 *   [Infest the Rats’ Nest](../releases/infest-the-rats-nest) (2019)
+*   [Fishing for Fishies](../releases/fishing-for-fishies) (2019)
 *   [K.G.](../releases/kg) (2020)
 *   [L.W.](../releases/lw) (2021)
 *   [Butterfly 3000](../releases/butterfly-3000) (2021)
 *   [Made In Timeland](../releases/made-in-timeland) (2022)
-*   [Omnium Gatherum](../releases/omnium-gatherum) (2022)
-*   [Ice, Death, Planets, Lungs, Mushrooms and Lava](../releases/ice-death-planets-lungs-mushrooms-and-lava) (2022)
 *   [Laminated Denim](../releases/laminated-denim) (2022)
+*   [Omnium Gatherum](../releases/omnium-gatherum) (2022)
 *   [Changes](../releases/changes) (2022)
+*   [Ice, Death, Planets, Lungs, Mushrooms and Lava](../releases/ice-death-planets-lungs-mushrooms-and-lava) (2022)
 {:class="albums-canon"}
 
 ## Non-Canonical Releases
 
 So you’ve heard enough studio albums for the tendrils of the Gizzverse to start creeping through your mind, where do you go next to gain a higher order appreciation of the catalogue? There are in fact several releases that fall outside the primary studio material, but complement it in various ways.
 
-*   [Willoughby’s Beach](../releases/willoughbys-beach)
-*   [Butterfly 3001](../releases/butterfly-3001)
-*   [Chunky Shrapnel](../releases/chunky-shrapnel)
+*   [Willoughby’s Beach](../releases/willoughbys-beach) (2011)
 *   [Live in San Francisco ’16](../releases/live-in-san-francisco-2016)
-*   [Satanic Slumber Party](../releases/satanic-slumber-party)
+*   [Chunky Shrapnel](../releases/chunky-shrapnel) (2020)
+*   [Butterfly 3001](../releases/butterfly-3001) (2022)
+*   [Satanic Slumber Party](../releases/satanic-slumber-party) (2022)
 {:class="albums-noncanon"}
 
 ## Official Bootlegger Program
