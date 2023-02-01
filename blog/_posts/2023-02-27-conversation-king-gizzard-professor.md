@@ -92,7 +92,7 @@ I find it interesting that historical periods might not be documented very well.
 That's an issue that I've had trying to track the early history of King Gizzard members as well. Some of that stuff only existed on MySpace and is now just lost.
 I was born early in that era, so I noticed in your PhD you mentioned the _Resin Dogs_, which is a band that I only know of because they were one of the more popular live acts to tour regularly in our region; I’m sure they now have some stuff published digitally, but I bet it's not being streamed very much.
 
-{% include youtube.html id="" title="Resin Dogs - 'Set It Off' (Live at Jungle Love 2015)" %}
+{% include youtube.html id="QTTElvVlwMY" title="Resin Dogs - 'Set It Off' (Live at Jungle Love 2015)" %}
 
 **Dr. Barry Hill:**  
 You did have the Global Carnival where you were, that was a really iconic festival. The after party was always a cracker as well.
@@ -282,9 +282,9 @@ I think that circles back nicely to King Gizz, who as environmentalists themselv
 **Dr. Barry Hill:**  
 They sponsor a football team! It's fantastic that they’re sponsoring an AFLW football team, that can't get more Melbourne.
 
-![The King Gizzard name appears as a sponsor on the jerseys of Angelsea FNC](https://user-images.githubusercontent.com/114916472/215664596-985ec6d3-0928-47eb-865b-1d2c96e2b124.png)  
+https://www.instagram.com/p/CjxHOrWvzyD/
 
-> Growing up in Angelsea, Stu was a keen AFL player, and in 2004 captained a team that included future AFL champion Patrick Dangerfield. Stu is a relative of Angelsea club president Jamie Mackenzie, and so when they started their first women's team in 2022, King Gizzard and the Lizard Wizard became a sponsor. (Photo - ABC News: Jeremy Story Carter)
+> Growing up in Angelsea, Stu was a keen AFL player, and in 2004 captained a team that included future AFL champion Patrick Dangerfield. Stu is a relative of Angelsea club president Jamie Mackenzie, and so when they started their first women's team in 2022, King Gizzard and the Lizard Wizard became a sponsor. (Photo: Angelsea FNC via Instagram)
 
 **W.B.T.G. Slinger:**  
 With all that in mind, there's going to be a lot of international readers. I wondered if you could provide insight to the environmentalism of a millennial rock band from rural Victoria — where does it come from, or what does environmentalism mean to them?
