@@ -6,6 +6,7 @@ release_date: 2021-05-29
 discogs: https://www.discogs.com/master/2149990-King-Gizzard-And-The-Lizard-Wizard-Live-In-Sydney-21
 cover: ./cover.jpg
 ---
+<br>
 
 Recorded live at [The Enmore Theatre, Cadigal country (Sydney), Australia, April 22nd 2021](/setlists/2021/04/22/enmore-theatre-sydney-australia.html). This release was also made [available on Youtube](https://www.youtube.com/watch?v=JbjZ-jZnoss) by the band with concert footage. The performance occurred shortly after the release of [L.W.](../lw) and has an entirely microtonal set-list comprised with the other two volumes of that series and some rarities from [Sketches Of Brunswick East](../sketches-of-brunswick-east).
 
