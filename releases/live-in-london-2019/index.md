@@ -14,7 +14,7 @@ Recorded live at [Alexandra Palace, London, England, October 5th 2019](/setlists
 
 * Recorded by our sound crew: Sam Joseph, Stacey Wilson, Gaspard De Meulemeester
 * Mixed by Stu Mackenzie
-* Cover design by Jason Galea
+* Cover design by Jason Galea  
 <br>
 
 * Michael Cavanagh: Drums
