@@ -231,12 +231,19 @@ footer.site-footer {
   }
 
   .youtube-embed {
-    width: 90vw;
+    width: 90%;
     max-width: calc(800px - (30px * 2)); // same as max-width on .wrapper
     aspect-ratio: 16 / 9;
     margin-bottom: 2em;
   }
+}
 
+aside {
+  margin: 1em 2em 2em 4em;
+  padding: 1em 2em;
+  background: #222;
+  color: #aaa;
+  font-style: italic;
 }
 
 main > .wrapper {
@@ -286,6 +293,10 @@ nav.setlist { // next/prev links
       content: 'next show:\0A';
     }
   }
+}
+
+.instagram-media {
+  margin: 0 auto 1em !important; // center, override the margin rules from i'gram
 }
 
 .corrections {

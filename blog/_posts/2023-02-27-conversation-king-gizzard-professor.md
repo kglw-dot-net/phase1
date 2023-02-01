@@ -15,7 +15,9 @@ It is [one of their first ever performances](/setlists/2010/10/29/rmit-melbourne
 
 {% include youtube.html id="MsVIVFLqrfY" title="Stu's final assessment for the Performance Workshop Unit, RMIT, 29 October 2010" %}
 
-_Throughout our conversation, we cover the stand-out approach of the band, the unique aspects of the Australian music industry, what they did right to make success, innovation driven by the arts sector, and generally break down King Gizzard in terms of their cultural and environmental contexts._
+Throughout our conversation, we cover the stand-out approach of the band, the unique aspects of the Australian music industry, what they did right to make success, innovation driven by the arts sector, and generally break down King Gizzard in terms of their cultural and environmental contexts.
+
+-------
 
 **W.B.T.G. Slinger:**  
 So we wanted to speak to you because of the video you posted of King Gizzard performing in 2010 for an assessment in your course at RMIT. Can you elaborate on the context of teaching most of the band at university?
@@ -23,7 +25,9 @@ So we wanted to speak to you because of the video you posted of King Gizzard per
 **Dr. Barry Hill:**  
 So here's the backstory to me getting back into academia after my [PhD](https://drbazhspace.wordpress.com/ph-d/). I really went into the music industry sort of gung-ho from the nineties into the early noughties, I was really trying to make it work as a career. My two bands: _The Bird_, and _Amphibian_ had gotten really close, we were getting ‘Triple J famous’, we had independent record deals, we were doing little tours over to Europe. This is relevant to the King Gizz story because I noticed how much you got appreciated overseas as an Australian artist overseas. When my Amphibian instrumental trio went to Europe for the first time everyone was really interested. At the time we were also really quite popular in Melbourne, but the money we were getting from gigs was next to nothing, and we didn't really get much record company interest. There were a couple of people at Triple J who liked the music, so we're getting a bit of airplay, but we were finding touring in Australia was a struggle. If you could find a way to get overseas, all of a sudden, you’d sell out all your CDs, and you'd get a bit of a following, festivals were paying good money, which would make it possible for you to actually come back with some in your pocket.
 
-_Triple J is a government funded national radio station broadcasting since 1975 and geared toward alternative music for a youth audience. Triple J is a cornerstone of the Australian music industry, and as a part of the Australian Broadcasting Corporation is subject to strict editorial policy and not allowed to run advertisements._
+<aside>
+Triple J is a government funded national radio station broadcasting since 1975 and geared toward alternative music for a youth audience. Triple J is a cornerstone of the Australian music industry, and as a part of the Australian Broadcasting Corporation is subject to strict editorial policy and not allowed to run advertisements.
+</aside>
 
 **W.B.T.G. Slinger:**  
 Well, that was the break for King Gizz as well really, they won their grant in 2014 and got to go to the US for the first time. That's really where it all kind of came together for them.
@@ -40,7 +44,7 @@ Well, each of them had been in quite a few pretty loosely structured bands over 
 
 **Dr. Barry Hill:**  
 So that footage that I've posted, I've gone through that archive, and I've actually got all these different performances by Eric and Stu and Joey doing all different things. I've thought, maybe I could release these as well, but I'd have to make sure that they're happy with that.
-Eric in particular was obviously a superb drummer. I wanted to play with him, he really sounded like Elvin Jones from John Coltrane's band, he's got that amount of creativity. And yeah, lovely guy. But he was really lazy on assessments and getting prepared. He'd rock up to the performance exam and go, ‘I just put this together yesterday’. So posting that sort of stuff, he might not be very happy with. I'm gonna see if I might contact them first and see if they think it's suitable or if they're happy for it to be put up. As they obviously had a project together, and were sort of like a little bit of a gang.
+Eric in particular was obviously a superb drummer. I wanted to play with him, he really sounded like [Elvin Jones](https://en.wikipedia.org/wiki/Elvin_Jones) from John Coltrane's band, he's got that amount of creativity. And yeah, lovely guy. But he was really lazy on assessments and getting prepared. He'd rock up to the performance exam and go, ‘I just put this together yesterday’. So posting that sort of stuff, he might not be very happy with. I'm gonna see if I might contact them first and see if they think it's suitable or if they're happy for it to be put up. As they obviously had a project together, and were sort of like a little bit of a gang.
 
 **W.B.T.G. Slinger:**  
 So that stood out to you among their whole course? Was there a sort of ‘spark’, do you think? 
@@ -79,7 +83,7 @@ I feel really sort of vindicated because of what I talked about in my lectures a
 **W.B.T.G. Slinger:**  
 Like with The Avalanches.
 
-{% include youtube.html id="qLrnkK2YEcE" title="The Avalanches - Frontier Psychiatrist (Official Video)" %}
+{% include youtube.html id="qLrnkK2YEcE" title="The Avalanches: Frontier Psychiatrist" %}
 
 **Dr. Barry Hill:**  
 Hm, The Avalanches, you know.
@@ -92,7 +96,7 @@ I find it interesting that historical periods might not be documented very well.
 That's an issue that I've had trying to track the early history of King Gizzard members as well. Some of that stuff only existed on MySpace and is now just lost.
 I was born early in that era, so I noticed in your PhD you mentioned the _Resin Dogs_, which is a band that I only know of because they were one of the more popular live acts to tour regularly in our region; I’m sure they now have some stuff published digitally, but I bet it's not being streamed very much.
 
-{% include youtube.html id="QTTElvVlwMY" title="Resin Dogs - 'Set It Off' (Live at Jungle Love 2015)" %}
+{% include youtube.html id="QTTElvVlwMY" title="Resin Dogs: Set It Off (Live at Jungle Love 2015)" %}
 
 **Dr. Barry Hill:**  
 You did have the Global Carnival where you were, that was a really iconic festival. The after party was always a cracker as well.
@@ -102,12 +106,12 @@ I was a bit young for the after party, but yeah, the Global Carnival was very mu
 
 **Dr. Barry Hill:**  
 Oh, well you probably would have seen me play, because I used to play in a variety of groups there in the nineties, like as a hired drum and bass player. I was with a lot of multicultural groups playing African music, South American music, and hybrid Indian music.
-That era was really instrumental for me, I was very much a Sydney based musician then - and just trying to circle this back to King Gizzard - back then, Sydney and Melbourne bands didn't really get to know each other that much. It's just a little bit too far when you're starting out. I remember going to Melbourne for the first time in the early 90s and getting blown away by the strength of the music scene. While it was happening, we had just been through a progression of shutdowns of live music venues being replaced by pokies _[slot machines]_. Melbourne just seemed to be really vibrant with amazing music, but not many people getting paid very well. Little cafes and pubs that could get liquor licenses that they wouldn’t be able to in New South Wales. It's like a different country.
+That era was really instrumental for me, I was very much a Sydney based musician then — and just trying to circle this back to King Gizzard — back then, Sydney and Melbourne bands didn't really get to know each other that much. It's just a little bit too far when you're starting out. I remember going to Melbourne for the first time in the early 90s and getting blown away by the strength of the music scene. While it was happening, we had just been through a progression of shutdowns of live music venues being replaced by pokies _[slot machines]_. Melbourne just seemed to be really vibrant with amazing music, but not many people getting paid very well. Little cafes and pubs that could get liquor licenses that they wouldn’t be able to in New South Wales. It's like a different country.
 
 **W.B.T.G. Slinger:**  
-It's funny how little has changed. You had the Sydney lockout laws through the 2010s - which were implemented not long after I moved there — and then I could see friends trying to make it in the Melbourne music scene, the difference is just incredible.
+It's funny how little has changed. You had the Sydney lockout laws through the 2010s — which were implemented not long after I moved there — and then I could see friends trying to make it in the Melbourne music scene, the difference is just incredible.
 
-_In February 2014, the New South Wales Government implemented a set of laws that restricted patrons from entering venues after 1:30AM and the sale of alcohol after 3:30AM [exempting venues that had slot machines]. This resulted in the closure of dozens of live music venues, and was not reversed until January 2020._
+<aside>In February 2014, the New South Wales Government implemented a set of laws that restricted patrons from entering venues after 1:30AM and the sale of alcohol after 3:30AM [exempting venues that had slot machines]. This resulted in the closure of dozens of live music venues, and was not reversed until January 2020.</aside>
 
 **Dr. Barry Hill:**  
 There is a deep-set culture in Sydney, it's sort of like Los Angeles while Melbourne is a bit more like New York. In terms of: shit weather, pollution, and traffic. While I was working at RMIT, trying to drive down Punt Road on a Saturday, with the AFL on you can forget it. Music culture is going to propagate more, because people are just stuck in houses on cold days. Whereas in Sydney you can just go to the beach. There's much more of a bodied, beautiful culture in Sydney, and Melbourne is more about: ‘we're funky, passionate artists’.
@@ -156,7 +160,7 @@ Yeah, it's similar to living in regions like we do as opposed to Living in New Y
 The social media thing is a real help that we didn't have in the nineties, to actually connect with people overseas who might like your music and that might be able to put on a gig for you. I'd love to get Stu and everyone up to my current course to tell my kids how they did it, what the breakthrough moments were. But I reckon the first couple of tours to America must have been in the back of a bus.
 
 **W.B.T.G. Slinger:**  
-Oh, absolutely they were. That $50,000 AUD grant _[the Carlton Dry Global Music Grant won at eh Australian Independent Record Labels Association awards for [Float Along - Fill Your Lungs](https://kglw.net/releases/float-along-fill-your-lungs)]_ got them to the US where they really cut their teeth with a real tour like you can’t do here, and made all sorts of connections. Then they were still able to rent a cheap cabin in upstate New York for a month and buy a bunch of equipment off Craigslist, and traveled down to Brooklyn every weekend to do a residency in the 3am slot at Baby’s All Right. I think half of them would go in the van and the rest had to rotate each week for who would take the bus. That cabin is where [I’m In Your Mind Fuzz](https://kglw.net/releases/im-in-your-mind-fuzz) started coming together, and they had just enough left over to buy some studio time at Daptone for that as well.
+Oh, absolutely they were. That $50,000 AUD grant _[Editor note: the Carlton Dry Global Music Grant won at the Australian Independent Record Labels Association awards for [Float Along — Fill Your Lungs](https://kglw.net/releases/float-along-fill-your-lungs)]_ got them to the US where they really cut their teeth with a real tour like you can’t do here, and made all sorts of connections. Then they were still able to rent a cheap cabin in upstate New York for a month and buy a bunch of equipment off Craigslist, and traveled down to Brooklyn every weekend to do a residency in the 3am slot at Baby’s All Right. I think half of them would go in the van and the rest had to rotate each week for who would take the bus. That cabin is where [I’m In Your Mind Fuzz](https://kglw.net/releases/im-in-your-mind-fuzz) started coming together, and they had just enough left over to buy some studio time at Daptone for that as well.
 So that was their first big leap, in terms of being able to produce their first truly realised studio album, and to tour that much at the same time. They’d hooked up with John Dwyer from Thee Oh Sees, and so that album was their first international publication on his independent label, Castle Face Records.
 
 **Dr. Barry Hill:**  
@@ -167,12 +171,13 @@ And then you can just put in the work.
 
 **Dr. Barry Hill:**  
 They've done it really well.
-I know musicians from all different walks of life, like in the classical music scene as well. Australian classical musicians are playing in half the orchestras around Europe, and they’re the key musicians. My friend, _Joseph Tawadros_ the Oud player, went directly over to New York and recorded with really great musicians, and he's now got multiple ARIAs for World Music albums and doing stuff all over the world, because he developed an international network. I've got my friend <!--Waiting feedback-->_Paul Cawley_, who I met here and is an amazing audio engineer, he went over to Iceland and is now working with Björk and those sorts of people. To me, the thing about being an Australian artist is to recognize that the way to monetize your practice is to get overseas as quickly as possible.
+I know musicians from all different walks of life, like in the classical music scene as well. Australian classical musicians are playing in half the orchestras around Europe, and they’re the key musicians. My friend, _Joseph Tawadros_ the [oud](https://en.wikipedia.org/wiki/Oud) player, went directly over to New York and recorded with really great musicians, and he's now got multiple ARIAs for World Music albums and doing stuff all over the world, because he developed an international network. I've got my friend <!--Waiting feedback-->_Paul Cawley_, who I met here and is an amazing audio engineer, he went over to Iceland and is now working with Björk and those sorts of people. To me, the thing about being an Australian artist is to recognize that the way to monetize your practice is to get overseas as quickly as possible.
 The limited success that I had with Amphibian, we sold more albums in Japan than we ever had here. It was the same sort of thing. We established a relationship with an independent international record label and then from there, you can expand out. Whereas trying to establish a relationship with an indie label here, there's just too many people involved to pay the bills. If you've spent the time developing your practice in Australia, you can't afford to pay a publicist, you can't afford to pay a tour manager, can't afford to pay a manager or a sound engineer. You just gotta go with whatever and do it yourself, which means it's a much slower process, much more frustrating and much more taxing on your band’s practice.
 
-_The Oud is a Lute-like Persian instrument that is approximately one thousand years old:_  
+<aside>The oud is a lute-like Persian instrument that is approximately one thousand years old:
 
 {% include youtube.html id="7LFhFt1PQjg" title="Oud - Vivaldi Four Seasons Summer 3rd Movement - Joseph Tawadros, Richard Tognetti & the ACO" %}
+</aside>
 
 **W.B.T.G. Slinger:**  
 I'm always on the lookout for the post King Gizz generation, and there's one band I've kind of had my eye on that I discovered on [_Rage_](https://en.wikipedia.org/wiki/Rage_(TV_program)), _Liminal_. There are several, but I wanted to mention them because they're actually from Lismore where you are.
@@ -284,7 +289,7 @@ They sponsor a football team! It's fantastic that they’re sponsoring an AFLW f
 
 {% include instagram.html id="CSHEiLIJsMS" caption="The band's name appears on Angelsea FNC players' jerseys (Instagram, 2021)" %}
 
-> Growing up in Angelsea, Stu was a keen AFL player, and in 2004 captained a team that included future AFL champion Patrick Dangerfield. Stu is a relative of Angelsea club president Jamie Mackenzie, and so when they started their first women's team in 2022, King Gizzard and the Lizard Wizard became a sponsor. (Photo: Angelsea FNC via Instagram)
+_Growing up in Angelsea, Stu was a keen AFL player, and in 2004 captained a team that included future AFL champion Patrick Dangerfield. Stu is a relative of Angelsea club president Jamie Mackenzie, and so when they started their first women's team in 2022, King Gizzard and the Lizard Wizard became a sponsor. (Photo: Angelsea FNC via Instagram)_
 
 **W.B.T.G. Slinger:**  
 With all that in mind, there's going to be a lot of international readers. I wondered if you could provide insight to the environmentalism of a millennial rock band from rural Victoria — where does it come from, or what does environmentalism mean to them?
@@ -295,12 +300,12 @@ I think Melbourne is a city that is really pushing the boundaries of Australian 
 It's a very progressive, very innovative city, like with Seattle in America, Apple's there, there are aircraft companies there, and Grunge came from there.
 So basically, I think Melbourne's really like a culturally innovative place, and also environmentally conscious, much more politically aware, and much more progressive than other communities in Australia.
 
-_In February 2009, nearly 450,000 hectares of rural Victoria were decimated in the Black Saturday Bushfire disaster, killing 173 people in the worst event of its kind since Australia’s colonisation. More than ten separate fires burned in various locations across the state, devastating around 80 different communities — including areas surrounding Melbourne local to some of the members of King Gizzard and the Lizard Wizard, who were in the earliest stages of forming at the time._
+<aside>In February 2009, nearly 450,000 hectares of rural Victoria were decimated in the Black Saturday Bushfire disaster, killing 173 people in the worst event of its kind since Australia’s colonisation. More than ten separate fires burned in various locations across the state, devastating around 80 different communities — including areas surrounding Melbourne local to some of the members of King Gizzard and the Lizard Wizard, who were in the earliest stages of forming at the time.</aside>
 
 > Each summer is getting hotter than the one before  
 > Red smoke  
 > Go away, heatwave  
-> You're all around - north to the south  
+> You're all around — north to the south  
 > Red smoke  
 > Go away, heatwave  
 > You're burning down  
