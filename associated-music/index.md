@@ -79,7 +79,7 @@ _ORB_ are a Melbourne based [heavy Psych Rock](https://www.youtube.com/watch?v=P
 _Traffik Island_ is the solo project of Zak Olsen from ORB. Alternating between Syd Barrett-style zany acoustic Psych Folk, and [Plunderphonics dance music](https://www.youtube.com/watch?v=2ymizNTgMYg), this is a carefree project for Zak to express himself and collaborate with other Flightless Records artists.
 
 ### Stonefield  
-_Stonefield_ is a [Heavy Psych](https://www.youtube.com/watch?v=63gsuRoP5ew) quartet of sisters: Amy, Hannah, Sarah, and Holly Findlay. They are signed to Flightless Records and have toured with King Gizzard. Though uncredited, Amy plays drums on Persistence from _[Omnium Gatherum](https://kglw.net/releases/omnium-gatherium)_, and is Cavs' spouse.
+_Stonefield_ is a [Heavy Psych](https://www.youtube.com/watch?v=63gsuRoP5ew) quartet of sisters: Amy, Hannah, Sarah, and Holly Findlay. They are signed to Flightless Records and have toured with King Gizzard. Though uncredited, Amy plays drums on _Persistence_ from _[Omnium Gatherum](https://kglw.net/releases/omnium-gatherium)_, and is Cavs' spouse.
 
 ### Amyl and The Sniffers  
 _Amyl and the Sniffers_ were the Flightless Records label-mate of King Gizzard while they went through their own meteroic rise. They are known for their [high energy live show](https://www.youtube.com/watch?v=wOob4gbiTrk), and are a frequent collaborator with King Gizzard friend [John Angus Stewart](https://kglw.net/band-bio#john-angus-stewart).
