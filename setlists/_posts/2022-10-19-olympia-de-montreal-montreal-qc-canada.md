@@ -42,7 +42,7 @@ modified_date: 2023-01-23
 
 #### Notes
 
-Gaia featured a Cavs drum solo over a metal vamp from the band. Leah Senior was shouted out before the debut of Red Smoke. Hot Water was reprised during Robot Stop.
+Gaia featured a Cavs drum solo over a metal vamp from the band. Leah Senior was shouted out before the live debut of Red Smoke. Hot Water was reprised during Robot Stop.
 
 
 #### Recordings
