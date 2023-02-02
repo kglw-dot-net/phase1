@@ -106,19 +106,19 @@ _Forever Son_ is the solo Rock project of Jack Robbins since the disbandment of 
 _Sagamore_ were a [laid-back Funk band](https://www.youtube.com/watch?v=ZDmlLw6C2PA) featuring Monty and Casey Hartnett, Chris Jennings, Sam Cooper, Sophia and Lubczenko with contributions from Tim Karmouche. They were published by Flightless Records and then Dusky Tracks.
 
 ### Fraser A. Gorman  
-This is the solo project of Revolver & Sun vocalist [Fraser Gorman](https://www.youtube.com/watch?v=WXzflowJlLI). He has continued to collaborate sporadically with Forever Son (Jack Robbins) and Stu.
+This is the solo project of _Revolver & Sun_ vocalist [Fraser Gorman](https://www.youtube.com/watch?v=WXzflowJlLI). He has continued to collaborate sporadically with Forever Son (Jack Robbins) and Stu.
 
 ## Influencees  
 In time, King Gizzard and the Lizard Wizard will become a point of reference for generations of future musicians. Now after more than a decade since their debut, this process is just now beginning to be expressed in newer bands.
 
 ### Psychedelic Porn Crumpets  
-Psychedelic Porn Crumpets blur the line between being contemporaries of King Gizzard and Tame Impala rather than the next generation, but their being several years younger as a band is clear. Tending to go for a cleaner guitar sound, they effortlessly match the energy of King Gizzard's _[Nonagon Infinity](https://kglw.net/releases/nonagon-infinity)_ and have strongly established themselves as a psychedelic drenched raging party band.
+_Psychedelic Porn Crumpets_ blur the line between being contemporaries of King Gizzard and _Tame Impala_ rather than the next generation, but their being several years younger as a band is clear. Tending to go for a cleaner guitar sound, they effortlessly match the energy of King Gizzard's _[Nonagon Infinity](https://kglw.net/releases/nonagon-infinity)_ and have strongly established themselves as a psychedelic drenched raging party band.
 
 ### Liminal  
 _Liminal_ are a Psych Rock band from Lismore, New South Wales, who are developing a distinct King Gizzard flavoured sound but with space enough for their own personality too. Principal member Alako Myles can be seen wearing a King Gizzard shirt in their music video for [Ettarath](https://www.youtube.com/watch?v=44iDsMeL_pk). They released their debut album, _Place_, in 2021.
 
 ### The Lazy Eyes  
-_The Lazy Eyes_ are a Sydney, New South Wales based Psych Rock band who released their debut album, _Songbook_, in 2022. Wearing their influences on their sleeve, several tracks on the album nod to other Psych Rock projects by using their sounds, such as _The Seaside_ with _Innerspeaker_-era Tame Impala guitar tones, hints of _ORB_ on their breakout single _Fuzz Jam_, and of course the Kraut-Gizz inspired _Where's My Brain???_. 
+_The Lazy Eyes_ are a Sydney, New South Wales based Psych Rock band who released their debut album, _Songbook_, in 2022. Wearing their influences on their sleeve, several tracks on the album nod to other Psych Rock projects by using their sounds, such as _The Seaside_ with _Innerspeaker_-era _Tame Impala_ guitar tones, hints of _ORB_ on their breakout single _Fuzz Jam_, and of course the kraut-Gizz inspired _Where's My Brain???_. 
 
 ### Battlesnake  
 Significantly heavier and looser than King Gizzard, they use a similar 'all-in' approach creating the appearance of a drastic mythology that is little but post-King Gizzard. This is best demonstrated by their music video for _[I Am The Vomit](https://www.youtube.com/watch?v=0WwdhX6E2NY)_.
