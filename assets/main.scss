@@ -327,6 +327,14 @@ main > .wrapper {
   }
 }
 
+.post-content { // also on homepage...
+  img.float-right {
+    max-width: 33%;
+    margin: 0 0 1em 1em;
+    float: right;
+  }
+}
+
 article.setlist {
   order: 2;
   margin-top: 4em; // slightly more than height of nav.setlist
