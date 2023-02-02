@@ -1,8 +1,14 @@
 ---
-title: "kglw.net Meta-Post #01 - Band Contact & Setlist Notation"
+title: "KGLW.net Meta-Post #01 - Band Contact & Setlist Notation"
 ---
 
-Phase 1 of kglw.net is in full swing, and the response to the site has been great so far. Thank you to everyone who has used it!  
+[Head On/Pill]: /songs/head-on-pill
+[I'm Not In Your Mind]: /songs/im-not-in-your-mind
+[Nonagon Infinity]: /releases/nonagon-infinity
+[The Dripping Tap]: /songs/the-dripping-tap
+[The Lord of Lightning]: /songs/the-lord-of-lightning
+
+Phase 1 of KGLW.net is in full swing, and the response to the site has been great so far. Thank you to everyone who has used it! <!--snippet-->  
 The team has grown significantly since the launch of Phase 1. Welcome to our new contributors who are getting the [blog](https://kglw.net/blog) rolling: proofreaders, curators, archivists, and specialists from across the community.  
 The site is growing in many small ways from aesthetic and navigation features, to expanding on existing content, and it is already time for another update on some of our bigger projects:
 
@@ -15,61 +21,83 @@ You will also find our [discography information pages](https://kglw.net/releases
 In the endless effort to expand on informative King Gizzard content, we have launched [a list](https://kglw.net/associated-music/) of side projects, prior bands, associates, friends, and even new bands influenced by the Gizz. The King Gizzard network is huge; and once again we couldn't find one comprehensive place for all this information, so what better opportunity to make one.
 
 ## Advanced Setlist Notation
-A big goal for Phase 1 is to bring every setlist up to its maximum potential detail and accuracy. This means manually reviewing each and every available recording and comparing notes as a team, something we are hard at work at and loving. We have now completed this starting from [the current most recent show](https://kglw.net/setlists/2023/01/06/tsb-stadium-new-plymouth.html) back to night one at Red Rocks. This period contains the most significant part of their last NA tour, which caused the fanbase to explode into a jam-type scene and inspired the formation of this site, and was the prompt to make this update.
+A big goal for Phase 1 is to bring every setlist up to its maximum potential detail and accuracy. This means manually reviewing each and every available recording and comparing notes as a team, something we are hard at work at and loving. We have now completed this starting from [the current most recent show](https://kglw.net/setlists/2023/01/06/tsb-stadium-new-plymouth.html) back to night one at Red Rocks. This period contains the most significant part of their last North America tour, which caused the fanbase to explode into a jam-type scene and inspired the formation of this site, and was the prompt to make this update.
 
 The fans of jam bands tend to develop a unique dialect for describing exactly why any given setlist or live moment is special, and our listening exercise is the perfect way to kickstart this process for the many diverse types of King Gizz jams already out there. Newcomers to the tape scene may be confused at what exactly they are reading — or perhaps even more so — the most grizzled Deadhead may disagree with one of our notations because it goes against something that may have been standard for decades. We cannot claim to be the arbiters of the King Gizz jam scene, so we of course welcome input (with reasoning and examples!).  
 Here is a glossary for what we have found so far:
 
+
 ### Tease  
-This is a musical reference to, or an element from one song contained within another song. It can be a melody, riff, chord progression, or any other intentionally recognisable song element. King Gizz have often done this through their career, but 2022 saw a massive increase in the frequency and diversity of these teases. It is most commonly done between longer, 'jammier' songs such as _Head On - Pill_, or _The Dripping Tap_, or songs that are compositionally similar such as the _I'm In Your Mind Fuzz_ suite. Occasionally songs from other artists may be teased, such as the frequent use of _Hawkwind - Master of the Universe_ during _Robot Stop_ throughout 2017.
+This is a musical reference to, or an element from one song contained within another song. It can be a melody, riff, chord progression, or any other intentionally recognisable song element. King Gizz have often done this through their career, but 2022 saw a massive increase in the frequency and diversity of these teases. It is most commonly done between longer, 'jammier' songs such as _[Head On/Pill]_, or _[The Dripping Tap]_, or songs that are compositionally similar such as the _I'm In Your Mind Fuzz_ suite. Occasionally songs from other artists may be teased, such as the frequent use of [Hawkwind's "Master of the Universe"](https://en.wikipedia.org/wiki/Masters_of_the_Universe_(Hawkwind_album)) during _Robot Stop_ throughout 2017.
 
-Example:
-[Jan 6 2023 at New Plymouth Aotearoa (New Zealand)](https://kglw.net/setlists/2023/01/06/tsb-stadium-new-plymouth.html), Joey begins playing a riff from [_The Dripping Tap_](https://kglw.net/songs/the-dripping-tap) within [_I'm Not In Your Mind_](https://kglw.net/songs/im-not-in-your-mind) (_I'm Not In Your Mind_ could be said to contain a 'tease' of the '_Arabian riff/streets of Cairo_', though this is how the song is recorded and therefore is not worth noting as a significant live event. The same could be said for the _Mind Fuzz suite_ within [_The Lord of Lightning_](https://kglw.net/songs/the-lord-of-lightning), or many songs from [_Nonagon Infinity_] within others, that is just how the songs are written and recorded):
+**Example:**  
+[Jan 6 2023 at New Plymouth Aotearoa (New Zealand)](https://kglw.net/setlists/2023/01/06/tsb-stadium-new-plymouth.html), Joey begins playing a riff from _[The Dripping Tap]_ within _[I'm Not In Your Mind]_ <!--(_I'm Not In Your Mind_ could be said to contain a 'tease' of the '_Arabian riff/streets of Cairo_', though this is how the song is recorded and therefore is not worth noting as a significant live event. The same could be said for the _Mind Fuzz suite_ within _[The Lord of Lightning]_, or many songs from _[Nonagon Infinity]_ within others, that is just how the songs are written and recorded)-->:
 
-<iframe width="1903" height="768" src="https://youtu.be/NwOVF_JJMPs?t=334" title="N.Z. New Plymouth / King Gizzard and the Lizard Wizard - January 6, 2023 (Full Show)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<aside>
+{% include youtube.html id="NwOVF_JJMPs" start="334" title="Dripping Tap tease @ 5:34" %}
+</aside>
 
-Non-example:
-[Oct 27 2022 at the Orpheum Theater in New Orleans](https://kglw.net/setlists/2022/10/27/orpheum-theater-new-orleans-la.html), the band begin an extended jam within _Evil Death Roll_ with improvised elements that are reminiscent of, but not quite the same as _Hypertension_. Teases are often used to foreshadow songs that are coming up in the setlist, but not in this case, even though _Hypertension_ was actually played soon after.
+**Non-example:**  
+[Oct 27 2022 at the Orpheum Theater in New Orleans](https://kglw.net/setlists/2022/10/27/orpheum-theater-new-orleans-la.html), the band begin an extended jam within _Evil Death Roll_ with improvised elements that are reminiscent of, but not quite the same as _Hypertension_. <!--Teases are often used to foreshadow songs that are coming up in the setlist, but not in this case, even though _Hypertension_ was actually played soon after.-->
 
-<iframe width="1903" height="768" src="https://youtu.be/dFmecOw9ago?t=1471" title="King Gizzard And The Lizard Wizard- 10/27/22- Orpheum Theater- New Orleans, LA- Full Set- AUDIO ONLY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<aside>
+  {% include youtube.html id="dFmecOw9ago" start="1471" title="Evil Death Roll jam" %}
+</aside>
+
 
 ### Quote  
 Similar to a tease, this is when lyrics from one song are sung within another. This can be done either isolated to or in conjunction with a tease. In [general usage](https://en.m.wikipedia.org/wiki/Musical_quotation) of the term, a musical quote is not confined only to lyrics and applies more like our definition of tease above. We believe the way that King Gizzard separately apply music and lyrics from different songs necessitates separate definitions in order to better convey what makes particular live versions unique and have landed on these two terms based on existing precedent in live music notation.
 
-Example:  
-On Oct 11 2022 ([Red Rocks night 2](https://kglw.net/setlists/2022/10/11/red-rocks-amphitheatre-morrison-co.html)), during Boogieman Sam, Ambrose sung lyrics from: Cut Throat Boogie, "My Babe" (Little Walter), "Got My Mojo Workin'" (Ann Cole), and "Going Up the Country" (Canned Heat). The band also teased Sleepwalker during the song:
-<iframe width="1903" height="768" src="https://youtu.be/0pWDFTUOOJY?t=381" title="King Gizzard and the Lizard Wizard - Boogieman Sam + Sleepwalker (Live at Red Rocks 2022)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**Example:**  
+On Oct 11 2022 ([Red Rocks night 2](https://kglw.net/setlists/2022/10/11/red-rocks-amphitheatre-morrison-co.html)), during _Boogieman Sam_, Ambrose sung lyrics from: _Cut Throat Boogie_, "My Babe" (Little Walter), "Got My Mojo Workin'" (Ann Cole), and "Going Up the Country" (Canned Heat). The band also teased _Sleepwalker_ during the song:
+
+<aside>
+{% include youtube.html id="0pWDFTUOOJY" start="381" title="Boogieman Sam with other quotes" %}
+</aside>
+
 
 ### Segue  
-A segue is the connection of two different songs. Much like King Gizz often do in their studio albums, this is also done live to string multiple songs together into medleys or seamless portions of the set. Totally separate songs (where the music stops and there is a noticeable gap before the start of the next), are designated by a comma within a setlist. Segues have two types designated by ">" or "->":  
-### ">"  
-This is a soft segue. Typically the previous song is completed and the next started as written, but the music never truly stops in between, connected perhaps with an isolated drum pattern breakdown or sustained chord. Two separate songs but with a consistent flow through the setlist. In the studio discography, this is comparable to the transition between Altered Beast I and Alter Me I from [Murder Of The Universe](https://kglw.net/releases/murder-of-the-universe), though not necessarily reflective of how either or both of those songs may be played and connected live.
+A segue is the connection of two different songs. Much like King Gizz often do in their studio albums, this is also done live to string multiple songs together into medleys or seamless portions of the set. Totally separate songs (where the music stops and there is a noticeable gap before the start of the next), are designated by a comma within a setlist. There are two types of segues, designated by either a `>` or a `->` symbol:
 
-Example:
-[Dec 10 2022 at The Palace Foreshore, Naarm (Melbourne), a soft segue was used between _Hypertension_ and _Ice V_. The song clearly ends, but one guitar is intentionally sustained through the brief applause and quickly continues in a riff to introduce the next song:
+#### Soft segue: `>`  
 
-<iframe width="1903" height="768" src="https://youtu.be/-f4MNT_qLTs?t=2864" title="King Gizzard & The Lizard Wizard Live at the Palace Foreshore Melbourne 10th December 2022 FULL SHOW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+This is a soft segue. Typically the previous song is completed and the next started as written, but the music never truly stops in between, connected perhaps with an isolated drum pattern breakdown or sustained chord. Two separate songs but with a consistent flow through the setlist. In the studio discography, this is comparable to the transition between Altered Beast I and Alter Me I from [Murder Of The Universe](/releases/murder-of-the-universe), though not necessarily reflective of how either or both of those songs may be played and connected live.
 
-### "->"
+**Example:**  
+[Dec 10 2022 at The Palace Foreshore, Naarm (Melbourne)](/setlists/2022/12/10/palace-foreshore-melbourne.html), a soft segue was used between _Hypertension_ and _Ice V_. The song clearly ends, but one guitar is intentionally sustained through the brief applause and quickly continues in a riff to introduce the next song:
+
+<aside>
+{% include youtube.html id="-f4MNT_qLTs" start="768" title="segue between Hypertension > Ice V" %}
+</aside>
+
+#### Full segue: `->`
+
 The full segue is a complete connection of two songs, where the first is still in progress but a new song has begun sometimes before you realise. Teases and Jams are convenient ways to foreshadow or achieve this. This is more like two songs connected into one longer song.  
-The difference between the two types of segues is relatively subjective and usually decided on a case by case basis. Depending on the available recording, the full segue is much less common and the deciding factor is most often whether a solid, intentional drum beat continues through the transition, though preferably the whole band continues playing in the same arrangement with no change apart from the song that they are playing.  
+The difference between the two types of segues is relatively subjective and usually decided on a case-by-case basis. Depending on the available recording, the full segue is much less common and the deciding factor is most often whether a solid, intentional drum beat continues through the transition, though preferably the whole band continues playing in the same arrangement with no change apart from the song that they are playing.  
 In the studio discography, this is comparable to the transition between Invisible Face and Wah Wah from [Nonagon Infinity](https://kglw.net/releases/nonagon-infinity), again, not necessarily reflective of how those songs may be played and connected live.
 
-Example:
-[Dec 29 2022, Summer Haze Festical Aotearoa (New Zealand)](https://kglw.net/setlists/2022/12/29/wharepai-domain-tauranga.html) during _Robot Stop_, after a brief jam Stu puts down his Guitar, picks up the Flute, and the band seamlessly segue into _Hot Water_. They play enough of the song for it to earn a place in the setlist (even with its own small jam), and then transition back into _Robot Stop_ just as smoothly.
-<iframe width="1903" height="768" src="https://youtu.be/np0idN82bjs?t=329" title="KGLW New Zealand Dec 29, 2022.  Part 2.." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**Example:**  
+[Dec 29 2022, Summer Haze Festical Aotearoa (New Zealand)](https://kglw.net/setlists/2022/12/29/wharepai-domain-tauranga.html) during _Robot Stop_, after a brief jam Stu puts down his guitar, picks up the flute, and the band seamlessly segue into _Hot Water_. They play enough of the song for it to earn a place in the setlist (even with its own small jam), and then transition back into _Robot Stop_ just as smoothly.
+
+<aside>
+{% include youtube.html id="np0idN82bjs" start="329" title="smooth segue from Robot Stop -> Hot Water" %}
+</aside>
 
 ### Jam  
+
 A jam is an extended, improvised segment within a song that deviates significantly from the studio recording. Shorter jams can blur the lines between song segues or even teases, depending on just how close they get to a written, recorded version. This is an area that gets particularly subjective and can come down to how the band is feeling during a particular performance.  
 Other jam bands may distinguish between different types of jams depending on how 'deep' or far they get from a given song as written or if they are even not based on composed music at all, but we are of the opinion that King Gizz only jam 'inside' existing songs (so far). They occasionally use this process to 'write' their songs in studio (such as for [IDPLMAL](https://kglw.net/releases/ice-death-planets-lungs-mushrooms-and-lava)), then go back and re-learn what they did later, so we can be sure they will take this next step live on stage sometime in the future.
 
-Example:
-On [October 22 2022 at Franklin Music Hall, Philadelphia](https://kglw.net/setlists/2022/10/22/franklin-music-hall-philadelphia-pa.html), during _Evil Death Roll_, the band started an improvised jam that drew out over several minutes, until teases of _Hypertension_ began, which then quickly descended into the whole band playing that song briefly inside _Evil Death Roll_. This was clearly a warm up preview, as _Hypertension_ would properly debut the [next night](https://kglw.net/setlists/2022/10/23/the-anthem-washington-dc.html). The element that distinguishes this from teases and a segue into the second song is simply the length and improvised nature of the section that led into it, and the smooth return back to _Evil Death Roll_ at the end. There may be instances of Song A -> Song B -> Song A, but this would be notated as such when done with less improvisation, and when the entirety of Song B is played.
+**Example:**  
+On [October 22 2022 at Franklin Music Hall, Philadelphia](https://kglw.net/setlists/2022/10/22/franklin-music-hall-philadelphia-pa.html), during _Evil Death Roll_, the band started an improvised jam that drew out over several minutes, until teases of _Hypertension_ began, which then quickly descended into the whole band playing that song briefly inside _Evil Death Roll_. This was clearly a warm-up preview, as _Hypertension_ would properly debut the [next night](https://kglw.net/setlists/2022/10/23/the-anthem-washington-dc.html). The element that distinguishes this from teases and a segue into the second song is simply the length and improvised nature of the section that led into it, and the smooth return back to _Evil Death Roll_ at the end. There may be instances of Song A -> Song B -> Song A, but this would be notated as such when done with less improvisation, and when the entirety of Song B is played.
 
-<iframe width="1903" height="768" src="https://youtu.be/zPJQJY6vY8E?t=5516" title="King Gizzard And The Lizard Wizard - (Franklin Music Hall) Philadelphia,Pa 10.22.22 (Complete Show)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<aside>
+{% include youtube.html id="zPJQJY6vY8E" start="5516" title="Hypertension jam within Evil Death Roll" %}
+</aside>
 
 We have already mentioned subjectivity more than once. As any experienced jam band fan will know, there are always points of contention in how these terms apply. It is even possible that they all apply to one situation, such as if the rhythm section finish a song while someone maintains semi-improvised noodling and another band member decides to riff into a microphone while everyone else picks it all back up.  
 Alternatively, none may apply. While in general the band are recreating recorded songs we know and love, there will always be fundamental variations in every performance that are not worth noting because they are taken as given, this is the nature and excitement of a live show. In these cases, other terms such as 'theme', 'motif', 'variation', 'vamp', 'hint', 'flirt' or any others may be casually used with less definition.
+
 
 ## The Growing Taping Scene and Archive.org
 
