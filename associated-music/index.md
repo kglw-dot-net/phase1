@@ -37,7 +37,7 @@ This was a precursor to _The Murlocs_, a Blues Rock band featuring Ambrose and L
 _Almacknjack_ was a Garage Rock band featuring Stu on guitar, Almo Troup with vocals, and Jack Robbins (who went solo as [_Forever Son_](#forever-son)). In 2008, they released their only album [_Taste of an Orange_](https://www.youtube.com/watch?v=PJMCC1Ommms&t=684s).
 
 ### The Lexies  
-_The Lexies_ featured Eric and released an EP _Do You Want Some Money?_ in 2007, which has likely been lost.
+_The Lexies_ were an Alternative / Garage Rock band featuring Eric on drums, with Shane McGrath, Glen Smith, and Anthony J. Ladson. They released an EP _[Do You Want Some Money?](https://www.reverbnation.com/thelexies)_ in 2007.
 
 ### Love Migrate  
 Formerly known as _Goodnight Owl_, _Love Migrate_ were a sometimes borderline Ambient [Indie Rock](https://www.youtube.com/watch?v=p2F9msvMoqw) band featuring Eric on Drums, Joey on guitar and various electronic instruments, with Edward Alexander, Bella Walker, Casey Hartnett, Monty Hartnett, Pete Sismanes, and Glen Smith filling out an array of other roles. _Love Migrate_ had the distinction of continuing well into the rise of King Gizzard, and were published by Flightless Records and then Dusky Tracks. Monty Hartnett is further associated with King Gizzard having played drums on _Crying_, and _Pipe-Dream_ from _[Oddments](https://kglw.net/releases/oddments)_. 
