@@ -7,7 +7,7 @@ How to get into King Gizzard and the Lizard Wizard? Many hear a small sample of 
 
 If you just want to dive straight in, [start with this album](./releases/im-in-your-mind-fuzz/). Otherwise:
 
-This is the starting point of the Gizzverse Guide, our catalogue contains every King Gizzard release. Each has an instroductory blurb, objective information, and links that you can use to navigate to the next listening suggestion based on what you already know or liked about the music.
+This is the starting point of the Gizzverse Guide. Our catalogue contains every King Gizzard release. Each has an introductory blurb, objective information, and links that you can use to navigate to the next listening suggestion based on what you already know or liked about the music.
 
 If you have already heard an album and don’t know where to go from there, navigate to it from the [releases](./releases) page.  
 If you are completely new to the band, and don’t know where to start, check out some tips:
@@ -37,22 +37,22 @@ While the material is most rewarding heard all the way through as intended, you 
 
 Here are some other general playlist links:
 
-* [Heavy songs](https://open.spotify.com/playlist/7BfZwU7yVZrmX9XmwkJbaJ?si=54b411c741d24f7f](https://open.spotify.com/playlist/4A0kJxI8Cp233goDvNtYcQ) (Spotify)  
-* [Chill songs](https://open.spotify.com/playlist/2YhlH7uNt1BHyHKTlmKnPc)
-* [Essential songs](https://open.spotify.com/playlist/77cYJha9ttoOpZkZQOCid6?si=950dd84376a14818](https://open.spotify.com/playlist/4gRWO2kQAJSQKvdii58XJY) (Spotify)  
+* [Heavy songs](https://open.spotify.com/playlist/4A0kJxI8Cp233goDvNtYcQ) (Spotify)  
+* [Chill songs](https://open.spotify.com/playlist/2YhlH7uNt1BHyHKTlmKnPc) (Spotify)
+* [Essential songs](https://open.spotify.com/playlist/4gRWO2kQAJSQKvdii58XJY) (Spotify)  
 * [King Gizzard & The Lizard Wizard – Gizzverse Odyssey](https://www.youtube.com/watch?v=3KIlzA7QO4I&list=WL&index=2&t=13s) (Digital only Official Bootlegger fan-made compilation)
 
 ## Criticism
 
-While music critics and fan bases always clash, due credit for [Pitchfork](https://pitchfork.com/artists/32633-king-gizzard-the-lizard-wizard/), [NME](https://www.nme.com/artists/king-gizzard-the-lizard-wizard), and Anthony Fantano at [The Needle Drop](https://www.youtube.com/playlist?list=PLW8qY_BtlPqcMWd3nn8E8p3rm3YlcFV0d) for (mostly) giving KGATLW a fair shot.
+While music critics and fan bases always clash, due credit for [Pitchfork](https://pitchfork.com/artists/32633-king-gizzard-the-lizard-wizard/), [NME](https://www.nme.com/artists/king-gizzard-the-lizard-wizard), and Anthony Fantano at [The Needle Drop](https://www.youtube.com/playlist?list=PLW8qY_BtlPqcMWd3nn8E8p3rm3YlcFV0d) for (mostly) giving KGLW a fair shot.
 
 ## Live Material
 
-We are currently in a renaissance of KGATLW live performance, and the 2022 NA tour is what gathered together the fans that created this site. After two years of paused touring, the band have bottled up their energy an returned with the style of a 'jam-band' placing particular emphasis on offering unique live shows with sequences and sections you can't hear in the studio recordings.  
+We are currently in a renaissance of KGLW live performance, and the 2022 NA tour is what gathered together the fans that created this site. After two years of paused touring, the band have bottled up their energy and returned in the style of a 'jam-band' placing particular emphasis on offering unique live shows with sequences and jams you can't get from the studio recordings.  
 The band have provided permission for uploading of audience tapes to [archive.org](https://archive.org/details/KingGizzardAndTheLizardWizard) where the biggest selection of recordings are available to listen to.  
-If you are looking for particular times or locations, check out our [set-lists](../setlists) page for the most complete and consistent catalogue available.  
-The band also have the [Official Bootlegger](./releases#official-bootlegger-program) program available, where several mixed soundboard recordings are available for anyone to freely publish their own editions of (with limits).  
-There are also a couple of traditionally published live albums [available](../releases/live-in-san-francisco-2016)
+If you are looking for particular times or locations, check out our [set-lists](../setlists) page. We have links to listen available where applicable, but for the most comprehensive selection of King Gizzard live recordings anywhere, check out the [King Gizzard Live Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1D5YoZkFG29Ldbi8M2XvfXY3ipmb6ydnAyeQoMK0wIZQ/htmlview) by Reddit user u/yebrent.  
+The band also have the [Official Bootlegger](./releases#official-bootlegger-program) program available, where several mixed soundboard recordings are available for anyone to freely publish their own editions of (with some restrictions).  
+There are also a couple of traditionally published live albums available, such as [this one](../releases/live-in-san-francisco-2016)
 
 Their several live in-studio performances at KEXP are also known for drawing in fans:
 
@@ -66,11 +66,11 @@ Their several live in-studio performances at KEXP are also known for drawing in 
 ## Other Guides
 
 This is not the first or last dedicated guide for getting into King Gizzard.  
-It was orignally developed on the [Boiler Rhapsody music blog](http://boilerrhapsody.com) and discretely hosted there while sourcing collaborators. Once Boiler Rhapsody's editor/author of the guide (hi) found kglw.net, it was quickly discovered that both projects were suited for each other and merged.
+It was orignally developed on the [Boiler Rhapsody music blog](http://boilerrhapsody.com) and discretely hosted there while sourcing collaborators. Once Boiler Rhapsody's editor/author (hi) found kglw.net, it was quickly realised that both projects were suited for each other and merged.
 
 Album flowcharts are common in the fan base. Though clunky to use and constantly out of date, the idea retains an attractive simplicity. [Here](https://www.reddit.com/r/KGATLW/comments/lysvvz/i_finally_updated_my_king_gizzard_flowchart_now/) is the most common one.
 
-[Get Into Gizz](https://get-into-gizz.com) is a simple, dedicated website using the flowchart principle.
+[Get Into Gizz](https://get-into-gizz.com) is a simple, dedicated website that uses the flowchart principle.
 
 Ball State Daily’s [choose your own adventure discography guide](https://www.ballstatedaily.com/byte/article/2021/02/choose-your-own-discography-guide-king-gizzard-the-lizard-wizard), is an (out of date) non-interactive written guide.
 

@@ -5,10 +5,12 @@ venue: "KEXP Studios, Seattle, WA, USA"
 ---
 
  1. Ice V
-
  2. Iron Lung
-
  3. Magma
 
 
-Note: Live performance and interview for KEXP broadcast.
+#### Recordings
+
+{% include archive.html id="kglw2022-10-07" %}
+
+{% include youtube.html id="Jb8UMmrBlC8" author="KEXP" %}

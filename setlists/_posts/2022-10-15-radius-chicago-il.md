@@ -42,3 +42,12 @@ tour: "World Tour '22"
 15. Float Along - Fill Your Lungs
 
 
+#### Recordings
+
+{% include archive.html type="AUD" id="kglw2022-10-15" credit="Teddy 'Dankski' Dunski" mic="Sony HDR-CX760V" %}
+
+{% include youtube.html author="Mystery Jack" id="PI1rqKjVBbI" %}
+
+{% include youtube.html author="tonymontana" id="3Tjac2DUK8k" %}
+
+{% include youtube.html author="Scizzardland" id="4RiWK-isn8Q" %}

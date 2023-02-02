@@ -32,3 +32,13 @@ tour: "World Tour '22"
 
 13. The Dripping Tap
 
+
+#### Recordings
+
+{% include archive.html type="AUD" id="kg2022-10-14" credit="the lapis king" %}
+
+{% include youtube.html author="Mystery Jack" id="JH5zT3WgCgA" %}
+
+{% include youtube.html author="UnderCurrentMPLS" id="gCr0H5nv_z4" %}
+
+{% include youtube.html author="Iroquois Pliskin" id="QFEFY0fIMG0" %}

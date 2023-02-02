@@ -1,8 +1,11 @@
-<a href="https://www.youtube.com/watch?v={{ include.id }}" target="_blank">Video</a> {% if include.author %} by {{include.author}} {% endif %}
+<a href="https://www.youtube.com/watch?v={{ include.id }}" target="_blank">
+  {% if include.title %}{{include.title}}{% else %}Video{% endif %}
+</a>
+{% if include.author %} by {{include.author}} {% endif %}
 
 <iframe
   class="youtube-embed"
-  src="https://www.youtube.com/embed/{{ include.id }}"
+  src="https://www.youtube.com/embed/{{ include.id }}?{% if include.start %}start={{include.start}}{% endif %}&{% if include.end %}end={{include.end}}{% endif %}&"
   frameborder="0"
   allowfullscreen="true">
 </iframe>

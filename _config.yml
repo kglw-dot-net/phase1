@@ -26,6 +26,7 @@ description: >-
 domain: "kglw.net"
 url: "https://kglw.net"
 baseurl: "/"
+# google_analytics: G-RKKP353CER
 instagram_username: kglw_net
 github_username: kglw-dot-net
 twitter_username: kglw_net
@@ -47,6 +48,7 @@ plugins:
   # - jekyll-archives
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.

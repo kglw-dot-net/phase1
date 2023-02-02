@@ -1,10 +1,7 @@
 ---
 ---
 
-@import
-  "{{ site.theme }}"
-  // , "minima/syntax-highlighting"
-;
+@import "{{ site.theme }}";
 
 $gizz-bright-green: #3d3;
 $gizz-magenta: #f39;
@@ -14,17 +11,27 @@ body,
 pre,
 code,
 .highlight {
-  color: #ccc;
+  color: #ddd;
   background: #111 !important;
 }
 
+blockquote {
+  letter-spacing: -0.3px;
+  color: #bbb;
+}
+
 a {
-  color: #49c;
+  color: #5be;
   &:hover,
   &:active,
   &:visited {
-    color: #87d;
+    color: #c9f;
   }
+}
+
+blockquote {
+  color: #ccc;
+  letter-spacing: -0.5px;
 }
 
 hr {
@@ -32,6 +39,7 @@ hr {
 }
 
 .site-header {
+  z-index: 1; // above nav.setlist
   border: 0;
   background: $gizz-magenta;
   font-variant: small-caps;
@@ -46,15 +54,6 @@ hr {
 }
 
 footer.site-footer {
-  .wrapper {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: flex-start;
-  }
-  img {
-    max-height: 5em;
-  }
 }
 
 @mixin commas-setlist {
@@ -63,7 +62,9 @@ footer.site-footer {
     &::after {
       content: ','; // if the `li` contains a `p` then a line can end up wrapping so that a 'trailing' comma starts a new line; to remedy: ensure there are no blank lines between the numbered entries of the setlist
     }
-    &:has(.segue)::after,
+    &:has(.segue)::after { // Firefox and mobile Samsung browsers don't support `:has()`...
+      content: none; // separating this from the :last-child rule so that it will stil be processed
+    }
     &:last-child::after {
       content: none;
     }
@@ -151,26 +152,53 @@ footer.site-footer {
   .post-content > p {
     margin-top: 1em;
   }
-  .reversefootnote {
-    padding: 0.3em;
-    sup {
-      vertical-align: baseline;
-      font-size: 1em;
-      padding-left: 0.3em;
+  sup > a.footnote {
+    color: #ddd;
+    font-style: italic;
+    &:hover {
+      cursor: pointer;
+      text-decoration: none;
     }
+  }
+  .reversefootnote {
+    display: none;
   }
 
   .archive-embed {
-    margin: 1em;
+    width: 380px; // match iframe width attr
+    margin: 1em 0;
+    padding-top: 0.5em;
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 380px;
-    box-shadow: 0 0 10px 1px #666; // 🤘
+
+    &:not(.single) {
+      border-top-left-radius: 1.5em;
+      border-top-right-radius: 1.5em;
+      box-shadow: 0 0 10px 1px #666;
+    }
+
     a {
-      padding: 1vmax;
-      .credit:before { content: '('; }
-      .credit:after { content: ')'; }
+      text-align: center;
+      color: #8cf;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+    .type {
+      margin-right: 0.5em;
+      border-radius: 1em;
+      padding: 0.2em 0.4em;
+      background: $gizz-yellow;
+      color: black;
+    }
+    .mic {
+      display: block;
+      &:before { content: '🎙️\a0'; }
+    }
+    iframe {
+      height: calc(200px + 30px); // [list_height param in iframe's src] plus [height of controls bar (play/skip/volume etc) within iframe]
+      // this ratio happens to work for videos as well
     }
   }
 }
@@ -199,6 +227,7 @@ footer.site-footer {
 }
 
 .post {
+  width: 100%;
   margin-bottom: 2em;
 
   .setlist-meta {
@@ -226,41 +255,177 @@ footer.site-footer {
     width: 90vw;
     max-width: calc(800px - (30px * 2)); // same as max-width on .wrapper
     aspect-ratio: 16 / 9;
+    margin-bottom: 2em;
   }
 
-  nav { // next/prev links
-    display: flex;
-    justify-content: center;
+}
 
-    a {
-      margin: 0 5vw;
-      border: 1px solid $gizz-magenta;
-      border-radius: 1em;
-      padding: 1vh 2vw;
-      color: $gizz-magenta;
+main > .wrapper {
+  display: flex; // so we can reorder the children
+  flex-flow: row wrap;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+article.setlist {
+  order: 2;
+  margin-top: 4em; // slightly more than height of nav.setlist
+  @media (min-width: 1149px) {
+    margin-top: 0;
+  }
+}
+nav.setlist { // next/prev links
+  order: 1;
+  position: absolute; // old-school...
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
 
-      &:hover {
-        text-decoration: none;
-        border-color: $gizz-bright-green;
-        background: $gizz-magenta;
-        color: black;
-      }
+  a {
+    margin: 0 5px;
+    border: 1px solid $gizz-magenta;
+    border-radius: 1em;
+    padding: 0.2em 0.7em;
+    text-align: center;
+    white-space: pre-line; // to allow linebreak between content-label and date
+    color: $gizz-magenta;
+
+    @media (min-width: 500px) {
+      white-space: inherit; // turn linebreak into single line on wider screens
     }
 
-    :first-child {
-      &:before {
-        // content: 'prior show: ';
-      }
+    &:hover {
+      text-decoration: none;
+      border-color: $gizz-bright-green;
+      background: $gizz-magenta;
+      color: black;
     }
-    :last-child {
-      &:before {
-        // content: 'next show: ';
-      }
+    &:first-child:before {
+      content: 'prior show:\0A';
+    }
+    &:last-child:before {
+      content: 'next show:\0A';
     }
   }
 }
 
+article.release {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  
+  .post-header {
+    order: 2;
+    flex-basis: 100%;
+    margin: 0.5em 0.5em 1em;
+    @media (min-width: 479px) {
+      order: 1;
+    }
+
+    h1 {
+      margin: 0;
+    }
+    .post-title {
+      text-align: center;
+    }
+  }
+
+  .release-meta {
+    order: 3;
+    flex-basis: 100%;
+    margin: 1em;
+    padding: 0;
+    list-style: none;
+    @media (min-width: 479px) {
+      order: 2;
+    }
+
+    ul {
+      list-style: none;
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: space-evenly; // horizontally aligns the <li>s to the <ul> center
+      align-items: center; // vertically aligns each <li> to center of the row's (tallest) <li>
+      margin: 0;
+    }
+    li.date {
+      min-width: 11em;
+    }
+    li.credits {
+      min-width: 5em;
+    }
+    a:not(.button) {
+      text-decoration: underline;
+    }
+    a.button {
+      width: 60px;
+      display: flex;
+      align-items: center;
+      border-radius: 10px;
+      box-shadow: -1px -1px 5px #ffffff88 inset;
+    }
+    .bandcamp a {
+      padding: 0 5px;
+      height: 50px;
+      background: $gizz-yellow;
+      color: black;
+    }
+    .discogs a {
+      padding: 5px 10px;
+      height: 20px;
+      background: $gizz-magenta;
+      color: black;
+    }
+  }
+
+  img[itemprop="thumbnailUrl"] {
+    order: 1;
+    width: 100%;
+    margin-bottom: 1em;
+    object-fit: contain;
+    @media (min-width: 479px) {
+      order: 4;
+      width: 60%;
+    }
+  }
+
+  .release-tracklist {
+    order: 4;
+    flex-basis: 100%;
+    @media (min-width: 479px) {
+      order: 3;
+      flex-basis: 40%;
+    }
+  }
+
+  .post-content {
+    order: 5;
+    flex-basis: 100%;
+
+    .lyrics {
+      border: 0;
+      text-align: center;
+    }
+  }
+
+  .post-meta {
+    order: 6;
+    flex-basis: 100%;
+  }
+}
+
+ul.songlist { // `/songs` page
+  columns: 14em;
+}
+
+h2#canonical-albums ~ ul { // Releases page
+  columns: 15em;
+  &.albums-canon {
+  }
+}
+
 .corrections {
+  order: 3;
   width: 75%;
   margin: 0 auto;
   padding: 5px 15px;
@@ -276,7 +441,47 @@ footer.site-footer {
 }
 
 .site-footer {
-  ul {
-    margin-bottom: 0;
+  .wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: flex-start;
   }
+
+  .copyright {
+    order: 1;
+    flex-basis: 100%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    @media (min-width: 650px) {
+      flex-basis: 32%;
+      order: 2;
+    }
+  }
+
+  nav {
+    flex-basis: 6em;
+    order: 3;
+    direction: rtl;
+    @media (min-width: 650px) {
+      flex-basis: 32%;
+      order: 4;
+    }
+    ul {
+      list-style: inside;
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+  .social-links {
+    flex-basis: 9em;
+    order: 2;
+    @media (min-width: 650px) {
+      flex-basis: 32%;
+      order: 1;
+    }
+  }
+
 }
