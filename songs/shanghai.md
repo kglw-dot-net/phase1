@@ -51,7 +51,7 @@ album: Butterfly 3000
 > I've become a butterfly.  
 > Born-again overnight.  
 >  
-> Flying through the Yu garden to the Peoples square.  
+> Flying through the Yu garden to the People's Square.  
 > That's where you find your happiness.  
 > With a little too much Szechuan in the pot sending sensational content.  
 > Neck stuck from looking up at the high rise buildings trying to caress.  
