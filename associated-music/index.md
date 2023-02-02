@@ -97,7 +97,7 @@ _Rough River_ is the solo [Folk](https://www.youtube.com/watch?v=rw3J2Smqzko) pr
 Formerly known as _Baked Beans_, this is the [Psych Rock](https://www.youtube.com/watch?v=NRvYkNJOh_g) band fronted by _The Murlocs_ drummer Matt Blach, and featuring Jack Kong, Vincent Clementson, Mitch Ric, Lachlan McKiernan (drums)
 
 ### Aunty Donna
-_Aunty Donna_ are a comedy skit group from Melbourne. They released _The Album_ in 2018 featuring Joey as himself playing the guitar solo for the track [_Professor Whiskers_](https://www.youtube.com/watch?v=H0kqCOyXNcQ), and as part of the SUB-humans duo for _Aunty Donna Theme_
+_Aunty Donna_ are a comedy skit group from Melbourne. They released _The Album_ in 2018 featuring Joey as himself playing the guitar solo for the track [_Professor Whiskers_](https://www.youtube.com/watch?v=H0kqCOyXNcQ), and as part of the SUB-humans duo for _Aunty Donna Theme_. Joey, Ambrose, Cavs, and Lucas also appear as themselves at the end of [this Aunty Donna skit promoting their Netflix special](https://www.youtube.com/watch?v=C13xyr-ak20).
 
 ### Forever Son  
 _Forever Son_ is the solo Rock project of Jack Robbins since the disbandment of his old band with Stu, _Almacknjack_. [Here he is covering King Gizzard with Leah Senior](https://www.youtube.com/watch?v=4J76WBb6XW0), he also plays in her live touring band.
