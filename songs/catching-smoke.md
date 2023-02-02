@@ -10,7 +10,7 @@ album: Butterfly 3000
 
 > For one night I'm the hero.  
 > Suit up, tie.  
-> Open the doors to the oval office.  
+> Open the doors to The Oval Office.  
 > In this story I'm president.  
 >  
 > I've got happiness inside my pocket.  
