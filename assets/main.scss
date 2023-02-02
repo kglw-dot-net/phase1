@@ -3,58 +3,13 @@
 
 @import "{{ site.theme }}";
 
+////
+//// mixins & variables
+//// 
+
 $gizz-bright-green: #3d3;
 $gizz-magenta: #f39;
 $gizz-yellow: #fd0;
-
-body,
-pre,
-code,
-.highlight {
-  color: #ddd;
-  background: #111 !important;
-}
-
-blockquote {
-  letter-spacing: -0.3px;
-  color: #bbb;
-}
-
-a {
-  color: #5be;
-  &:hover,
-  &:active,
-  &:visited {
-    color: #c9f;
-  }
-}
-
-blockquote {
-  color: #ccc;
-  letter-spacing: -0.5px;
-}
-
-hr {
-  margin: 2em 25vw;
-}
-
-.site-header {
-  z-index: 1; // above nav.setlist
-  border: 0;
-  background: $gizz-magenta;
-  font-variant: small-caps;
-  font-weight: bold;
-}
-
-.site-title,
-.site-title:visited {
-  font-size: 1.1em;
-  color: #000;
-  font-weight: bold;
-}
-
-footer.site-footer {
-}
 
 @mixin commas-setlist {
   > li {
@@ -73,6 +28,114 @@ footer.site-footer {
     }
   }
 }
+
+
+////
+//// element defaults
+////
+
+body,
+pre,
+code,
+.highlight {
+  color: #ddd;
+  background: #111 !important;
+}
+
+a {
+  color: #5be;
+  &:hover,
+  &:active,
+  &:visited {
+    color: #c9f;
+  }
+}
+
+aside {
+  margin: 1em 2em 2em 4em;
+  padding: 1em 2em;
+  background: #222;
+  color: #aaa;
+  font-style: italic;
+}
+
+blockquote {
+  letter-spacing: -0.3px;
+  color: #ccc;
+}
+
+hr {
+  margin: 2em 25vw;
+}
+
+////
+//// site layout
+////
+
+.site-header {
+  z-index: 1; // above nav.setlist
+  border: 0;
+  background: $gizz-magenta;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+.site-title,
+.site-title:visited {
+  font-size: 1.1em;
+  color: #000;
+  font-weight: bold;
+}
+main > .wrapper {
+  display: flex; // so we can reorder the children
+  flex-flow: row wrap;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+.site-footer {
+  .wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+  }
+  .copyright {
+    order: 1;
+    flex-basis: 100%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    @media (min-width: 650px) {
+      flex-basis: 32%;
+      order: 2;
+    }
+  }
+  nav {
+    flex-basis: 6em;
+    order: 3;
+    direction: rtl;
+    @media (min-width: 650px) {
+      flex-basis: 32%;
+      order: 4;
+    }
+    ul {
+      list-style: inside;
+      margin: 0;
+      padding: 0;
+    }
+  }
+  .social-links {
+    flex-basis: 9em;
+    order: 2;
+    @media (min-width: 650px) {
+      flex-basis: 32%;
+      order: 1;
+    }
+  }
+}
+
+////
+//// home page
+//// 
 
 .home {
   .content {
@@ -140,7 +203,11 @@ footer.site-footer {
   }
 }
 
-.setlist { // setlist page
+////
+//// setlist pages
+//// 
+
+.setlist {
   > .post-content > ol {
     margin-left: 0;
     @include commas-setlist;
@@ -203,6 +270,10 @@ footer.site-footer {
   }
 }
 
+////
+//// WIP upcoming shows
+//// 
+
 .upcoming_shows { // on homepage and `/upcoming-shows`
   .post-list {
     margin-left: 1em;
@@ -225,6 +296,10 @@ footer.site-footer {
     content: ": ";
   }
 }
+
+////
+//// setlist pages + release pages + blog pages
+//// 
 
 .post {
   width: 100%;
@@ -252,20 +327,21 @@ footer.site-footer {
   }
 
   .youtube-embed {
-    width: 90vw;
+    width: 90%;
     max-width: calc(800px - (30px * 2)); // same as max-width on .wrapper
     aspect-ratio: 16 / 9;
     margin-bottom: 2em;
   }
-
 }
 
-main > .wrapper {
-  display: flex; // so we can reorder the children
-  flex-flow: row wrap;
-  padding-left: 10px;
-  padding-right: 5px;
+.post-content { // also on homepage...
+  img.float-right {
+    max-width: 33%;
+    margin: 0 0 1em 1em;
+    float: right;
+  }
 }
+
 article.setlist {
   order: 2;
   margin-top: 4em; // slightly more than height of nav.setlist
@@ -308,6 +384,14 @@ nav.setlist { // next/prev links
     }
   }
 }
+
+.instagram-media {
+  margin: 0 auto 1em !important; // center, override the margin rules from i'gram
+}
+
+////
+//// release pages
+////
 
 article.release {
   display: flex;
@@ -414,14 +498,15 @@ article.release {
   }
 }
 
-ul.songlist { // `/songs` page
-  columns: 14em;
-}
-
 h2#canonical-albums ~ ul { // Releases page
   columns: 15em;
   &.albums-canon {
   }
+}
+
+
+ul.songlist { // `/songs` page
+  columns: 14em;
 }
 
 .corrections {
@@ -438,50 +523,4 @@ h2#canonical-albums ~ ul { // Releases page
     color: #c63;
     text-decoration: underline;
   }
-}
-
-.site-footer {
-  .wrapper {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
-    align-items: flex-start;
-  }
-
-  .copyright {
-    order: 1;
-    flex-basis: 100%;
-    display: flex;
-    flex-flow: column;
-    align-items: center;
-    @media (min-width: 650px) {
-      flex-basis: 32%;
-      order: 2;
-    }
-  }
-
-  nav {
-    flex-basis: 6em;
-    order: 3;
-    direction: rtl;
-    @media (min-width: 650px) {
-      flex-basis: 32%;
-      order: 4;
-    }
-    ul {
-      list-style: inside;
-      margin: 0;
-      padding: 0;
-    }
-  }
-
-  .social-links {
-    flex-basis: 9em;
-    order: 2;
-    @media (min-width: 650px) {
-      flex-basis: 32%;
-      order: 1;
-    }
-  }
-
 }
