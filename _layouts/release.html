@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+{%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
+
+<article class="release post h-entry" itemscope itemtype="http://schema.org/MusicAlbum">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name">
+      {{ page.title }}
+    </h1>
+  </header>
+
+  <div class="release-meta">
+    <p hidden itemprop="byArtist copyrightHolder">King Gizzard and the Lizard Wizard</p>
+    <ul>
+
+      <li class="date">Released
+        <time class="dt-published" datetime="{{ page.release_date | date: "%Y-%b-%0d" }}" itemprop="datePublished">
+          {{ page.release_date | date: date_format }}
+        </time>
+      </li>
+
+      <li class="credits"><a href="#album-credits">Credits</a></li>
+
+      {%- if page.bandcamp -%}
+        <li class="bandcamp">
+          <a class="button" href="{{page.bandcamp}}" target="_blank" title="buy the &quot;{{page.title}}&quot; album from the band!">
+            <img src="{{'/assets/bandcamp-logotype.svg' | relative_url}}" alt="Bandcamp icon" />
+          </a>
+        </li>
+      {%- endif -%}
+
+      {%- if page.discogs -%}
+        <li class="discogs">
+          <a class="button" href="{{page.discogs}}" target="_blank" title="check out this release on Discogs.com">
+            <img src="https://i.imgur.com/suDWFsf.gif" alt="Discogs.com icon" />
+          </a>
+        </li>
+      {%- endif -%}
+
+    </ul>
+  </div>
+
+  <img src="{{page.cover}}" alt="album cover of {{page.title}}" itemprop="thumbnailUrl" />
+
+  {% for album in site.data.discography.studio %}
+    {% if album.title == page.title %}
+      {% assign album_data = album %}
+    {% endif %}
+  {% endfor %}
+  {% if album_data %}
+    <div class="release-tracklist">
+      <ol>
+        {% for track in album_data.tracks %}
+          <li>
+            {% if track.slug %}
+              <a href="/songs/{{track.slug}}" title="info & lyrics for the song &quot;{{track.title}}&quot;">{{track.title}}</a>
+            {% else %}
+              {% assign slug = track.title | slugify %}
+              <a href="/songs/{{slug}}" title="info & lyrics for the song &quot;{{track.title}}&quot;">{{track.title}}</a>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ol>
+    </div>
+  {% endif %}
+
+  <div class="post-content e-content" itemprop="description">
+    {{ content }}
+  </div>
+
+  <p class="post-meta">
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+    {%- if page.modified_date -%}
+      Updated:
+      {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+      <time class="dt-modified" datetime="{{ mdate }}" itemprop="sdDatePublished">
+        {{ mdate | date: date_format }}
+      </time>
+    {%- endif -%}
+  </p>
+
+</article>
+
+<p class="corrections">
+  <b>Something missing or wrong??</b> Please get in touch!
+  <br/><a href="mailto:kglw.net@gmail.com">kglw.net@gmail.com</a> — or social media links below
+</p>

@@ -11,17 +11,27 @@ body,
 pre,
 code,
 .highlight {
-  color: #ccc;
+  color: #ddd;
   background: #111 !important;
 }
 
+blockquote {
+  letter-spacing: -0.3px;
+  color: #bbb;
+}
+
 a {
-  color: #49c;
+  color: #5be;
   &:hover,
   &:active,
   &:visited {
-    color: #87d;
+    color: #c9f;
   }
+}
+
+blockquote {
+  color: #ccc;
+  letter-spacing: -0.5px;
 }
 
 hr {
@@ -142,13 +152,16 @@ footer.site-footer {
   .post-content > p {
     margin-top: 1em;
   }
-  .reversefootnote {
-    padding: 0.3em;
-    sup {
-      vertical-align: baseline;
-      font-size: 1em;
-      padding-left: 0.3em;
+  sup > a.footnote {
+    color: #ddd;
+    font-style: italic;
+    &:hover {
+      cursor: pointer;
+      text-decoration: none;
     }
+  }
+  .reversefootnote {
+    display: none;
   }
 
   .archive-embed {
@@ -207,6 +220,7 @@ footer.site-footer {
 }
 
 .post {
+  width: 100%;
   margin-bottom: 2em;
 
   .setlist-meta {
@@ -297,6 +311,121 @@ nav.setlist { // next/prev links
 
 .instagram-media {
   margin: 0 auto 1em !important; // center, override the margin rules from i'gram
+}
+
+article.release {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  
+  .post-header {
+    order: 2;
+    flex-basis: 100%;
+    margin: 0.5em 0.5em 1em;
+    @media (min-width: 479px) {
+      order: 1;
+    }
+
+    h1 {
+      margin: 0;
+    }
+    .post-title {
+      text-align: center;
+    }
+  }
+
+  .release-meta {
+    order: 3;
+    flex-basis: 100%;
+    margin: 1em;
+    padding: 0;
+    list-style: none;
+    @media (min-width: 479px) {
+      order: 2;
+    }
+
+    ul {
+      list-style: none;
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: space-evenly; // horizontally aligns the <li>s to the <ul> center
+      align-items: center; // vertically aligns each <li> to center of the row's (tallest) <li>
+      margin: 0;
+    }
+    li.date {
+      min-width: 11em;
+    }
+    li.credits {
+      min-width: 5em;
+    }
+    a:not(.button) {
+      text-decoration: underline;
+    }
+    a.button {
+      width: 60px;
+      display: flex;
+      align-items: center;
+      border-radius: 10px;
+      box-shadow: -1px -1px 5px #ffffff88 inset;
+    }
+    .bandcamp a {
+      padding: 0 5px;
+      height: 50px;
+      background: $gizz-yellow;
+      color: black;
+    }
+    .discogs a {
+      padding: 5px 10px;
+      height: 20px;
+      background: $gizz-magenta;
+      color: black;
+    }
+  }
+
+  img[itemprop="thumbnailUrl"] {
+    order: 1;
+    width: 100%;
+    margin-bottom: 1em;
+    object-fit: contain;
+    @media (min-width: 479px) {
+      order: 4;
+      width: 60%;
+    }
+  }
+
+  .release-tracklist {
+    order: 4;
+    flex-basis: 100%;
+    @media (min-width: 479px) {
+      order: 3;
+      flex-basis: 40%;
+    }
+  }
+
+  .post-content {
+    order: 5;
+    flex-basis: 100%;
+
+    .lyrics {
+      border: 0;
+      text-align: center;
+    }
+  }
+
+  .post-meta {
+    order: 6;
+    flex-basis: 100%;
+  }
+}
+
+ul.songlist { // `/songs` page
+  columns: 14em;
+}
+
+h2#canonical-albums ~ ul { // Releases page
+  columns: 15em;
+  &.albums-canon {
+  }
 }
 
 .corrections {
