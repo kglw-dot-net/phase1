@@ -167,17 +167,23 @@ footer.site-footer {
   .archive-embed {
     width: 380px; // match iframe width attr
     margin: 1em 0;
-    border-top-left-radius: 1.5em;
-    border-top-right-radius: 1.5em;
-    box-shadow: 0 0 10px 1px #666; // 🤘
+    padding-top: 0.5em;
     display: flex;
     flex-direction: column;
     align-items: center;
 
+    &:not(.single) {
+      border-top-left-radius: 1.5em;
+      border-top-right-radius: 1.5em;
+      box-shadow: 0 0 10px 1px #666;
+    }
+
     a {
-      padding: 0.5em;
       text-align: center;
       color: #8cf;
+      &:hover {
+        text-decoration: none;
+      }
     }
     .type {
       margin-right: 0.5em;
@@ -192,6 +198,7 @@ footer.site-footer {
     }
     iframe {
       height: calc(200px + 30px); // [list_height param in iframe's src] plus [height of controls bar (play/skip/volume etc) within iframe]
+      // this ratio happens to work for videos as well
     }
   }
 }

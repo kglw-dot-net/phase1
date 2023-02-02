@@ -1,4 +1,4 @@
-<div class="archive-embed">
+<div class="archive-embed {% if include.single %}single{% endif %}">
   <a href="https://archive.org/details/{{include.id}}" target="_blank" rel="noopener noreferrer">
     {% if include.type %}<span class="type">{{include.type}}</span>{% endif %}
     {% if include.credit %}<span class="credit">{{include.credit}}</span>{% endif %}
@@ -6,7 +6,7 @@
   </a>
   <iframe
     title="audio of the show"
-    src="https://archive.org/embed/{{include.id}}?playlist=1&list_height=200"
+    src="https://archive.org/embed/{{include.id}}?{% unless include.single %}playlist=1&list_height=200{% endunless %}"
     width="380"
     frameborder="0"
     webkitallowfullscreen="true"

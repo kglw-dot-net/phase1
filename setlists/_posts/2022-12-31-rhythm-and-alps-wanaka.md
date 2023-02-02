@@ -34,6 +34,4 @@ modified_date: 2023-01-11
 
 #### Recordings
 
-{% include archive.html id="kglw2022-12-31" credit="Scizzardland" mic="iPhone" type="AUD" %}
-
 {% include youtube.html id="9kNT7t7dSMk" author="[Scizzardland](https://www.youtube.com/@lavacard)" %}

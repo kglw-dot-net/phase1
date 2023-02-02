@@ -79,10 +79,14 @@ modified_date: 2023-01-30
 
 #### Notes
 
-Stu and Ambrose wished Joey a happy birthday during The Dripping Tap. Gaia featured a Cavs drum solo over a metal vamp from the band. Oddlife was introduced as "Cookie's favorite song". Boogieman Sam was dedicated to soundman Sam Joseph and contained Cut Throat Boogie, "My Babe" (Little Walter), "Got My Mojo Workin'" (Ann Cole), and "Going Up the Country" (Canned Heat) quotes, as well as Sleepwalker teases. Sea of Trees was introduced as "what King Gizzard was originally called" and "Lucas's favorite song", and contained Head On/Pill and The Bitter Boogie teases. Hypertension was played over the PA as the setbreak music, which incidentally served as the "debut" for the studio track. I'm Not in Your Mind contained Alter Me teases. A New World through Altered Beast III featured Leah Senior providing narration. Alter Me I contained an Altered Beast III tease. The intro to Iron Lung featured additional vocals about "hot buns". Robot Stop contained a Hot Water tease. Iron Lung was reprised during Mr. Beat. Joey was hit with silly string at the conclusion of the show, and Ambrose quoted "Happy Birthday, Lisa" (The Simpsons) for the second night in a row. 
+Stu and Ambrose wished Joey a happy birthday during The Dripping Tap. Gaia featured a Cavs drum solo over a metal vamp from the band. Oddlife was introduced as "Cookie's favorite song". Boogieman Sam was dedicated to soundman Sam Joseph and contained Cut Throat Boogie, "My Babe" (Little Walter), "Got My Mojo Workin'" (Ann Cole), and "Going Up the Country" (Canned Heat) quotes, as well as Sleepwalker teases. Sea of Trees was introduced as "what King Gizzard was originally called" and "Lucas's favorite song", and contained Head On/Pill and The Bitter Boogie teases. [Hypertension](/songs/hypertension) was played over the PA as the setbreak music, which incidentally served as the "debut" for the studio track. I'm Not in Your Mind contained Alter Me teases. A New World through Altered Beast III featured Leah Senior providing narration. Alter Me I contained an Altered Beast III tease. The intro to Iron Lung featured additional vocals about "hot buns". Robot Stop contained a Hot Water tease. Iron Lung was reprised during Mr. Beat. Joey was hit with silly string at the conclusion of the show, and Ambrose quoted "Happy Birthday, Lisa" (The Simpsons) for the second night in a row. 
 
 
 #### Recordings
+
+This concert was released as part of [the Official Bootlegger program](https://kinggizzardandthelizardwizard.com/bootlegger):
+
+{% include bandcamp.html src="https://bandcamp.com/EmbeddedPlayer/album=747104926/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" link="https://kinggizzard.bandcamp.com/album/live-at-red-rocks-22" title="Live At Red Rocks 2022 by King Gizzard and the Lizard Wizard" %}
 
 {% include youtube.html id="3KFJoHgAS7Y" %}
 

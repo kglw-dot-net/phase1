@@ -17,7 +17,13 @@ venue: "The Grace Darling Hotel, Melbourne, Australia"
 
 #### Notes
 
-This show was a release party for the Anglesea EP.
+This show was a release party for the [Anglesea EP](/releases/angelsea).
 
-**KGLW.net Staff Notes:**
+**KGLW.net Staff Notes:**  
 The setlist for this show is likely incomplete and only partial recordings exist. Good to Me and the unknown song have been verified by audio recording. If anyone has any further information on what else was played at this show or, ideally, a complete or conclusive recording please contact KGLW.net staff at [kglw.net@gmail.com](email:kglw.net@gmail.com).
+
+#### Recordings
+
+{% include youtube.html id="tghXAiypcfU" title="Good to Me" %}
+
+{% include youtube.html id="SpP8uAmsJVE" title="(unknown song)" %}
