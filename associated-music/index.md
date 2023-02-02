@@ -70,7 +70,7 @@ _Leah Senior_ is a solo [Folk](https://www.youtube.com/watch?v=X9wTmn59Dl0) arti
 Broderick is the writer and narrator of 2012's [_Eyes Like The Sky_](https://kglw.net/releases/eyes-like-the-sky), a [legend of the Australian music industry](https://www.youtube.com/watch?v=oIABIVw4_2U) in his own right as a member of Sundown, Carson, and the Dingoes, he is also Ambrose's father.
 
 ### Mild High Club  
-_Mild High Club_ is the [hypnagogic-psych](https://www.youtube.com/watch?v=n7SJM6o-RJ4) project of Alex Brettin, and collaborator on [_Sketches Of Brunswick East_]. The Mild High Club live band had been booked for 2016's Gizzfest, and Alex hit it off so well with King Gizzard that he stuck around for a couple of extra weeks and put down a series of demos that later became the album.
+_Mild High Club_ is the [hypnagogic-psych](https://www.youtube.com/watch?v=n7SJM6o-RJ4) project of Alex Brettin, and collaborator on [_Sketches Of Brunswick East_](https://kglw.net/releases/sketches-of-brunswick-east). The Mild High Club live band had been booked for 2016's Gizzfest, and Alex hit it off so well with King Gizzard that he stuck around for a couple of extra weeks and put down a series of demos that later became the album.
 
 ### ORB  
 _ORB_ are a Melbourne based [heavy Psych Rock](https://www.youtube.com/watch?v=PWEAeAVdVIE) band led by Zak Olsen, and featuring Daff Gravolin and Jamie Harmer. Stu ocasionally records, mixes or contributes keyboards to their music, and the band have supported and toured several times with King Gizzard. Zak is part of a network of mutual friends in the Melbourne music scene associated with King Gizzard, including Leah Senior who at one stage was his house-mate.
