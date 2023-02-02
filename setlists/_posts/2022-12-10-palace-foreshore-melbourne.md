@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: "2022-12-10"
-venue: "Palace Foreshore, Naarm Melbourne, Australia"
+venue: "Palace Foreshore, Naarm (Melbourne), Australia"
 tour: "World Tour '22"
 modified_date: 2023-01-11
 redirect_from:
