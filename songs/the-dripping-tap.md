@@ -9,7 +9,7 @@ album: Omnium Gatherum
 # Lyrics
 
 > The dripping tap won't be turned off by the suits in charge of the world  
-> and our futures hanging on by a thread with our heads in the sand.  
+> and our future's hanging on by a thread with our heads in the sand.  
 > The dripping tap won't be turned off by the gods up above us.  
 > Big sky country.  
 > That we never hear from in these time of our dying needs.  
@@ -41,7 +41,7 @@ album: Omnium Gatherum
 > Wish I learned how to swim.  
 >  
 > The dripping tap won't be turned off by the suits in charge of the world  
-> And our futures hanging on by a thread with our heads in the sand.  
+> And our future's hanging on by a thread with our heads in the sand.  
 >  
 > Drip, drip from the tap don't slip.  
 > Drip, drip from the tap don't slip on the drip.  
@@ -64,7 +64,7 @@ album: Omnium Gatherum
 > Wish I learned how to swim.  
 >  
 > The dripping tap won't be turned off by the suits in charge of the world  
-> And our futures hanging on by a thread with our heads in the sand.  
+> And our future's hanging on by a thread with our heads in the sand.  
 > The dripping tap won't be turned off by the gods up above us.  
 > Big sky country.  
 > That we never hear from in these time of our dying needs.  
