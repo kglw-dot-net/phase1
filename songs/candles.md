@@ -34,8 +34,8 @@ album: Omnium Gatherum
 > Candles.  
 > Candles.  
 >  
-> Luck here matters when walking under ladders  
-> Because time is an arrow and our little bow has no strings  
+> Luck here matters when walking under ladders.  
+> Because time is an arrow and our little bow has no strings.  
 >  
 > This little man is too hot to handle.  
 > Set the funeral on fire with the candles.  
