@@ -33,7 +33,7 @@ album: Laminated Denim
 > Laminated denim  
 >  
 > Laminated denim  
-> he forces came to hem in  
+> The forces came to hem in  
 > They'll get in if we let them  
 > Laminated denim  
 > Sunrise gameplan  
