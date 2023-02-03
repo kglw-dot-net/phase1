@@ -27,7 +27,7 @@ modified_date: 2023-02-03
 
 <!--snippet-->
 
-[^1]: with Cavs drum solo
+[^1]: With Cavs drum solo.
 * footnotes
 {:footnotes}
 
