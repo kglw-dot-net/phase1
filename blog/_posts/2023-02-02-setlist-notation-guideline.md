@@ -60,9 +60,9 @@ Similar to a tease, this is when lyrics from one song are sung within another. T
 ### Segue  
 A segue is the connection of two different songs. Much like King Gizz often do in their studio albums, this is also done live to string multiple songs together into medleys or seamless portions of the set. Totally separate songs (where the music stops and there is a noticeable gap before the start of the next), are designated by a comma within a setlist. There are two types of segues, designated by either a `>` or a `->` symbol:
 
-#### Soft segue: `>`  
+#### Partial Segue: `>`  
 
-This is a soft segue. Typically the previous song is completed and the next started as written, but the music never truly stops in between, connected perhaps with an isolated drum pattern breakdown or sustained chord. Two separate songs but with a consistent flow through the setlist. In the studio discography, this is comparable to the transition between _[Altered Beast I](https://kglw.net/songs/altered-beast-i)_ and _[Alter Me I](https://kglw.net/songs/alter-me-i)_ from [Murder Of The Universe](/releases/murder-of-the-universe), though not necessarily reflective of how either or both of those songs may be played and connected live.
+In a partial segue, typically the previous song is completed and the next started as written, but the music never truly stops in between perhaps connected with an isolated drum pattern breakdown or sustained chord. Two separate songs but with a consistent flow through the setlist. In the studio discography, this is comparable to the transition between _[Altered Beast I](https://kglw.net/songs/altered-beast-i)_ and _[Alter Me I](https://kglw.net/songs/alter-me-i)_ from [Murder Of The Universe](/releases/murder-of-the-universe), though not necessarily reflective of how either or both of those songs may be played and connected live.
 
 **Example:**  
 [Dec 10 2022 at The Palace Foreshore, Naarm (Melbourne)](/setlists/2022/12/10/palace-foreshore-melbourne.html), a soft segue was used between _[Hypertension](https://kglw.net/songs/hypertension)_ and _[Ice V](https://kglw.net/songs/ice-v)_. The song clearly ends, but one guitar is intentionally sustained through the brief applause and quickly continues in a riff to introduce the next song:
@@ -71,10 +71,10 @@ This is a soft segue. Typically the previous song is completed and the next star
 {% include youtube.html id="-f4MNT_qLTs" start="768" title="segue between Hypertension > Ice V" %}
 </aside>
 
-#### Full segue: `->`
+#### Total segue: `->`
 
-The full segue is a complete connection of two songs, where the first is still in progress but a new song has begun sometimes before you realise. Teases and Jams are convenient ways to foreshadow or achieve this. This is more like two songs connected into one longer song.  
-The difference between the two types of segues is relatively subjective and usually decided on a case-by-case basis. Depending on the available recording, the full segue is much less common and the deciding factor is most often whether a solid, intentional drum beat continues through the transition, though preferably the whole band continues playing in the same arrangement with no change apart from the song that they are playing.  
+The total segue is a complete connection of two songs, where the first is still in progress but a new song has begun sometimes before you realise. Teases and Jams are convenient ways to foreshadow or achieve this. This is more like two songs connected into one longer song.  
+The difference between the two types of segues is relatively subjective and usually decided on a case-by-case basis. Depending on the available recording, the total segue is much less common and the deciding factor is most often whether a solid, intentional drum beat continues through the transition, though preferably the whole band continues playing in the same arrangement with no change apart from the song that they are playing.  
 In the studio discography, this is comparable to the transition between _[Invisible Face](https://kglw.net/songs/invisible-face)_ and _[Wah Wah](https://kglw.net/songs/wah-wah)_ from [Nonagon Infinity](https://kglw.net/releases/nonagon-infinity), again, not necessarily reflective of how those songs may be played and connected live.
 
 **Example:**  
