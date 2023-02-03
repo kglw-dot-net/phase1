@@ -17,7 +17,7 @@ album: Omnium Gatherum
 > Ohh baby I got persistence.  
 > Yeah I go the distance.  
 >  
-> No want for gas - I run on love  
+> No want for gas - I run on love.  
 > So cut the brakes.  
 > There's no end of the road.  
 > Unfading highway.  
@@ -51,7 +51,7 @@ album: Omnium Gatherum
 > You did.  
 > I think the car might crash.  
 > It will.  
-> I'll have to pull out the winds and feel the lift underfoot.  
+> I'll have to pull out the wings and feel the lift underfoot.  
 > I'm shaking with fear.  
 > Such a crazy idea.  
 > Better give it a try.  
