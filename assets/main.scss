@@ -225,18 +225,46 @@ main > .wrapper {
 //// setlist pages
 //// 
 
-.setlist {
+article.setlist {
+  order: 2;
+  display: flex;
+  flex-flow: row wrap;
+  margin-top: 4em; // slightly more than height of nav.setlist
+  @media (min-width: 1149px) {
+    margin-top: 0;
+  }
+
+  > .post-header {
+    order: 1;
+    flex-basis: calc(100% - 80px); // make room for .verified
+  }
+  > .verified {
+    order: 2;
+    flex-basis: 74px;
+    width: 74px;
+    height: 114px;
+  }
+  > .post-content {
+    order: 3;
+  }
+  > .post-meta {
+    order: 4;
+  }
+
   > .post-content > ol {
     margin-left: 0;
     @include commas-setlist;
   }
+
   h4 {
     margin-top: 1em;
     color: $gizz-bright-green;
   }
+
   .post-content > p {
     margin-top: 1em;
   }
+
   .reversefootnote {
     display: none;
   }
@@ -354,11 +382,6 @@ main > .wrapper {
 }
 
 article.setlist {
-  order: 2;
-  margin-top: 4em; // slightly more than height of nav.setlist
-  @media (min-width: 1149px) {
-    margin-top: 0;
-  }
 }
 nav.setlist { // next/prev links
   order: 1;

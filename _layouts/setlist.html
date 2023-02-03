@@ -49,6 +49,10 @@ layout: default
     {{ content }}
   </div>
 
+  {%- if page.modified_date -%}
+    <img class="verified" src="{{'/assets/check-lil-giza.png' | release_url}}" alt="Verified — this setlist has been reviewed and verified by KGLW.net staff" width="50" />
+  {%- endif -%}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
