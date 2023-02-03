@@ -160,8 +160,11 @@ main > .wrapper {
     text-align: center;
   }
   .post-list-heading {
-    color: $gizz-bright-green;
     display: inline-block;
+    color: $gizz-bright-green;
+    a {
+      color: inherit;
+    }
   }
 
   .more-link {
@@ -181,30 +184,37 @@ main > .wrapper {
     }
   }
 
-  .setlists > ul > li {
-    h3 {
-      margin-bottom: 0;
-      .post-link {
-        font-size: 1em;
+  .setlists {
+    @media (max-width: 499px) {
+      .more-link {
+        display: none;
       }
     }
-    h4 {
-      display: inline;
-      max-width: 100vw;
-      margin: 0 0.2em 0 0;
-      border-radius: 1em;
-      padding: 0 0.5em;
-      color: #222;
-      background: $gizz-bright-green;
-      white-space: nowrap;
-    }
-    ol {
-      @include commas-setlist;
-      display: inline;
-      margin: 0 1em 0 0;
-    }
-    .footnotes {
-      display: none;
+    > ul > li {
+      h3 {
+        margin-bottom: 0;
+        .post-link {
+          font-size: 1em;
+        }
+      }
+      h4 {
+        display: inline;
+        max-width: 100vw;
+        margin: 0 0.2em 0 0;
+        border-radius: 1em;
+        padding: 0 0.5em;
+        color: #222;
+        background: $gizz-bright-green;
+        white-space: nowrap;
+      }
+      ol {
+        @include commas-setlist;
+        display: inline;
+        margin: 0 1em 0 0;
+      }
+      .footnotes {
+        display: none;
+      }
     }
   }
 
