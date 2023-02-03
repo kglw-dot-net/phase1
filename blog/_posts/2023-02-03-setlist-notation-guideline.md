@@ -68,7 +68,7 @@ In a partial segue, typically the previous song is completed and the next starte
 [Dec 10 2022 at The Palace Foreshore, Naarm (Melbourne)](/setlists/2022/12/10/palace-foreshore-melbourne.html), a partial segue was used between _[Hypertension](https://kglw.net/songs/hypertension)_ and _[Ice V](https://kglw.net/songs/ice-v)_. The song clearly ends, but one guitar is intentionally sustained through the brief applause and quickly continues in a riff to introduce the next song:
 
 <aside>
-{% include youtube.html id="-f4MNT_qLTs" start="768" title="segue between Hypertension > Ice V" %}
+{% include youtube.html id="-f4MNT_qLTs" start="2864" title="segue between Hypertension > Ice V" %}
 </aside>
 
 #### Total segue: `->`
