@@ -10,10 +10,10 @@ album: Omnium Gatherum
 
 > Who's this Sadie Sorceress?  
 >  
-> Let me tell you bout this '80s lady named Sadie.  
+> Let me tell you bout this 80s lady named Sadie.  
 > She's wild like a witch.  
-> She's more fly than quidditch.  
-> Smoking winnies and drinking tinnies and glenfiddich.  
+> She's more fly than Quidditch.  
+> Smoking winnies and drinking tinnies and Glenfiddich.  
 > She's a roller blader skating.  
 > Masquerading.  
 > Squabble and gobble.  
