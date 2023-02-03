@@ -1,5 +1,5 @@
 ---
-title: "KGLW.net Meta-Post #01 - Band Contact & Setlist Notation"
+title: "KGLW.net Meta-Post #01: Band Contact & Setlist Notation"
 ---
 
 [Head On/Pill]: /songs/head-on-pill
@@ -9,7 +9,7 @@ title: "KGLW.net Meta-Post #01 - Band Contact & Setlist Notation"
 [The Lord of Lightning]: /songs/the-lord-of-lightning
 
 Phase 1 of KGLW.net is in full swing, and the response to the site has been great so far. Thank you to everyone who has used it! <!--snippet-->  
-The team has grown significantly since the launch of Phase 1. Welcome to our new contributors who are getting the [blog](https://kglw.net/blog) rolling: proofreaders, curators, archivists, and specialists from across the community.  
+The team has grown significantly since the launch of Phase 1. Welcome to our new contributors who are getting the [blog](https://kglw.net/blog) rolling, proofreaders, curators, archivists, and specialists from across the community.  
 The site is growing in many small ways from aesthetic and navigation features, to expanding on existing content, and it is already time for another update on some of our bigger projects:
 
 ## Band Sanctioned Lyrics
