@@ -22,7 +22,9 @@ repository: kglw-dot-net/site # this is needed for the GitHub Action workflow (t
 title: KGLW.net
 email: kglw.net@gmail.com
 description: >-
-  brought to you by fans of King Gizzard
+  KGLW.net collects info about the band King Gizzard & the Lizard Wizard, with
+  song lyrics, setlists for all shows, discography, guides to the Gizzverse,
+  and media about the band plus associated musicians and artists.
 domain: "kglw.net"
 url: "https://kglw.net"
 baseurl: "/"
@@ -32,11 +34,19 @@ github_username: kglw-dot-net
 twitter_username: kglw_net
 
 # jekyll-seo-tag options:
+tagline: brought to you by fans of King Gizzard
 logo: /assets/icon.jpg
+social:
+  name: KGLW.net
+  links:
+    - https://reddit.com/u/kglw-net # ?
+    - https://github.com/kglw-dot-net
+    - https://instagram.com/kglw_net
+    - https://twitter.com/kglw_net
 
 show_excerpts: true
 excerpt_separator: <!--snippet-->
-future: true
+future: true # this is for the upcoming_shows
 
 # Build settings
 theme: minima # v2
