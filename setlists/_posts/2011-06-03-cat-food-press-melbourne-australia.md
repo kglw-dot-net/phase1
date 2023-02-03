@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: "2011-06-03"
-venue: "Cat Food Press, Melbourne, Australia"
+venue: "Cat Food Press, Naarm (Melbourne), Australia"
 tour: "Black Tooth"
 modified date: 2023-02-03
 ---
