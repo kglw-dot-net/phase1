@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: "2011-05-20"
-venue: "The Tote Hotel, Melbourne, Australia"
+venue: "The Tote Hotel, Naarm (Melbourne), Australia"
 tour: "Black Tooth"
 modified date: 2023-02-03
 ---
