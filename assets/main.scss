@@ -387,10 +387,10 @@ nav.setlist { // next/prev links
       background: $gizz-magenta;
       color: black;
     }
-    &:first-child:before {
+    &.link-prev:before {
       content: 'prior show:\0A';
     }
-    &:last-child:before {
+    &.link-next:before {
       content: 'next show:\0A';
     }
   }
