@@ -13,7 +13,7 @@ modified date: 2023-02-03
 <!--snippet-->
 * footnotes
 {:footnotes}
-[^1]: With The River intro.
+[^1]: First known performance.
 
 #### Notes
 
