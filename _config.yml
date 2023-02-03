@@ -31,6 +31,9 @@ instagram_username: kglw_net
 github_username: kglw-dot-net
 twitter_username: kglw_net
 
+# jekyll-seo-tag options:
+logo: /assets/icon.jpg
+
 show_excerpts: true
 excerpt_separator: <!--snippet-->
 future: true
