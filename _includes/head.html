@@ -2,7 +2,12 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+
   {%- seo -%}
+  <!-- multiple image tags are acceptable; the first one will be given preference... the `seo` command above may add some, but if it doesn't, here are some defaults: -->
+  <meta name="twitter:image" property="og:image" content="https://i.imgur.com/GSnASgC.png" /> <!-- technically invalid, but expected -->
+  <link property="image" href="https://i.imgur.com/GSnASgC.png" /> <!-- valid -->
+
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}" />
   <link rel="shortcut icon" href="{{ "/assets/icon.jpg" | relative_url }}" />
   {%- feed_meta -%}
