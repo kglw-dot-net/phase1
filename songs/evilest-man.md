@@ -10,7 +10,7 @@ album: Omnium Gatherum
 
 > Evilest man.  
 >  
-> I had no choice but to ignore the voices in the newspaper.  
+> I have no choice but to ignore the voices in the newspaper.  
 > I feel so sad from what I see.  
 > Misinformation around me.  
 >  
@@ -36,7 +36,7 @@ album: Omnium Gatherum
 > Do you wanna be just like the evilest man?  
 > Murdochian.  
 >  
-> I had no choice but to ignore the voices in the newspaper.  
+> I have no choice but to ignore the voices in the newspaper.  
 > I feel so sad from what I see.  
 > Misinformation around me.  
 > I have no faith in what I read.  

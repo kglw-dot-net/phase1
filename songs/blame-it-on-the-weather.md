@@ -21,7 +21,7 @@ album: Omnium Gatherum
 > Go on then, blame it on the weather  
 > Go on then, blame it on the weather...  
 >  
-> Even if you like pain, life ain't a sadists game.  
+> Even if you like pain, life ain't a sadist's game.  
 > The devil ain't your friend - he's savage.  
 > That man on the corner of the street pulled the rug from under your feet.  
 > You're flying now so you'd better stick the landing otherwise you ain't got a leg to stay standing.  

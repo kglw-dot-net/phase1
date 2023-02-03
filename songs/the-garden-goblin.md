@@ -10,7 +10,7 @@ album: Omnium Gatherum
 
 > The garden goblin.  
 >  
-> Isn't this the place for you  
+> Isn't this the place for you.   
 > Here in the garden we're safe for now.  
 > Behind the tree the garden goblin's looking at me.  
 > At me.  

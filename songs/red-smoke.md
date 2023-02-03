@@ -9,7 +9,7 @@ album: Omnium Gatherum
 # Lyrics
 
 > Red smoke.  
-> The wools been pulled.  
+> The wool's been pulled.  
 > The dust won't settle.  
 > Red smoke.  
 > The fools still rule.  
@@ -20,7 +20,7 @@ album: Omnium Gatherum
 > It ain't some passing storm we can hide from.  
 >  
 > Red smoke.  
-> The wools been pulled.  
+> The wool's been pulled.  
 > The dust won't settle.  
 > Red smoke.  
 > The fools still rule.  
@@ -45,7 +45,7 @@ album: Omnium Gatherum
 > Drastic measures must be made before we incinerate.  
 >  
 > Red smoke.  
-> The wools been pulled.  
+> The wool's been pulled.  
 > The dust won't settle.  
 > Red smoke.  
 > The fools still rule.  

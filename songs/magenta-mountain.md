@@ -16,7 +16,7 @@ album: Omnium Gatherum
 > My life must be a dream - a living fantasy.  
 > Disappeared in hot air - magenta mountain.  
 >  
-> I don't believe you  
+> I don't believe you.  
 > Your eyes deceive you.  
 > Better check yourself in.  
 > The mirage is creeping outwards from your dream.  
