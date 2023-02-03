@@ -87,11 +87,21 @@ hr {
   font-variant: small-caps;
   font-weight: bold;
 }
-.site-title,
-.site-title:visited {
+.site-title {
+  display: flex;
   font-size: 1.1em;
   color: #000;
   font-weight: bold;
+  &:visited {
+    color: #000;
+  }
+  // &:before { // commented out because the colors don't match the rest of the site...
+  //   display: inline-block;
+  //   content: '\0a';
+  //   background: center / contain no-repeat url("/assets/icon.jpg");
+  //   width: 60px;
+  //   height: 60px;
+  // }
 }
 main > .wrapper {
   display: flex; // so we can reorder the children
