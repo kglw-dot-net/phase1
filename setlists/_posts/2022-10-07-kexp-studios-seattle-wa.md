@@ -11,7 +11,7 @@ modified date: 2023-02-03
 
 #### Notes
 
-This was an in-studio appearance for radio station KEXP in Seattle.  Following Magma the band had a 10 minute interview with KEXP DJ/on-air events coordinator [Cheryl Waters](https://en.wikipedia.org/wiki/Cheryl_Waters_(radio_personality))".
+This was an in-studio appearance for radio station KEXP in Seattle.  Following Magma the band had a 10 minute interview with KEXP DJ/on-air events coordinator [Cheryl Waters](https://en.wikipedia.org/wiki/Cheryl_Waters_(radio_personality)).
 
 
 #### Recordings
