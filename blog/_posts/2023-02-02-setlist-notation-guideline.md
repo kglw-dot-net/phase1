@@ -32,7 +32,7 @@ This is a musical reference to, or an element from one song contained within ano
 This is only noted as a significant live moment; certain songs may already contain elements of other songs in the studio versions (such as the many cross-references between songs in _[Nonagon Infinity](https://kglw.net/releases/nonagon-infinity)_ and therefore are not noteworthy when played live.
 
 **Example:**  
-[Jan 6 2023 at New Plymouth Aotearoa (New Zealand)](https://kglw.net/setlists/2023/01/06/tsb-stadium-new-plymouth.html), Joey begins playing a riff from _[The Dripping Tap]_ within _[I'm Not In Your Mind]_ <!--(_I'm Not In Your Mind_ could be said to contain a 'tease' of the '_Arabian riff/streets of Cairo_', though this is how the song is recorded and therefore is not worth noting as a significant live event. The same could be said for the _Mind Fuzz suite_ within _[The Lord of Lightning]_, or many songs from _[Nonagon Infinity]_ within others, that is just how the songs are written and recorded)-->:
+[Jan 6 2023 at New Plymouth, Aotearoa (New Zealand)](https://kglw.net/setlists/2023/01/06/tsb-stadium-new-plymouth.html), Joey begins playing a riff from _[The Dripping Tap]_ within _[I'm Not In Your Mind]_ <!--(_I'm Not In Your Mind_ could be said to contain a 'tease' of the '_Arabian riff/streets of Cairo_', though this is how the song is recorded and therefore is not worth noting as a significant live event. The same could be said for the _Mind Fuzz suite_ within _[The Lord of Lightning]_, or many songs from _[Nonagon Infinity]_ within others, that is just how the songs are written and recorded)-->:
 
 <aside>
 {% include youtube.html id="NwOVF_JJMPs" start="334" title="Dripping Tap tease @ 5:34" %}
