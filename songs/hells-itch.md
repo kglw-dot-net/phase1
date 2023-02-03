@@ -33,7 +33,7 @@ album: Ice, Death, Planets, Lungs, Mushrooms And Lava
 > Destroy myself with no chagrin  
 > Find the source of this deep remorse  
 > Buried deep inside me like a sunken horse  
-> ooted below in the innermost abyss is a fathomless unscratchable itch  
+> Rooted below in the innermost abyss is a fathomless unscratchable itch  
 >  
 > Shed my skin if need be to suppress the itch for it would fill me with glee  
 > Whatever is this persistent yearn to rip off my skin and stop the burn?  
@@ -57,7 +57,7 @@ album: Ice, Death, Planets, Lungs, Mushrooms And Lava
 > Hell's itch  
 > Latent witch  
 > Hell's itch  
-> Grisly sitch  
+> Grisly stitch  
 > Hell's itch  
 > The old adage: Pain is easier to endure than an itch  
 >  
