@@ -3,6 +3,7 @@ layout: setlist
 date: "2022-10-15"
 venue: "Radius, Chicago, IL, USA"
 tour: "World Tour '22"
+modified_date: 2023-02-02
 ---
 
 
@@ -11,36 +12,49 @@ tour: "World Tour '22"
  2. Venusian 2
 
  3. Slow Jam 1
-    (w/ Iron Lung + The Land Before Timeland teases)
 
  4. The Grim Reaper
 
  5. Oddlife
 
  6. The Book
+    [^1]
 
  7. Doom City
 
  8. Lava
+    [^2]
 
  9. Ambergris
-    (w/ Wholly Ghost tease intro)
 
 10. Presumptuous
 
 11. The Reticent Raconteur
-    (featuring Leah Senior) (>)
+    [^3]
+    {% include segue.html type=">" %}
 
 12. The Lord of Lightning
-    (featuring Leah Senior) (>)
+    [^3]
+    {% include segue.html type=">" %}
 
 13. The Balrog
-    (featuring Leah Senior w/ Cellophane + Trapdoor teases)
+    [^3]
 
 14. Iron Lung
 
 15. Float Along - Fill Your Lungs
 
+<!--snippet-->
+* footnotes
+{:footnotes}
+[^1]: With Cavs drum solo.
+[^2]: Debut.
+[^3]: With Leah Senior narration.
+
+
+#### Notes
+
+This show featured the live debut of Lava.  Slow Jam 1 contained Iron Lung quotes.  The Book was introduced as a song by Jimi Hendrix and featured a Cavs drum solo.  The Reticent Raconteur through The Balrog featured narration by Leah Senior.  The Lord of Lightning contained a Cellophane tease.  The Balrog contained a Trapdoor tease.
 
 #### Recordings
 

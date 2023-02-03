@@ -3,10 +3,12 @@ layout: setlist
 date: "2022-10-14"
 venue: "Palace Theatre, St. Paul, MN, USA"
 tour: "World Tour '22"
+modified_date: 2023-02-02
 ---
 
 
  1. Gaia
+    [^1]
 
  2. Predator X
 
@@ -17,7 +19,7 @@ tour: "World Tour '22"
  5. Open Water
 
  6. Static Electricity
-
+    {% include segue.html type=">" %}
  7. East West Link
 
  8. Minimum Brain Size
@@ -32,6 +34,14 @@ tour: "World Tour '22"
 
 13. The Dripping Tap
 
+<!--snippet-->
+* footnotes
+{:footnotes}
+[^1]: With Cavs drum solo.
+
+#### Notes
+
+Gaia featured a Cavs drum solo over a metal vamp from the band. Ambrose quoted "Evergreen" (Leah Senior) before The Dripping Tap.
 
 #### Recordings
 

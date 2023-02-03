@@ -23,7 +23,7 @@ modified_date: 2023-01-12
 9. Gamma Knife
    {% include segue.html type=">" %}
 10. People-Vultures
-11. Dripping Tap
+11. The Dripping Tap
 
 <!--snippet-->
 
