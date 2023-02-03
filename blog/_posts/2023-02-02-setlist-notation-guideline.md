@@ -114,6 +114,7 @@ This live-focused style of playing that draws this culture is new to the band, w
 
 There are no significant updates on long term goals for Phase 2 and beyond. An accompanying environmental non-profit organisation, and our custom setlist database are constantly being planned and developed, but they are both significantly large projects that need to be done right the first time. In the mean time, they will continue simmering in the background while we continue to iterate on our existing features and content.
 There is plenty of blog content in the pipeline (including an exclusive and very exciting interview) that you will hear about as it arrives shortly, so stay tuned for that.
+
 As always, if you have any feeback or even an idea for how you can contribute to KGLW.net, let us know at kglw.net@gmail.com or our social media. Otherwise, please continue enjoying and sharing the site; it has been so thrilling learning how people are using it, and exciting how many are regularly doing so.
 
 -KGLW.net team
