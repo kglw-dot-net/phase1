@@ -5,6 +5,7 @@ venue: "Kaleide Theatre, RMIT University, Naarm (Melbourne), Australia"
 title: "The First Known Performance: Bachelor of Contemporary Music Performance Exams"
 redirect_from:
   - /setlists/2010/10/21/rmit-melbourne.html
+modified_date: 2023-01-11
 ---
 
 
