@@ -50,7 +50,7 @@ This is only noted as a significant live moment; certain songs may already conta
 Similar to a tease, this is when lyrics from one song are sung within another. This can be done either isolated to or in conjunction with a tease. In [general usage](https://en.m.wikipedia.org/wiki/Musical_quotation) of the term, a musical quote is not confined only to lyrics and applies more like our definition of tease above. We believe the way that King Gizzard separately apply music and lyrics from different songs necessitates separate definitions in order to better convey what makes particular live versions unique and have landed on these two terms based on existing precedent in live music notation.
 
 **Example:**  
-On Oct 11 2022 ([Red Rocks night 2](https://kglw.net/setlists/2022/10/11/red-rocks-amphitheatre-morrison-co.html)), during _Boogieman Sam_, Ambrose sung lyrics from: _Cut Throat Boogie_, "My Babe" (Little Walter), "Got My Mojo Workin'" (Ann Cole), and "Going Up the Country" (Canned Heat). The band also teased _Sleepwalker_ during the song:
+[On Oct 11 2022 (Red Rocks night 2](https://kglw.net/setlists/2022/10/11/red-rocks-amphitheatre-morrison-co.html)), during _Boogieman Sam_, Ambrose sung lyrics from: _Cut Throat Boogie_, "My Babe" (Little Walter), "Got My Mojo Workin'" (Ann Cole), and "Going Up the Country" (Canned Heat). The band also teased _Sleepwalker_ during the song:
 
 <aside>
 {% include youtube.html id="0pWDFTUOOJY" start="381" title="Boogieman Sam with other quotes" %}
