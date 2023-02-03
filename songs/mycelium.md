@@ -23,7 +23,7 @@ album: Ice, Death, Planets, Lungs, Mushrooms And Lava
 > Amongst my kin, I extend acidic salutations  
 > Exhale the dust of seasons  
 > Inhale the breath of civilisations  
-> I grip with devils fingers and stroke the green curtain  
+> I grip with devil's fingers and stroke the green curtain  
 > We, the thoughtful element  
 > Dumb rock  
 > Unthinking ocеan  

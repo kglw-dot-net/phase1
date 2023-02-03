@@ -23,7 +23,7 @@ album: Laminated Denim
 > Hypertension is all that's left  
 >  
 > Golden hour turns to pink vein wine light  
-> Satans son  
+> Satan's son  
 > Fowl one  
 > Demon of time  
 > Bat wing membrane eclipsed the sun for fun  

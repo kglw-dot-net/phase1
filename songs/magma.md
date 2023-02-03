@@ -94,7 +94,7 @@ album: Ice, Death, Planets, Lungs, Mushrooms And Lava
 > Subtеrranean web  
 > Infest thе soul  
 > Flying arcs come bearing gifts  
-> Praise the return of GI Joe  
+> Praise the return of G.I. Joe  
 > Brewing beneath  
 > The magma shifts  
 > Heavenly bird  
