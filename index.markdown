@@ -14,4 +14,4 @@ Official:
 [Instagram](https://www.instagram.com/kinggizzard)
 [Twitter](https://twitter.com/kinggizzard)
 
-![color drawing of a Lizard Wizard, holding a staff with a crowned bird perched atop](/assets/kglw.jpeg)
+![color drawing of a Lizard Wizard, holding a staff with a crowned bird perched atop](/assets/kglw.jpeg){: .float-right }

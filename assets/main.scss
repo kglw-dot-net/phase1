@@ -334,7 +334,8 @@ main > .wrapper {
   }
 }
 
-.post-content { // also on homepage...
+.content, // on homepage
+.post-content {
   img.float-right {
     max-width: 33%;
     margin: 0 0 1em 1em;
