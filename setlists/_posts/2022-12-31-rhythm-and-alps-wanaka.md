@@ -4,7 +4,7 @@ date: 2022-12-31
 venue: "Robrosa Station, Cardrona, Aotearoa (New Zealand)"
 title: "New Years Eve @ Rhythm & Alps Festival"
 tour: "World Tour '22"
-modified_date: 2023-01-11
+modified_date: 2023-02-03
 ---
 
 1. Self-Immolate
@@ -25,7 +25,7 @@ modified_date: 2023-01-11
 
 * footnotes
 {:footnotes}
-[^1]: with Cavs drum solo
+[^1]: With Cavs drum solo.
 
 #### Notes
 
