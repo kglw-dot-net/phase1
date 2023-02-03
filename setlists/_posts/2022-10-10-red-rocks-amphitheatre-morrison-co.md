@@ -68,7 +68,7 @@ The intro to O.N.E. contained Straws in the Wind teases. The River contained Wah
 
 This concert was released as part of [the Official Bootlegger program](https://kinggizzardandthelizardwizard.com/bootlegger):
 
-{% include bandcamp.html src="https://bandcamp.com/EmbeddedPlayer/album=747104926/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" link="https://kinggizzard.bandcamp.com/album/live-at-red-rocks-22" title="Live At Red Rocks 2022 by King Gizzard and the Lizard Wizard" %}
+{% include bandcamp.html albumId="747104926" link="https://kinggizzard.bandcamp.com/album/live-at-red-rocks-22" title="Live At Red Rocks 2022 by King Gizzard and the Lizard Wizard" %}
 
 {% include youtube.html id="257hVfqkfCQ" title="Hell" %}
 
