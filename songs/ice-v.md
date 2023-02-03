@@ -13,7 +13,7 @@ album: Ice, Death, Planets, Lungs, Mushrooms And Lava
 > Ganymede princess with the tongue of death  
 > She smells what the wind says with the lava forked pincers  
 > Ganymede princess with a lungless chest  
-> With her tongues forked pincers she smells what the people says  
+> With her tongue's forked pincers she smells what the people says  
 >  
 > Ice V. Ice V. Ice V...  
 >  
