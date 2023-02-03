@@ -4,6 +4,7 @@ title: "K.G."
 bandcamp: https://kinggizzard.bandcamp.com/album/k-g
 release_date: 2020-11-20
 discogs: https://www.discogs.com/master/1850181-King-Gizzard-And-The-Lizard-Wizard-KG-Explorations-Into-Microtonal-Tuning-Volume-2
+image: /releases/kg/cover.jpg
 cover: ./cover.jpg
 redirect_from:
   - /releases/k-g
