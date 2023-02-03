@@ -9,46 +9,29 @@ modified_date: 2023-02-02
 
  1. Gaia
     [^1]
-
  2. Self-Immolate
-
  3. Magenta Mountain
-
  4. Inner Cell
     {% include segue.html type=">" %}
-
  5. Loyalty
     {% include segue.html type=">" %}
-
  6. Horology
-
  7. O.N.E.
     {% include segue.html type="->" %}
-
  8. Sleep Drifter
-    (w/ Honey tease)
-
  9. K.G.L.W. (Outro)
-
 10. Let Me Mend the Past
-
 11. The River
     {% include segue.html type="->" %}
-
 12. Wah Wah
     {% include segue.html type="->" %}
-
 13. The River
     [^1]
     {% include segue.html type="->" %}
-
 14. Wah Wah
     {% include segue.html type=">" %}
-
 15. Road Train
-
 16. Magma
-
 17. Lava
 
 <!--snippet-->
