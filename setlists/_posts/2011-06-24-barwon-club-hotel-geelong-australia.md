@@ -2,7 +2,6 @@
 layout: setlist
 date: "2011-06-24"
 venue: "Barwon Club Hotel, Geelong, Australia"
-tour: "Black Tooth"
 modified date: 2023-02-04
 ---
 
