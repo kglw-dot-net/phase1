@@ -24,9 +24,9 @@ Lastly, this tour was the genesis of Jason’s meticulously drawn, limited scree
 * Cook Craig: Guitar, Keyboards, Synthesizer
 * Joey Walker: Guitar, Vocals
 * Ambrose Kenny-Smith: Harmonica, Keyboards, Synthesizer, Vocals, Percussion
-* Stu Mackenzie: Vocals, Guitar, Keyboards, Synthesizer
-<br>
-
+* Stu Mackenzie: Vocals, Guitar, Keyboards, Synthesizer  
+<br>  
+  
 * Mastered by: Joe Carra
 * Mixed by: Stu Mackenzie
 * Produced by: Stu Mackenzie
