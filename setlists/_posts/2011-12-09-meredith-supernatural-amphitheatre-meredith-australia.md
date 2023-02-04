@@ -20,7 +20,7 @@ modified date: 2023-02-04
 
 #### Notes
 
-King Gizzard appeared as part of the Meredith Music Festival, a ["dream"](https://www.stereogum.com/2202315/king-gizzard-and-the-lizard-wizard-stu-mackenzie/interviews/cover-story/) for the band.
+King Gizzard appeared as part of the Meredith Music Festival, a ["dream"](https://www.stereogum.com/2202315/king-gizzard-and-the-lizard-wizard-stu-mackenzie/interviews/cover-story/) for the band. Crookedile contained "I Wanna Be Your Dog" (The Stooges) quotes.
 
 **KGLW.net Staff Notes:** The setlist for this show may be incomplete and only partial recordings exist. Every song listed above was confirmed by the recording, but the beginnning of Talk Talk Talk is missing, and it is unknown if additional songs were played prior. If anyone has any information on what else may have been played at this show or, ideally, a complete or conclusive recording please contact KGLW.net staff at kglw.net@gmail.com.
 
