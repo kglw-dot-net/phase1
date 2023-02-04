@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: "2011-10-17"
-venue: "PBS Studios, Melbourne, Australia"
+venue: "PBS Studios, Naarm (Melbourne), Australia"
 modified date: 2023-02-04
 ---
 
