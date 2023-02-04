@@ -29,9 +29,9 @@ album: Fishing For Fishies
 * Cavs: Drums
 * Ambrose: Harmonica, Vocals
 * Stu: Drums, Shaker, Tambourine, Bongo, Synthesiser, Piano, Vocals, Electric Guitar, Flute, Mellotron
-* Joey: Synthesiser
-<br>
-
+* Joey: Synthesiser  
+<br>  
+  
 * Recorded by Stu in hotel rooms in Guadalajara, Tiajuana, Monterey, and Mexico City, Mexico in October 2018.
 * Some drum kit recordings taken from May 2018 session with Gareth Liddiard at TFS Studios Nagambie.
 * Overdubs recorded by Stu and Joey in Melbourne between July to November 2018.
