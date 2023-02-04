@@ -168,10 +168,10 @@ main > .wrapper {
   }
 
   .more-link {
-    margin: 1vh 2vw;
+    margin: 5px 10px;
     border-radius: 1.3em;
     border: 1px solid $gizz-magenta;
-    padding: 1vh 2vw;
+    padding: 5px 10px;
     color: $gizz-magenta;
     white-space: nowrap;
 
@@ -199,7 +199,7 @@ main > .wrapper {
       }
       h4 {
         display: inline;
-        max-width: 100vw;
+        max-width: 100%;
         margin: 0 0.2em 0 0;
         border-radius: 1em;
         padding: 0 0.5em;
@@ -224,7 +224,7 @@ main > .wrapper {
   }
 
   .blog {
-    padding: 1vh 2vw;
+    padding: 5px 10px;
     border: 1px solid $gizz-bright-green;
     border-radius: 1em;
     background: #222;
