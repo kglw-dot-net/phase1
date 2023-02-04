@@ -2,7 +2,6 @@
 layout: setlist
 date: "2011-06-18"
 venue: "Ding Dong Lounge, Naarm (Melbourne), Australia"
-tour: "Black Tooth"
 modified date: 2023-02-04
 ---
 
