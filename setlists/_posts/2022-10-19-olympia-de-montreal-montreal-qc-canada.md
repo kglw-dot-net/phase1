@@ -37,8 +37,8 @@ modified_date: 2023-01-23
 * footnotes
 {:footnotes}
 [^1]: With Cavs drum solo.
-[^2]: Debut.
-[^3]: Reprise
+[^2]: Live debut.
+[^3]: Reprise.
 
 #### Notes
 
