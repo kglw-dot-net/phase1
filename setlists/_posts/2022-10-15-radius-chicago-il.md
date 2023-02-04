@@ -48,13 +48,13 @@ modified_date: 2023-02-02
 * footnotes
 {:footnotes}
 [^1]: With Cavs drum solo.
-[^2]: Debut.
+[^2]: Live debut.
 [^3]: With Leah Senior narration.
 
 
 #### Notes
 
-This show featured the live debut of Lava.  Slow Jam 1 contained Iron Lung quotes.  The Book was introduced as a song by Jimi Hendrix and featured a Cavs drum solo.  The Reticent Raconteur through The Balrog featured narration by Leah Senior.  The Lord of Lightning contained a Cellophane tease.  The Balrog contained a Trapdoor tease.
+This show featured the live debut of Lava.  Slow Jam 1 contained Iron Lung quotes. The Book was introduced as a song by Jimi Hendrix and featured a Cavs drum solo.  The Reticent Raconteur through The Balrog featured narration by Leah Senior. The Lord of Lightning contained a Cellophane tease. The Balrog contained a Trapdoor tease.
 
 #### Recordings
 

@@ -37,7 +37,7 @@ modified_date: 2023-01-23
 
 * footnotes
 {:footnotes}
-[^1]: Debut.
+[^1]: Live debut.
 [^2]: With Leah Senior narration.
 [^3]: With Cavs drum solo.
 
