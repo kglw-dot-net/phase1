@@ -80,6 +80,6 @@ Ball State Daily’s [choose your own adventure discography guide](https://www.b
 
 [Laminateddenim.net](https://laminateddenim.net/) is a directory of live show videos and setlists that have been compiled together from various sources.
 
-[Gizzhead.org](https://gizzhead.org/) is a selected list of live shows with setlists based on the setlist.fm API, links to recordings, and streaming service playlists based on the setlist.
+[Gizzhead.org](https://gizzhead.org/) is a selected list of live shows with links to setlist.fm, recordings, and streaming service playlists based on the setlist.
 
 [Confusedcyborg.com](https://confusedcyborg.com/) is a site for setlists based on the setlist.fm API, a catalogue of releases with streaming links, and a blog.
