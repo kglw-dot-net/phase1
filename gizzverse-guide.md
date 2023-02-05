@@ -74,4 +74,12 @@ Album flowcharts are common in the fan base. Though clunky to use and constantly
 
 Ball State Daily’s [choose your own adventure discography guide](https://www.ballstatedaily.com/byte/article/2021/02/choose-your-own-discography-guide-king-gizzard-the-lizard-wizard), is an (out of date) non-interactive written guide.
 
-Or try a video, such as Mic The Snare's [Deep Discog Dive](https://www.youtube.com/watch?v=bpYa4mWfZxU), or [Middle 8's introduction](https://www.youtube.com/watch?v=hjjCW6_fuXU).
+## Other Fan Sites
+
+[Weirdoswarm.org](https://weirdoswarm.org/) is a site tracking live setlists using the setlist.fm API, featuring King Gizzard themed creators, organising fan meetups, and hosting a Christmas gift exchange.
+
+[Laminateddenim.net](https://laminateddenim.net/) is a directory of live show videos and setlists that have been compiled together from various sources.
+
+[Gizzhead.org](https://gizzhead.org/) is a selected list of live shows with setlists based on the setlist.fm API, links to recordings, and streaming service playlists based on the setlist.
+
+[Confusedcyborg.com](https://confusedcyborg.com/) is a site for setlists based on the setlist.fm API, a catalogue of releases with streaming links, and a blog.
