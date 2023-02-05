@@ -3,13 +3,14 @@ layout: setlist
 date: "2022-10-06"
 venue: "Paramount Theatre, Seattle, WA, USA"
 tour: "World Tour '22"
+modified date: 2023-02-05
 ---
 
 
  1. Pleura
 
  2. Sleep Drifter
-
+    {% include segue.html type=">" %}
  3. Minimum Brain Size
 
  4. Billabong Valley
@@ -21,13 +22,13 @@ tour: "World Tour '22"
  7. Superbug
 
  8. Venusian 1
-
+    {% include segue.html type=">" %}
  9. Perihelion
-
+    {% include segue.html type=">" %}
 10. Predator X
 
 11. Gaia
-    (with extended drum solo)
+    [^1]
 
 12. Ice V
 
@@ -35,4 +36,12 @@ tour: "World Tour '22"
 
 14. Magma
 
+<!--snippet-->
+* footnotes
+{:footnotes}
+[^1]: With Cavs drum solo.
 
+
+#### Notes
+
+Sleep Drifter contained Honey quotes and teases and O.N.E., Billabong Valley, and Rattlesnake teases. Ambrose quoted "Fuck tha Police" (N.W.A.) in Billabong Valley. Gaia featured a Cavs drum solo. Leah Senior was shouted out before Magma.
