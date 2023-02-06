@@ -14,6 +14,7 @@ redirect_from:
 > I am megalithic  
 > My spirit runs mauve  
 > I am the mountain of which you dream
+> I see you now behind the lens looking back at me
 {:class="lyrics"}
 
 Omnium Gatherum wraps up the last of the pandemic lockdown-era isolation songs with the results of the first recording sessions with the band all back together jamming in the same room. Omnium Gatherum is an eclectic mixture of sounds that blurs the lines between some of their most retrospective sounding songs, and some of their boldest, off-the-wall experimentation.
