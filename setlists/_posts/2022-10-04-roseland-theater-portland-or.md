@@ -3,21 +3,22 @@ layout: setlist
 date: "2022-10-04"
 venue: "Roseland Theater, Portland, OR, USA"
 tour: "World Tour '22"
+modified date: 2023-02-07
 ---
 
 
  1. Gaia
-    (w/ drum solo)
+    [^1]
 
  2. Predator X
 
  3. Magenta Mountain
 
  4. Inner Cell
-    (>)
+    {% include segue.html type=">" %}
 
  5. Loyalty
-    (>)
+    {% include segue.html type=">" %}
 
  6. Horology
 
@@ -32,8 +33,17 @@ tour: "World Tour '22"
 11. Iron Lung
 
 12. Magma
+    [^2]
 
 13. Rattlesnake
-    (w/ Doom City + Nuclear Fusion + Sleep Drifter + O.N.E + Honey + Billabong Valley + Automation teases and quotes)
+
+<!--snippet-->
+* footnotes
+{:footnotes}
+[^1]: With Cavs drum solo.
+[^2]: Live debut.
 
 
+#### Notes
+
+This show featured the live debut of Magma.  Gaia featured a Cavs drum solo.  The Garden Goblin was introduced by Cookie as a song that he wrote about his dog.  Leah Senior was shouted out after Magma.  Rattlesnake contained Doom City, O.N.E., Honey, Billabong Valley & Automation teases/quotes and Nuclear Fusion & Sleep Drifter teases.
