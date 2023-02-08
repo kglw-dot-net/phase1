@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: "2022-10-28"
-venue: "Stubb's Bar-B-Q, Austin, TX, USA"
+venue: "Levitation Festival, Austin, TX, USA"
 title: "Stubb's Night 1"
 tour: "World Tour '22"
 modified_date: 2023-01-15
@@ -46,7 +46,7 @@ modified_date: 2023-01-15
 
 #### Notes
 
-Hot Wax was announced as a dedication to a fan named "Joe". I'm Not in Your Mind contained Alter Me teases and quotes. Cellophane contained Am I in Heaven? teases and Hot Wax quotes. Ambergris was introduced as a song about "[the most expensive ingredient in modern humanity](https://en.wikipedia.org/wiki/Ambergris)." Iron Lung featured an extended [Red Hot Chili Peppers](https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers) style intro while Lucas was using the restroom, followed by additional mid-song banter about Lucas. A New World through Altered Beast II featured Leah Senior providing the narration.
+This show was part of the 2022 [Levitation Festival](https://levitation.fm/) and was held at [Stubb’s Bar-B-Q](https://www.stubbsaustin.com/). Hot Wax was announced as a dedication to a fan named "Joe". I'm Not in Your Mind contained Alter Me teases and quotes. Cellophane contained Am I in Heaven? teases and Hot Wax quotes. Ambergris was introduced as a song about "[the most expensive ingredient in modern humanity](https://en.wikipedia.org/wiki/Ambergris)." Iron Lung featured an extended [Red Hot Chili Peppers](https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers) style intro while Lucas was using the restroom, followed by additional mid-song banter about Lucas. A New World through Altered Beast II featured Leah Senior providing the narration.
 
 
 #### Recordings
