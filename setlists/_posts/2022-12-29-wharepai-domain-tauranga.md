@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: "2022-12-29"
-venue: "Wharepai Domain, Tauranga, Aotearoa (New Zealand)"
+venue: "Summer Haze Festival, Tauranga, Aotearoa (New Zealand)"
 title: "Summer Haze Festival"
 tour: "World Tour '22"
 modified_date: 2023-02-03
@@ -33,7 +33,7 @@ modified_date: 2023-02-03
 
 #### Notes
 
-Notes: Gaia featured a Cavs drum solo over the top of a metal vamp from the band. Ice V contained Hypertension teases. Stu threw water bottles into the crowd during Hot Water. Amusing banter before The Dripping Tap referenced the heat, sweating, church, God, Satan, weed, and vaping. The Dripping Tap subsequently contained Hypertension teases and quotes.
+This show was part of the 2022 [Summer Haze Festival](https://summerhazenz.com/). Gaia featured a Cavs drum solo over the top of a metal vamp from the band. Ice V contained Hypertension teases. Stu threw water bottles into the crowd during Hot Water. Amusing banter before The Dripping Tap referenced the heat, sweating, church, God, Satan, weed, and vaping. The Dripping Tap subsequently contained Hypertension teases and quotes.
 
 **KGLW.net Staff Notes:**  
 The recording for this show is incomplete (missing Hypertension). Despite the incomplete recording, KGLW.net staff supports the -> transition from Ice V  -> Hypertension based on available audio evidence of the start of the transition near the end of Ice V. If anyone has any further information or, ideally, a complete or conclusive recording please contact KGLW.net staff at [kglw.net@gmail.com](email:kglw.net@gmail.com).
