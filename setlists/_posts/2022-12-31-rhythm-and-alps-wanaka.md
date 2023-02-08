@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: 2022-12-31
-venue: "Robrosa Station, Cardrona, Aotearoa (New Zealand)"
+venue: "Rhythm & Alps Festival, Cardrona, Aotearoa (New Zealand)"
 title: "New Years Eve @ Rhythm & Alps Festival"
 tour: "World Tour '22"
 modified_date: 2023-02-03
@@ -29,7 +29,7 @@ modified_date: 2023-02-03
 
 #### Notes
 
-"The End" (The Doors) was briefly quoted after The Fourth Colour. Am I in Heaven? contained Head On/Pill and The Dripping Tap teases. Amusing banter followed Am I in Heaven? where the band talked about their New Year's resolutions. Gaia featured a Cavs drum solo, during which Stu and Joey sprayed the crowd with champagne, followed by a full band "Moby Dick" (Led Zeppelin) tease. Boogieman Sam contained "My Babe" (Little Walter) and "Going Up the Country" (Canned Heat) quotes. Some other artists appearing at this festival were specifically shouted out by Joey: [Marlon Williams](https://www.marlonwilliams.co.nz/), [Sampa The Great](https://sampathegreat.com/), and [Dope Lemon](https://www.dopelemon.com/). 
+This show was part of the 2022 [Rhythm & Alps Festival](https://rhythmandalps.co.nz/). "The End" (The Doors) was briefly quoted after The Fourth Colour. Am I in Heaven? contained Head On/Pill and The Dripping Tap teases. Amusing banter followed Am I in Heaven? where the band talked about their New Year's resolutions. Gaia featured a Cavs drum solo, during which Stu and Joey sprayed the crowd with champagne, followed by a full band "Moby Dick" (Led Zeppelin) tease. Boogieman Sam contained "My Babe" (Little Walter) and "Going Up the Country" (Canned Heat) quotes. Some other artists appearing at this festival were specifically shouted out by Joey: [Marlon Williams](https://www.marlonwilliams.co.nz/), [Sampa The Great](https://sampathegreat.com/), and [Dope Lemon](https://www.dopelemon.com/). 
 
 
 #### Recordings
