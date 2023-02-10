@@ -122,3 +122,33 @@ _The Lazy Eyes_ are a Sydney, New South Wales based Psych Rock band who released
 
 ### Battlesnake  
 Significantly heavier and looser than King Gizzard, they use a similar 'all-in' approach creating the appearance of a drastic mythology that is little but post-King Gizzard. This is best demonstrated by their music video for _[I Am The Vomit](https://www.youtube.com/watch?v=0WwdhX6E2NY)_.
+
+## Influences
+For a band who play in such a diverse array of sounds, King Gizzard have an understandably large pool of influences. Here are some of the forces that have shaped their output.
+
+### Hawkwind  
+_Hawkwind_ are likely the band most covered by King Gizzard, though only for one verse frequently inserted into _Robot Stop_. The visual style of King Gizzard is also often reminiscent of _Hawkwind_'s iconography.
+
+### Frank Zappa  
+Conceptual continuity.
+
+### Motörhead  
+Cavs is a particular fan of _Motörhead_, taking many opportunities to represent them and having paid respects to Lemmy. They are know for their distinct bass drum double kick sound that Cavs often emulates.
+
+### Jazz
+King Gizzard could only vaguely be said to make music that classifies as Jazz, though their several 'jazzy' albums show great appreciation for the genre.
+The first of these albums was [Quarters!](https://kglw.net/releases/quarters), that built from the toned-down moments of its predecessor [I’m in Your Mind Fuzz](https://kglw.net/releases/im-in-your-mind-fuzz); but, their first overt reference to the canon of Jazz came with 2017's [Sketches of Brunswick East](https://kglw.net/releases/sketches-of-brunswick-east). The title is an homage to Miles Davis' 1960 classic _Sketches of Spain_, for which he took a strong influence from Flamenco, Spanish Ballet, and adapted _Joaquín Rodrigo_'s 1939 [_Concierto de Aranjuez_](https://youtu.be/ekznnxaGzNU?t=34). As far as the music is formed by 'sketches' of Spanish music, _Sketches Of Brunswick East_ does the same for King Gizzard's local suburb in Melbourne, though this is really as far as the _Miles Davis_ influence is taken (aside from the fact that all Jazz-Rock Fusion is indebted to him).
+_John Coltrane_ is a protégé of Miles Davis, legend in his own right, and also an indirect influence on King Gizzard. Joey in particular has expressed his appreciation of _Olé Coltrane_ as one of the best albums ever made. _Giant Steps_ / _Changes_
+_Pharoah Sanders_ vibes on _Lava_.
+Ethiopian Jazz/Funk/Tezeta
+
+### Krautrock
+Can/Neu!
+
+Thee Oh Sees/Osees
+
+AC/DC
+
+
+Life Is Cool sounds a lot like _Chelsea Dagger_ by _The Fratellis_ (2006)
+
