@@ -47,3 +47,14 @@ modified date: 2023-02-07
 #### Notes
 
 This show featured the live debut of Magma.  Gaia featured a Cavs drum solo.  The Garden Goblin was introduced by Cookie as a song that he wrote about his dog.  Leah Senior was shouted out after Magma.  Rattlesnake contained Doom City, O.N.E., Honey, Billabong Valley & Automation teases/quotes and Nuclear Fusion & Sleep Drifter teases.
+
+
+#### Recordings
+
+{% include archive.html id="kglw2022-10-04.aud.flac24" type="AUD" credit="DaFunkySquirrel" mic="Zoom H4n Pro" %}
+
+{% include youtube.html id="9HyQfSd3mYQ" author="Mystery Jack Official" %}
+
+{% include youtube.html id="fnhZB090-wM" author="nygirly 420" %}
+
+{% include youtube.html id="ok-BROmjODE" author="SocratesNuts" %}
