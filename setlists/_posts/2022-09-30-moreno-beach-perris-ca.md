@@ -49,6 +49,6 @@ This show was part of the 2022 [Desert Daze Festival](https://desertdaze.org/) (
 
 {% include youtube.html id="VKi54rQdbpw" author="Ranger Tron Cron" %}
 
-{% include youtube.html id="Y1ur_pIIVek?t=4562" author="Clear Vision Collective" %}
+{% include youtube.html id="Y1ur_pIIVek" start="4562" author="Clear Vision Collective" %}
 
 {% include youtube.html id="3wZOi1o7wYg" author="KingGizzardFuzz" %}
