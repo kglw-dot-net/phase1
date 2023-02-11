@@ -33,6 +33,7 @@ modified date: 2023-02-10
     {% include segue.html type=">" %}
 
 11. O.N.E.
+    [^3]
     {% include segue.html type=">" %}
 
 12. All Is Known
@@ -89,4 +90,4 @@ modified date: 2023-02-10
 
 #### Notes
 
-This show featured the live debut of Ice V. Wah Wah began with the intro to The River, and subsequently contained Crumbling Castle and The River teases. O.N.E. began with the intro to Straws in the Wind instead of the customary intro. Straws in the Wind was dedicated to Russell Brand (https://en.wikipedia.org/wiki/Russell_Brand). Smoke and Mirrors was played over the PA as the setbreak music. Gaia featured a Cavs drum solo. Ambergris contained an Ice V tease. Before The Reticent Raconteur, Leah Senior was introduced to the stage as "The Original Balrog" and Joey gave a shoutout to her live bass player Jack [Robbins], with the bonus trivia that he was also in Stu's first band  [Almacknjack](https://kglw.net/associated-music/#almacknjack). The Reticent Raconteur and The Lord of Lightning featured narration by Leah Senior. Am I in Heaven? contained The Dripping Tap teases.
+This show featured the live debut of Ice V. Wah Wah began with the intro to The River, and subsequently contained Crumbling Castle and The River teases. O.N.E. began with the intro to Straws in the Wind instead of the customary intro. Straws in the Wind was dedicated to [Russell Brand](https://en.wikipedia.org/wiki/Russell_Brand). Smoke and Mirrors was played over the PA as the setbreak music. Gaia featured a Cavs drum solo. Ambergris contained an Ice V tease. Before The Reticent Raconteur, Leah Senior was introduced to the stage as "The Original Balrog" and Joey gave a shoutout to her live bass player Jack [Robbins], with the bonus trivia that he was also in Stu's first band  [Almacknjack](https://kglw.net/associated-music/#almacknjack). The Reticent Raconteur and The Lord of Lightning featured narration by Leah Senior. Am I in Heaven? contained The Dripping Tap teases.
