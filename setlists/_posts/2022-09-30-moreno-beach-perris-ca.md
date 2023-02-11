@@ -45,6 +45,10 @@ This show was part of the 2022 [Desert Daze Festival](https://desertdaze.org/) (
 
 #### Recordings
 
-{% include archive.html id=" kglw2022-09-30.aud1.flac24" type="AUD" credit="Erik Massie" mic="SP-CMC-8 (w/Mods)" %}
+{% include archive.html id="kglw2022-09-30.aud1.flac24" type="AUD" credit="Erik Massie" mic="SP-CMC-8 (w/Mods)" %}
 
 {% include youtube.html id="VKi54rQdbpw" author="Ranger Tron Cron" %}
+
+{% include youtube.html id="Y1ur_pIIVek?t=4562" author="Clear Vision Collective" %}
+
+{% include youtube.html id="3wZOi1o7wYg" author="KingGizzardFuzz" %}
