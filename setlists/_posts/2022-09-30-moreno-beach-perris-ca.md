@@ -41,3 +41,10 @@ tour: "World Tour '22"
 #### Notes
 
 This show was part of the 2022 [Desert Daze Festival](https://desertdaze.org/) (held on Moreno Beach at the Lake Perris State Recreation Area) and featured the live debut of Iron Lung.  Gaia featured a Cavs drum solo.  Boogieman Sam contained Cut Throat Boogie, "Got My Mojo Working" (Ann Cole) and "My Babe" (Little Walter) quotes.  Following Murder of the Universe the band shouted out [Tame Impala](https://tameimpala.com/), who also appeared at the festival.  Following K.G.L.W. (Outro), Joey called out "our other best friends [Mild High Club](https://en.wikipedia.org/wiki/Mild_High_Club)", who were also playing that night, and Ambrose got them confused with [Mildlife](https://www.mildlife.com.au/), another Naarm (Melbourne) based band playing the festival.  The Dripping Tap was introduced as a song "about swimming in a sea of death"; during the song Stu crowd surfed to and swam in Lake Perris then crowd surfed back to the stage.
+
+
+#### Recordings
+
+{% include archive.html id=" kglw2022-09-30.aud1.flac24" type="AUD" credit="Erik Massie" mic="SP-CMC-8 (w/Mods)" %}
+
+{% include youtube.html id="VKi54rQdbpw" author="Ranger Tron Cron" %}
