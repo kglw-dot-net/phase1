@@ -45,3 +45,14 @@ modified date: 2023-02-05
 #### Notes
 
 Sleep Drifter contained Honey quotes and teases and O.N.E., Billabong Valley, and Rattlesnake teases. Ambrose quoted "Fuck tha Police" (N.W.A.) in Billabong Valley. Gaia featured a Cavs drum solo. Leah Senior was shouted out before Magma.
+
+
+#### Recordings
+
+{% include archive.html id="kglw2022-10-06" type="AUD" credit="Mystery Jack" %}
+
+{% include youtube.html id="CgXmRaKLRFA" author="Mystery Jack Official" %}
+
+{% include youtube.html id="ZqpMBEktMM4" author="Jason Williams" %}
+
+{% include youtube.html id="sJuk2fNbb6Y" author="supercones" %}

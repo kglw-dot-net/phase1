@@ -48,4 +48,11 @@ This show featured the live debut of A New World.  Slow Jam 1 contained Ice V te
 
 #### Recordings
 
+{% include archive.html id="kglw2022-10-05" type="AUD" credit="LeifH" mic="2x IEM" %}
+
 {% include youtube.html id="FiY4oYceHCI" author="Mystery Jack" %}
+
+{% include youtube.html id="3lBXjXHpxDQ" author="Meatpie -Official-" %}
+
+{% include youtube.html id="HLobHOngOW0" author="Brunolko" %}
+
