@@ -149,6 +149,17 @@ Thee Oh Sees/Osees
 
 AC/DC
 
+Shirts worn:
+Zappa (Cavs)
+Yo La Tengo (Luke)
+
+Live shoutouts:
+Tool
+Tame Impala
+The Beatles
+Dope Lemon
+Sampa The Great
+Confidence Man (seen hanging out together backstage, Sugar Bones from Confidence Man is the front of psych band Moses Gunn Collective)
 
 Life Is Cool sounds a lot like _Chelsea Dagger_ by _The Fratellis_ (2006)
 
