@@ -151,7 +151,12 @@ AC/DC
 
 Shirts worn:
 Zappa (Cavs)
+Black Sabbath (Cavs)
 Yo La Tengo (Luke)
+Cannibal Corpse (Joey)
+Sun Ra (Cook)
+Mudvayne (Joey)
+
 
 Live shoutouts:
 Tool
