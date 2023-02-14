@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: "2021-02-23"
-venue: "Croxton Park Hotel, Melbourne, Australia"
+venue: "Croxton Park Hotel, Naarm (Melbourne), Australia"
 tour: "Micro Tour 2021"
 modified date: 2023-02-13
 ---
