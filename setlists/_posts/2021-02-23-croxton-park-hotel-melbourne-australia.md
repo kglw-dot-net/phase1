@@ -3,53 +3,73 @@ layout: setlist
 date: "2021-02-23"
 venue: "Croxton Park Hotel, Melbourne, Australia"
 tour: "Micro Tour 2021"
+modified date: 2023-02-13
 ---
 
 
- 1. Fury
-    (Cavs Solo)
+ 1. K.G.L.W. (Intro)
+    [^1]
 
- 2. KGLW
-    (Instrumental)
+ 2. If Not Now, Then When?
+    [^1]
 
- 3. If Not Now, Then When?
+ 3. Automation
+    [^1]
+    
+ 4. Minimum Brain Size
+    [^1]
+    
+ 5. Doom City
 
- 4. Automation
+ 6. Supreme Ascendancy
+    [^1]
+    
+ 7. Ontology
+    [^1]
+    
+ 8. East West Link
+    [^1]
+    {% include segue.html type=">" %}
+    
+ 9. Static Electricity
+    [^1]
+    
+10. Ataraxia
 
- 5. Minimum Brain Size
+11. Open Water
 
- 6. Doom City
+12. Straws in the Wind
 
- 7. Supreme Ascendancy
+13. Pleura
+    [^1]
+    
+14. Sleep Drifter
+    {% include segue.html type=">" %}
 
- 8. Ontology
-
- 9. East West Link
-
-10. Static Electricity
-
-11. Ataraxia
-
-12. Open Water
-
-13. Straws in the Wind
-
-14. Pleura
-
-15. Sleep Drifter
-
-16. Honey
-
-17. Oddlife
-
-18. K.G.L.W.
-
-19. Some Context
+15. Honey
+    [^1]
+    
+16. Oddlife
+    [^1]
+    
+17. K.G.L.W. (Outro)
+    [^1]
+    
+18. Some Context
 
 20. The Reticent Raconteur
-    (featuring Leah Senior)
+    [^1]
+    [^2]
 
 21. The Lord of Lightning
-    (featuring Leah Senior)
+    [^2]
 
-Note: first show "back" since COVID; the previous (known) concert was just over a year prior and in the same venue.
+<!--snippet-->
+* footnotes
+{:footnotes}
+[^1]: Live debut.
+[^2]: With Leah Senior narration.
+
+#### Notes
+
+This was the first KGLW show since the beginning of the Covid-19 global pandemic and featured the debut of over a dozen songs (Fury, K.G.L.W. (Intro), If Not Now, Then When, Automation, Minimum Brain Size, Supreme Ascendency, Ontology, East West Link, Static Electricity, Ataraxia, Straws in the Wind, Pleura, Honey, Oddlife, K.G.L.W. (Outro) and The Reticent Raconteur), including many off of the then unreleased L.W. album. Leah Senior was shouted out before Straws in the Wind. Pleura was introduced as a song about Ambrose's, Joey's and Stu’s grandmas.  Sleep Drifter contained Rattlesnake, Automation, and If Not Now, Then When? teases.  Oddlife was introduced as a song about “life on the road”, followed by a humorous story by Amby about said life. The Reticent Raconteur and The Lord of Lightning featured narration by Leah Senior.
