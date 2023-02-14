@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: "2022-06-17"
-venue: "Great Stage Park, Manchester, TN, USA"
+venue: "Bonnaroo Festival, Manchester, TN, USA"
 tour: "World Tour '22"
 modified date: 2023-02-13
 ---
