@@ -72,7 +72,7 @@ modified date: 2023-02-13
 
 #### Notes
 
-This was the first KGLW show since the beginning of the Covid-19 global pandemic and featured the debut of over a dozen songs (Fury, K.G.L.W. (Intro), If Not Now, Then When, Automation, Minimum Brain Size, Supreme Ascendency, Ontology, East West Link, Static Electricity, Ataraxia, Straws in the Wind, Pleura, Honey, Oddlife, K.G.L.W. (Outro) and The Reticent Raconteur), including many off of the then unreleased L.W. album. Leah Senior was shouted out before Straws in the Wind. Pleura was introduced as a song about Ambrose's, Joey's and Stu’s grandmas.  Sleep Drifter contained Rattlesnake, Automation, and If Not Now, Then When? teases.  Oddlife was introduced as a song about “life on the road”, followed by a humorous story by Amby about said life. The Reticent Raconteur and The Lord of Lightning featured narration by Leah Senior.
+This was the first KGLW show since the beginning of the Covid-19 global pandemic and featured the debut of over a dozen songs (K.G.L.W. (Intro), If Not Now, Then When, Automation, Minimum Brain Size, Supreme Ascendency, Ontology, East West Link, Static Electricity, Ataraxia, Straws in the Wind, Pleura, Honey, Oddlife, K.G.L.W. (Outro) and The Reticent Raconteur), including many off of the then unreleased L.W. album. Leah Senior was shouted out before Straws in the Wind. Pleura was introduced as a song about Ambrose's, Joey's and Stu’s grandmas.  Sleep Drifter contained Rattlesnake, Automation, and If Not Now, Then When? teases.  Oddlife was introduced as a song about “life on the road”, followed by a humorous story by Amby about said life. The Reticent Raconteur and The Lord of Lightning featured narration by Leah Senior.
 
 #### Recordings
 
