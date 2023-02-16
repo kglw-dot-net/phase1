@@ -30,11 +30,37 @@ album: Quarters!
 > It will be clear what I have said  
 > Float without a home  
 > The river flows like another long road  
+>   
+> I can't believe it  
+> It is frozen  
+> It's not the first time  
+> I had noticed  
+> She will deliver  
+> I am floating  
+> Trust in the river  
+> I had floated down  
 >  
+> Floated down...  
+>  
+> Down  down  down...  
+>   
 > Frozen over home  
 > The fading light shines on the white stone  
 > Melt your little zone  
 > And sink into the waterfall flow  
+>  
+> I can't believe it  
+> It is frozen  
+> It's not the first time  
+> I had noticed  
+> She will deliver  
+> I am floating  
+> Trust in the river  
+> I had floated down  
+>  
+> Floated down...  
+>  
+> Down  down  down... 
 
 # Album Credits
 
