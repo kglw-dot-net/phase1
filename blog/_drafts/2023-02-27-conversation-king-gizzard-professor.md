@@ -84,14 +84,14 @@ Yeah, I've watched a lot of YouTube videos of them performing and sort of just t
 I feel really sort of vindicated because of what I talked about in my lectures about the music industry at the RMIT program. The notion that as an Australian act, it's so important to get overseas quickly, and really push your stuff to an overseas market, because we're a premium, we're exotic. We present as authentically different to all the musicians that they see overseas. I tell my students, imagine a lot of bands from Iceland come to play at your local pub, everyone's gonna go just from that fact. Because it's like: ‘Iceland? What the hell do they do there?’ We're so far away, a lot of people will never make it to Australia in their lifetime. When Australian bands come over, it's like: ‘oh these people actually do stuff that's different’. They think we have kooky animals here, that we have this amazing lifestyle, and this amazingly rich community in terms not only money, but also, we're starting to put together really interesting music. Music as a sort of a contemporary white-Australian culture is starting to get ‘a sound’ [indigenous music culture dates back tens of thousands of years, while it is suggested that music truly representative of contemporary colonial Australian culture didn't arise until around fifty years ago]. If you think about the Melbourne Shuffle, it was a dance style that came out of Melbourne. A lot of cutting edge electronic music is based around technology which was developed in Australia. The Fairlight was the first sampler in the late seventies, early eighties, and sampling changed the world. 
 
 **W.B.T.G. Slinger:**  
-Like with The Avalanches.
+Like with _The Avalanche_s.
 
 <aside>
   {% include youtube.html id="qLrnkK2YEcE" title="The Avalanches: Frontier Psychiatrist" %}
 </aside>
 
 **Dr. Barry Hill:**  
-Hm, The Avalanches, you know.
+Hm, _The Avalanches_, you know.
 The Bird and Amphibian, sort of came up in the early to late nineties, early noughties. That was the transition period between the old style music industry and the new style. So it means back then there was no YouTube, you didn’t really video much, videos back then involved bulky cameras and tape.
 I find it interesting that historical periods might not be documented very well. Generally in music, like from 1995 to 2005, we're not going to get much of a record of that time, because there was hardly any vinyl, CDs were declining. There's downloads, but mp3s can be complicated with rights management.
 
@@ -108,15 +108,15 @@ I was born early in that era, so I noticed in your PhD you mentioned the _Resin 
 </aside>
 
 **Dr. Barry Hill:**  
-You did have the Global Carnival where you were, that was a really iconic festival. The after party was always a cracker as well.
+You did have the _Global Carnival_ where you were, that was a really iconic festival. The after party was always a cracker as well.
 
 **W.B.T.G. Slinger:**  
-I was a bit young for the after party, but yeah, the Global Carnival was very much a defining aspect of my childhood.
+I was a bit young for the after party, but yeah, the _Global Carnival_ was very much a defining aspect of my childhood.
 
 **Dr. Barry Hill:**  
 Oh, well you probably would have seen me play, because I used to play in a variety of groups there in the nineties, like as a hired drum and bass player. I was with a lot of multicultural groups playing African music, South American music, and hybrid Indian music.
 That era was really instrumental for me, I was very much a Sydney based musician then — and just trying to circle this back to King Gizzard — back then, Sydney and Melbourne bands didn't really get to know each other that much. It's just a little bit too far when you're starting out.
-I remember going to Melbourne for the first time in the early 90s and getting blown away by the strength of the music scene. While it was happening, we had just been through a progression of shutdowns of live music venues being replaced by pokies _[slot machines]_. Melbourne just seemed to be really vibrant with amazing music, but not many people getting paid very well. Little cafes and pubs that could get liquor licenses that they wouldn’t be able to in New South Wales. It's like a different country.
+I remember going to Melbourne for the first time in the early 90s and getting blown away by the strength of the music scene. While it was happening, we had just been through a progression of shutdowns of live music venues being replaced by pokies [slot machines]. Melbourne just seemed to be really vibrant with amazing music, but not many people getting paid very well. Little cafes and pubs that could get liquor licenses that they wouldn’t be able to in New South Wales. It's like a different country.
 
 **W.B.T.G. Slinger:**  
 It's funny how little has changed. You had the Sydney lockout laws through the 2010s — which were implemented not long after I moved there — and then I was seeing friends trying to make it in the Melbourne music scene, the difference is just incredible.
@@ -170,7 +170,7 @@ Yeah, it's similar to living in regions like we do as opposed to Living in New Y
 The social media thing is a real help that we didn't have in the nineties, to actually connect with people overseas who might like your music and that might be able to put on a gig for you. I'd love to get Stu and everyone up to my current course to tell my kids how they did it, what the breakthrough moments were. But I reckon the first couple of tours to America must have been in the back of a bus.
 
 **W.B.T.G. Slinger:**  
-Oh, absolutely they were. That $50,000 AUD grant _[the Carlton Dry Global Music Grant won at the Australian Independent Record Labels Association awards for [Float Along — Fill Your Lungs](https://kglw.net/releases/float-along-fill-your-lungs)]_ got them to the US where they really cut their teeth with a real tour like you can’t do here, and made all sorts of connections. Then they were still able to rent a cheap cabin in upstate New York for a month and buy a bunch of equipment off Craigslist, and traveled down to Brooklyn every weekend to do a residency in the 3am slot at _Baby’s All Right_. I think half of them would go in the van and the rest had to rotate each week for who would take the bus. That cabin is where [I’m In Your Mind Fuzz](https://kglw.net/releases/im-in-your-mind-fuzz) started coming together, and they had just enough left over to buy some studio time at Daptone Records for that as well.
+Oh, absolutely they were. That $50,000 AUD grant [the Carlton Dry Global Music Grant won at the Australian Independent Record Labels Association awards for [Float Along — Fill Your Lungs](https://kglw.net/releases/float-along-fill-your-lungs)] got them to the US where they really cut their teeth with a real tour like you can’t do here, and made all sorts of connections. Then they were still able to rent a cheap cabin in upstate New York for a month and buy a bunch of equipment off Craigslist, and traveled down to Brooklyn every weekend to do a residency in the 3am slot at _Baby’s All Right_. I think half of them would go in the van and the rest had to rotate each week for who would take the bus. That cabin is where [I’m In Your Mind Fuzz](https://kglw.net/releases/im-in-your-mind-fuzz) started coming together, and they had just enough left over to buy some studio time at Daptone Records for that as well.
 So that was their first big leap, in terms of being able to produce their first truly realised studio album, and to tour that much at the same time. They’d hooked up with John Dwyer from _Thee Oh Sees_, and so that album was their first international publication on his independent label, Castle Face Records.
 
 **Dr. Barry Hill:**  
