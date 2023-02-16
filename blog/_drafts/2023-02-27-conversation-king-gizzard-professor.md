@@ -1,5 +1,5 @@
 ---
-title: "A Conversation with the King Gizzard Professor"
+title: "A Conversation with King Gizzard's University Professor"
 author: W.B.T.G. Slinger
 ---
 
@@ -28,6 +28,7 @@ So we wanted to speak to you because of the video you posted of King Gizzard per
 So here's the backstory to me getting back into academia after my [PhD](https://drbazhspace.wordpress.com/ph-d/). I really went into the music industry sort of gung-ho from the nineties into the early noughties, I was really trying to make it work as a career. My two bands: _The Bird_, and _Amphibian_ had gotten really close, we were getting ‘Triple J famous’, we had independent record deals, we were doing little tours over to Europe. This is relevant to the King Gizz story because I noticed how much you got appreciated overseas as an Australian artist. When my Amphibian instrumental trio went to Europe for the first time everyone was really interested. At the time we were also really quite popular in Melbourne, but the money we were getting from gigs was next to nothing, and we didn't really get much record company interest. There were a couple of people at Triple J who liked the music, so we're getting a bit of airplay, but we were finding touring in Australia was a struggle. If you could find a way to get overseas, all of a sudden, you’d sell out all your CDs, and you'd get a bit of a following, festivals were paying good money, which would make it possible for you to actually come back with some in your pocket.
 
 <aside>Triple J is a government funded national radio station broadcasting since 1975 and geared toward alternative music for a youth audience. Triple J is a cornerstone of the Australian music industry, and as a part of the Australian Broadcasting Corporation is subject to strict editorial policy and not allowed to run advertisements.</aside>
+
 
 **W.B.T.G. Slinger:**  
 Well, that was the break for King Gizz as well really, they won their grant in 2014 and got to go to the US for the first time. That's really where it all kind of came together for them.
