@@ -70,6 +70,8 @@ This concert was released as part of [the Official Bootlegger program](https://k
 
 {% include bandcamp.html albumId="747104926" link="https://kinggizzard.bandcamp.com/album/live-at-red-rocks-22" title="Live At Red Rocks 2022 by King Gizzard and the Lizard Wizard" %}
 
+{% include archive.html id="kg2022-10-10" credit="Official Bootlegger Program" %}
+
 {% include youtube.html id="257hVfqkfCQ" title="Hell" %}
 
 {% include youtube.html id="wP3stlzXxDg" title="The River" %}
