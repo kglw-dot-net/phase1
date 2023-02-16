@@ -5,7 +5,7 @@ author: W.B.T.G. Slinger
 
 ![photo of Dr Barry Hill](https://user-images.githubusercontent.com/114916472/215950946-bc9a6e00-a7da-480d-b95b-5c364348156e.png){: .float-right }
 
-**Dr. Barry Hill** is the Senior Lecturer at [Southern Cross University](https://www.scu.edu.au/) School of Arts and Social Sciences at the Lismore campus in regional New South Wales, and currently teaches in the Bachelor of Contemporary Music program. He is a specialist in popular music culture, music performance, and music technology and has published a PhD: ‘Twenty-first Century Models of Music Performance Practice in an Australian Contemporary Music Community’.
+**Dr. Barry Hill** is the Senior Lecturer at [Southern Cross University](https://www.scu.edu.au/) Faculty of Business Law and the Arts at the Lismore campus in regional New South Wales, and currently teaches in the Bachelor of Contemporary Music program. He is a specialist in popular music culture, music performance, and music technology and has published a PhD: ‘Twenty-first Century Models of Music Performance Practice in an Australian Contemporary Music Community’.
 He is also an accomplished musician, having music independently and internationally published in multiple bands, and having made several successful international tours.
 
 Between 2009–2011, Dr. Hill lectured in the Bachelor of Music Industry course at [Royal Melbourne Institute of Technology](https://www.rmit.edu.au/), where he taught [**Stu Mackenzie**, **Eric Moore**, **Joe Walker**, and **Lucas Skinner** (now Harwood)](https://kglw.net/band-bio) who were in the process of forming King Gizzard and the Lizard Wizard.
@@ -192,10 +192,10 @@ The limited success that I had with Amphibian, we sold more albums in Japan than
 </aside>
 
 **W.B.T.G. Slinger:**  
-I'm always on the lookout for the post King Gizz generation, and there's one band I've kind of had my eye on that I discovered on _[Rage](https://en.wikipedia.org/wiki/Rage_(TV_program))_, _[Liminal](https://kglw.net/associated-music/#Liminal)_. I wanted to mention them because they're from Lismore [where Dr. Hill currently teaches].
+I'm always on the lookout for the post King Gizz generation, and there's one band I've kind of had my eye on that I discovered on _[Rage](https://en.wikipedia.org/wiki/Rage_(TV_program))_, _[Liminal](https://kglw.net/associated-music/#liminal)_. I wanted to mention them because they're from Lismore [where Dr. Hill currently teaches].
 
 **Dr. Barry Hill:**  
-Ah, I know _Liminal_ very well, its interesting, there’s a current little bubbling scene in Lismore, and they’re all King Gizz fanatics. They're all taking on different aspects of King Gizz. Another band called _[PUFF](https://www.abc.net.au/triplejunearthed/artist/puff/)_.  
+Ah, I know _Liminal_ very well, its interesting, there’s a current little bubbling scene in Lismore, and they’re all King Gizz fanatics. They're all taking on different aspects of King Gizz. Another band is called _[PUFF](https://www.abc.net.au/triplejunearthed/artist/puff/)_.  
 Alako Myles who is behind _Liminal_, he's doing a lot of things, like he plays drums too. As his independent project last year, he produced eight episodes of a video program called _Anemoia_. It's sort of like a _[Recovery](https://en.wikipedia.org/wiki/Recovery_(TV_series))_ or _Rage_ type project he put together himself. So he’d do all the shooting of the content, then do a live gig to a three camera shoot in our auditorium, and set up a little sort of TV studio style interview space in front of a live audience, and posted online every Saturday. Another type of these people who are just really driven.
 
 <aside>
@@ -226,7 +226,7 @@ It is wonderful to know that.
 I thought he was gonna go solo, he was playing with all different people in the course. It was like Joey is with this person, Joey is with Eric doing a duo…
 
 **W.B.T.G. Slinger:**  
-He does have a solo side project, and is just promoting new material for it now. _Bullant_, it's a sort of an abstract techno-IDM-type thing.
+He does have a solo side project, and is just promoting new material for it now. _[Bullant](https://kglw.net/associated-music/#bullant)_, it's a sort of an abstract techno-IDM-type thing.
 
 **Dr. Barry Hill:**  
 Part of the course was the computer sound production unit, I've got all these assessments on my hard drive still that Joey’s put in of electronic stuff. Eric's electronic stuff was awesome as well. Yeah, it doesn't surprise me he's doing electronic solo stuff.
