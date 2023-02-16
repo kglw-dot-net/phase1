@@ -60,11 +60,17 @@ a {
 }
 
 aside {
-  margin: 1em 2em 2em 4em;
-  padding: 1em 2em;
+  margin: 2em 3em 2em 2em;
+  padding: 1em 2em 1em 1.5em;
   background: #222;
-  color: #aaa;
+  color: #bbb;
   font-style: italic;
+  box-shadow: -1px -2px 8px 2px inset #ffffff88;
+
+  i,
+  em {
+    font-style: normal;
+  }
 }
 
 blockquote {
