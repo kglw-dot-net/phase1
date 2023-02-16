@@ -8,7 +8,7 @@ author: W.B.T.G. Slinger
 **Dr. Barry Hill** is the Senior Lecturer at [Southern Cross University](https://www.scu.edu.au/) School of Arts and Social Sciences at the Lismore campus in regional New South Wales, and currently teaches in the Bachelor of Contemporary Music program. He is a specialist in popular music culture, music performance, and music technology and has published a PhD: ‘Twenty-first Century Models of Music Performance Practice in an Australian Contemporary Music Community’.
 He is also an accomplished musician, having music independently and internationally published in multiple bands, and having made several successful international tours.
 
-Between 2009–2011, Dr. Hill lectured in the Bachelor of Music Industry course at [Royal Melbourne Institute of Technology](https://www.rmit.edu.au/), where he taught **Stu Mackenzie**, **Eric Moore**, **Joe Walker**, and **Lucas Skinner** (now Harwood) who were in the process of forming King Gizzard and the Lizard Wizard.
+Between 2009–2011, Dr. Hill lectured in the Bachelor of Music Industry course at [Royal Melbourne Institute of Technology](https://www.rmit.edu.au/), where he taught [**Stu Mackenzie**, **Eric Moore**, **Joe Walker**, and **Lucas Skinner** (now Harwood)](https://kglw.net/band-bio) who were in the process of forming King Gizzard and the Lizard Wizard.
 
 On October 29th 2010, he recorded one of their music performance assessments, and in December 2022 uploaded the video of the performance to YouTube.
 <!--snippet-->
