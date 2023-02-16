@@ -192,7 +192,7 @@ The limited success that I had with Amphibian, we sold more albums in Japan than
 </aside>
 
 **W.B.T.G. Slinger:**  
-I'm always on the lookout for the post King Gizz generation, and there's one band I've kind of had my eye on that I discovered on _[Rage](https://en.wikipedia.org/wiki/Rage_(TV_program))_, _Liminal_. I wanted to mention them because they're from Lismore [where Dr. Hill currently teaches].
+I'm always on the lookout for the post King Gizz generation, and there's one band I've kind of had my eye on that I discovered on _[Rage](https://en.wikipedia.org/wiki/Rage_(TV_program))_, _[Liminal](https://kglw.net/associated-music/#Liminal)_. I wanted to mention them because they're from Lismore [where Dr. Hill currently teaches].
 
 **Dr. Barry Hill:**  
 Ah, I know _Liminal_ very well, its interesting, there’s a current little bubbling scene in Lismore, and they’re all King Gizz fanatics. They're all taking on different aspects of King Gizz. Another band called _[PUFF](https://www.abc.net.au/triplejunearthed/artist/puff/)_.  
