@@ -76,9 +76,7 @@ Vomit Coffin featured the now-infamous "Amby Snot Rocket". Blame It on the Weath
 
 #### Recordings
 
-This concert was released as part of [the Official Bootlegger program](https://kinggizzardandthelizardwizard.com/bootlegger):
-
-{% include bandcamp.html albumId="747104926" link="https://kinggizzard.bandcamp.com/album/live-at-red-rocks-22" title="Live At Red Rocks 2022 by King Gizzard and the Lizard Wizard" %}
+This concert was released as part of [the Official Bootlegger program](https://kinggizzardandthelizardwizard.com/bootlegger).
 
 {% include archive.html id="kg2022-11-02" credit="Official Bootlegger Program" %}
 

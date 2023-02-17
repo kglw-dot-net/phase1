@@ -84,9 +84,7 @@ Stu and Ambrose wished Joey a happy birthday during The Dripping Tap. Gaia featu
 
 #### Recordings
 
-This concert was released as part of [the Official Bootlegger program](https://kinggizzardandthelizardwizard.com/bootlegger):
-
-{% include bandcamp.html albumId="747104926" link="https://kinggizzard.bandcamp.com/album/live-at-red-rocks-22" title="Live At Red Rocks 2022 by King Gizzard and the Lizard Wizard" %}
+This concert was released as part of [the Official Bootlegger program](https://kinggizzardandthelizardwizard.com/bootlegger).
 
 {% include archive.html id="kg2022-10-11" credit="Official Bootlegger Program" %}
 
