@@ -38,4 +38,4 @@ Stream from **[the PBS 106.7FM site](https://www.pbsfm.org.au/news/king-gizzard-
 
 {% include archive.html id="willoughbys-beach-ep-live-on-pbs-106.7-fm-october-17-2011_202111" type="FM" %}
 
-{% include youtube.html id="XHfU0jG14oY" %}
+{% include youtube.html id="XHfU0jG14oY" title="(audio only)" author="Macarron 572" %}

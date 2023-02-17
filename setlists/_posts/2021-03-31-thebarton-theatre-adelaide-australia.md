@@ -27,8 +27,8 @@ tour: "Micro Tour 2021"
 
 #### Recordings
 
-{% include youtube.html id="h3OFfE1gUhM" title="Automation / Nuclear Fusion" %}
+{% include youtube.html id="h3OFfE1gUhM" author="Jeshua Graham" %}
 
-{% include youtube.html id="98qs58O9-tI" title="See Me" %}
+{% include youtube.html id="98qs58O9-tI" author="Ashley Patch" %}
 
-{% include youtube.html id="BSMNY2f4HSk" title="Hungry Wolf of Fate" %}
+{% include youtube.html id="BSMNY2f4HSk" author="Ashley Patch" %}

@@ -41,8 +41,8 @@ Sleep Drifter contained Honey quotes and teases and O.N.E., Billabong Valley, an
 
 [Archive.org: Whole concert as a single track](https://archive.org/details/kglw2022-10-06)
 
-{% include youtube.html id="CgXmRaKLRFA" %}
+{% include youtube.html id="CgXmRaKLRFA" title="(audio only)" author="Mystery Jack" %}
 
-{% include youtube.html id="ZqpMBEktMM4" title="Superbug" %}
+{% include youtube.html id="ZqpMBEktMM4" author="Jason Williams" %}
 
-{% include youtube.html id="sJuk2fNbb6Y" title="Iron Lung" %}
+{% include youtube.html id="sJuk2fNbb6Y" author="supercones" %}

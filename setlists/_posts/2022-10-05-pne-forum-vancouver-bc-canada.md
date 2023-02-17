@@ -55,4 +55,3 @@ This show featured the live debut of A New World.  Slow Jam 1 contained Ice V te
 {% include youtube.html id="3lBXjXHpxDQ" author="Meatpie -Official-" %}
 
 {% include youtube.html id="HLobHOngOW0" author="Brunolko" %}
-

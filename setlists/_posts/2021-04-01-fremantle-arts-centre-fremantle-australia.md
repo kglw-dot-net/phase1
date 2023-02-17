@@ -26,4 +26,4 @@ tour: "Micro Tour 2021"
 
 #### Recordings
 
-{% include youtube.html id="czEDRo08C68" title="Nuclear Fusion // Honey" %}
+{% include youtube.html id="czEDRo08C68" author="Wowie Zowie" %}

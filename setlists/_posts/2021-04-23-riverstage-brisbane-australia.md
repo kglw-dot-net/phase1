@@ -27,8 +27,8 @@ tour: "Micro Tour 2021"
 
 #### Recordings
 
-{% include youtube.html title="Nuclear Fusion" id="vor3e9Y2nPA" %}
+{% include youtube.html id="vor3e9Y2nPA" author="scarecrow8515" %}
 
-{% include youtube.html title="The Book" id="j0oHGXaQqWw" %}
+{% include youtube.html id="j0oHGXaQqWw" author="hey lol" %}
 
-{% include youtube.html title="Static Electricity" id="vjkQ5U8-PW4" %}
+{% include youtube.html id="vjkQ5U8-PW4" author="hey lol" %}

@@ -40,8 +40,8 @@ This show was recorded and released as the [Live in Melbourne '21](/releases/liv
 
 {% include archive.html id="kglw2021-02-26.bootlegger" %}
 
-{% include youtube.html id="8X_LVeLFrA8" %}
+{% include youtube.html id="8X_LVeLFrA8" title="pro-shot video" author="The Gizz crew" %}
 
-{% include youtube.html id="hQXHTxbdPTs" title="Ontology" %}
+{% include youtube.html id="hQXHTxbdPTs" author="Conflikt" %}
 
-{% include youtube.html id="oWtDaM2_neE" title="Sleep Drifter / Honey" %}
+{% include youtube.html id="oWtDaM2_neE" author="Pietro" %}

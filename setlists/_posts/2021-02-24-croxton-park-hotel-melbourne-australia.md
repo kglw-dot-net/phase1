@@ -51,8 +51,8 @@ This show featured the live debuts of Fury, Some of Us, and O.N.E. Nuclear Fusio
 
 #### Recordings
 
-{% include youtube.html id="rv-Mpc5OiTg" %}
+{% include youtube.html id="rv-Mpc5OiTg" author="3000tapes" %}
 
-{% include youtube.html id="FP18ipxcNTE" %}
+{% include youtube.html id="FP18ipxcNTE" author="The Guy At The Melbourne Gigs" %}
 
-{% include youtube.html id="3je_qPtACgI" title="K.G.L.W." %}
+{% include youtube.html id="3je_qPtACgI" author="The Guy At The Melbourne Gigs" %}

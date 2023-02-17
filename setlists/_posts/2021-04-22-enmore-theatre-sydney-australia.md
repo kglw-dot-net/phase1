@@ -29,8 +29,8 @@ Note: Filmed and recorded concert, released as the [Live in Sydney '21](/release
 
 [Archive.org recording (tracklist is out-of-order)](https://archive.org/details/kg2021-04-22)
 
-{% include youtube.html id="JbjZ-jZnoss" %}
+{% include youtube.html id="JbjZ-jZnoss" title="Pro-shot Video" author="the Gizz crew" %}
 
-{% include youtube.html id="UfKgk-q52AI" title="Ataraxia" %}
+{% include youtube.html id="UfKgk-q52AI" author="Idiosyncratic Mushroom" %}
 
-{% include youtube.html id="jnoSSQMUCZk" title="The Book" %}
+{% include youtube.html id="jnoSSQMUCZk" author="Idiosyncratic Mushroom" %}

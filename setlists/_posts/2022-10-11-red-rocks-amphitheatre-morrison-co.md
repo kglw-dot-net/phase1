@@ -90,8 +90,8 @@ This concert was released as part of [the Official Bootlegger program](https://k
 
 {% include archive.html id="kg2022-10-11" credit="Official Bootlegger Program" %}
 
-{% include youtube.html id="3KFJoHgAS7Y" %}
+{% include youtube.html id="3KFJoHgAS7Y" author="Logan Bentley" %}
 
-{% include youtube.html id="0pWDFTUOOJY" %}
+{% include youtube.html id="0pWDFTUOOJY" author="that1skeleyton" %}
 
-{% include youtube.html id="SjloISlMVY0" %}
+{% include youtube.html id="SjloISlMVY0" author="atthebeach70" %}
