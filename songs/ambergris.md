@@ -10,7 +10,7 @@ album: Omnium Gatherum
 
 > Breathing heavy candles.  
 > Cut a face from a smile.  
-> Preserve the torch; its imperative.  
+> Preserve the torch; it's imperative.  
 > So douse some fuel on the fire.  
 >  
 > Some dogs get whale eye.  
@@ -31,11 +31,11 @@ album: Omnium Gatherum
 >  
 > Sculpting confidence with chimney smoke.  
 > Record my weight in kidney stones.  
-> CFC's gnaw at my intellect.  
+> CFCs gnaw at my intellect.  
 > Colour coding my lymph nodes.  
 >  
 > Anthropomorphise everything.  
-> Use myy blowhole like a microphone.  
+> Use my blowhole like a microphone.  
 > Every night I dream that you will see.  
 > The harpoon that I've grown to need.  
 >  
