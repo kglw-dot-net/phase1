@@ -229,6 +229,8 @@ article.setlist {
   order: 2;
   display: flex;
   flex-flow: row wrap;
+  align-items: flex-start;
+  justify-content: space-between;
   margin-top: 4em; // slightly more than height of nav.setlist
   @media (min-width: 1149px) {
     margin-top: 0;
@@ -236,13 +238,12 @@ article.setlist {
 
   > .post-header {
     order: 1;
-    flex-basis: calc(100% - 80px); // make room for .verified
+    flex-basis: calc(100% - 60px); // make room for .verified
   }
   > .verified {
     order: 2;
-    flex-basis: 74px;
-    width: 74px;
-    height: 114px;
+    width: 50px;
+    object-fit: contain;
   }
   > .post-content {
     order: 3;
