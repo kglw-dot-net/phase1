@@ -23,7 +23,7 @@ album: Omnium Gatherum
 > Unfading highway.  
 > Pass no cars on the way.  
 > So set to cruise.  
-> Let's getaway.  
+> Let's get away.  
 >  
 > Let's drive.  
 > Drive, drive, drive.  
@@ -47,7 +47,7 @@ album: Omnium Gatherum
 > Yeh I go the distance.  
 > Yeh I go the distance.  
 >  
-> I think I went to fast.  
+> I think I went too fast.  
 > You did.  
 > I think the car might crash.  
 > It will.  
