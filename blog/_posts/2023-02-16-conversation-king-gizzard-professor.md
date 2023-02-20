@@ -5,7 +5,7 @@ author: W.B.T.G. Slinger
 
 ![photo of Dr Barry Hill](https://user-images.githubusercontent.com/114916472/215950946-bc9a6e00-a7da-480d-b95b-5c364348156e.png){: .float-right }
 
-**Dr. Barry Hill** is the Senior Lecturer at [Southern Cross University](https://www.scu.edu.au/) Faculty of Business Law and the Arts at the Lismore campus in regional New South Wales, and currently teaches in the Bachelor of Contemporary Music program. He is a specialist in popular music culture, music performance, and music technology and has published a PhD: [‘Twenty-first Century Models of Music Performance Practice in an Australian Contemporary Music Community’](https://drbazhspace.wordpress.com/ph-d/).
+**Dr. Barry Hill** is the Senior Lecturer at [Southern Cross University](https://www.scu.edu.au/) Faculty of Business Law and the Arts at the Lismore campus on Bundjalung country in New South Wales, and currently teaches in the Bachelor of Contemporary Music program. He is a specialist in popular music culture, music performance, and music technology and has published a PhD: [‘Twenty-first Century Models of Music Performance Practice in an Australian Contemporary Music Community’](https://drbazhspace.wordpress.com/ph-d/).
 He is also an accomplished musician, having music independently and internationally published in multiple bands, and having made several successful international tours.
 
 Between 2009–2011, Dr. Hill lectured in the Bachelor of Music Industry course at [Royal Melbourne Institute of Technology](https://www.rmit.edu.au/), where he taught [**Stu Mackenzie**, **Eric Moore**, **Joe Walker**, and **Lucas Skinner** (now Harwood)](https://kglw.net/band-bio) who were in the process of forming King Gizzard and the Lizard Wizard.
@@ -105,7 +105,7 @@ I was born early in that era, so I noticed in your PhD you mentioned the _Resin 
 </aside>
 
 **Dr. Barry Hill:**  
-You did have the _Global Carnival_ where you were, that was a really iconic festival. The after party was always a cracker as well.
+You did have the _Global Carnival_ where you were [Gumbaynggir country], that was a really iconic festival. The after party was always a cracker as well.
 
 **W.B.T.G. Slinger:**  
 I was a bit young for the after party, but yeah, the _Global Carnival_ was very much a defining aspect of my childhood.
