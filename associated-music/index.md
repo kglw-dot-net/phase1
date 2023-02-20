@@ -129,6 +129,7 @@ For a band who play in such a diverse array of sounds, King Gizzard have an unde
 ### Garage
 Thee Oh Sees/Osees/Guided By Voices
 King Gizzard had humble beginnings as a house-party band with a DIY/Garage/Punk ethos.
+Life Is Cool sounds a lot like _Chelsea Dagger_ by _The Fratellis_ (2006)
 
 ### Progressive and Krautrock
 Can/Neu!
@@ -161,6 +162,9 @@ Yo La Tengo (Luke)
 Cannibal Corpse (Joey)
 Sun Ra (Cook)
 Mudvayne (Joey)
+Black Flag (Joey)
+Mild High Club (Lucas/Stu, already covered in associations)
+Bitch Diesel (Stu/Joey)
 
 
 Live shoutouts:
@@ -171,5 +175,5 @@ Dope Lemon
 Sampa The Great
 Confidence Man (seen hanging out together backstage, Sugar Bones from Confidence Man is the front of psych band Moses Gunn Collective)
 
-Life Is Cool sounds a lot like _Chelsea Dagger_ by _The Fratellis_ (2006)
+
 
