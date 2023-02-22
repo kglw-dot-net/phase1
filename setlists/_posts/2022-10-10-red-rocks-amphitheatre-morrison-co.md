@@ -70,8 +70,8 @@ This concert was released as part of [the Official Bootlegger program](https://k
 
 {% include archive.html id="kg2022-10-10" credit="Official Bootlegger Program" %}
 
-{% include youtube.html id="257hVfqkfCQ" author="atthebeach70" %}
+{% include youtube.html id="257hVfqkfCQ" %}
 
-{% include youtube.html id="wP3stlzXxDg" author="Logan Bentley" %}
+{% include youtube.html id="wP3stlzXxDg" %}
 
-{% include youtube.html id="j4G0vS37B1k" author="Jazio" %}
+{% include youtube.html id="j4G0vS37B1k" %}
