@@ -50,7 +50,9 @@ layout: default
   </div>
 
   {%- if page.modified_date -%}
-    <img class="verified" src="{{'/assets/check-lil-giza.png' | release_url}}" alt="Verified — this setlist has been reviewed and verified by KGLW.net staff" width="50" />
+    <a class="verified" href="/blog/2023/02/03/setlist-notation-guideline.html" title="KGLW.net blog post: Setlist Notation" target="_blank">
+      <img src="{{'/assets/check-lil-giza.png' | release_url}}" alt="Verified — this setlist has been reviewed and verified by KGLW.net staff" width="50" />
+    </a>
   {%- endif -%}
 
   {%- if site.disqus.shortname -%}
