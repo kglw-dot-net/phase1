@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: "2021-02-26"
-venue: "Sidney Myer Music Bowl, Melbourne, Australia"
+venue: "Sidney Myer Music Bowl, Naarm (Melbourne), Australia"
 tour: "Micro Tour 2021"
 modified date: 2023-02-17
 ---

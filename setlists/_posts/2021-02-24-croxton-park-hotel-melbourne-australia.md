@@ -1,7 +1,7 @@
 ---
 layout: setlist
 date: "2021-02-24"
-venue: "Croxton Park Hotel, Melbourne, Australia"
+venue: "Croxton Park Hotel, Naarm (Melbourne), Australia"
 tour: "Micro Tour 2021"
 modified date: 2023-02-17
 ---
@@ -45,9 +45,11 @@ modified date: 2023-02-17
 [^1]: Live debut.
 [^2]: With Leah Senior narration.
 
+
 #### Notes
 
 This show featured the live debuts of Fury, Some of Us, and O.N.E. Nuclear Fusion did not include the vocal intro, though Joey initially indicated that he was going to have Cavs do it. E. Bobby G. and Leah Senior were shouted out after Static Electricity. Pleura was stopped midway through due to sound issues with the band's monitors and Joey joked that they were going to make a concept album out of the "fart noises" that only they could hear. The song was then resumed from where they left off. Straws in the Wind was dedicated to Hayden Green. Billabong Valley contained Sleep Drifter and Nuclear Fusion teases. Rattlesnake contained Nuclear Fusion teases. The Reticent Raconteur and The Lord of Lightning featured narration by Leah Senior.
+
 
 #### Recordings
 
