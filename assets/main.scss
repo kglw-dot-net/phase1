@@ -60,11 +60,17 @@ a {
 }
 
 aside {
-  margin: 1em 2em 2em 4em;
-  padding: 1em 2em;
+  margin: 2em 3em 2em 2em;
+  padding: 1em 2em 1em 1.5em;
   background: #222;
-  color: #aaa;
+  color: #bbb;
   font-style: italic;
+  box-shadow: -1px -2px 8px 2px inset #ffffff88;
+
+  i,
+  em {
+    font-style: normal;
+  }
 }
 
 blockquote {
@@ -160,15 +166,18 @@ main > .wrapper {
     text-align: center;
   }
   .post-list-heading {
-    color: $gizz-bright-green;
     display: inline-block;
+    color: $gizz-bright-green;
+    a {
+      color: inherit;
+    }
   }
 
   .more-link {
-    margin: 1vh 2vw;
+    margin: 5px 10px;
     border-radius: 1.3em;
     border: 1px solid $gizz-magenta;
-    padding: 1vh 2vw;
+    padding: 5px 10px;
     color: $gizz-magenta;
     white-space: nowrap;
 
@@ -181,30 +190,37 @@ main > .wrapper {
     }
   }
 
-  .setlists > ul > li {
-    h3 {
-      margin-bottom: 0;
-      .post-link {
-        font-size: 1em;
+  .setlists {
+    @media (max-width: 499px) {
+      .more-link {
+        display: none;
       }
     }
-    h4 {
-      display: inline;
-      max-width: 100vw;
-      margin: 0 0.2em 0 0;
-      border-radius: 1em;
-      padding: 0 0.5em;
-      color: #222;
-      background: $gizz-bright-green;
-      white-space: nowrap;
-    }
-    ol {
-      @include commas-setlist;
-      display: inline;
-      margin: 0 1em 0 0;
-    }
-    .footnotes {
-      display: none;
+    > ul > li {
+      h3 {
+        margin-bottom: 0;
+        .post-link {
+          font-size: 1em;
+        }
+      }
+      h4 {
+        display: inline;
+        max-width: 100%;
+        margin: 0 0.2em 0 0;
+        border-radius: 1em;
+        padding: 0 0.5em;
+        color: #222;
+        background: $gizz-bright-green;
+        white-space: nowrap;
+      }
+      ol {
+        @include commas-setlist;
+        display: inline;
+        margin: 0 1em 0 0;
+      }
+      .footnotes {
+        display: none;
+      }
     }
   }
 
@@ -214,7 +230,7 @@ main > .wrapper {
   }
 
   .blog {
-    padding: 1vh 2vw;
+    padding: 5px 10px;
     border: 1px solid $gizz-bright-green;
     border-radius: 1em;
     background: #222;

@@ -37,12 +37,12 @@ modified_date: 2023-01-23
 
 * footnotes
 {:footnotes}
-[^1]: Debut.
+[^1]: Live debut.
 [^2]: With Leah Senior narration.
 [^3]: With Cavs drum solo.
 
 
-### Notes
+#### Notes
 
 This show featured the live debut of Hypertension. The Reticent Raconteur and The Lord of Lightning were performed with Leah Senior providing the narration. I'm in Your Mind contained Cellophane teases. Cellophane contained Alter Me teases and quotes. Self-Immolate featured a Cavs drum solo which led into a brief metal vamp and ultimately returned to Self-Immolate. Rattlesnake contained Automation and Nuclear Fusion teases.
 

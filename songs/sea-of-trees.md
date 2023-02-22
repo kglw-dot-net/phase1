@@ -17,6 +17,9 @@ album: 12 Bar Bruise
 > And when you’re feeling suicidal   
 > Sometimes you’ve just got to unfold   
 
+#### Note
+_Sea Of Trees_ is Lucas' favourite song and one of the original names for the band. The final word in the lyrics differs from the recording and from how they were originally printed on the sleeve, his was updated when the band re-issued the album in 2018 as the original lyric was insensitive to those suffering from suicidal ideation. Upon reflection, Stu wanted to move beyond his adolescent immaturity by changing the lyric as printed to something that sounded passable as similar enough, but more generic in meaning.
+
 # Credits
 
 * Michael Cavanagh - Drums  

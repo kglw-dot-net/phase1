@@ -56,7 +56,7 @@ album: Changes
 > Is this what we consider changing?  
 >  
 > We're changing pace  
-> Higher stakes 
+> Higher stakes  
 > So called heroes wearing fake capes  
 > Critically acclaimed  
 > Clinically deranged  
