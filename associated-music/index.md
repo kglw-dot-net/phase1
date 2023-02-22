@@ -123,13 +123,13 @@ _The Lazy Eyes_ are a Sydney, New South Wales based Psych Rock band who released
 ### Battlesnake  
 Significantly heavier and looser than King Gizzard, they use a similar 'all-in' approach creating the appearance of a drastic mythology that is little but post-King Gizzard. This is best demonstrated by their music video for _[I Am The Vomit](https://www.youtube.com/watch?v=0WwdhX6E2NY)_.
 
-## Influences
-For a band who play in such a diverse array of sounds, King Gizzard have an understandably large pool of influences. There are several sources on where these come from and how they apply to King Gizzard's discography, from direct statement in press releases and interviews, interpolations so overt as to be unspoken, and even down to just wearing other bands' merch on stage. Here are some of the forces that have shaped their output:
+## Known Musical Influences
+For a band who play in such a diverse array of sounds with so many members, King Gizzard have an understandably large pool of influences. There are too many to comprehensively list here, and most we can expect will remain unspoken and unknown. But by breaking down the different facets of King Gzzard into categories, each can be cross referenced to the many sources we have for the collective favourite music of the band, and a generalised view formed.
 
 ### Garage
-Thee Oh Sees/Osees/Guided By Voices
-King Gizzard had humble beginnings as a house-party band with a DIY/Garage/Punk ethos.
-Life Is Cool sounds a lot like _Chelsea Dagger_ by _The Fratellis_ (2006)
+Best known as a psychedelic band, King Gizzard actually had much more humble beginnings as a DIY Garage/Punk band who played at house-parties. Simplicity was the key, song lyrics were often based on one word and written the afternoon of the performance, or elements could be directly borrowed from popular music (note the similarities between _Life Is Cool_, and _Chelsea Dagger](https://www.youtube.com/watch?v=sEXHeTcxQy4)_ by _The Fratellis_).  
+Undoubtedly John Dwyer and his band Thee Oh Sees (Oh Sees, OCs etc.) were a large influence on this period, as the two bands share many similarities to this day. These range not only the rough, garage style production and composition of their music, but to a high level of prolificacy, a diversity in style between heavier and psychedelic sounds, and even down to the stage presences of both lead vocalists (microphone in mouth, exuberant 'woos', and contorting the body in crazy shapes altering the orientation of their guitars to modulated the timbre of a sustained note). First time touring together...
+Thee Oh Sees/Osees/Guided By Voices/Tim Presley/White Fence
 
 ### Progressive and Krautrock
 Can/Neu!
@@ -151,20 +151,6 @@ His particular choice is a record from [Hailu Mergia](https://en.wikipedia.org/w
 This of course translates into King Gizzard as the song _[Tezeta](https://kglw.net/songs/tezeta)_, as well as some of the other funkier moments such as _[The Book](https://kglw.net/songs/the-book), also from _Sketches of Brunswick East_, making for a blend of Jazz influences truly unique to the tastes of the band.
 
 _Pharoah Sanders_ vibes on _Lava_.
-
-### Frank Zappa  
-Conceptual continuity.
-
-Shirts worn:
-Zappa (Cavs)
-Black Sabbath (Cavs)
-Yo La Tengo (Luke)
-Cannibal Corpse (Joey)
-Sun Ra (Cook)
-Mudvayne (Joey)
-Black Flag (Joey)
-Mild High Club (Lucas/Stu, already covered in associations)
-Bitch Diesel (Stu/Joey)
 
 
 Live shoutouts:
