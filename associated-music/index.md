@@ -123,43 +123,5 @@ _The Lazy Eyes_ are a Sydney, New South Wales based Psych Rock band who released
 ### Battlesnake  
 Significantly heavier and looser than King Gizzard, they use a similar 'all-in' approach creating the appearance of a drastic mythology that is little but post-King Gizzard. This is best demonstrated by their music video for _[I Am The Vomit](https://www.youtube.com/watch?v=0WwdhX6E2NY)_.
 
-## Known Musical Influences
-For a band who play in such a diverse array of sounds with so many members, King Gizzard have an understandably large pool of influences. There are too many to comprehensively list here, and most we can expect will remain unspoken and unknown. But by breaking down the different facets of King Gzzard into categories, each can be cross referenced to the many sources we have for the collective favourite music of the band, and a generalised view formed.
-
-### Garage
-Best known as a psychedelic band, King Gizzard actually had much more humble beginnings as a DIY Garage/Punk band who played at house-parties. Simplicity was the key, song lyrics were often based on one word and written the afternoon of the performance, or elements could be directly borrowed from popular music (note the similarities between _Life Is Cool_, and _Chelsea Dagger](https://www.youtube.com/watch?v=sEXHeTcxQy4)_ by _The Fratellis_).  
-Undoubtedly John Dwyer and his band Thee Oh Sees (Oh Sees, OCs etc.) were a large influence on this period, as the two bands share many similarities to this day. These range not only the rough, garage style production and composition of their music, but to a high level of prolificacy, a diversity in style between heavier and psychedelic sounds, and even down to the stage presences of both lead vocalists (microphone in mouth, exuberant 'woos', and contorting the body in crazy shapes altering the orientation of their guitars to modulated the timbre of a sustained note). First time touring together...
-Thee Oh Sees/Osees/Guided By Voices/Tim Presley/White Fence
-
-### Progressive and Krautrock
-Can/Neu!
-The band's first truly realised album, IIYMF, brought a new level of production quality inspired by Prog and Kraut from the seventies...
-
-### Hard Rock and Metal
-Hawkwind (_Hawkwind_ are likely the band most covered by King Gizzard, though only for one verse frequently inserted into _Robot Stop_. The visual style of King Gizzard is also often reminiscent of _Hawkwind_'s iconography.)
-AC/DC
-Cavs is a particular fan of _Motörhead_, taking many opportunities to represent them and having paid respects to Lemmy. They are know for their distinct bass drum double kick sound that Cavs often emulates.
-
-### Jazz
-King Gizzard could only vaguely be said to make music that classifies as Jazz, though their several 'jazzy' albums show great appreciation for the genre.
-The first of these albums was [Quarters!](https://kglw.net/releases/quarters), that built from the toned-down moments of its predecessor [I’m in Your Mind Fuzz](https://kglw.net/releases/im-in-your-mind-fuzz); and interpolates Dave Brubeck.  
-Their next reference to the canon of Jazz came with 2017's [Sketches of Brunswick East](https://kglw.net/releases/sketches-of-brunswick-east). The title is an homage to Miles Davis' 1960 classic _Sketches of Spain_, for which he took a strong influence from Flamenco, Spanish Ballet, and adapted _Joaquín Rodrigo_'s 1939 [_Concierto de Aranjuez_](https://youtu.be/ekznnxaGzNU?t=34). As far as the music is formed by 'sketches' of Spanish culture, _Sketches Of Brunswick East_ does the same for King Gizzard's local suburb in Melbourne, though this is really as far as the _Miles Davis_ influence is taken (aside from the fact that all Jazz-Rock Fusion is indebted to him).  
-_John Coltrane_ is a protégé of Miles Davis, legend in his own right, and also an indirect influence on King Gizzard. Joey in particular has expressed his appreciation of _Olé Coltrane_ as one of the best albums ever made; though once again, the musical influence of this recording on the band is oblique. _Coltrane's_ much better known album, _Giant Steps_, has much more of a claim on the the King Gizzard sound, via _[Changes](https://kglw.net/releases/changes)_. What makes _Giant Steps_ so notorious is its rapid and unforgiving sequence of key signature changes in the title track — they are so fleeting and far removed from each other that soloing over them becomes mind-bendingly difficult, as showcased by pianist _[Tommy Flanagan's](https://en.wikipedia.org/wiki/Tommy_Flanagan)_ floundering performance, while _Coltrane_ is able to leave the band in the dust. _Changes_ uses a similar compositional feature, the reason Stu referred to the album as 'highly considered'. During initial composition as 2017's original fifth album, he became fixated on the idea of transitioning between the key signatures D and F#, which share so few tones as to severaly limit the options while maintaining harmony. Rather than go with the more jarring _Coltrane route_, the idea was put on ice while the band developed the appropriate 'musical vocabulary' while fully fleshing out the potential options for the key changes, each finally expanding into the songs on the record.
-
-You will now find a reasonable ‘African’ section in any good Melbourne record store; but as Joey assures us in [Amoeba Hollywood’s What’s In My Bag?](https://www.youtube.com/watch?v=e8oexqhDaEo) series: ‘I was there first’.  
-His particular choice is a record from [Hailu Mergia](https://en.wikipedia.org/wiki/Hailu_Mergia), an Ethiopian Jazz/Funk musician best known as a member of the _Wallas Band_. Joey explains his appreciation for Ethiopian music comes from the ‘X-factor’ you get with the use of scales that sound unusual to Western-tuned ears, most notably the pentatonic Tezeta (or Tizita) scale. The word itself literally translates to ‘nostalgia’ or ‘longing’, and is heavily associated with this style of Jazz/Funk popular in Ehtiopia.  
-This of course translates into King Gizzard as the song _[Tezeta](https://kglw.net/songs/tezeta)_, as well as some of the other funkier moments such as _[The Book](https://kglw.net/songs/the-book), also from _Sketches of Brunswick East_, making for a blend of Jazz influences truly unique to the tastes of the band.
-
-_Pharoah Sanders_ vibes on _Lava_.
-
-
-Live shoutouts:
-Tool
-Tame Impala
-The Beatles
-Dope Lemon
-Sampa The Great
-Confidence Man (seen hanging out together backstage, Sugar Bones from Confidence Man is the front of psych band Moses Gunn Collective)
-
 
 
