@@ -17,6 +17,7 @@ title: "Archive of King Gizzard interviews"
 * May 31: (video) Andy Frasco's World Saving Podcast, ["EP 174 w/ Stu Mackenzie"](https://www.youtube.com/watch?v=aUnZ7iEmDxQ)
 * May 25: Beat, ["Interview: Psych-rock chameleons King Gizzard and the Lizard Wizard on what makes them unique"](https://beat.com.au/interview-psych-rock-chameleons-king-gizzard-and-the-lizard-wizard-on-what-makes-them-unique/) by Sidonie Bird de la Coeur
 * May 19: (video) [Stu on Anthony Fantano](https://www.youtube.com/watch?v=E8MtjdwLZww)
+* May 12: Reddit AMA, ['Gatherum All'](https://www.reddit.com/r/indieheads/comments/unjs8a/king_gizzard_ama_gatherum_all/)
 * Apr 28: The Guardian, ["‘Our synapses connected!’: King Gizzard and the Lizard Wizard evolve again"](https://www.theguardian.com/music/2022/apr/28/our-synapses-connected-king-gizzard-and-the-lizard-wizard-evolve-again)
 * Apr 25: SPIN, ["King Gizzard And The Lizard Wizard Keep Getting Bigger, And They’re As Surprised As Anyone"](https://www.spin.com/2022/04/king-gizzard-and-the-lizard-wizard-stu-mckenzie-interview/) by Jonathan Cohen (with Stu)
 
@@ -41,11 +42,13 @@ title: "Archive of King Gizzard interviews"
 * Dec 7: NME, ["King Gizzard and the Lizard Wizard: "It's cool how divisive we are'"](https://www.nme.com/en_au/features/king-gizzard-and-the-lizard-wizard-album-kg-interview-2020-2833101?amp) by Josh Martin (with Joey) - [(archived)](http://web.archive.org/web/20230104034829/https://www.nme.com/en_au/features/king-gizzard-and-the-lizard-wizard-album-kg-interview-2020-2833101?amp)
 * Nov 19: All Things Loud, ["Pandemics, polyrhythms and prog rock with King Gizzard & the Lizard Wizard's Ambrose Kenny-Smith"](https://www.allthingsloud.com/king-gizzard-interview/) by Jack Parker (with Ambrose)
 * Aug 6: Stu Mackenzie: ["King Gizzard was made to be loose... we didn't have a rehearsal for years!"](https://www.guitarworld.com/features/stu-mackenzie-king-gizzard-was-made-to-be-loose-we-didnt-have-a-rehearsal-for-years)
+* Apr 18: Reddit AMA, ['Hey King Gizzard ＆ the crew from Chunky Shrapnel here for 6 hours. ASK US ANYTHING!'](https://www.reddit.com/r/Music/comments/g3bi64/hey_king_gizzard_the_crew_from_chunky_shrapnel/)
 
 ### 2019
 
 * Aug 23: Jenkem, ["We talked with 6 musicians about skating on tour"](https://www.jenkemmag.com/home/2019/08/23/talked-6-musicians-skating-tour/) by Eli Enis (with Ambrose) - [(archived)](https://web.archive.org/web/20230104052513/https://www.jenkemmag.com/home/2019/08/23/talked-6-musicians-skating-tour/)
 * Aug 7: Beat, ["King Gizzard & The Lizard Wizard are a genre-defying behemoth"](https://beat.com.au/king-gizzard-the-lizard-wizard-are-a-genre-defying-behemoth/)
+* Apr 30: Reddit AMA, ['King Gizzard & The Lizard Wizard AMA'](https://www.reddit.com/r/indieheads/comments/biuz0b/king_gizzard_the_lizard_wizard_ama/)
 * Apr 23: Dork, ["King Gizzard and the Lizard Wizard return: 'We really thought we knew what we were doing, and then...'"](https://readdork.com/features/king-gizzard-and-the-lizard-wizard-interview-may19/) by Jessica Goodman - [(archived)](https://web.archive.org/web/20230104050320/https://readdork.com/features/king-gizzard-and-the-lizard-wizard-interview-may19/)
 
 ### 2018
