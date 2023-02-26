@@ -26,7 +26,7 @@ title: "Northcote Theatre, Naarm (Melbourne)"
 
 #### Notes
 
-Notes: Gaia featured a drum solo by Cavs followed by an extended full band metal vamp.  Slow Jam I contained Iron Lung teases.  Lava, Gamma Knife and People-Vultures were on the [written setlist](https://www.reddit.com/r/KGATLW/comments/11bk10l/melbourne_25223/) as the final three songs but were not played.
+Gaia featured a drum solo by Cavs followed by an extended full band metal vamp.  Slow Jam I contained Iron Lung teases.  Lava, Gamma Knife and People-Vultures were on the [written setlist](https://www.reddit.com/r/KGATLW/comments/11bk10l/melbourne_25223/) as the final three songs but were not played.
 
 #### Recordings
 
