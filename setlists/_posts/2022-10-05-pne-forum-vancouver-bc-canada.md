@@ -3,6 +3,7 @@ layout: setlist
 date: "2022-10-05"
 venue: "PNE Forum, Vancouver, BC, Canada"
 tour: "World Tour '22"
+modified_date: 2023-02-26
 ---
 
 

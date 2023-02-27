@@ -85,6 +85,7 @@ title: "Archive of King Gizzard interviews"
 
 ### 2014
 
+* Dec 19: Louder Sound, [High Hopes: King Gizzard & The Lizard Wizard](https://www.loudersound.com/features/high-hopes-king-gizzard-the-lizard-wizard)
 * Nov: (video) [Vodafone Mexefest 2014, Portugal](https://www.youtube.com/watch?v=8604AT8aAhk)
 * Nov: (video) Side Stage Collective, [Vodafone Mexefest 2014](https://www.youtube.com/watch?v=FAXgfld3MEM)
 * Apr 23: (video) [The AU Review](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Cavs, Joey, and Lucas

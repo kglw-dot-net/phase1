@@ -3,7 +3,7 @@ layout: setlist
 date: "2022-10-02"
 venue: "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
 tour: "World Tour '22"
-modified date: 2023-02-10
+modified_date: 2023-02-26
 ---
 
 #### Set 1
