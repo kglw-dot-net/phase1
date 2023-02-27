@@ -13,7 +13,7 @@ modified_date: 2023-02-26
 [^1]
 7. The Great Chain of Being
 8. Slow Jam I
-    {% include segue.html type=">" %}
+    {% include segue.html type="->" %}
 9. Sense 
 10. Shanghai
 11. The Dripping Tap
@@ -27,7 +27,7 @@ modified_date: 2023-02-26
 
 #### Notes
 
-Gaia featured a drum solo by Cavs followed by an extended full band metal vamp.  Slow Jam I contained Iron Lung teases.  Lava, Gamma Knife and People-Vultures were on the [written setlist](https://www.reddit.com/r/KGATLW/comments/11bk10l/melbourne_25223/) as the final three songs but were not played.
+Gaia featured a drum solo by Cavs followed by an extended full band metal vamp.  Slow Jam I contained Iron Lung teases.  Opening acts [The Prize](https://theprizemelbourne.bandcamp.com/) and [CLAMM](https://clammxo.bandcamp.com/album/beseech-me) were shouted out after Sense.  Shanghai was introduced as being about a fight the band got into in Shanghai.  Lava, Gamma Knife and People-Vultures were on the [written setlist](https://www.reddit.com/r/KGATLW/comments/11bk10l/melbourne_25223/) as the final three songs but were not played.
 
 #### Recordings
 
