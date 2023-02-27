@@ -3,6 +3,7 @@ layout: setlist
 date: "2022-09-30"
 venue: "Desert Daze Festival, Perris, CA, USA"
 tour: "World Tour '22"
+modified_date: 2023-02-26
 ---
 
 

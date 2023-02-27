@@ -3,7 +3,7 @@ layout: setlist
 date: "2022-10-06"
 venue: "Paramount Theatre, Seattle, WA, USA"
 tour: "World Tour '22"
-modified date: 2023-02-05
+modified_date: 2023-02-26
 ---
 
 

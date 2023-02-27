@@ -2,7 +2,7 @@
 layout: setlist
 date: "2022-10-07"
 venue: "KEXP Studios, Seattle, WA, USA"
-modified date: 2023-02-03
+modified_date: 2023-02-26
 ---
 
  1. Ice V
