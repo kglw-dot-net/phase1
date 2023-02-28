@@ -6,16 +6,24 @@ venue: "North Byron Parklands, Sansar virtual reality"
 ---
 
  1. Oddlife
+    {% include segue.html type=">" %}
  2. O.N.E.
+    {% include segue.html type=">" %}
  3. Automation
+    {% include segue.html type=">" %}
  4. Minimum Brain Size
  5. Pleura
  6. Straws in the Wind
  7. Slow Jam 1
  8. Mars for the Rich
+    {% include segue.html type=">" %}
  9. Perihelion
+    {% include segue.html type=">" %}
 10. Hell
 
+#### Notes
+
+This show took place as part of the [Splendour XR "Festival"](https://splendourxr.com/), a virtual event meant to replace the yearly Splendour in the Grass Festival.
 
 #### Recordings
 
