@@ -22,9 +22,10 @@ repository: kglw-dot-net/site # this is needed for the GitHub Action workflow (t
 title: KGLW.net
 email: kglw.net@gmail.com
 description: >-
-  KGLW.net collects info about the band King Gizzard & the Lizard Wizard, with
-  song lyrics, setlists for all shows, discography, guides to the Gizzverse,
-  and media about the band plus associated musicians and artists.
+  King Gizzard & the Lizard Wizard setlists for all shows / tours,
+  song info and all lyrics, guide to the band's discography,
+  media about the band plus associated musicians and artists,
+  and fan-run blog with speculation about the Gizzverse!
 domain: "kglw.net"
 url: "https://kglw.net"
 baseurl: "/"
