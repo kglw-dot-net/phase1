@@ -3,6 +3,7 @@ layout: setlist
 date: "2021-07-25"
 title: "Splendour XR"
 venue: "North Byron Parklands, Sansar virtual reality"
+modified_date: 2023-02-28
 ---
 
  1. Oddlife
