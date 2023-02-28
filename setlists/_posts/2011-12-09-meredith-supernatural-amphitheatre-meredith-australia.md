@@ -2,7 +2,7 @@
 layout: setlist
 date: "2011-12-09"
 venue: "Meredith Supernatural Amphitheatre, Meredith, Australia"
-modified date: 2023-02-04
+modified_date: 2023-02-04
 ---
 
  1. Talk Talk Talk [^1]

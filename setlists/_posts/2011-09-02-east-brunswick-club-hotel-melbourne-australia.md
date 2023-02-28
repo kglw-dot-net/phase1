@@ -2,7 +2,7 @@
 layout: setlist
 date: "2011-09-02"
 venue: "East Brunswick Club Hotel, Naarm (Melbourne), Australia"
-modified date: 2023-02-04
+modified_date: 2023-02-04
 ---
 
 #### Notes

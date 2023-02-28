@@ -2,7 +2,7 @@
 layout: setlist
 date: "2011-04-11"
 venue: "The Workers Club, Naarm (Melbourne), Australia"
-modified date: 2023-02-04
+modified_date: 2023-02-04
 ---
 
 #### Notes

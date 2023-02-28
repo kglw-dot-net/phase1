@@ -2,7 +2,7 @@
 layout: setlist
 date: "2011-09-24"
 venue: "Goodgod Small Club, Sydney, Australia"
-modified date: 2023-02-04
+modified_date: 2023-02-04
 ---
 
 #### Notes
