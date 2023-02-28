@@ -101,13 +101,14 @@ hr {
   &:visited {
     color: #000;
   }
-  // &:before { // commented out because the colors don't match the rest of the site...
-  //   display: inline-block;
-  //   content: '\0a';
-  //   background: center / contain no-repeat url("/assets/icon.jpg");
-  //   width: 60px;
-  //   height: 60px;
-  // }
+  &:before {
+    display: inline-block;
+    content: '\0a';
+    margin: 5px;
+    background: center / contain no-repeat url("/assets/images/butterfly-logo-500x500-transparent-bw.png");
+    width: 45px;
+    height: 45px;
+  }
 }
 main > .wrapper {
   display: flex; // so we can reorder the children
