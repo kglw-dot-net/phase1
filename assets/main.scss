@@ -147,6 +147,10 @@ main > .wrapper {
       margin: 0;
       padding: 0;
     }
+    .rss {
+      list-style: inside url('/assets/images/rss-icon-100x100-white.png');
+      background-size: 1em;
+    }
   }
   .social-links {
     flex-basis: 9em;

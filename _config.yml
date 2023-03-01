@@ -29,10 +29,14 @@ description: >-
 domain: "kglw.net"
 url: "https://kglw.net"
 baseurl: "/"
-# google_analytics: G-RKKP353CER
+
+# minima theme v2.5.1 options:
 instagram_username: kglw_net
 github_username: kglw-dot-net
 twitter_username: kglw_net
+mastodon:
+- username: kglw_net
+  instance: heads.social
 
 # jekyll-seo-tag options:
 tagline: brought to you by fans of King Gizzard
@@ -40,10 +44,11 @@ logo: /assets/images/butterfly-logo-512x12-green-black.png
 social:
   name: KGLW.net
   links:
-    - https://reddit.com/u/kglw-net # ?
-    - https://github.com/kglw-dot-net
+    - https://reddit.com/u/kglw-net
     - https://instagram.com/kglw_net
+    - https://heads.social/@kglw_net
     - https://twitter.com/kglw_net
+    - https://github.com/kglw-dot-net
 
 show_excerpts: true
 excerpt_separator: <!--snippet-->
