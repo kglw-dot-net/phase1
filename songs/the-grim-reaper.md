@@ -23,7 +23,7 @@ album: Omnium Gatherum
 > Never gave a fuck.  
 >  
 > If it's bad for business and the visits from the hellhounds sniffing out stitches for the snitches.  
-> Then therе's gotta be more than justice in discussion for thе ones causing the corruption.  
+> Then there's gotta be more than justice in discussion for the ones causing the corruption.  
 > Are you having an existential crisis.  
 > Time is priceless.  
 > Can't advise us.  
@@ -38,7 +38,7 @@ album: Omnium Gatherum
 > Heaven sent the silhouette of many wicked men.  
 > Fearless.  
 > Reckoning thinking they're the most powerful they've ever been.  
-> I can't begin to comprehend the arrogance dwindling inside the kranium.  
+> I can't begin to comprehend the arrogance dwindling inside the cranium.  
 > Grotesquely tortured by the wretchedness.  
 > Whiplash in the fortress between ya legs.  
 > Body bags hanging on the hills hoist with a peg as the stench orbits the homestead.  
