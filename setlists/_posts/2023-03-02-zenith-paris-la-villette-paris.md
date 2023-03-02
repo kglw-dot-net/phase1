@@ -5,7 +5,15 @@ title: le Zénith
 tour: EU/UK '23
 ---
 
-1. Song
+1. The Dripping Tap
+2. Rattlesnake
+3. Ataraxia
+4. Hypertension
+5. Road Train
+6. Grim Reaper
+7. Planet B
+8. Gaia
+9. Work This Time
 
 <!--snippet-->
 
