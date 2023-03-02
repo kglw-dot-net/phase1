@@ -30,7 +30,7 @@ tour: EU/UK '23
 
 
 #### Notes
-O.N.E. contained a Straws In The Wind tease. Wah Wah contained The River teases.
+O.N.E. contained a Straws In The Wind tease. Wah Wah contained The River teases. Hypertension contained a Hells Bells (AC/DC) tease.
 
 **KGLW.net Staff Notes:**
 The setlist for this show is believed to be complete and accurate, but minimal information is available at this time. Despite the incomplete recording, KGLW.net staff supports what has been gathered from a collection of sources across social media and personal connections. If anyone has any further information or, ideally, a complete or conclusive recording please contact KGLW.net staff at [kglw.net@gmail.com](email:kglw.net@gmail.com).
