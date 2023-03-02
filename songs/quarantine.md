@@ -1,14 +1,14 @@
 ---
 layout: song
 title: Quarantine
-album: (unreleased)
+album: Chunky Shrapnel
 ---
 
-()
+(Mackenzie)
 
 # Lyrics
 
-> 
+(instrumental)
 
 
 # Notes

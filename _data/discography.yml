@@ -1,13 +1,16 @@
 studio:
   - title: (unreleased)
     tracks:
-      - title: A Brief History Of Planet Earth
-      - title: Anamnesis
-      - title: Evil Star
       - title: Fury
-      - title: Parking
-      - title: Quarantine
       - title: Wholly Ghost
+
+  - title: Chunky Shrapnel
+    tracks:
+      - title: Evil Star
+      - title: Quarantine
+      - title: Parking
+      - title: Anamnesis
+      - title: A Brief History of Planet Earth
 
   - title: Teenage Gizzard
     tracks:
