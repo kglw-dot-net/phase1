@@ -5,15 +5,22 @@ title: le Zénith
 tour: EU/UK '23
 ---
 
-1. The Dripping Tap (not certain)
-2. Rattlesnake
+1. Rattlesnake
+2. [Unknown K.G./L.W. song] + Straws in the Wind intro
 3. Ataraxia
-4. Hypertension
+4. Wah Wah + The River teases >
 5. Road Train
-6. Grim Reaper
-7. Planet B
-8. Gaia
-9. Work This Time
+6. Easter egg > 
+7. Hypertension
+8. Work This Time
+9. Lava
+10. Iron Lung
+11. The Grim Reaper
+12. Garden Goblin
+13. Magenta Mountain
+14. Planet B
+15. Hell
+16. Gaia
 
 <!--snippet-->
 
