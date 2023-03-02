@@ -6,11 +6,13 @@ tour: EU/UK '23
 ---
 
 1. Rattlesnake
-2. [Unknown K.G./L.W. song] + Straws in the Wind intro
+2. [Unknown K.G./L.W. song]
 3. Ataraxia
-4. Wah Wah + The River teases >
+4. Wah Wah
+{% include segue.html type=">" %}
 5. Road Train
-6. Easter egg > 
+6. [Easter Egg]
+{% include segue.html type=">" %}
 7. Hypertension
 8. Work This Time
 9. Lava
@@ -32,3 +34,4 @@ tour: EU/UK '23
 
 **KGLW.net Staff Notes:**
 This show is in progress and will undergo a full review by our setlist team once a recording becomes available. Stay tuned!
+The unknown K.G./L.W. song contained a Straws In The Wind tease. Wah Wah contained The River Teases.
