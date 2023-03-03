@@ -28,8 +28,8 @@ modified_date: 2023-03-03
 
 * footnotes
 {:footnotes}
-[^1] With Cavs drum solo.
+[^1]: With Cavs drum solo.
 
 
 #### Notes
-Opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) was shouted out following Rattlesnake.  Wah Wah contained The River teases.  Hypertension began with a full band tease of [Hells Bells](https://www.youtube.com/watch?v=etAIpkdhU9Q) ([AC/DC](https://en.wikipedia.org/wiki/AC/DC)).  The Grim Reaper featured a full band synth jam.  Predator X was listed on the written setlist between Planet B and Hell, but was not played except for a drum beat reminiscent of the intro.  Gaia featured a drum solo by Cavs.
+Opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) was shouted out following Rattlesnake.  Wah Wah contained The River teases.  Hypertension began with a full band tease of ["Hells Bells"](https://www.youtube.com/watch?v=etAIpkdhU9Q) ([AC/DC](https://en.wikipedia.org/wiki/AC/DC)).  The Grim Reaper featured a full band synth jam.  Predator X was listed on the written setlist between Planet B and Hell, but was not played except for a drum beat reminiscent of the intro.  Gaia featured a drum solo by Cavs.
