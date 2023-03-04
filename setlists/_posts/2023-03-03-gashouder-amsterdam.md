@@ -3,6 +3,7 @@ layout: setlist
 title: Gashouder, Amsterdam
 venue: Gashouder, Amsterdam, Netherlands
 tour: EU/UK '23
+modified_date: 2023-03-04
 ---
 
 1. The Dripping Tap
@@ -24,6 +25,7 @@ tour: EU/UK '23
    {% include segue.html type=">" %}
 12. Static Electricity
 13. Straws in the Wind
+14. Magma
 
 
 
