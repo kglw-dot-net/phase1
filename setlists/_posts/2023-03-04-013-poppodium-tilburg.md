@@ -29,13 +29,12 @@ modified_date: 2023-03-04
 * footnotes
 {:footnotes}
 [^1]: With Cavs drum solo.
-[^2]: Live debut.
+[^2]: Debut.
 
 
 #### Notes
-This show featured the live debut of Gila Monster. Honey contained Billabong Valley teases.  Iron Lung contained Hypertension teases.  Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Ambergris. Self-Immolate featured a drum solo by Cavs followed by an extended full band metal vamp. The intro to Am I in Heaven? featured an atypical, bluesy jam, plus an interesting story from Joey about he and Ambrose. The song itself subsequently featured ["Stairway to Heaven"](https://en.wikipedia.org/wiki/Stairway_to_Heaven) [(Led Zeppelin)](https://en.wikipedia.org/wiki/Led_Zeppelin) quotes and Rattlesnake teases.
+This show featured the debut of Gila Monster. Honey contained Billabong Valley teases.  Iron Lung contained Hypertension teases.  Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Ambergris. Self-Immolate featured a drum solo by Cavs followed by an extended full band metal vamp. The intro to Am I in Heaven? featured an atypical, bluesy jam, plus an interesting story from Joey about he and Ambrose. The song itself subsequently featured ["Stairway to Heaven"](https://en.wikipedia.org/wiki/Stairway_to_Heaven) [(Led Zeppelin)](https://en.wikipedia.org/wiki/Led_Zeppelin) quotes and Rattlesnake teases.
 
 #### Recordings
 
-The new song "Gila Monster"!
-https://www.instagram.com/p/CpYe6BTK3Sn/?utm_source=ig_web_copy_link
+The new song ["Gila Monster"!](https://www.instagram.com/p/CpYe6BTK3Sn/?utm_source=ig_web_copy_link)
