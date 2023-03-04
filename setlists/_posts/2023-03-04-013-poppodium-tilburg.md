@@ -18,6 +18,8 @@ tour: EU/UK '23
 10. Self-Immolate
     [^1]
 11. Predator X
+12. Unknown new metal song
+    [^2]
 
 
 <!--snippet-->
@@ -25,10 +27,11 @@ tour: EU/UK '23
 * footnotes
 {:footnotes}
 [^1] With Cavs drum solo.
+[^2] Live debut.
 
 
 #### Notes
-Honey contained Billabong Valley teases.  Iron Lung contained Hypertension teases.  Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Ambergris.
+Honey contained Billabong Valley teases.  Iron Lung contained Hypertension teases.  Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Ambergris. Self-Immolate featured a drum solo by Cavs followed by an extended full band metal vamp.
 
 
 **KGLW.net Staff Notes:**
