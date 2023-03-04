@@ -38,4 +38,4 @@ Opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) was shouted
 
 #### Recordings
 
-{% include youtube.html id="5zYsK9wcjk" author="Altered Beast Broadcasting" %}
+{% include youtube.html id="_5zYsK9wcjk" author="Altered Beast Broadcasting" %}
