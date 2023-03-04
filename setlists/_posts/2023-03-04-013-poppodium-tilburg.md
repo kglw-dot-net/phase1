@@ -13,6 +13,7 @@ tour: EU/UK '23
 6. Iron Lung
    {% include segue.html type=">" %}
 7. Ambergris
+8. Lava
 
 
 <!--snippet-->
@@ -22,6 +23,8 @@ tour: EU/UK '23
 
 
 #### Notes
+Honey contained Billabong Valley teases.  Iron Lung contained Hypertension teases.  Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Ambergris.
+
 
 **KGLW.net Staff Notes:**
 This show is currently underway. Please check back shortly for a complete, reviewed setlist from our Setlist Experts review team!
