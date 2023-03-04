@@ -3,7 +3,6 @@ layout: setlist
 title: Gashouder, Amsterdam
 venue: Gashouder, Amsterdam, Netherlands
 tour: EU/UK '23
-modified_date: 2023-03-03
 ---
 
 1. The Dripping Tap
@@ -20,14 +19,11 @@ modified_date: 2023-03-03
 8. Loyalty
    {% include segue.html type=">" %}
 9. Horology
-
-
-
-
-
-
-
-
+10. Mars for the Rich
+11. Automation
+   {% include segue.html type=">" %}
+12. Static Electricity
+13. Straws in the Wind
 
 
 
@@ -35,12 +31,10 @@ modified_date: 2023-03-03
 
 * footnotes
 {:footnotes}
-[^1]: With Hells Bells intro.
-[^2]: With Cavs drum solo.
 
 
 #### Notes
-Opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) was shouted out at the start of the show. Mr. Beat contained The Dripping Tap teases.
+Opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) was shouted out at the start of the show. Mr. Beat contained The Dripping Tap teases. After Horology, Joey asked for help from the audience determining which rave they should go to after the show. Automation was dedicated to [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT).
 
 **KGLW.net Staff Notes**
 This show is currently under review by the KGLW.net Setlist Experts and will be completely reviewed shortly. Stay tuned!
