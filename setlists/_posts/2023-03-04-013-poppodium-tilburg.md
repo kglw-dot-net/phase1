@@ -18,7 +18,7 @@ tour: EU/UK '23
 10. Self-Immolate
     [^1]
 11. Predator X
-12. Unknown new metal song
+12. Gila Monster
     [^2]
 13. Am I in Heaven?
 
@@ -32,7 +32,7 @@ tour: EU/UK '23
 
 
 #### Notes
-Honey contained Billabong Valley teases.  Iron Lung contained Hypertension teases.  Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Ambergris. Self-Immolate featured a drum solo by Cavs followed by an extended full band metal vamp. A new metal song (title currently unknown) was debuted following Predator X. The intro to Am I in Heaven? featured an atypical, bluesy jam, and an interesting story from Joey.
+This show featured the live debut of Gila Monster. Honey contained Billabong Valley teases.  Iron Lung contained Hypertension teases.  Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Ambergris. Self-Immolate featured a drum solo by Cavs followed by an extended full band metal vamp. The intro to Am I in Heaven? featured an atypical, bluesy jam, and an interesting story from Joey about he and Ambrose, and subsequently featured ["Stairway to Heaven"](https://en.wikipedia.org/wiki/Stairway_to_Heaven) [(Led Zeppelin)](https://en.wikipedia.org/wiki/Led_Zeppelin) quotes.
 
 
 **KGLW.net Staff Notes:**
