@@ -13,6 +13,7 @@ modified_date: 2023-03-03
    {% include segue.html type=">" %}
 5. Road Train
 6. Hypertension
+   [^1]
 7. Lava
 9. Iron Lung
 10. Work This Time
@@ -22,13 +23,14 @@ modified_date: 2023-03-03
 14. Planet B
 15. Hell
 16. Gaia
-    [^1]
+    [^2]
 
 <!--snippet-->
 
 * footnotes
 {:footnotes}
-[^1]: With Cavs drum solo.
+[^1]: With Hells Bells intro.
+[^2]: With Cavs drum solo.
 
 
 #### Notes
