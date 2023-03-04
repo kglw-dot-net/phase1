@@ -15,6 +15,7 @@ tour: EU/UK '23
 7. Ambergris
 8. Lava
 9. The River
+10. Self-Immolate
 
 
 <!--snippet-->
