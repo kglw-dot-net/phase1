@@ -16,12 +16,15 @@ tour: EU/UK '23
 8. Lava
 9. The River
 10. Self-Immolate
+    [^1]
+11. Predator X
 
 
 <!--snippet-->
 
 * footnotes
 {:footnotes}
+[^1] With Cavs drum solo.
 
 
 #### Notes
