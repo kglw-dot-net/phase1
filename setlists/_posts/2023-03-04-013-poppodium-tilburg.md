@@ -32,7 +32,7 @@ tour: EU/UK '23
 
 
 #### Notes
-Honey contained Billabong Valley teases.  Iron Lung contained Hypertension teases.  Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Ambergris. Self-Immolate featured a drum solo by Cavs followed by an extended full band metal vamp. A new metal song (title currently unknown) was debuted following Predator X.
+Honey contained Billabong Valley teases.  Iron Lung contained Hypertension teases.  Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Ambergris. Self-Immolate featured a drum solo by Cavs followed by an extended full band metal vamp. A new metal song (title currently unknown) was debuted following Predator X. The intro to Am I in Heaven? featured an atypical, bluesy jam, and an interesting story from Joey.
 
 
 **KGLW.net Staff Notes:**
