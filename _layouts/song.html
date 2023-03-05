@@ -20,9 +20,9 @@ layout: default
 
     {% if album_data %}
       {% if album_data.slug %}
-        <p>on the album <a href="/releases/{{album_data.slug}}" title="{{album_data.title}}" itemprop="inAlbum">{{album_data.title}}</a></p>
+        {% unless album_data.slug == "unreleased" %}<p>on the album <a href="/releases/{{album_data.slug}}" title="{{album_data.title}}" itemprop="inAlbum">{{album_data.title}}</a></p>{% endunless %}
       {% else %}
-        <p>on the album <a href="/releases/{{album_data.title | slugify}}" title="{{album_data.title}}" itemprop="inAlbum">{{album_data.title}}</a></p>
+        {% unless album_data.title == "(unreleased)" %}<p>on the album <a href="/releases/{{album_data.title | slugify}}" title="{{album_data.title}}" itemprop="inAlbum">{{album_data.title}}</a></p>{% endunless %}
       {% endif %}
     {% endif %}
 
