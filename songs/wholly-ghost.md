@@ -4,7 +4,7 @@ title: Wholly Ghost
 album: (unreleased)
 ---
 
-(songwriter)
+(Mackenzie)
 
 # Lyrics
 
