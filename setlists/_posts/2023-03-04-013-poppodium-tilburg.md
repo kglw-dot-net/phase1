@@ -38,4 +38,4 @@ This show featured the debut of Gila Monster. Honey contained Billabong Valley, 
 
 #### Recordings
 
-The new song ["Gila Monster"!](https://www.instagram.com/p/CpYe6BTK3Sn/?utm_source=ig_web_copy_link)
+{% include youtube.html id="e0RZddW_2mE" author="Scizzardland" %}
