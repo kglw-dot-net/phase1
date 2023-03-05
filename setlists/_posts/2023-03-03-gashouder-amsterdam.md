@@ -21,6 +21,7 @@ modified_date: 2023-03-04
    {% include segue.html type=">" %}
 9. Horology
 10. Mars for the Rich
+   {% include segue.html type=">" %}
 11. Automation
    {% include segue.html type=">" %}
 12. Static Electricity
@@ -36,7 +37,7 @@ modified_date: 2023-03-04
 
 
 #### Notes
-Opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) was shouted out at the start of the show. Mr. Beat contained The Dripping Tap teases. After Horology, Joey asked for help from the audience determining which rave they should go to after the show. Automation was dedicated to [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT).
+Opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) was shouted out at the start of the show. Mr. Beat contained The Dripping Tap teases. Automation was dedicated to [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT).
 
 #### Recordings
 
