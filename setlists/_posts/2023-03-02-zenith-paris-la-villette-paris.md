@@ -10,10 +10,11 @@ modified_date: 2023-03-03
 2. O.N.E.
 3. Ataraxia
 4. Wah Wah
+   [^1]
    {% include segue.html type=">" %}
 5. Road Train
 6. Hypertension
-   [^1]
+   [^2]
 7. Lava
 9. Iron Lung
 10. Work This Time
@@ -23,14 +24,15 @@ modified_date: 2023-03-03
 14. Planet B
 15. Hell
 16. Gaia
-    [^2]
+    [^3]
 
 <!--snippet-->
 
 * footnotes
 {:footnotes}
-[^1]: With Hells Bells intro.
-[^2]: With Cavs drum solo.
+[^1]: With The River intro.
+[^2]: With Hells Bells intro.
+[^3]: With Cavs drum solo.
 
 
 #### Notes
