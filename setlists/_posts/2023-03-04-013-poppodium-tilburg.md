@@ -13,7 +13,7 @@ modified_date: 2023-03-04
 4. Hypertension
 5. The Garden Goblin
 6. Iron Lung
-   {% include segue.html type=">" %}
+   {% include segue.html type="->" %}
 7. Ambergris
 8. Lava
 9. The River
