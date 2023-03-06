@@ -15,6 +15,7 @@ tour: EU/UK '23
 6.  Magenta Mountain
 7.  Magma
 8.  Blame It On The Weather
+9.  Hypertension
 
 …
 <!--snippet-->
@@ -29,7 +30,7 @@ tour: EU/UK '23
 Gaia featured a drum solo by Cavs over a metal vamp by the band. 
 Her & I contained Iron Lung quotes and teases.
 This Thing contained The Dripping Tap quotes.
-The lyrics of Magenta Mountain were changed to "I don't believe Stu".
+Before Magenta Mountain, Stu announced that he was a "dickhead". Joey subsequently changed the lyrics of Magenta Mountain to "I don't believe Stu".
 
 **KGLW.net Staff Notes:**
 This is an ongoing show. Please stay tuned for setlist details and available audio and video sources as they become available.
