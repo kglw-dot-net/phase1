@@ -13,6 +13,7 @@ tour: EU/UK '23
 4.  Slow Jam 2 (Her & I)
 5.  This Thing
 6.  Magenta Mountain
+7.  Magma
 …
 <!--snippet-->
 
