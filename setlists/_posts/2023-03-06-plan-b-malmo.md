@@ -12,6 +12,7 @@ tour: EU/UK '23
 3.  Hot Wax
 4.  Slow Jam 2 (Her & I)
 5.  This Thing
+6.  Magenta Mountain
 …
 <!--snippet-->
 
@@ -24,6 +25,7 @@ tour: EU/UK '23
 
 Gaia featured a drum solo by Cavs over a metal vamp by the band. 
 Her & I contained Iron Lung quotes and teases.
+This Thing contained The Dripping Tap quotes.
 
 **KGLW.net Staff Notes:**
 This is an ongoing show. Please stay tuned for setlist details and available audio and video sources as they become available.
