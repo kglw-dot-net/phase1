@@ -14,6 +14,8 @@ tour: EU/UK '23
 5.  This Thing
 6.  Magenta Mountain
 7.  Magma
+8.  Blame It On The Weather
+
 …
 <!--snippet-->
 
