@@ -7,6 +7,7 @@ tour: EU/UK '23
 
 1. Gaia
    [^1]
+2. Hot Wax
 …
 <!--snippet-->
 
