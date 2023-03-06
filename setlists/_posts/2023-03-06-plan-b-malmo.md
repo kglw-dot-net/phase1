@@ -7,7 +7,8 @@ tour: EU/UK '23
 
 1. Gaia
    [^1]
-
+…
+<!--snippet-->
 
 [^1]: With drum solo.
 * footnotes
