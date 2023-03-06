@@ -5,9 +5,10 @@ title: Plan B, Malmö
 tour: EU/UK '23
 ---
 
+1. Gaia
 
 
 #### Notes
 
 **KGLW.net Staff Notes:**
-This is an upcoming show. Please stay tuned for setlist details and available audio and video sources as they become available.
+This is an ongoing show. Please stay tuned for setlist details and available audio and video sources as they become available.
