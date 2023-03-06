@@ -21,5 +21,7 @@ tour: EU/UK '23
 * footnotes
 {:footnotes}
 
+Gaia featured a drum solo by Cavs over a metal vamp by the band. 
+
 **KGLW.net Staff Notes:**
 This is an ongoing show. Please stay tuned for setlist details and available audio and video sources as they become available.
