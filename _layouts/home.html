@@ -16,9 +16,9 @@ layout: default
   {%- if recent_setlists.size > 0 -%}
   <section class="setlists">
     <h2 class="post-list-heading">
-      <a href="{{ "/setlists" | relative_url }}">Recent Setlists</a>
+      <a title="view all Setlists performed by King Gizzard and the Lizard Wizard" href="{{ "/setlists" | relative_url }}">Recent Setlists</a>
     </h2>
-    <a class="more-link" href="{{ "/setlists" | relative_url }}">see more...</a>
+    <a class="more-link" title="view all Setlists performed by King Gizzard and the Lizard Wizard" href="{{ "/setlists" | relative_url }}">see more...</a>
     <ul class="post-list">
       {%- for setlist in recent_setlists -%}
       <li>
@@ -66,7 +66,8 @@ layout: default
   {%- assign recent_blog = site.categories.blog | slice: 0, 2 -%}
   {%- if recent_blog.size > 0 -%}
   <section class="blog">
-    <h2 class="post-list-heading">Blog</h2>
+    <h2 class="post-list-heading"><a href="{{ "/blog" | relative_url }}">Blog</a></h2>
+    <a class="more-link" href="{{ "/blog" | relative_url }}" title="list of Blog posts">read more...</a>
     <ul class="post-list">
       {%- for post in recent_blog -%}
       <li>
@@ -81,7 +82,7 @@ layout: default
           {{ post.excerpt }}
         </div>
         {%- endif -%}
-        <a class="read-more" href="{{ post.url | relative_url }}">Read more...</a>
+        <a class="read-more" title="read the full Blog post" href="{{ post.url | relative_url }}">Read more...</a>
       </li>
       {%- endfor -%}
     </ul>
