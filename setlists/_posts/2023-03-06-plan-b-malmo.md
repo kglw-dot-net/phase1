@@ -17,8 +17,9 @@ tour: EU/UK '23
 8.  Blame It On The Weather
 9.  Hypertension
 10. Robot Stop
+    {% include segue.html type=">" %}
+11. Hot Water
 
-…
 <!--snippet-->
 
 
@@ -33,6 +34,5 @@ Her & I contained Iron Lung quotes and teases.
 This Thing contained The Dripping Tap quotes.
 Before Magenta Mountain, Stu announced that he was a "dickhead". Joey subsequently changed the lyrics of Magenta Mountain to "I don't believe Stu".
 Joey shouted out Los Bitchos after Hypertension.
-
-**KGLW.net Staff Notes:**
-This is an ongoing show. Please stay tuned for setlist details and available audio and video sources as they become available.
+Robot Stop contained a Hot Water and Her & I teases.
+During Hot Water Stu took over drums & Cavs crowd surfed.
