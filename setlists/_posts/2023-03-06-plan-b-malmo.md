@@ -7,7 +7,10 @@ tour: EU/UK '23
 
 1. Gaia
    [^1]
-2. Hot Wax
+   {% include segue.html type=">" %}
+2. Venusian 2
+3. Hot Wax
+4. Slow Jam 2 (Her & I)
 …
 <!--snippet-->
 
