@@ -31,4 +31,4 @@ tour: EU/UK '23
 
 
 #### Notes
-Show is currently in progress.
+Setlist is complete but under review to add teases, quotes, and other notes. "Show of the tour so far." -ListeningWind
