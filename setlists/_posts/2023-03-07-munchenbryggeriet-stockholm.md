@@ -16,6 +16,7 @@ tour: EU/UK '23
 6. Evil Death Roll
 7. Ice V
 8. The Garden Goblin
+9. Trap Door
 
 <!--snippet-->
 
