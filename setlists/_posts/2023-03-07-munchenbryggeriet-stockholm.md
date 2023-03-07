@@ -17,6 +17,7 @@ tour: EU/UK '23
 7. Ice V
 8. The Garden Goblin
 9. Trap Door
+10. The Lord of Lightning
 
 <!--snippet-->
 
