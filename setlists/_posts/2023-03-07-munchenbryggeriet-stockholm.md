@@ -15,5 +15,8 @@ tour: EU/UK '23
 5. The Book
 6. Evil Death Roll
 
+<!--snippet-->
+
+
 #### Notes
 Show is currently in progress.
