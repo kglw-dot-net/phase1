@@ -23,6 +23,9 @@ tour: EU/UK '23
    {% include segue.html type=">" %}
 13. The Fourth Colour
 14. Her & I (Slow Jam 2)
+   {% include segue.html type=">" %}
+15. Self-Immolate
+16. Gila Monster
 
 <!--snippet-->
 
