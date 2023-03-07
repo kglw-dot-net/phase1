@@ -18,6 +18,7 @@ tour: EU/UK '23
 8. The Garden Goblin
 9. Trap Door
 10. The Lord of Lightning
+11. Lava
 
 <!--snippet-->
 
