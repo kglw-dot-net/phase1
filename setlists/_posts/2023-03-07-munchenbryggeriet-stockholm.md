@@ -14,6 +14,7 @@ tour: EU/UK '23
 4. O.N.E.
 5. The Book
 6. Evil Death Roll
+7. Ice V
 
 <!--snippet-->
 
