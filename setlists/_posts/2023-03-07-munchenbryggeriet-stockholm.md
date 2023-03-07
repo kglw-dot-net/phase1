@@ -15,6 +15,7 @@ tour: EU/UK '23
 5. The Book
 6. Evil Death Roll
 7. Ice V
+8. The Garden Goblin
 
 <!--snippet-->
 
