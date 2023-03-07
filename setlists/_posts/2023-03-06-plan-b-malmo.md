@@ -18,7 +18,7 @@ modified_date: 2023-03-07
 8.  Blame It on the Weather
 9.  Hypertension
 10. Robot Stop
-    {% include segue.html type=">" %}
+    {% include segue.html type="->" %}
 11. Hot Water
 
 <!--snippet-->
