@@ -5,4 +5,15 @@ title: Münchenbryggeriet, Stockholm
 tour: EU/UK '23
 ---
 
+1. Doom City
+   {% include segue.html type=">" %}
+2. Minimum Brain Size
+   {% include segue.html type="->" %}
+3. Sleep Drifter
+   {% include segue.html type="->" %}
+4. O.N.E.
+5. The Book
+6. Evil Death Roll
+
 #### Notes
+Show is currently in progress.
