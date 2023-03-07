@@ -20,6 +20,8 @@ tour: EU/UK '23
 10. The Lord of Lightning
 11. Lava
 12. Crumbling Castle
+   {% include segue.html type=">" %}
+13. The Fourth Colour
 
 <!--snippet-->
 
