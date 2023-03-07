@@ -19,6 +19,7 @@ tour: EU/UK '23
 9. Trap Door
 10. The Lord of Lightning
 11. Lava
+12. Crumbling Castle
 
 <!--snippet-->
 
