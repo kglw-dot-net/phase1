@@ -10,8 +10,9 @@ modified_date: 2023-03-07
     [^1]
     {% include segue.html type=">" %}
 2.  Venusian 2
+    {% include segue.html type=">" %}
 3.  Hot Wax
-4.  Slow Jam 2 (Her & I)
+4.  Her & I (Slow Jam 2)
 5.  This Thing
 6.  Magenta Mountain
 7.  Magma
@@ -35,5 +36,5 @@ Slow Jam 2 (Her & I) contained Iron Lung quotes and teases.
 This Thing contained The Dripping Tap quotes.
 Before Magenta Mountain, Stu announced that he was a "dickhead". Joey subsequently changed the lyrics of Magenta Mountain to "I don't believe Stu".
 Joey shouted out Los Bitchos after Hypertension.
-Robot Stop contained a Hot Water and Slow Jam 2 (Her & I) teases.
+Robot Stop contained a Hot Water and Her & I (Slow Jam 2) teases.
 During Hot Water Stu took over drums & Cavs crowd surfed.
