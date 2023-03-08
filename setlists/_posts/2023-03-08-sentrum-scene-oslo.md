@@ -17,4 +17,4 @@ tour: EU/UK '23
 
 #### Notes
 
-This show has not happened yet! Stay tuned for more information as it becomes available.
+This show is currently in progress. The band shouted out Los Bitchos prior to Pleura. Gaia featured a drum solo by Cavs. 
