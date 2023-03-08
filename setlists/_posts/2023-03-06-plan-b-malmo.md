@@ -32,7 +32,7 @@ modified_date: 2023-03-07
 {:footnotes}
 
 Gaia featured a drum solo by Cavs over a metal vamp by the band. 
-Slow Jam 2 (Her & I) contained Iron Lung quotes and teases.
+Her & I (Slow Jam 2) contained Iron Lung quotes and teases.
 This Thing contained The Dripping Tap quotes.
 Before Magenta Mountain, Stu announced that he was a "dickhead". Joey subsequently changed the lyrics of Magenta Mountain to "I don't believe Stu".
 Joey shouted out Los Bitchos after Hypertension.
