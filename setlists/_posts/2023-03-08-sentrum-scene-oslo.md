@@ -11,10 +11,11 @@ tour: EU/UK '23
 4. Supreme Ascendancy 
 5. Pleura
 6. Gaia
+7. Mars for the Rich
 
 <!--snippet-->
 
 
 #### Notes
 
-This show is currently in progress. The band shouted out Los Bitchos prior to Pleura. Gaia featured a drum solo by Cavs. 
+This show is currently in progress. The band shouted out Los Bitchos prior to Pleura. Gaia featured a drum solo by Cavs. Joey recognized International Women's Day after Gaia.
