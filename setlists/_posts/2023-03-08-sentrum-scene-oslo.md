@@ -12,6 +12,8 @@ tour: EU/UK '23
 5. Pleura
 6. Gaia
 7. Mars for the Rich
+  {% include segue.html type=">" %}
+8. Perihelion
 
 <!--snippet-->
 
