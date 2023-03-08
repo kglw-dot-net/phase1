@@ -9,6 +9,7 @@ tour: EU/UK '23
 2. Nuclear Fusion
 3. Oddlife
 4. Supreme Ascendancy 
+5. Pleura
 
 <!--snippet-->
 
