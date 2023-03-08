@@ -8,6 +8,7 @@ tour: EU/UK '23
 1. K.G.L.W. (Outro)
 2. Nuclear Fusion
 3. Oddlife
+4. Supreme Ascendancy 
 
 <!--snippet-->
 
