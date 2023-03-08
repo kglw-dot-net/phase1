@@ -14,6 +14,7 @@ tour: EU/UK '23
 7. Mars for the Rich
   {% include segue.html type=">" %}
 8. Perihelion
+9. Super Bug
 
 <!--snippet-->
 
