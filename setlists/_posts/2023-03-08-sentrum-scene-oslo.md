@@ -10,6 +10,7 @@ tour: EU/UK '23
 3. Oddlife
 4. Supreme Ascendancy 
 5. Pleura
+6. Gaia
 
 <!--snippet-->
 
