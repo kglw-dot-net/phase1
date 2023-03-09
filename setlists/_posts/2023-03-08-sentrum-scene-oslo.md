@@ -26,4 +26,4 @@ tour: EU/UK '23
 
 #### Notes
 
-This show is currently in progress. The band shouted out Los Bitchos prior to Pleura. Gaia featured a drum solo by Cavs. Joey recognized International Women's Day after Gaia. Iron Lung contained Hypertension tease.
+This setlist is considered complete but under review while we develop full notes. The band shouted out Los Bitchos prior to Pleura. Gaia featured a drum solo by Cavs. Joey recognized International Women's Day after Gaia. Iron Lung contained Hypertension tease.
