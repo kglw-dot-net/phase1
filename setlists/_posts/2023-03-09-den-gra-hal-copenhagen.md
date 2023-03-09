@@ -14,7 +14,7 @@ tour: EU/UK '23
 7. Ice V
 8. Ambergris
 9. The Dripping Tap
-10. Boogieman Sam {% include segue.html type=">" %}
+10. Boogieman Sam {% include segue.html type="->" %}
 11. Sleepwalker
 
 <!--snippet-->
