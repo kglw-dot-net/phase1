@@ -18,4 +18,4 @@ tour: EU/UK '23
 
 #### Notes
 
-This show is currently in progress. Slow Jam 1 featured Sense teases. Sense featured Sadie Sorceress teases.
+This show is currently in progress. Slow Jam 1 featured Sense teases. Sense featured Sadie Sorceress teases. Ice V contained a Sense tease.
