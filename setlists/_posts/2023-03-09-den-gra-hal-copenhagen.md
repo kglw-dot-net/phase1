@@ -5,6 +5,12 @@ title: Den Grå Hal, Copenhagen
 tour: EU/UK '23
 ---
 
+1. Gila Monster
+2. Planet B
+
+<!--snippet-->
+
+
 #### Notes
 
-This show has not happened yet! Stay tuned for additional information as it becomes available.
+This show is currently in progress.
