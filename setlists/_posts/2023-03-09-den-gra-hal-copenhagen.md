@@ -20,4 +20,4 @@ tour: EU/UK '23
 
 #### Notes
 
-This show is currently in progress. Slow Jam 1 featured Sense teases. Sense featured Sadie Sorceress teases. Ice V contained a Sense tease. Ambergris was introduced as 'Joey's porno song' and featured an atypical jammy intro while Joey riffed lyrics about wanting to see Cook watch Netflix naked. The Dripping Tap featured Hot Water teases with the lyrics changed to 'Time to party', and 'Everybody wants to party'.
+This show is currently in progress. Slow Jam 1 featured Sense teases. Sense featured Sadie Sorceress teases. Ice V contained a Sense tease. Ambergris was introduced as 'Joey's porno song' and featured an atypical jammy intro while Joey riffed lyrics about wanting to see Cook watch Netflix naked. The Dripping Tap featured Hot Water teases with the lyrics changed to 'Time to party', and 'Everybody wants to party', and a Cellophane tease.
