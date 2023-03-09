@@ -17,6 +17,7 @@ tour: EU/UK '23
 10. Boogieman Sam {% include segue.html type="->" %}
 11. Sleepwalker
 12. All Is Known
+13. Static Electricity
 
 <!--snippet-->
 
