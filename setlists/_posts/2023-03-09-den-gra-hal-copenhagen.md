@@ -12,10 +12,11 @@ tour: EU/UK '23
 5. Sense {% include segue.html type=">" %}
 6. Let Me Mend The Past
 7. Ice V
+8. Ambergris
 
 <!--snippet-->
 
 
 #### Notes
 
-This show is currently in progress. Slow Jam 1 featured Sense teases. Sense featured Sadie Sorceress teases. Ice V contained a Sense tease.
+This show is currently in progress. Slow Jam 1 featured Sense teases. Sense featured Sadie Sorceress teases. Ice V contained a Sense tease. Ambergris featured an atypical jammy intro while Joey riffed lyrics about wanting to see Cook watch Netflix naked.
