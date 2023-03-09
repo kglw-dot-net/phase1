@@ -9,7 +9,8 @@ tour: EU/UK '23
 2. Planet B
 3. Hell
 4. Slow Jam 1 ->
-5. Sense
+5. Sense >
+6. Let Me Mend The Past
 
 <!--snippet-->
 
