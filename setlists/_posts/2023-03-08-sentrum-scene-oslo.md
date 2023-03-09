@@ -14,7 +14,7 @@ tour: EU/UK '23
 7. Mars for the Rich
   {% include segue.html type=">" %}
 8. Perihelion
-9. Super Bug
+9. Superbug
 10. The Grim Reaper
 11. Iron Lung
    {% include segue.html type="->" %}
