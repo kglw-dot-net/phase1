@@ -8,8 +8,8 @@ tour: EU/UK '23
 1. Gila Monster
 2. Planet B
 3. Hell
-4. Slow Jam 1 ->
-5. Sense >
+4. Slow Jam 1 {% include segue.html type="->" %}
+5. Sense {% include segue.html type=">" %}
 6. Let Me Mend The Past
 
 <!--snippet-->
