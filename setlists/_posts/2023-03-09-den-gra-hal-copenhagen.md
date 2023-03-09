@@ -18,6 +18,7 @@ tour: EU/UK '23
 11. Sleepwalker
 12. All Is Known
 13. Static Electricity
+14. Automation
 
 <!--snippet-->
 
