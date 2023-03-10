@@ -49,7 +49,7 @@ In the summer of 2017, Amoeba Music released an episode of their series "What's 
 
 King Gizzard and the Lizard Wizard - What's In My Bag? 
 
-[EMBED VIDEO—OR LINK TO IT ON MEDIA PAGE] 
+{% include youtube.html id="e8oexqhDaEo" title="King Gizzard and the Lizard Wizard - What&#39;s In My Bag?" %}
 
 The legendary science fiction author is best known for his exegesis of consciousness. In 1974, he underwent a series of mystical experiences he would spend the rest of his life attempting to decipher. The result of his labors can be examined in many works fueled by his psycho-spiritual pontification. These include the novel The Divine Invasion. 
 
