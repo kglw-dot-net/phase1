@@ -37,7 +37,7 @@ modified_date: 2023-03-04
 
 
 #### Notes
-Opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) was shouted out at the start of the show. Mr. Beat contained The Dripping Tap teases. Automation was dedicated to [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT).
+Opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) was shouted out at the start of the show. People-Vultures contained a ["Down with the Sickness"](https://www.youtube.com/watch?v=09LTT0xwdfw) [(Disturbed)](https://en.wikipedia.org/wiki/Disturbed_(band)) quote. Mr. Beat contained The Dripping Tap teases. Automation was dedicated to [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT).
 
 #### Recordings
 
