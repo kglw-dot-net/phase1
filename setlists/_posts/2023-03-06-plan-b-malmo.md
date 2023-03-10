@@ -23,13 +23,11 @@ modified_date: 2023-03-07
 11. Hot Water
 
 <!--snippet-->
-
-
-#### Notes
-
 [^1]: With Cavs drum solo.
 * footnotes
 {:footnotes}
+
+#### Notes
 
 Gaia featured a drum solo by Cavs over a metal vamp by the band. 
 Her & I (Slow Jam 2) contained Iron Lung quotes and teases.
