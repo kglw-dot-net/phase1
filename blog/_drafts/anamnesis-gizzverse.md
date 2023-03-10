@@ -108,13 +108,13 @@ This is Zhuangzi's true transformation of material things: the bricks that built
 
 After this flash of theophany, we discern the path King Gizzard has laid out for us. They explicitly preach that no single part of nature is less significant than any other. We're inseparable, even at our worst. We must aspire to be better. The blissed-out psychedelic epiphany isn't enough; now we have to work to make it real. The band frequently acknowledges the Wurundjeri Woi-wurung people as traditional owners and custodians of the land on which the band lives and makes music. They've made efforts to eliminate plastic use in all their shipping. They denounce violence at their shows, especially against marginalized genders. All of this is inextricable from the art. Their benevolent philosophy suffuses every corner of the Gizzverse and spills out into the material world. You can see it in everything the band touches, especially the listeners. 
 
-Be it something small like interpersonal conflict, or large like climate action, we can forge a stronger shared reality, a healthier superorganism. We can find the vibration harmonious with the Dao and melt into it as a collective Nous. Past the dying trees and clouds of glue, somewhere out there in the microtonal background, awaits the loving sanctuary that we build together with our minds unified. This is the stuff Zhuangzi and Philip K. Dick were writing about. Now, Stu MacKenzie and his brothers have picked up the torch. 
+Be it something small like interpersonal conflict, or large like climate action, we can forge a stronger shared reality, a healthier superorganism. We can find the vibration harmonious with the Dao and melt into it as a collective Nous. Past the dying trees and clouds of glue, somewhere out there in the microtonal background, awaits the loving sanctuary that we build together with our minds unified. This is the stuff Zhuangzi and Philip K. Dick were writing about. Now, Stu MacKenzie and his brothers have picked up the torch. As winners of the inaugural Environmental Music Prize in 2021, [King Gizzard donated the $20,000 AUD prize](https://www.abc.net.au/triplej/news/king-gizzard-&-the-lizard-wizard-win-environmental-music-prize/13931798) directly to the [Wilderness Society](https://www.wilderness.org.au/), with the statement: "It’s fantastic and deeply important for initiatives like this one, to help build community around the fight against the climate crisis".
 
-[PHOTO OR FLIER FROM ONE OF THEIR CLIMATE EFFORTS] 
-
+<!--[PHOTO OR FLIER FROM ONE OF THEIR CLIMATE EFFORTS]
 [NEED HELP FINDING A GOOD ONE] 
-
 [ALSO MAYBE LINKS TO THESE EFFORTS]
+
+All their actions seem to have been donations, so no real photos or flyers. Added link-->
 
 An undiluted drive for transformation informs every creative decision the group makes. They undergo constant style mutations during and between releases, even telling on themselves with an album literally named Changes. Images, melodies, and concepts usurp each other, distorting the identity of songs and albums, and yet it all fits as crystallized pieces into an ineffable whole. 
 
@@ -127,7 +127,7 @@ All we have to do is open the door and crash through.
 ~ David Kane
 
 Author bio: 
-David Kane is a writer-performer based in Los Angeles, where he produces short films and original plays. He often portrays Dr. Bendigan, a foolish metaphysician vivisecting the border of absurdist comedy and psychedelic horror. You can find David's work on Doompunk Dispatch.
+David Kane is a writer-performer based in Los Angeles, where he produces short films and original plays. He often portrays Dr. Bendigan, a foolish metaphysician vivisecting the border of absurdist comedy and psychedelic horror. You can find David's work on [Doompunk Dispatch](https://doompunk6.wordpress.com/).
 
 [Anamnesis song]: https://kglw.net/songs/anamnesis
 [Big Fig Wasp]: https://kglw.net/songs/big-fig-wasp
