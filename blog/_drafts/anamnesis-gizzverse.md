@@ -25,7 +25,7 @@ All three of these songs were written by [Stu MacKenzie][bio]. So what does the 
 <!--snippet-->
 
 ![album cover of Chunky Shrapnel](https://kglw.net/releases/chunky-shrapnel/cover.jpg){:style="width:33%"}
-![album cover of Butterfly 3000](https://kglw.net/releases/butterfly-3000/cover.jpg){:style="width:33%"}
+![album cover of Butterfly 3000](https://kglw.net/releases/butterfly-3000/cover.jpg){:style="width:32%"}
 ![album cover of Omnium Gatherum](https://kglw.net/releases/omnium-gatherum/cover.jpg){:style="width:33%"}
 
 Derived from the Greek verb _anamimneskein_, which means "to be reminded," the noun is commonly translated as "recollection" and sometimes "abrogation of amnesia." On the surface, Stu employs the word in both songs to describe the memories of waking life returning to an individual as they exit a dream; or are they receiving memories of another life within the dream? Like most dreams, there often seems to be a deeper layer of meaning buzzing beneath the surface like [wasp eggs in a fig][Big Fig Wasp]. Let's sink our teeth in: 
@@ -36,51 +36,59 @@ Perhaps this is what Stu's lyrics from _Blue Morpho_ and _Magenta Mountain_ desc
 
 Much of _[Butterfly 3000]_ creates parallels between butterflies and dreams, which brings to mind the parable of Zhuangzi, the Chinese philosopher pivotal to the development of Taoism. The man entered a deep dream of [being a butterfly][Zhuangzi butterfly dream], then upon waking expressed confusion: was he a human who had dreamed he was an insect, or was he the insect now dreaming he was a human? The translation by Lin Yutang concludes with, "Between a man and butterfly there is necessarily a distinction. The transition is called the transformation of material things." 
 
+<aside>
 [Painting of Zhuangzi] 
+</aside>
 
 Taoism emphasizes living in harmony with the Dao. Commonly translated as "Way" or "Path," the Dao represents the source of everything and the ultimate principle underlying reality. Not a willful or self-conscious creator, but an "organic order" playing out a boundless natural pattern in accordance with cosmic laws.
 
-In Blue Morpho, there's a good chance "clouds of glue" refers to cocoonase: the liquid an emerging butterfly uses to soften its chrysalis. Transformation of material things, easy peasy. But the clouds also appear in Magenta Mountain; it seems that particular dreamer also undergoes a transformation over their journey. Do the clouds represent the material world melting away to reveal universal truth, the Dao, represented by the mysterious mountain? What lies on the other end of the transformation of material things? What exactly will the dreamer become when they crash through to the other side of that murky cocoon? 
+In _Blue Morpho_, there's a good chance "clouds of glue" refers to cocoonase: the liquid an emerging butterfly uses to soften its chrysalis. Transformation of material things, easy peasy. But the clouds also appear in _Magenta Mountain_; it seems that particular dreamer also undergoes a transformation over their journey. Do the clouds represent the material world melting away to reveal universal truth, the Dao, represented by the mysterious mountain? What lies on the other end of the transformation of material things? What exactly will the dreamer become when they crash through to the other side of that murky cocoon?
 
-Sink deeper, ye seeker, and discover another layer to the Nonagon. We don't have evidence that Stu has read Plato (wouldn't put it past him), but there is a more recent thinker who frequently referenced anamnesis in his 20th century writing. An icon whom Stu has explicitly designated an influence: Philip K. Dick. 
-In the summer of 2017, Amoeba Music released an episode of their series "What's In My Bag?" featuring the members of King Gizzard. While the others grabbed vinyl records, Stu grabbed an armful of books. His choices included Beowulf, 2001: A Space Odyssey, an H.P. Lovecraft anthology ("one of my favorite authors"), and ended with The Divine Invasion (1981) by PKD.
+Sink deeper, ye seeker, and discover another layer to the Nonagon. We don't have evidence that Stu has read Plato (wouldn't put it past him), but there is a more recent thinker who frequently referenced _anamnesis_ in his 20th century writing. An icon whom Stu has explicitly designated an influence: [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick).
+
+In the summer of 2017, [Amoeba Music](https://www.amoeba.com/whats-in-my-bag/) released an episode of their series ["What's In My Bag?" featuring the members of King Gizzard](https://www.youtube.com/watch?v=e8oexqhDaEo). While the others grabbed vinyl records, Stu grabbed an armful of books. His choices included _Beowulf_, _2001: A Space Odyssey_, an [H.P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) anthology ("one of my favorite authors"), and ended with _The Divine Invasion_ (1981) by PKD.
 
 "You can never have enough Philip K. Dick in your life," says Stu. 
 
-King Gizzard and the Lizard Wizard - What's In My Bag? 
+<aside>
+{% include youtube.html id="e8oexqhDaEo" title="King Gizzard and the Lizard Wizard - What's In My Bag?" %}
+</aside>
 
-{% include youtube.html id="e8oexqhDaEo" title="King Gizzard and the Lizard Wizard - What&#39;s In My Bag?" %}
+The legendary science fiction author is best known for his exegesis of consciousness. In 1974, he underwent a series of mystical experiences he would spend the rest of his life attempting to decipher. The result of his labors can be examined in many works fueled by his psycho-spiritual pontification. These include the novel _The Divine Invasion_. 
 
-The legendary science fiction author is best known for his exegesis of consciousness. In 1974, he underwent a series of mystical experiences he would spend the rest of his life attempting to decipher. The result of his labors can be examined in many works fueled by his psycho-spiritual pontification. These include the novel The Divine Invasion. 
+In his 1978 essay _How to Build a Universe That Doesn't Fall Apart Two Days Later_, Dick uses the word to describe one of his mystical moments: 
 
-In his 1978 essay How to Build a Universe That Doesn't Fall Apart Two Days Later, Dick uses the word to describe one of his mystical moments: 
+> "I suddenly experienced what I later learned is called _anamnesis_ — a Greek word meaning 'loss of forgetfulness.' I remembered who I was and where I was. In an instant, in the twinkling of an eye, it all came back to me. And not only could I remember it but I could see it." 
 
-"I suddenly experienced what I later learned is called anamnesis—a Greek word meaning 'loss of forgetfulness.' I remembered who I was and where I was. In an instant, in the twinkling of an eye, it all came back to me. And not only could I remember it but I could see it." 
+_Anamnesis_ crashes through PKD, much like it does for the minds depicted in _Blue Morpho_ and _Magenta Mountain_. Dick himself emphasized the visual aspect of the transmitted data. Places, people, readable texts, colors and more flashed across the screen of his mind. What's more, he expressed a sense that this information was gradually replacing his identity. The memories of his normal life became blurry photos from his last domain. Like Zhuangzi, whose grasp of self was shaken, PKD turned into a vessel for a mysterious and powerful truth that he, more often than not, theorized had a divine origin. 
 
-Anamnesis crashes through PKD, much like it does for the minds depicted in Blue Morpho and Magenta Mountain. Dick himself emphasized the visual aspect of the transmitted data. Places, people, readable texts, colors and more flashed across the screen of his mind. What's more, he expressed a sense that this information was gradually replacing his identity. The memories of his normal life became blurry photos from his last domain. Like Zhuangzi, whose grasp of self was shaken, PKD turned into a vessel for a mysterious and powerful truth that he, more often than not, theorized had a divine origin. 
+Years prior to his spiritual experience, the author employed the _[I Ching](https://en.wikipedia.org/wiki/I_Ching)_ (a traditional Chinese divination system linked with Taoism) for guidance in his personal and artistic decisions, using its outcomes in the plotting of his Hugo-winning novel _The Man in the High Castle_. When asked about the importance of the _I Ching_ in his life, [he declared](https://philipdick.com/literary-criticism/frank-views-archive/vertex-interview-with-philip-k-dick/): "The answers have an universal quality… If you use the _I Ching_ long enough and continually enough, it will begin to change and shape you as a person. It will make you into a Taoist, whether or not you have ever heard the word, whether or not you want to be."
 
-Years prior to his spiritual experience, the author employed the I Ching (a traditional Chinese divination system linked with Taoism) for guidance in his personal and artistic decisions, using its outcomes in the plotting of his Hugo-winning novel The Man in the High Castle. When asked about the importance of the I Ching in his life, he declared: "The answers have an universal quality… If you use the I Ching long enough and continually enough, it will begin to change and shape you as a person. It will make you into a Taoist, whether or not you have ever heard the word, whether or not you want to be."
+This sounds familiar when applied to his experience of _anamnesis_. When reality was unveiled, the effect on him was inarguable and starkly transformative. In the grips of the infinite Dao, one feels like a hapless swimmer caught in a riptide and sucked into the cosmic ocean. PKD nearly lost himself while clambering back to the reality we all share.
 
-This sounds familiar when applied to his experience of anamnesis. When reality was unveiled, the effect on him was inarguable and starkly transformative. In the grips of the infinite Dao, one feels like a hapless swimmer caught in a riptide and sucked into the cosmic ocean. PKD nearly lost himself while clambering back to the reality we all share.
+Dick's definition of _anamnesis_ also invokes Gnosticism, an esoteric religious system from the first century AD. In that cosmology, an individual's awareness of their "true self" is occluded. Our souls are trapped in the material realm inhabited by our bodies. We each contain a divine spark we can trace back to the deepest reservoir of self, similar to Plato's Forms. Attaining secret knowledge (_gnosis_) reconnects us to this source, representing our only means to salvation. PKD eventually came to believe his mystical experiences amounted to _gnosis_. 
 
-Dick's definition of anamnesis also invokes Gnosticism, an esoteric religious system from the first century AD. In that cosmology, an individual's awareness of their "true self" is occluded. Our souls are trapped in the material realm inhabited by our bodies. We each contain a divine spark we can trace back to the deepest reservoir of self, similar to Plato's Forms. Attaining secret knowledge (gnosis) reconnects us to this source, representing our only means to salvation. PKD eventually came to believe his mystical experiences amounted to gnosis. 
+This definition refocuses the acquisition of "universal truth" to a "true self". Rather than learning geometry, the _anamnesiac_ recovers self-knowledge. In this model, the soul activates its divine spark like a dormant seed awaiting the light of awareness. The self is then restored to its complete form, reunited with The Infinite beyond the veil of illusory existence. The Gizzverse frequently speculates on cosmic truth, from songs like [Ontology], [All Is Known], [Superposition], [Murder of the Universe], and more. Most of the time, this acquisition equals a total transformation of self, bordering on destruction. 
 
-This definition refocuses the acquisition of "universal truth" to a "true self". Rather than learning geometry, the anamnesiac recovers self-knowledge. In this model, the soul activates its divine spark like a dormant seed awaiting the light of awareness. The self is then restored to its complete form, reunited with The Infinite beyond the veil of illusory existence. The Gizzverse frequently speculates on cosmic truth, from songs like Ontology, All Is Known, Superposition, Murder of the Universe, and more. Most of the time, this acquisition equals a total transformation of self, bordering on destruction. 
+> "Come here, boy"  
+> "Are you God?"  
+> "I am that which I am." 
 
-"Come here, boy" / "Are you God?" / "I am that which I am." 
+In _[Tezeta]_, Han-Tyumi declares: "I am true perspective". Leapfrogging PKD, the band uses _anamnesis_ to evoke a complete metamorphosis of one's identity by way of a warped memory. It happens in the sci-fi author's writing and in the band's songs. One vibrant mystical moment featured a flash of pink light across the author's vision conveying information. He ended up including this moment in _The Divine Invasion_. PKD's personal mauve megalithic mirage crept out to make the obsession real. Another line from _Tezeta_: "My mental projection is pink." 
 
-In Tezeta, Han-Tyumi declares: "I am true perspective". Leapfrogging PKD, the band uses anamnesis to evoke a complete metamorphosis of one's identity by way of a warped memory. It happens in the sci-fi author's writing and in the band's songs. One vibrant mystical moment featured a flash of pink light across the author's vision conveying information. He ended up including this moment in The Divine Invasion. PKD's personal mauve megalithic mirage crept out to make the obsession real. Another line from Tezeta: "My mental projection is pink." 
+Visions crack skulls like eggshells, threatening to reshape all reality with the gift of _gnosis_. The new perspective claims to be the _true_ perspective, which usually encompasses past, present, and future. The new self absorbs the old self, invalidating the time separating the two. The two selves resolve into one place, like songs melting together, rippled by an improvisational riff. [God is in the rhythm][God Is In The Rhythm]. The jazz of the cosmos opens its bars for us to reinvent ourselves. Or be tampered with by malign entities. 
 
-Visions crack skulls like eggshells, threatening to reshape all reality with the gift of gnosis. The new perspective claims to be the true perspective, which usually encompasses past, present, and future. The new self absorbs the old self, invalidating the time separating the two. The two selves resolve into one place, like songs melting together, rippled by an improvisational riff. God is in the rhythm. The jazz of the cosmos opens its bars for us to reinvent ourselves. Or be tampered with by malign entities. 
-
-
+<aside>
 [Portrait of Philip K. Dick by R. Crumb]
+</aside>
 
-At times, PKD's experience terrified him. Forcibly receiving puzzle pieces of an alternate self, he wasn't sure if he was targeted by an alien deity or suffering a relentless mental breakdown. King Gizzard also filters anamnesis through this darker lens. Consider the opening lines from the first tale of Murder of the Universe: 
+At times, PKD's experience terrified him. Forcibly receiving puzzle pieces of an alternate self, he wasn't sure if he was targeted by an alien deity or suffering a relentless mental breakdown. King Gizzard also filters _anamnesis_ through this darker lens. Consider the opening lines from [the first tale][A New World] of _[Murder of the Universe][Murder of the Universe album]_:
 
-"...your memories have blown up in a mushroom cloud…And you violently shake over what you have seen / As you remembered the tale of the Altered Beast…" 
+> …your memories have blown up in a mushroom cloud…  
+> And you violently shake over what you have seen  
+> As you remembered the tale of the Altered Beast
 
-The tale is depicted not as an event, but as a memory of an event. The titular beast starts as a vision outside the viewer's body before invading and colonizing their identity, confusing the order of events, which finally leads to the subject's transition into death. A violent anamnesis echoing what is to come with the vomit-spattered finale. 
+The tale is depicted not as an event, but as a _memory_ of an event. The [titular beast][Altered Beast I] starts as a vision outside the viewer's body before invading and colonizing their identity, confusing the order of events, which finally leads to the subject's transition into death. A violent _anamnesis_ echoing what is to come with the vomit-spattered finale.
 
 The second tale is also a memory, repeating ostinato inside the mind of the reticent raconteur. Death is not the end in that story, but another transformation of material things. All throughout the Gizzverse, visionary and sonic assaults crash through various consciousnesses, intermixing identities until a wider web of minds glitters above it all. A web revealed to be made of puke. This bleakness reflects PKD's darker assertions that God must be sick or insane (a Gnostic theme), and his madness infects us when we stick our hands into his divine rot. 
 
@@ -124,17 +132,25 @@ Like life itself, the path doesn't end—it just transforms into something else.
 
 All we have to do is open the door and crash through. 
 
-~ David Kane
+— David Kane
 
-Author bio: 
-David Kane is a writer-performer based in Los Angeles, where he produces short films and original plays. He often portrays Dr. Bendigan, a foolish metaphysician vivisecting the border of absurdist comedy and psychedelic horror. You can find David's work on [Doompunk Dispatch](https://doompunk6.wordpress.com/).
+> <i>David Kane is a writer-performer based in Los Angeles, where he produces short films and original plays. He often portrays Dr. Bendigan, a foolish metaphysician vivisecting the border of absurdist comedy and psychedelic horror. You can find David's work on [Doompunk Dispatch](https://doompunk6.wordpress.com/).</i>
 
+[A New World]: https://kglw.net/songs/a-new-world
+[All Is Known]: https://kglw.net/songs/all-is-known
+[Altered Beast I]: https://kglw.net/songs/altered-beast-i
 [Anamnesis song]: https://kglw.net/songs/anamnesis
 [Big Fig Wasp]: https://kglw.net/songs/big-fig-wasp
-[bio]: https://kglw.net/band-bio
 [Blue Morpho]: https://kglw.net/songs/blue-morpho
 [Chunky Shrapnel]: https://kglw.net/releases/chunky-shrapnel
+[God Is In The Rhythm]: https://kglw.net/songs/god-is-in-the-rhythm
 [Magenta Mountain]: https://kglw.net/songs/magenta-mountain
+[Murder of the Universe]: https://kglw.net/songs/murder-of-the-universe
+[Murder of the Universe album]: https://kglw.net/releases/murder-of-the-universe/
+[Ontology]: https://kglw.net/songs/ontology
+[Superposition]: https://kglw.net/songs/superposition
+[Tezeta]: https://kglw.net/songs/tezeta
 [The Fourth Colour]: https://kglw.net/songs/the-fourth-colour
 [The Land Before Timeland]: https://kglw.net/songs/the-land-before-timeland
 [Zhuangzi butterfly dream]: https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22
+[bio]: https://kglw.net/band-bio
