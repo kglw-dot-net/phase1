@@ -18,7 +18,7 @@ modified_date: 2023-03-10
 6. Evil Death Roll
 7. Ice V
 8. The Garden Goblin
-9. Trap Door
+9. Trapdoor
 10. The Reticent Raconteur
    {% include segue.html type=">" %}
 11. The Lord of Lightning
