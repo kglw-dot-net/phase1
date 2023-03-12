@@ -1,5 +1,5 @@
 ---
-title: Gizzverse Compendium #001: Anamnesis Crashes Through 
+title: "Gizzverse Compendium #001: Anamnesis Crashes Through"
 author: David Kane
 ---
 
@@ -96,27 +96,34 @@ Gizz songs frequently depict characters searching for some kind of enlightenment
 
 The confused cyborg assumes the role of the Gnostic demiurge: the malignant craftsman we can blame for the fallibility of the material world. His temptation in _Tezeta_ reminds us that not all godlike voices are loving. Paranoia about mind control inspired the album _[I'm In Your Mind Fuzz]_. The dreamer in _[Blue Morpho]_ must "surrender this brain." More parasites pop up in songs like _[Acarine]_ and _[Gondii]_, furthering the theme of consciousness-hijackers (a PKD classic). Ego-death becomes ego-murder.
 
+<aside>
 [Murder of the Universe cover beside a classical depiction of the demiurge; one name translates to "Blind God" or "God of the Blind"] 
+</aside>
 
 In Gnosticism, the demiurge is not a figure on par with the traditional idea of God. In fact, the deity's fumbling hand in creating reality makes it responsible for humanity's severance from The Divine, which resembles the Dao as much as anything else. Creation is sick, and we inherit the symptoms. The goal of _gnosis_ is a personal repairing of this spiritual bankruptcy, a reharmonization with fundamental reality. As the history of religion played out, Gnostic beliefs were deemed heretical. To any powerful church, the creator of the universe could not be critiqued in such a way, and the framing of the demiurge as false tempter covertly made its way into our language for Lucifer. 
 
-[Satan][Satan Speeds Up] is another figure King Gizz sings of often, solidifying the fallen angel as an oppressor of mankind. However, the band understands that our true oppressors are not spiritual, but [flesh](https://kglw.net/songs/evilest-man) and [blood](https://kglw.net/songs/pleura). They link the most evil behavior with the malignant craftsmen of our own world. It's not the devil [burning](https://kglw.net/songs/greenhouse-heat-death) the landscape, it's [human activity](https://kglw.net/songs/red-smoke). The architects of destruction walk among us, striving to [flood the cosmos](https://kglw.net/songs/mars-for-the-rich) with their pointless puke. We inherit the [symptoms](https://kglw.net/songs/plastic-boogie) of their ill-conceived, illusory creation. Everything is built [disharmonious](https://kglw.net/songs/reals-not-real) with nature.
+[Satan][Satan Speeds Up] is another figure King Gizz sings of often, solidifying the fallen angel as an oppressor of mankind. However, the band understands that our true oppressors are not spiritual, but [flesh][Evilest Man] and [blood][Pleura]. They link the most evil behavior with the malignant craftsmen of our own world. It's not the devil [burning][Greenhouse Heat Death] the landscape, it's [human activity][Red Smoke]. The architects of destruction walk among us, striving to [flood the cosmos][Mars for the Rich] with their pointless puke. We inherit the [symptoms][Plastic Boogie] of their ill-conceived, illusory creation. Everything is built [disharmonious][Real's Not Real] with nature.
 
-Proper enlightenment resembles a sync-up with universal consciousness, the all-mind (Nous in Greek) from which our individual minds siphon knowledge. In the dreary corners of the Gizzverse, humanity's selfish cruelty splinters the Nous, severing our connection. Any Buddhist will tell you that the path to nirvana is lined with tricksy loops and dead ends. The genius of KGLW is they firmly place the source of our misery back in humanity's hands. Han-Tyumi is not a satanic patsy; he represents humanity's worst impulses from which we seem unable to escape. King Gizz wants to wake us up to that reality and spark us into action.
+Proper enlightenment resembles a sync-up with universal consciousness, the all-mind (_[Nous](https://www.britannica.com/topic/nous)_ in Greek) from which our individual minds siphon knowledge. In the dreary corners of the Gizzverse, humanity's selfish cruelty [splinters][Astroturf] the _Nous_, severing our connection. Any Buddhist will tell you that the path to nirvana is lined with tricksy loops and dead ends. The genius of KGLW is they firmly place the source of our misery back in humanity's hands. Han-Tyumi is not a satanic patsy; he represents humanity's [worst impulses][Automation] from which we seem unable to escape. King Gizz wants to wake us up to that reality and spark us into [action][If Not Now Then When?].
 
-"You would not believe where I'm from / crumbling castle" 
+<aside>
+> You would not believe where I'm from  
+> Crumbling castle
+</aside>
 
-The Gizzverse posits death as a junction between modes of existence. Even the immolated Venusians are surprised to find themselves in Hell. This version of anamnesis forms a portal between lives, invalidating the deaths that separate them. The songs weave a golden thread of memory; the great chain of being braids a continuity for all the shapes that life inhabits simultaneously. And therein lies the final revelation: He's "Yours." 
+The Gizzverse posits death as a junction between modes of existence. Even the immolated Venusians are surprised to find themselves in [Hell]. This version of _anamnesis_ forms a portal between lives, invalidating the deaths that separate them. The songs weave a golden thread of memory; the [great chain of being][The Great Chain of Being] braids a continuity for all the shapes that life inhabits simultaneously. And therein lies the final revelation: [He's "Yours."][Yours]
 
-What we call God is actually the sum of cosmic consciousness, the Dao's organic order flowing infinitely. It's all one dreamer; it's all one dream; separation is the illusion. That's the lesson of Philip K. Dick's gnosis. The omni whence we emerge is the same omni we return to in death, only to reemerge under a different name, our atoms reconfigured beyond recognition. 
+What we call God is actually the sum of cosmic consciousness, the _Dao_'s organic order flowing infinitely. It's all one dreamer; it's all one dream; separation is the illusion. That's the lesson of Philip K. Dick's _gnosis_. The _omni_ whence we emerge is the same _omni_ we return to in death, only to reemerge under a different name, our atoms reconfigured beyond recognition.
 
-[poster art by Jason Galea] 
+<aside>
+[poster art by Jason Galea]
+</aside>
 
-This is Zhuangzi's true transformation of material things: the bricks that built our brains become sand to be swept into the eternal wave—the natural patterns of the Dao. From this reservoir of infinitely swirling matter, that same sand builds new bricks for new brains. The castle crumbles into the rising sea and is reborn in the world that follows. The cosmic song plays again in a different key. And later on, in the next moment of anamnesis, life ascertains its true nature again. We awaken from the dream and remember that we are Gaia, always have been and always will be. We are the eyes glittering in the abyss. The stars are our cells. I believe the hyperbole. Trust in the river.
+This is Zhuangzi's true transformation of material things: the [bricks that built our brains][Am I in Heaven?] become sand to be swept into the eternal wave — the natural patterns of the _Dao_. From this reservoir of infinitely swirling matter, that same sand builds new bricks for new brains. The castle crumbles into the rising sea and is reborn in the [world that follows][The Castle in the Air]. The cosmic song plays again in a different key. And later on, in the next moment of _anamnesis_, life ascertains its true nature again. We awaken from the dream and remember that we are [Gaia], always have been and always will be. We are the eyes glittering in the abyss. The stars are our cells. I believe the hyperbole. [Trust in the river.][The River]
 
-After this flash of theophany, we discern the path King Gizzard has laid out for us. They explicitly preach that no single part of nature is less significant than any other. We're inseparable, even at our worst. We must aspire to be better. The blissed-out psychedelic epiphany isn't enough; now we have to work to make it real. The band frequently acknowledges the Wurundjeri Woi-wurung people as traditional owners and custodians of the land on which the band lives and makes music. They've made efforts to eliminate plastic use in all their shipping. They denounce violence at their shows, especially against marginalized genders. All of this is inextricable from the art. Their benevolent philosophy suffuses every corner of the Gizzverse and spills out into the material world. You can see it in everything the band touches, especially the listeners. 
+After this flash of theophany, we discern the path King Gizzard has laid out for us. They [explicitly preach][The Bird Song] that no single part of nature is less significant than any other. We're inseparable, even at our worst. We must aspire to be better. The blissed-out psychedelic epiphany isn't enough; now we have to work to make it real. The band frequently acknowledges the Wurundjeri Woi-wurung people as traditional owners and custodians of the land on which the band lives and makes music. They've made efforts to eliminate plastic use in all their shipping. They denounce violence at their shows, especially against marginalized genders. All of this is inextricable from the art. Their benevolent philosophy suffuses every corner of the Gizzverse and spills out into the material world. You can see it in everything the band touches, especially the listeners. 
 
-Be it something small like interpersonal conflict, or large like climate action, we can forge a stronger shared reality, a healthier superorganism. We can find the vibration harmonious with the Dao and melt into it as a collective Nous. Past the dying trees and clouds of glue, somewhere out there in the microtonal background, awaits the loving sanctuary that we build together with our minds unified. This is the stuff Zhuangzi and Philip K. Dick were writing about. Now, Stu MacKenzie and his brothers have picked up the torch. As winners of the inaugural Environmental Music Prize in 2021, [King Gizzard donated the $20,000 AUD prize](https://www.abc.net.au/triplej/news/king-gizzard-&-the-lizard-wizard-win-environmental-music-prize/13931798) directly to the [Wilderness Society](https://www.wilderness.org.au/), with the statement: "It’s fantastic and deeply important for initiatives like this one, to help build community around the fight against the climate crisis".
+Be it something small like interpersonal conflict, or large like climate action, we can forge a stronger shared reality, a healthier superorganism. We can find the vibration harmonious with the _Dao_ and melt into it as a collective _Nous_. Past the dying trees and clouds of glue, somewhere out there in the microtonal background, awaits the loving sanctuary that we build together with our minds unified. This is the stuff Zhuangzi and Philip K. Dick were writing about. Now, Stu MacKenzie and his brothers have picked up the torch. As winners of the inaugural Environmental Music Prize in 2021, [King Gizzard donated the $20,000 AUD prize](https://www.abc.net.au/triplej/news/king-gizzard-&-the-lizard-wizard-win-environmental-music-prize/13931798) directly to the [Wilderness Society](https://www.wilderness.org.au/), with the statement: "It’s fantastic and deeply important for initiatives like this one, to help build community around the fight against the climate crisis".
 
 <!--[PHOTO OR FLIER FROM ONE OF THEIR CLIMATE EFFORTS]
 [NEED HELP FINDING A GOOD ONE] 
@@ -124,37 +131,62 @@ Be it something small like interpersonal conflict, or large like climate action,
 
 All their actions seem to have been donations, so no real photos or flyers. Added link-->
 
-An undiluted drive for transformation informs every creative decision the group makes. They undergo constant style mutations during and between releases, even telling on themselves with an album literally named Changes. Images, melodies, and concepts usurp each other, distorting the identity of songs and albums, and yet it all fits as crystallized pieces into an ineffable whole. 
+An undiluted drive for transformation informs every creative decision the group makes. They undergo constant style mutations during and between releases, even telling on themselves with an album literally named _[Changes]_. Images, melodies, and concepts usurp each other, distorting the identity of songs and albums, and yet it all fits as crystallized pieces into an ineffable whole. 
 
-The group's discography unfolds like branches on the tree of life. We acolytes discover new things to love about a band that refuses to boogie just one way. Evolution is all one journey, syncing the development of Earth as a terrestrial body to the flowering of organic forms over its surface. Synaptic nodes carry data across one mycelial meshwork transcending time, space, and spirit. We left Africa dancing. This single epigenetic path twists between the borders of oblivion and runs all the way up to this moment, where you sit projecting these words on your mind-screen. 
+The group's discography unfolds like branches on the tree of life. We acolytes discover new things to love about a band that refuses to boogie just one way. Evolution is all one journey, syncing the development of Earth as a terrestrial body to the flowering of organic forms over its surface. Synaptic nodes carry data across one [mycelial][Mycelium] meshwork transcending time, space, and spirit. [We left Africa dancing.][Cyboogie] This single epigenetic path twists between the borders of oblivion and runs all the way up to this moment, where you sit projecting these words on your mind-screen. 
 
-Like life itself, the path doesn't end—it just transforms into something else. 
+Like life itself, the path doesn't end — it just transforms into something else. 
 
 All we have to do is open the door and crash through. 
 
 — David Kane
 
-> <i>David Kane is a writer-performer based in Los Angeles, where he produces short films and original plays. He often portrays Dr. Bendigan, a foolish metaphysician vivisecting the border of absurdist comedy and psychedelic horror. You can find David's work on [Doompunk Dispatch](https://doompunk6.wordpress.com/).</i>
+<aside>
+<i>David Kane is a writer-performer based in Los Angeles, where he produces short films and original plays. He often portrays Dr. Bendigan, a foolish metaphysician vivisecting the border of absurdist comedy and psychedelic horror. You can find David's work on [Doompunk Dispatch](https://doompunk6.wordpress.com/).</i>
+</aside>
+
+
 
 [A New World]: https://kglw.net/songs/a-new-world
+[Acarine]: https://kglw.net/songs/acarine
 [All Is Known]: https://kglw.net/songs/all-is-known
 [Altered Beast I]: https://kglw.net/songs/altered-beast-i
+[Am I in Heaven?]: https://kglw.net/songs/am-i-in-heaven
 [Anamnesis song]: https://kglw.net/songs/anamnesis
+[Astroturf]: https://kglw.net/songs/astroturf
+[Automation]: https://kglw.net/songs/automation
 [Big Fig Wasp]: https://kglw.net/songs/big-fig-wasp
 [Blue Morpho]: https://kglw.net/songs/blue-morpho
 [Chunky Shrapnel]: https://kglw.net/releases/chunky-shrapnel
+[Evilest Man]: https://kglw.net/songs/evilest-man
+[Gaia]: https://kglw.net/songs/gaia
 [God Is In The Rhythm]: https://kglw.net/songs/god-is-in-the-rhythm
+[Gondii]: https://kglw.net/songs/gondii
+[Greenhouse Heat Death]: https://kglw.net/songs/greenhouse-heat-death
+[Hell]: https://kglw.net/songs/hell
+[I'm In Your Mind Fuzz]: https://kglw.net/releases/im-in-your-mind-fuzz
+[If Not Now Then When?]: https://kglw.net/songs/if-not-now-then-when
 [Magenta Mountain]: https://kglw.net/songs/magenta-mountain
-[Murder of the Universe]: https://kglw.net/songs/murder-of-the-universe
+[Mars for the Rich]: https://kglw.net/songs/mars-for-the-rich
 [Murder of the Universe album]: https://kglw.net/releases/murder-of-the-universe/
+[Murder of the Universe]: https://kglw.net/songs/murder-of-the-universe
+[Mycelium]: https://kglw.net/songs/mycelium
 [Ontology]: https://kglw.net/songs/ontology
+[Plastic Boogie]: https://kglw.net/songs/plastic-boogie
+[Pleura]: https://kglw.net/songs/pleura
+[Real's Not Real]: https://kglw.net/songs/reals-not-real
+[Red Smoke]: https://kglw.net/songs/red-smoke
+[Satan Speeds Up]: https://kglw.net/songs/satan-speeds-up
 [Superposition]: https://kglw.net/songs/superposition
 [Tezeta]: https://kglw.net/songs/tezeta
+[The Castle in the Air]: https://kglw.net/songs/the-castle-in-the-air
 [The Fourth Colour]: https://kglw.net/songs/the-fourth-colour
+[The Great Chain of Being]: https://kglw.net/songs/the-great-chain-of-being
 [The Land Before Timeland]: https://kglw.net/songs/the-land-before-timeland
+[The River]: https://kglw.net/songs/the-river
+[Yours]: https://kglw.net/songs/yours
 [Zhuangzi butterfly dream]: https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22
 [bio]: https://kglw.net/band-bio
-[Gondii]: https://kglw.net/songs/gondii
-[Acarine]: https://kglw.net/songs/acarine
-[I'm In Your Mind Fuzz]: https://kglw.net/releases/im-in-your-mind-fuzz
-[Satan Speeds Up]: https://kglw.net/songs/satan-speeds-up
+[The Bird Song]: https://kglw.net/songs/the-bird-song
+[Changes]: https://kglw.net/releases/changes/
+[Cyboogie]: https://kglw.net/songs/cyboogie
