@@ -18,7 +18,7 @@ tour: EU/UK '23
 11. Hypertension
 12. Evil Death Roll
 13. Digital Black
-14. Han-Tyumi, The Confused Cyborg
+14. Han-Tyumi, the Confused Cyborg
 15. Soy-Protein Munt Machine
 16. Vomit Coffin
 17. Murder of the Universe
@@ -28,4 +28,6 @@ tour: EU/UK '23
 
 
 #### Notes
-This is based on the printed setlist and will be under review when a full recording becomes available.
+
+**KGLW.net Staff Notes:**
+The listed setlist is based on the printed setlist and will be updated as recordings and information become available.
