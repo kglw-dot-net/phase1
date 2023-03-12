@@ -24,9 +24,9 @@ A year after that, it appears again within nearly identical lyrics of the song _
 All three of these songs were written by [Stu MacKenzie][bio]. So what does the word mean and why does he use it so much? 
 <!--snippet-->
 
-![album cover of Chunky Shrapnel](https://kglw.net/releases/chunky-shrapnel/cover.jpg){:style="width:33%"}
-![album cover of Butterfly 3000](https://kglw.net/releases/butterfly-3000/cover.jpg){:style="width:32%"}
-![album cover of Omnium Gatherum](https://kglw.net/releases/omnium-gatherum/cover.jpg){:style="width:33%"}
+![album cover of Chunky Shrapnel](https://kglw.net/releases/chunky-shrapnel/cover.jpg){:style="width:34%"}
+![album cover of Butterfly 3000](https://kglw.net/releases/butterfly-3000/cover.jpg){:style="width:31%"}
+![album cover of Omnium Gatherum](https://kglw.net/releases/omnium-gatherum/cover.jpg){:style="width:31%"}
 
 Derived from the Greek verb _anamimneskein_, which means "to be reminded," the noun is commonly translated as "recollection" and sometimes "abrogation of amnesia." On the surface, Stu employs the word in both songs to describe the memories of waking life returning to an individual as they exit a dream; or are they receiving memories of another life within the dream? Like most dreams, there often seems to be a deeper layer of meaning buzzing beneath the surface like [wasp eggs in a fig][Big Fig Wasp]. Let's sink our teeth in: 
 
@@ -92,15 +92,15 @@ The tale is depicted not as an event, but as a _memory_ of an event. The [titula
 
 The second tale is also a memory, repeating ostinato inside the mind of the reticent raconteur. Death is not the end in that story, but another transformation of material things. All throughout the Gizzverse, visionary and sonic assaults crash through various consciousnesses, intermixing identities until a wider web of minds glitters above it all. A web revealed to be made of puke. This bleakness reflects PKD's darker assertions that God must be sick or insane (a Gnostic theme), and his madness infects us when we stick our hands into his divine rot. 
 
-Gizz songs frequently depict characters searching for some kind of enlightenment. "Like the primordial Buddha beneath the bodhi," Han-Tyumi reaches a demented satori on the path toward a Lovecraftian apocalypse.
+Gizz songs frequently depict characters searching for some kind of enlightenment. "Like the primordial Buddha beneath the bodhi," Han-Tyumi reaches a demented [satori](https://en.wikipedia.org/wiki/Satori) on the path toward a Lovecraftian apocalypse.
 
-The confused cyborg assumes the role of the Gnostic demiurge: the malignant craftsman we can blame for the fallibility of the material world. His temptation in Tezeta reminds us that not all godlike voices are loving. Paranoia about mind control inspired the album I'm In Your Mind Fuzz. The dreamer in Blue Morpho must "surrender this brain." More parasites pop up in songs like Acarine and Gondii, furthering the theme of consciousness-hijackers (a PKD classic). Ego-death becomes ego-murder.
+The confused cyborg assumes the role of the Gnostic demiurge: the malignant craftsman we can blame for the fallibility of the material world. His temptation in _Tezeta_ reminds us that not all godlike voices are loving. Paranoia about mind control inspired the album _[I'm In Your Mind Fuzz]_. The dreamer in _[Blue Morpho]_ must "surrender this brain." More parasites pop up in songs like _[Acarine]_ and _[Gondii]_, furthering the theme of consciousness-hijackers (a PKD classic). Ego-death becomes ego-murder.
 
 [Murder of the Universe cover beside a classical depiction of the demiurge; one name translates to "Blind God" or "God of the Blind"] 
 
-In Gnosticism, the demiurge is not a figure on par with the traditional idea of God. In fact, the deity's fumbling hand in creating reality makes it responsible for humanity's severance from The Divine, which resembles the Dao as much as anything else. Creation is sick, and we inherit the symptoms. The goal of gnosis is a personal repairing of this spiritual bankruptcy, a reharmonization with fundamental reality. As the history of religion played out, Gnostic beliefs were deemed heretical. To any powerful church, the creator of the universe could not be critiqued in such a way, and the framing of the demiurge as false tempter covertly made its way into our language for Lucifer. 
+In Gnosticism, the demiurge is not a figure on par with the traditional idea of God. In fact, the deity's fumbling hand in creating reality makes it responsible for humanity's severance from The Divine, which resembles the Dao as much as anything else. Creation is sick, and we inherit the symptoms. The goal of _gnosis_ is a personal repairing of this spiritual bankruptcy, a reharmonization with fundamental reality. As the history of religion played out, Gnostic beliefs were deemed heretical. To any powerful church, the creator of the universe could not be critiqued in such a way, and the framing of the demiurge as false tempter covertly made its way into our language for Lucifer. 
 
-Satan is another figure King Gizz sings of often, solidifying the fallen angel as an oppressor of mankind. However, the band understands that our true oppressors are not spiritual, but flesh and blood. They link the most evil behavior with the malignant craftsmen of our own world. It's not the devil burning the landscape, it's human activity. The architects of destruction walk among us, striving to flood the cosmos with their pointless puke. We inherit the symptoms of their ill-conceived, illusory creation. Everything is built disharmonious with nature.
+[Satan][Satan Speeds Up] is another figure King Gizz sings of often, solidifying the fallen angel as an oppressor of mankind. However, the band understands that our true oppressors are not spiritual, but [flesh](https://kglw.net/songs/evilest-man) and [blood](https://kglw.net/songs/pleura). They link the most evil behavior with the malignant craftsmen of our own world. It's not the devil [burning](https://kglw.net/songs/greenhouse-heat-death) the landscape, it's [human activity](https://kglw.net/songs/red-smoke). The architects of destruction walk among us, striving to [flood the cosmos](https://kglw.net/songs/mars-for-the-rich) with their pointless puke. We inherit the [symptoms](https://kglw.net/songs/plastic-boogie) of their ill-conceived, illusory creation. Everything is built [disharmonious](https://kglw.net/songs/reals-not-real) with nature.
 
 Proper enlightenment resembles a sync-up with universal consciousness, the all-mind (Nous in Greek) from which our individual minds siphon knowledge. In the dreary corners of the Gizzverse, humanity's selfish cruelty splinters the Nous, severing our connection. Any Buddhist will tell you that the path to nirvana is lined with tricksy loops and dead ends. The genius of KGLW is they firmly place the source of our misery back in humanity's hands. Han-Tyumi is not a satanic patsy; he represents humanity's worst impulses from which we seem unable to escape. King Gizz wants to wake us up to that reality and spark us into action.
 
@@ -154,3 +154,7 @@ All we have to do is open the door and crash through.
 [The Land Before Timeland]: https://kglw.net/songs/the-land-before-timeland
 [Zhuangzi butterfly dream]: https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22
 [bio]: https://kglw.net/band-bio
+[Gondii]: https://kglw.net/songs/gondii
+[Acarine]: https://kglw.net/songs/acarine
+[I'm In Your Mind Fuzz]: https://kglw.net/releases/im-in-your-mind-fuzz
+[Satan Speeds Up]: https://kglw.net/songs/satan-speeds-up
