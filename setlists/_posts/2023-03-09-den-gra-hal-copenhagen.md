@@ -30,3 +30,7 @@ modified_date: 2023-03-11
 #### Notes
 
 Sense was teased immediately before and during Ice V. Ambergris was introduced as “Joey’s porno song”.  The second half of The Dripping Tap contained Hot Water and Cellophane teases.  Boogieman Sam contained [“Going Up the Country”](https://www.youtube.com/watch?v=4eQMA_noRYQ) [(Canned Heat)](https://en.wikipedia.org/wiki/Canned_Heat), [“Got My Mojo Working”](https://www.youtube.com/watch?v=sP0crYPCHV0) [(Ann Cole)](https://en.wikipedia.org/wiki/Ann_Cole) and [“My Babe”](https://www.youtube.com/watch?v=p3cKJ42HAd0) [(Little Walter)](https://en.wikipedia.org/wiki/Little_Walter) and [“It's a Long Way to the Top (If You Wanna Rock 'N' Roll)”](https://www.youtube.com/watch?v=4ruJ4kAGbLc) [(AC/DC)](https://en.wikipedia.org/wiki/AC/DC) quotes and Am I in Heaven? teases.  Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Sleepwalker.
+
+#### Recordings
+
+{% include archive.html id="KGLW2023-03-09.dankski" type="AUD" credit="Dankskivision" %}
