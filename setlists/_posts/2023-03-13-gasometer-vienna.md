@@ -19,9 +19,13 @@ tour: EU/UK '23
    {% include segue.html type="->" %}
 9. The Grim Reaper
 10. Shanghai
-11. Ambergris
+11. Work This Time
+12. The Dripping Tap
+13. Magma
+14. Muddy Water
+15. The River
 
 <!--snippet-->
 
 #### Notes
-This show is currently in progress.
+This setlist is under review by KGLW.net staff.
