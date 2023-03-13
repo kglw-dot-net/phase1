@@ -111,9 +111,6 @@ This is the solo project of _Revolver & Sun_ vocalist [Fraser Gorman](https://ww
 ## Influencees  
 In time, King Gizzard and the Lizard Wizard will become a point of reference for generations of future musicians. Now after more than a decade since their debut, this process is just now beginning to be expressed in newer bands.
 
-### Psychedelic Porn Crumpets  
-_Psychedelic Porn Crumpets_ blur the line between being contemporaries of King Gizzard and _Tame Impala_ rather than the next generation, but their being several years younger as a band is clear. Tending to go for a cleaner guitar sound, they effortlessly match the energy of King Gizzard's _[Nonagon Infinity](https://kglw.net/releases/nonagon-infinity)_ and have strongly established themselves as a psychedelic drenched raging party band.
-
 ### Liminal  
 _Liminal_ are a Psych Rock band from Lismore, New South Wales, who pick up on distinct King Gizzard references within their deepening bodies of work. Principal member Alako Myles is a [professed fan](https://kglw.net/blog/2023/02/16/conversation-king-gizzard-professor.html), and can be seen wearing a King Gizzard shirt in their music video for [Ettarath](https://www.youtube.com/watch?v=44iDsMeL_pk). They released their debut album, _[Place](https://liminal-band.bandcamp.com/album/place-lp)_, in 2021.
 
