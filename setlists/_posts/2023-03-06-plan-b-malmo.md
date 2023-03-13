@@ -42,4 +42,4 @@ Shanghai, Trapdoor, and Evil Death Roll were on the printed setlist but were not
 
 #### Recordings
 
-{% include archive.html id="KGLW2023-03-06.dankski" type="AUD" credit="Danskivision" %}
+{% include archive.html id="KGLW2023-03-06.dankski" type="AUD" credit="Dankskivision" %}
