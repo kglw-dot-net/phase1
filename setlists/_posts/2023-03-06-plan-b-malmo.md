@@ -37,3 +37,9 @@ Joey shouted out Los Bitchos after Hypertension.
 Robot Stop contained a Hot Water and Her & I (Slow Jam 2) teases.
 During Hot Water Stu took over drums & Cavs crowd surfed.
 Shanghai, Trapdoor, and Evil Death Roll were on the printed setlist but were not played.
+
+#### Recordings
+
+#### Recordings
+
+{% include archive.html id="KGLW2023-03-06.dankski" type="AUD" credit="Danskivision" %}
