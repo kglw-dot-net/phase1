@@ -32,3 +32,7 @@ modified_date: 2023-03-10
 #### Notes
 
 Oddlife was introduced as Cookie’s favorite song and contained Rattlesnake teases. Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Pleura. Gaia featured a drum solo by Cavs with an extended metal vamp by the band and contained an unidentified quote, possibly from a new song.  Following Gaia, Joey wished everyone a happy [International Women’s Day](https://en.wikipedia.org/wiki/International_Women%27s_Day).  Iron Lung contained Hypertension teases.  The Dripping Tap contained Am I in Heaven? teases, and was initially introduced by Amby as being about both his neverending fountain of youth and how one day he will quit music and become a plumber. Stu subsequently dedicated the song "to all the plumbers out there".
+
+#### Recordings
+
+{% include archive.html id="KGLW2023-03-08.dankski" type="AUD" credit="Dankskivision" %}
