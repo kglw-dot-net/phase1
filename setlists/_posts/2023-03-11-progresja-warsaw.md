@@ -3,13 +3,14 @@ layout: setlist
 venue: Progresja, Warsaw, Poland
 title: Progresja, Warsaw
 tour: EU/UK '23
+modified_date: 2023-03-13
 ---
 
 1. Rattlesnake
 2. O.N.E.
 3. Straws in the Wind
-4. Mars for the Rich
-5. Predator X
+4. Predator X {% include segue.html type=">" %}
+5. Mars for the Rich {% include segue.html type=">" %}
 6. Organ Farmer
 7. Venusian 1
 8. This Thing
@@ -28,7 +29,4 @@ tour: EU/UK '23
 
 
 #### Notes
-Rattlesnake contained Automation teases. Shanghai featured alternate, improvised lyrics from Stu: "Let's get real high and eat apple pie."
-
-**KGLW.net Staff Notes:**
-The recordings of this show are incomplete, with only Rattlesnake (partial), Predator X, Organ Farmer, Shanghai, and the Murder of the Universe suite confirmed at this time. Despite the incomplete recording, KGLW.net staff supports the listed setlist based off the printed setlist and other evidence currently available. If anyone has any further information or, ideally, a complete or conclusive recording please contact KGLW.net staff at [kglw.net@gmail.com](email:kglw.net@gmail.com).
+Rattlesnake contained Automation teases and quotes. Ambrose quoted O.N.E. prior to Straws in the Wind. This Thing was introduced as a song about “being a piece of shit”. Shanghai featured alternate, improvised lyrics from Stu: “Let’s get real high and eat apple pie.” Evil Death Roll contained Shanghai, Mars for the Rich, and Hypertension teases.
