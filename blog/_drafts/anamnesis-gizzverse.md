@@ -106,7 +106,7 @@ The Gizzverse posits death as a junction between modes of existence. Even the im
 
 What we call God is actually the sum of cosmic consciousness, the _Dao_'s organic order flowing infinitely. It's all one dreamer; it's all one dream; separation is the illusion. That's the lesson of Philip K. Dick's _gnosis_. The _omni_ whence we emerge is the same _omni_ we return to in death, only to reemerge under a different name, our atoms reconfigured beyond recognition.
 
-[poster art by Jason Galea](https://cdn.myportfolio.com/c696cc3f-884c-4443-b8b9-b4d31be84f2b/8139a646-f07a-491e-823b-5bf10d8fd7e8_rw_1200.jpg?h=87c0a8d75a08aa29ae63b549b262fa5f){:style="width:31%"}
+![poster art by Jason Galea](https://cdn.myportfolio.com/c696cc3f-884c-4443-b8b9-b4d31be84f2b/8139a646-f07a-491e-823b-5bf10d8fd7e8_rw_1200.jpg?h=87c0a8d75a08aa29ae63b549b262fa5f){:style="width:31%"}
 
 This is Zhuangzi's true transformation of material things: the [bricks that built our brains](https://kglw.net/songs/am-i-in-heaven) become sand to be swept into the eternal wave — the natural patterns of the _Dao_. From this reservoir of infinitely swirling matter, that same sand builds new bricks for new brains. The castle crumbles into the rising sea and is reborn in the [world that follows](https://kglw.net/songs/the-castle-in-the-air). The cosmic song plays again in a different key. And later on, in the next moment of _anamnesis_, life ascertains its true nature again. We awaken from the dream and remember that we are [Gaia](https://kglw.net/songs/gaia), always have been and always will be. We are the eyes glittering in the abyss. The stars are our cells. I believe the hyperbole. [Trust in the river](https://kglw.net/songs/the-river).
 
