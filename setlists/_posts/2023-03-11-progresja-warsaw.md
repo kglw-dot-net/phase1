@@ -35,6 +35,4 @@ Rattlesnake contained Automation teases and quotes. Ambrose quoted O.N.E. prior 
 
 {% include youtube.html id="LpzCgLjOmHg" author="Altered Beast Broadcasting" %}
 
-{% include youtube.html id="dZNYxBb6EEM" author="Altered Beast Broadcasting" %}
-
 
