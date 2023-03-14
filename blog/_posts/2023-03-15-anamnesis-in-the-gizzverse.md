@@ -1,5 +1,5 @@
 ---
-title: "Gizzverse Compendium #001: Anamnesis Crashes Through"
+title: "Gizzverse Compendium #001: Anamnesis Crashes Through: A Creative Analysis of Recurring Themes"
 author: David Kane
 image: https://i.imgur.com/ETQt2zjl.png
 ---
@@ -38,7 +38,7 @@ Perhaps this is what Stu's lyrics from _Blue Morpho_ and _Magenta Mountain_ desc
 Much of _[Butterfly 3000](https://kglw.net/releases/butterfly-3000/)_ creates parallels between butterflies and dreams, which brings to mind the parable of Zhuangzi, the Chinese philosopher pivotal to the development of Taoism. The man entered a deep dream of [being a butterfly][Zhuangzi butterfly dream], then upon waking expressed confusion: was he a human who had dreamed he was an insect, or was he the insect now dreaming he was a human? The [translation by Lin Yutang](https://www.learnreligions.com/butterflies-great-sages-and-valid-cognition-3182587) concludes with, "Between a man and butterfly there is necessarily a distinction. The transition is called the transformation of material things." 
 
 <aside>
-<img src="https://i.imgur.com/D3QPI2B.jpg" alt="Painting of Zhuangzi" style="width:90%;max-width:500px" />
+<img src="https://i.imgur.com/D3QPI2B.jpg" alt="Painting of Zhuangzi" style="width:100%;max-width:500px" />
 </aside>
 
 Taoism emphasizes living in harmony with the Dao. Commonly translated as "Way" or "Path," the Dao represents the source of everything and the ultimate principle underlying reality. Not a willful or self-conscious creator, but an "organic order" playing out a boundless natural pattern in accordance with cosmic laws.
@@ -80,7 +80,7 @@ In _[Tezeta](https://kglw.net/songs/tezeta)_, Han-Tyumi declares: "I am true per
 Visions crack skulls like eggshells, threatening to reshape all reality with the gift of _gnosis_. The new perspective claims to be the _true_ perspective, which usually encompasses past, present, and future. The new self absorbs the old self, invalidating the time separating the two. The two selves resolve into one place, like songs melting together, rippled by an improvisational riff. _[God is in the rhythm](https://kglw.net/songs/god-is-in-the-rhythm)_. The jazz of the cosmos opens its bars for us to reinvent ourselves. Or be tampered with by malign entities. 
 
 <aside>
-<img alt="Portrait of Philip K. Dick by R. Crumb" src="https://i.imgur.com/WYFC49v.png" style="width:90%;max-width:800px" />
+<img alt="Portrait of Philip K. Dick by R. Crumb" src="https://i.imgur.com/WYFC49v.png" style="width:100%;max-width:800px" />
 </aside>
 
 At times, PKD's experience terrified him. Forcibly receiving puzzle pieces of an alternate self, he wasn't sure if he was targeted by an alien deity or suffering a relentless mental breakdown. King Gizzard also filters _anamnesis_ through this darker lens. Consider the opening lines from [the first tale](https://kglw.net/songs/a-new-world) of _[Murder of the Universe](https://kglw.net/releases/murder-of-the-universe/)_:
