@@ -1,33 +1,28 @@
-WIP — exploring a simple [Jekyll] setup for Phase 1
-
-## setup
-
-[Using this guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
-
-Ensure git is set up
-
-Set up asdf [+ ruby](https://github.com/asdf-vm/asdf-ruby); `asdf install`
-
-`asdf exec gem install bundler`
-
-`asdf exec bundle install`
-
-run the server with `bundle exec jekyll serve`
-
-control how links are built using the `baseurl` command-line flag: https://jekyllrb.com/docs/github-pages/#running-and-testing-locally
+A [Jekyll] site for Phase 1 of kglw.net.
 
 Note that the theme is [v2.5 of Minima](https://github.com/jekyll/minima/tree/2.5-stable) (not the latest 3.0 branch)
 
 
-## branching :brain: :storm:
+## local setup
 
-* production is built from branch `build-prod`
-* staging built from `build-stag`
-* by GH Actions, hosted on GH Pages...
-* add `CNAME` file to each branch, stag gets "staging.kglw.net" ?
-  * then `update-index --assume-unchanged` it so that they don't get modified by anyone
-* use `main` branch as dev trunk, PRs based on it
-  * but then `co build-prod && merge build-prod && push`
+Clone this repo, or download the `.zip` and unzip it, and then `cd` into that folder.
+
+Ensure that Ruby 2.5 (?) is set up locally (perhaps using asdf [+ ruby](https://github.com/asdf-vm/asdf-ruby))  
+(note that if using a Ruby version manager, the following `gem` and `bundle` commands may need to be prefixed, e.g. with `asdf exec`)
+
+Install Bundler: `gem install bundler`
+
+Use Bundler to install the things specified in the Gemfile: `bundle install`
+
+### running the server
+
+`bundle exec jekyll serve`
+
+To see drafts, use `bundle exec jekyll serve --drafts`
+
+Control how links are built using the `baseurl` command-line flag: https://jekyllrb.com/docs/github-pages/#running-and-testing-locally
+
+
 
 
 [Jekyll]: https://jekyllrb.com
