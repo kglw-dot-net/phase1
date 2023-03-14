@@ -29,4 +29,12 @@ modified_date: 2023-03-13
 
 
 #### Notes
-Rattlesnake contained Automation teases and quotes. Ambrose quoted O.N.E. prior to Straws in the Wind. This Thing was introduced as a song about “being a piece of shit”. Shanghai featured alternate, improvised lyrics from Stu: “Let’s get real high and eat apple pie.” Evil Death Roll contained Shanghai, Mars for the Rich, and Hypertension teases.
+Rattlesnake contained Automation teases and quotes. Ambrose quoted O.N.E. prior to Straws in the Wind. This Thing was introduced as a song about “being a piece of shit”. Shanghai featured alternate, improvised lyrics from Stu: “Let’s get real high and eat apple pie.” Evil Death Roll contained Shanghai, Mars for the Rich, and Hypertension teases. Joey and Stu shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Evil Death Roll.
+
+#### Recordings
+
+{% include youtube.html id="LpzCgLjOmHg" author="Altered Beast Broadcasting" %}
+
+{% include youtube.html id="dZNYxBb6EEM" author="Altered Beast Broadcasting" %}
+
+
