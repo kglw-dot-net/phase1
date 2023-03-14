@@ -31,6 +31,8 @@ modified_date: 2023-03-13
 #### Notes
 Rattlesnake contained Automation teases and quotes. Ambrose quoted O.N.E. prior to Straws in the Wind. This Thing was introduced as a song about “being a piece of shit”. Shanghai featured alternate, improvised lyrics from Stu: “Let’s get real high and eat apple pie.” Evil Death Roll contained Shanghai, Mars for the Rich, and Hypertension teases. Joey and Stu shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Evil Death Roll.
 
+**KGLW.Net Staff Notes:** This may be the first time the voice of Han-Tyumi was run by Jason Galea offstage.  Additional Han-Tyumi narration not previously played live may have been added to this version.  Upon full review of all prior MoTU suites, additional notes may be added to describe first time or ongoing use of Han-Tyumi narration.
+
 #### Recordings
 
 {% include youtube.html id="LpzCgLjOmHg" author="Altered Beast Broadcasting" %}
