@@ -106,7 +106,7 @@ Proper enlightenment resembles a sync-up with universal consciousness, the all-m
 > You would not believe where I'm from  
 > [Crumbling castle](https://kglw.net/songs/crumbling-castle)
 
-The Gizzverse posits death as a junction between modes of existence. Even the immolated Venusians are surprised to find themselves in [Hell](https://kglw.net/songs/hell). This version of _anamnesis_ forms a portal between lives, invalidating the deaths that separate them. The songs weave a golden thread of memory; the [great chain of being][(https://kglw.net/songs/the-great-chain-of-being) braids a continuity for all the shapes that life inhabits simultaneously. And therein lies the final revelation: [He's "Yours"](https://kglw.net/songs/yours).
+The Gizzverse posits death as a junction between modes of existence. Even the immolated Venusians are surprised to find themselves in [Hell](https://kglw.net/songs/hell). This version of _anamnesis_ forms a portal between lives, invalidating the deaths that separate them. The songs weave a golden thread of memory; the [great chain of being][The Great Chain of Being] braids a continuity for all the shapes that life inhabits simultaneously. And therein lies the final revelation: [He's "Yours"](https://kglw.net/songs/yours).
 
 What we call God is actually the sum of cosmic consciousness, the _Dao_'s organic order flowing infinitely. It's all one dreamer; it's all one dream; separation is the illusion. That's the lesson of Philip K. Dick's _gnosis_. The _omni_ whence we emerge is the same _omni_ we return to in death, only to reemerge under a different name, our atoms reconfigured beyond recognition.
 
