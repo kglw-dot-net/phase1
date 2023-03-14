@@ -3,23 +3,21 @@ title: "Gizzverse Compendium #001: Anamnesis Crashes Through"
 author: David Kane
 ---
 
-# Gizzverse Compendium #001: Anamnesis Crashes Through 
+The word 'anamnesis' emerges into [the Gizzverse](https://kglw.net/blog/gizzverse/2023/01/02/compendium-vol-00.html) first as the title of [an instrumental track of synth music][Anamnesis song] on the album _[Chunky Shrapnel]_, released in 2020:
 
-The word 'anamnesis' first emerges as the title of [an instrumental track of synth music][Anamnesis song] on the album _[Chunky Shrapnel]_, released in 2020. A year later, it appears in the lyrics of the song _[Blue Morpho]_: 
+{% include youtube.html id="NSiA1NkfdPQ" title="'Anamnesis' by King Gizzard and the Lizard Wizard" %}
+
+A year later, it appears in the lyrics of the song _[Blue Morpho]_: 
 
 > Falling upwards through clouds of glue  
 > Anamnesis crashing through  
 > Blurry photos all I've gained  
 > From my last domain 
 
-<!-- June 11, 2021 -->
-
 A year after that, it appears again within nearly identical lyrics of the song _[Magenta Mountain]_: 
 
 > We fell through a dream across clouds of glue  
 > Anamnesis crashing through
-
-<!-- March 29, 2022  -->
 
 All three of these songs were written by [Stu MacKenzie][bio]. So what does the word mean and why does he use it so much? 
 <!--snippet-->
@@ -36,7 +34,9 @@ Perhaps this is what Stu's lyrics from _Blue Morpho_ and _Magenta Mountain_ desc
 
 Much of _[Butterfly 3000](https://kglw.net/releases/butterfly-3000/)_ creates parallels between butterflies and dreams, which brings to mind the parable of Zhuangzi, the Chinese philosopher pivotal to the development of Taoism. The man entered a deep dream of [being a butterfly][Zhuangzi butterfly dream], then upon waking expressed confusion: was he a human who had dreamed he was an insect, or was he the insect now dreaming he was a human? The [translation by Lin Yutang](https://www.learnreligions.com/butterflies-great-sages-and-valid-cognition-3182587) concludes with, "Between a man and butterfly there is necessarily a distinction. The transition is called the transformation of material things." 
 
-[Painting of Zhuangzi](https://www.egreenway.com/taoism/images/Zhzi5.jpg){:style="width:31%"}
+<aside>
+<img src="https://i.imgur.com/D3QPI2B.jpg" alt="Painting of Zhuangzi" style="width:90%;max-width:500px" />
+</aside>
 
 Taoism emphasizes living in harmony with the Dao. Commonly translated as "Way" or "Path," the Dao represents the source of everything and the ultimate principle underlying reality. Not a willful or self-conscious creator, but an "organic order" playing out a boundless natural pattern in accordance with cosmic laws.
 
@@ -48,7 +48,9 @@ In the summer of 2017, [Amoeba Music](https://www.amoeba.com/whats-in-my-bag/) r
 
 "You can never have enough Philip K. Dick in your life," says Stu. 
 
-{% include youtube.html id="e8oexqhDaEo" title="King Gizzard and the Lizard Wizard - What's In My Bag?" %}
+<aside>
+{% include youtube.html id="e8oexqhDaEo" title="&quot;What's In My Bag?&quot; featuring the members of King Gizzard and the Lizard Wizard" %}
+</aside>
 
 The legendary science fiction author is best known for his exegesis of consciousness. In 1974, he underwent a series of mystical experiences he would spend the rest of his life attempting to decipher. The result of his labors can be examined in many works fueled by his psycho-spiritual pontification. These include the novel _The Divine Invasion_. 
 
@@ -74,7 +76,9 @@ In _[Tezeta](https://kglw.net/songs/tezeta)_, Han-Tyumi declares: "I am true per
 
 Visions crack skulls like eggshells, threatening to reshape all reality with the gift of _gnosis_. The new perspective claims to be the _true_ perspective, which usually encompasses past, present, and future. The new self absorbs the old self, invalidating the time separating the two. The two selves resolve into one place, like songs melting together, rippled by an improvisational riff. _[God is in the rhythm](https://kglw.net/songs/god-is-in-the-rhythm)_. The jazz of the cosmos opens its bars for us to reinvent ourselves. Or be tampered with by malign entities. 
 
-![Portrait of Philip K. Dick by R. Crumb](https://culturellementvotre.fr/wp-content/uploads/2017/03/philip-k-dick-robert-crumb-portrait-weirdo.jpg){:style="width:31%"}
+<aside>
+<img alt="Portrait of Philip K. Dick by R. Crumb" src="https://i.imgur.com/WYFC49v.png" style="width:90%;max-width:800px" />
+</aside>
 
 At times, PKD's experience terrified him. Forcibly receiving puzzle pieces of an alternate self, he wasn't sure if he was targeted by an alien deity or suffering a relentless mental breakdown. King Gizzard also filters _anamnesis_ through this darker lens. Consider the opening lines from [the first tale](https://kglw.net/songs/a-new-world) of _[Murder of the Universe](https://kglw.net/releases/murder-of-the-universe/)_:
 
@@ -90,8 +94,8 @@ Gizz songs frequently depict characters searching for some kind of enlightenment
 
 The confused cyborg assumes the role of the [Gnostic demiurge](https://gnosticismexplained.org/the-gnostic-demiurge/#:~:text=The%20demiurge%20%28Greek%20demiurgos%2C%20%E2%80%9Ccraftsman%E2%80%9D%29%20is%20the%20being,to%20save%20humankind%20from%20the%20demiurge%E2%80%99s%20evil%20world.): the malignant craftsman we can blame for the fallibility of the material world. His temptation in _Tezeta_ reminds us that not all godlike voices are loving. Paranoia about mind control inspired the album _[I'm In Your Mind Fuzz](https://kglw.net/releases/im-in-your-mind-fuzz/)_. The dreamer in _[Blue Morpho](https://kglw.net/songs/blue-morpho)_ must "surrender this brain." More parasites pop up in songs like _[Acarine](https://kglw.net/songs/acarine)_ and _[Gondii](https://kglw.net/songs/gondii)_, furthering the theme of consciousness-hijackers (a PKD classic). Ego-death becomes ego-murder.
 
-![Murder of the Universe cover](https://f4.bcbits.com/img/a3406870115_10.jpg){:style="width:31%"}
-![a classical depiction of the demiurge; one name translates to "Blind God" or "God of the Blind"](https://www.gnosticserpent.com/wp-content/uploads/2020/04/2b5e7977b83a12b8ef54dc8bcaed07bc.jpeg){:style="width:31%"}
+![Murder of the Universe cover](https://kglw.net/releases/murder-of-the-universe/cover.jpg){:style="width:54%"}
+![a classical depiction of the demiurge; one name translates to "Blind God" or "God of the Blind"](https://i.imgur.com/IbEbvhm.png){:style="width:43%"}
 
 In Gnosticism, the demiurge is not a figure on par with the traditional idea of God. In fact, the deity's fumbling hand in creating reality makes it responsible for humanity's severance from The Divine, which resembles the Dao as much as anything else. Creation is sick, and we inherit the symptoms. The goal of _gnosis_ is a personal repairing of this spiritual bankruptcy, a reharmonization with fundamental reality. As the history of religion played out, Gnostic beliefs were deemed heretical. To any powerful church, the creator of the universe could not be critiqued in such a way, and the framing of the demiurge as false tempter covertly made its way into our language for Lucifer. 
 
@@ -106,7 +110,7 @@ The Gizzverse posits death as a junction between modes of existence. Even the im
 
 What we call God is actually the sum of cosmic consciousness, the _Dao_'s organic order flowing infinitely. It's all one dreamer; it's all one dream; separation is the illusion. That's the lesson of Philip K. Dick's _gnosis_. The _omni_ whence we emerge is the same _omni_ we return to in death, only to reemerge under a different name, our atoms reconfigured beyond recognition.
 
-![poster art by Jason Galea](https://cdn.myportfolio.com/c696cc3f-884c-4443-b8b9-b4d31be84f2b/8139a646-f07a-491e-823b-5bf10d8fd7e8_rw_1200.jpg?h=87c0a8d75a08aa29ae63b549b262fa5f){:style="width:31%"}
+![poster art by Jason Galea](https://i.imgur.com/drz8ipu.png){:style="width:60%;margin:1em 19%"}
 
 This is Zhuangzi's true transformation of material things: the [bricks that built our brains](https://kglw.net/songs/am-i-in-heaven) become sand to be swept into the eternal wave — the natural patterns of the _Dao_. From this reservoir of infinitely swirling matter, that same sand builds new bricks for new brains. The castle crumbles into the rising sea and is reborn in the [world that follows](https://kglw.net/songs/the-castle-in-the-air). The cosmic song plays again in a different key. And later on, in the next moment of _anamnesis_, life ascertains its true nature again. We awaken from the dream and remember that we are [Gaia](https://kglw.net/songs/gaia), always have been and always will be. We are the eyes glittering in the abyss. The stars are our cells. I believe the hyperbole. [Trust in the river](https://kglw.net/songs/the-river).
 
@@ -129,9 +133,10 @@ Like life itself, the path doesn't end — it just transforms into something els
 All we have to do is [open the door](https://kglw.net/songs/robot-stop) and crash through. 
 
 — David Kane
+{:style="margin:2em 30% 4em"}
 
 <aside>
-<i>David Kane is a writer-performer based in Los Angeles, where he produces short films and original plays. He often portrays Dr. Bendigan, a foolish metaphysician vivisecting the border of absurdist comedy and psychedelic horror. You can find David's work on [Doompunk Dispatch](https://doompunk6.wordpress.com/).</i>
+<i><b>David Kane</b> is a writer-performer based in Los Angeles, where he produces short films and original plays. He often portrays Dr. Bendigan, a foolish metaphysician vivisecting the border of absurdist comedy and psychedelic horror. You can find David's work on <a href="https://doompunk6.wordpress.com" title="Doompunk Dispatch" target="_blank" rel="noopener">Doompunk Dispatch</a>.</i>
 </aside>
 
 

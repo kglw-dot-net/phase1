@@ -235,6 +235,10 @@ main > .wrapper {
     border: 1px solid $gizz-bright-green;
     border-radius: 1em;
     background: #222;
+
+    iframe.youtube-embed { // hide YT within blog snippets on Homepage (takes up too much room)
+      display: none;
+    }
   }
 }
 
