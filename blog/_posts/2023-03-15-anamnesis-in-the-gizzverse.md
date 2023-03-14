@@ -5,7 +5,7 @@ author: David Kane
 
 The word 'anamnesis' emerges into [the Gizzverse](https://kglw.net/blog/gizzverse/2023/01/02/compendium-vol-00.html) first as the title of [an instrumental track of synth music][Anamnesis song] on the album _[Chunky Shrapnel]_, released in 2020:
 
-{% include youtube.html id="NSiA1NkfdPQ" title="'Anamnesis' by King Gizzard and the Lizard Wizard" %}
+{% include youtube.html id="srCFbzCMlvk" title="'Anamnesis' by King Gizzard and the Lizard Wizard" %}
 
 A year later, it appears in the lyrics of the song _[Blue Morpho]_: 
 
