@@ -1,7 +1,10 @@
 ---
 title: "Gizzverse Compendium #001: Anamnesis Crashes Through"
 author: David Kane
+image: https://i.imgur.com/ETQt2zjl.png
 ---
+
+![title illustration, with a Blue Morpho butterfly; subtitled: A Creative Analysis of Recurring Themes](https://i.imgur.com/ETQt2zjl.png){:.homepage--hide}
 
 The word 'anamnesis' emerges into [the Gizzverse](https://kglw.net/blog/gizzverse/2023/01/02/compendium-vol-00.html) first as the title of [an instrumental track of synth music][Anamnesis song] on the album _[Chunky Shrapnel]_, released in 2020:
 
