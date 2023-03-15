@@ -12,6 +12,8 @@ tour: EU/UK '23
 3. Robot Stop
    {% include segue.html type=">" %}
 4. Big Fig Wasp
+   {% include segue.html type=">" %}
+5. Gamma Knife
 
 
 <!--snippet-->
