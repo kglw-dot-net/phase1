@@ -23,6 +23,12 @@ tour: EU/UK '23
    {% include segue.html type="->" %}
 9. Iron Lung
 10. Sadie Sorceress
+11. Shanghai
+12. Magenta Mountain
+13. Hot Wax
+14. Planet B
+15. Gila Monster
+16. Gaia
 
 
 <!--snippet-->
