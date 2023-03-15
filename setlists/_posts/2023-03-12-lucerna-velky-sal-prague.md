@@ -3,6 +3,7 @@ layout: setlist
 venue: Lucerna Velký Sál, Prague, Czech Republic
 title: Lucerna Velký Sál, Prague
 tour: EU/UK '23
+modified_date: 2013-03-14
 ---
 
 1. Doom City {% include segue.html type=">" %}
