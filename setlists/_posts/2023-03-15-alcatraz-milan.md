@@ -20,6 +20,8 @@ tour: EU/UK '23
 7. Persistence
    {% include segue.html type=">" %}
 8. Hypertension
+   {% include segue.html type="->" %}
+9. Iron Lung
 
 
 <!--snippet-->
