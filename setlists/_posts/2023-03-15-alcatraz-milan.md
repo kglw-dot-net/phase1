@@ -14,6 +14,12 @@ tour: EU/UK '23
 4. Big Fig Wasp
    {% include segue.html type=">" %}
 5. Gamma Knife
+   {% include segue.html type=">" %}
+6. People-Vultures
+   {% include segue.html type=">" %}
+7. Persistence
+   {% include segue.html type=">" %}
+8. Hypertension
 
 
 <!--snippet-->
