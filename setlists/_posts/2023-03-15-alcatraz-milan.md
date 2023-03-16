@@ -34,4 +34,4 @@ tour: EU/UK '23
 <!--snippet-->
 
 #### Notes
-This show is currently in progress. 
+This setlist is under review by KGLW.net staff.
