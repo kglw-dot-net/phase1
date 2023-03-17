@@ -13,6 +13,7 @@ tour: EU/UK '23
 4. The Garden Goblin
 5. Iron Lung
 6. Sleep Drifter
+7. Nuclear Fusion
 
 <!--snippet-->
 
