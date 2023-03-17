@@ -16,6 +16,7 @@ tour: EU/UK '23
 7. Nuclear Fusion
 8. K.G.L.W. (Outro)
 9. This Thing
+10. Magenta Mountain
 
 <!--snippet-->
 
