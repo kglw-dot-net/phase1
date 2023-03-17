@@ -15,6 +15,7 @@ tour: EU/UK '23
 6. Sleep Drifter
 7. Nuclear Fusion
 8. K.G.L.W. (Outro)
+9. This Thing
 
 <!--snippet-->
 
