@@ -14,6 +14,7 @@ tour: EU/UK '23
 5. Iron Lung
 6. Sleep Drifter
 7. Nuclear Fusion
+8. K.G.L.W. (Outro)
 
 <!--snippet-->
 
