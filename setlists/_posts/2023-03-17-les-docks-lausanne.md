@@ -17,6 +17,7 @@ tour: EU/UK '23
 8. K.G.L.W. (Outro)
 9. This Thing
 10. Magenta Mountain
+11. Slow Jam 1
 
 <!--snippet-->
 
