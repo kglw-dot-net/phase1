@@ -18,6 +18,7 @@ tour: EU/UK '23
 9. This Thing
 10. Magenta Mountain
 11. Slow Jam 1
+12. Gaia
 
 <!--snippet-->
 
