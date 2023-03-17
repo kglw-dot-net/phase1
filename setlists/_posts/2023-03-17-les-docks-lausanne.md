@@ -10,6 +10,7 @@ tour: EU/UK '23
 2. Sea of Trees
    {% include segue.html type="->" %}
 3. Presumptuous
+4. The Garden Goblin
 
 <!--snippet-->
 
