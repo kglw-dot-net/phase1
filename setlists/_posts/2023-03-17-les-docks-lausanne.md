@@ -5,7 +5,7 @@ title: Les Docks, Lausanne
 tour: EU/UK '23
 ---
 
-1.Head On/Pill
+1. Head On/Pill
 
 <!--snippet-->
 
