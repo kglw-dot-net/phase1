@@ -22,7 +22,7 @@ _Bullant_ is the solo [Techno/IDM production](https://www.youtube.com/watch?v=LE
 In 2021, Cavs released his debut solo self-titled drumming album. [A pure expression of his drumming ability](https://www.youtube.com/watch?v=KSAP-dVNa-s), [_CAVS_](https://www.discogs.com/master/2280727-Cavs-Cavs) shows off chops in various percussive styles outside of what he usually gets to play with King Gizzard.
 
 ### Heavy Moss  
-Still yet to debut, _Heavy Moss_ is a band fronted by Lucas. Since the dissolution of his independent record label _Dusky Tracks_, Lucas has started a new project to develop his musical composition ability, even getting piano lessons for the purpose.
+_[Heavy Moss](https://heavymoss.bandcamp.com/track/morning-milk0)_ is a lo-fi band fronted by Lucas. Since the dissolution of his independent record label _Dusky Tracks_, he has started a new project to develop his musical composition ability, even getting piano lessons for the purpose.
 
 ## Prior and Inactive Projects  
 Prior to the formation of King Gizzard, each member had already been in an array of bands and musical projects populated with other locals from the Deniliquin, Barwon Heights, Geelong, Angelsea, and Melbourne areas, but have since become focused on King Gizzard.
