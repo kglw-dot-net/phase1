@@ -18,16 +18,15 @@ tour: EU/UK '23
 8. Doom City
 9. The Bitter Boogie
 10. Lava 
-11. The River
    {% include segue.html type=">" %}
-12. Wah Wah
+11. Wah Wah
      [^2]
    {% include segue.html type=">" %}
-13. Road Train
-14. It's Got Old
-15. Hypertension
-16. Ice V
-17. The Dripping Tap
+12. Road Train
+13. It's Got Old
+14. Hypertension
+15. Ice V
+16. The Dripping Tap
 
 <!--snippet-->
 
