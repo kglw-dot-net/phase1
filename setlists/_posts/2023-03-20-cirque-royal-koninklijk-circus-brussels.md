@@ -30,7 +30,7 @@ tour: EU/UK '23
 15. Cut Throat Boogie
    {% include segue.html type=">" %}
 16. Ice V
-17. Boogieman Same
+17. Boogieman Sam
 
 <!--snippet-->
 * footnotes
