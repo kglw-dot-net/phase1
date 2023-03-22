@@ -10,6 +10,7 @@ tour: EU/UK '23
 2. Gila Monster
 3. Robot Stop
    {%include segue.html type=">" %}
+4. Hot Water
 
 <!--snippet-->
 
