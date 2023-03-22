@@ -40,5 +40,4 @@ This show featured the debut of [Gila Monster](/songs/gila-monster). Honey conta
 #### Recordings
 
 {% include youtube.html id="e0RZddW_2mE" author="Scizzardland" %}
-
-{% include youtube.html id="ZiZtHniNOSE" author=misterlorko" %}
+{% include youtube.html id="ZiZtHniNOSE" author="misterlorko" %}
