@@ -15,6 +15,7 @@ tour: EU/UK '23
 5. Big Fig Wasp
    {%include segue.html type=">" %}
 6. Gamma Knife
+7. People-Vultures
 
 <!--snippet-->
 
