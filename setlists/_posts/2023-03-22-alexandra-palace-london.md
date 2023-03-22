@@ -13,6 +13,8 @@ tour: EU/UK '23
 4. Hot Water
    {%include segue.html type=">" %}
 5. Big Fig Wasp
+   {%include segue.html type=">" %}
+6. Gamma Knife
 
 <!--snippet-->
 
