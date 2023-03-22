@@ -18,6 +18,11 @@ tour: EU/UK '23
    {%include segue.html type=">" %}
 7. Gamma Knife
 8. Hypertension
+9. Work This Time
+10. Shanghai
+11. The Grim Reaper
+12. Iron Lung
+13. Magma
 
 <!--snippet-->
 
@@ -26,4 +31,4 @@ tour: EU/UK '23
 [^1]: With Cavs drum solo
 
 #### Notes 
-This show is in progress.
+This show is currently under review by KGLW.net Setlist Wizards.
