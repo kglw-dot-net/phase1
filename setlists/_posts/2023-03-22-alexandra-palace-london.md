@@ -12,10 +12,12 @@ tour: EU/UK '23
    {%include segue.html type=">" %}
 4. Hot Water
    {%include segue.html type=">" %}
-5. Big Fig Wasp
+5. Robot Stop
    {%include segue.html type=">" %}
-6. Gamma Knife
-7. People-Vultures
+6. Big Fig Wasp
+   {%include segue.html type=">" %}
+7. Gamma Knife
+8. Hypertension
 
 <!--snippet-->
 
