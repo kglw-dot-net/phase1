@@ -18,11 +18,13 @@ tour: EU/UK '23
    {%include segue.html type=">" %}
 7. Gamma Knife
 8. Hypertension
-9. Work This Time
-10. Shanghai
-11. The Grim Reaper
-12. Iron Lung
-13. Magma
+9. The Garden Goblin
+10. Work This Time
+11. Shanghai
+12. The Grim Reaper
+13. Iron Lung
+14. Magma
+15. The Dripping Tap
 
 <!--snippet-->
 
