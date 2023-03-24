@@ -11,8 +11,11 @@ title: "Archive of King Gizzard interviews"
 * Oct 31: The New Yorker, ["Into the Gizzverse with Shrimp and Juicy"](https://www.newyorker.com/magazine/2022/11/07/into-the-gizzverse-with-shrimp-and-juicy) - [(archived)](https://web.archive.org/web/20230104050548/https://www.newyorker.com/magazine/2022/11/07/into-the-gizzverse-with-shrimp-and-juicy)
 * Oct 26: NME, ["King Gizzard And The Lizard Wizard: 'If something is shit and no one likes it, you just put out another one the next month.'"](https://www.nme.com/big-reads/king-gizzard-and-the-lizard-wizard-cover-interview-2022-changes-3335897) by Josh Martin (with full band)
 * Oct 26: (video) [ABC News Australia](https://www.youtube.com/watch?v=rxle4toNKHU)
+* Oct 26: SPIN, [Supreme Ascendancy: Inside King Gizzard and the Lizard Wizard's New, Strange Trip](https://www.spin.com/2022/10/king-gizzard-and-the-lizard-wizard-three-albums-tour/) by Jonathon Cohen
 * Oct 11: [Stereogum - The Wild, Wonderful World Of King Gizzard & The Lizard Wizard](https://www.stereogum.com/2202315/king-gizzard-and-the-lizard-wizard-stu-mackenzie/interviews/cover-story/)
+* Sep 28: Los Angeles Times, ["Forget the MCU, psychedelic rockers King Gizzard & the Lizard Wizard created the 'Gizzverse'"](https://www.latimes.com/entertainment-arts/music/story/2022-09-28/king-gizzard-the-lizard-wizard-prepare-for-desert-daze) by Niyaz Pirani
 * Jun 13: Exberliner, ["King Gizzard & The Lizard Wizard: 'We're a fucking weird band'](https://beat.com.au/interview-psych-rock-chameleons-king-gizzard-and-the-lizard-wizard-on-what-makes-them-unique/) by Damien Cummings (with Joey)
+* Jun 2: ABC/Triple J, [King Gizzard on their first drumless show and rapping with Grandma](https://www.abc.net.au/triplej/news/king-gizzard-interview-drumless-show-covid-rapping-98yo-grandma/13913622) by Al Newstead
 * May/Jun: TapeOp, ["Stu Mackenzie of King Gizzard & the Lizard Wizard: A Lot More Considered"](https://tapeop.com/interviews/149/stu-mackenzie-king-gizzard-amp-lizard-wizard/) by Geoff Stanfield (with Stu)
 * May 31: (video) Andy Frasco's World Saving Podcast, ["EP 174 w/ Stu Mackenzie"](https://www.youtube.com/watch?v=aUnZ7iEmDxQ)
 * May 25: Beat, ["Interview: Psych-rock chameleons King Gizzard and the Lizard Wizard on what makes them unique"](https://beat.com.au/interview-psych-rock-chameleons-king-gizzard-and-the-lizard-wizard-on-what-makes-them-unique/) by Sidonie Bird de la Coeur
@@ -33,6 +36,7 @@ title: "Archive of King Gizzard interviews"
 * May 21: (audio) [Stu Mackenzie - 101 Part Time Jobs](https://www.youtube.com/watch?v=d7IBZFoDxhk)
 * May 4: (audio) [Tape Op Magazine - Episode 52: Stu Mackenzie](https://www.youtube.com/watch?v=tCCNkdWyOXI)
 * May 1: (video) [Tape Notes Podcast Ep. 64: King Gizzard & the Lizard Wizard](https://www.youtube.com/watch?v=ODI0x2unT2Q)
+* Feb 26: (video) ["Entrevista aos King Gizzard & the Lizard Wizard"](https://www.youtube.com/watch?v=ZEeiCaa58GM&list=PLKV-LnsZiOo83lY6Afgj8H3gGsYISSXrC&index=36&t=10s) Pedro Moreira interviews Stu)
 * Feb 18: Loud and Quiet, ["Reactivating the soul: the first interview with King Gizzard about new album LW"](https://www.loudandquiet.com/interview/reactivating-the-soul-the-first-interview-with-king-gizzard-about-new-album-lw/) by Luke Cartledge
 * Jan 14: (video) [Songwriters on Process](https://www.youtube.com/watch?v=Icnno_Qno1I) with Stu
 
@@ -74,6 +78,7 @@ title: "Archive of King Gizzard interviews"
 ### 2016
 
 * Nov 22: AudioTechnology, [Audio technology King Gizzard’s Lo-Fi Gut Feeling](https://www.audiotechnology.com/features/king-gizzards-lo-fi-gut-feeling)
+* Jun 29: The Sydney Morning Herald, [In the court of the Gizzard King](https://www.smh.com.au/entertainment/music/in-the-court-of-the-gizzard-king-20160628-gptx3u.html) by Michael Dwyer (with Eric and Stu)
 * Jun 17: (video) [Live in Limbo](https://www.youtube.com/watch?v=8hW_OeSrLQA) with Stu
 * May: (audio) Goetia Media, [King Gizzard & the Lizard Wizard interview for GoetiaMedia 2016](https://www.youtube.com/watch?v=YcSCJgkAg3o) with Stu
 * Mar 2: (video) SRF 3, [King Gizzard & The Lizard Wizard: Australische Reptilien in Zurich gesichtet](https://www.youtube.com/watch?v=nPBDcgNw6Pc) with Stu
