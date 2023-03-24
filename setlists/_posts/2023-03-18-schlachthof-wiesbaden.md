@@ -3,6 +3,7 @@ layout: setlist
 venue: Schlachthof Wiesbaden, Wiesbaden, Germany
 title: Schlachthof Wiesbaden, Wiesbaden
 tour: EU/UK '23
+modified_date: 2023-03-24
 ---
 
 1. Mars for the Rich
