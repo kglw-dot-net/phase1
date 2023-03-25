@@ -97,7 +97,7 @@ title: "Archive of King Gizzard interviews"
 * Nov: (video) Side Stage Collective, [Vodafone Mexefest 2014](https://www.youtube.com/watch?v=FAXgfld3MEM)
 * Apr 23: (video) [The AU Review](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Cavs, Joey, and Lucas
 * Mar: (video) 3RRRFM, [Interview at Golden Plains 2014](https://www.youtube.com/watch?v=gsCD9KlLcDk)
-* Mar: (video) Speaker TV, [Six Sevenths of King Gizzard and the Lizard Wizard Descrbie Getting 'Serious' as a Band](https://www.youtube.com/watch?v=VGP5xFp0U2c)
+* Mar: (video) Speaker TV, [Six Sevenths of King Gizzard and the Lizard Wizard Describe Getting 'Serious' as a Band](https://www.youtube.com/watch?v=VGP5xFp0U2c)
 * unknown: (video) [Griffin Brown, School Project Interview](https://www.youtube.com/watch?v=PuL45bLHEWI) with Stu (including solo acoustic Vegemite)
 
 ### 2013
