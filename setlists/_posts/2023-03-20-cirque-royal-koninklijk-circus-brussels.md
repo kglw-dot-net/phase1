@@ -3,6 +3,7 @@ layout: setlist
 venue: Cirque Royal / Koninklijk Circus, Brussels, Belgium
 title: Cirque Royal / Koninklijk Circus, Brussels
 tour: EU/UK '23
+modified_date: 2023-03-25
 ---
 
 1. Rattlesnake
