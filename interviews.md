@@ -77,11 +77,11 @@ title: "Archive of King Gizzard interviews"
 
 ### 2016
 
-* Nov 22: AudioTechnology, [Audio technology King Gizzard’s Lo-Fi Gut Feeling](https://www.audiotechnology.com/features/king-gizzards-lo-fi-gut-feeling)
-* Jun 29: The Sydney Morning Herald, [In the court of the Gizzard King](https://www.smh.com.au/entertainment/music/in-the-court-of-the-gizzard-king-20160628-gptx3u.html) by Michael Dwyer (with Eric and Stu)
-* Jun 17: (video) [Live in Limbo](https://www.youtube.com/watch?v=8hW_OeSrLQA) with Stu
-* May: (audio) Goetia Media, [King Gizzard & the Lizard Wizard interview for GoetiaMedia 2016](https://www.youtube.com/watch?v=YcSCJgkAg3o) with Stu
-* Mar 2: (video) SRF 3, [King Gizzard & The Lizard Wizard: Australische Reptilien in Zurich gesichtet](https://www.youtube.com/watch?v=nPBDcgNw6Pc) with Stu
+* Nov 22: AudioTechnology, [Audio technology King Gizzard’s Lo-Fi Gut Feeling](https://www.audiotechnology.com/features/king-gizzards-lo-fi-gut-feeling) - [(archived)](https://web.archive.org/web/20230325203850/https://www.audiotechnology.com/features/king-gizzards-lo-fi-gut-feeling)
+* Jun 29: The Sydney Morning Herald, [In the court of the Gizzard King](https://www.smh.com.au/entertainment/music/in-the-court-of-the-gizzard-king-20160628-gptx3u.html) by Michael Dwyer (with Eric and Stu) - [(archived)](https://web.archive.org/web/20230325203635/https://www.smh.com.au/entertainment/music/in-the-court-of-the-gizzard-king-20160628-gptx3u.html)
+* Jun 17: (video) [Live in Limbo](https://www.youtube.com/watch?v=8hW_OeSrLQA) with Stu - [(archived)](https://web.archive.org/web/20230325203120/https://www.youtube.com/watch?v=8hW_OeSrLQA)
+* May: (audio) Goetia Media, [King Gizzard & the Lizard Wizard interview for GoetiaMedia 2016](https://www.youtube.com/watch?v=YcSCJgkAg3o) with Stu - [(archived)](https://web.archive.org/web/20230325202225/https://www.youtube.com/watch?v=YcSCJgkAg3o)
+* Mar 2: (video) SRF 3, [King Gizzard & The Lizard Wizard: Australische Reptilien in Zurich gesichtet](https://www.youtube.com/watch?v=nPBDcgNw6Pc) with Stu - [(archived)](https://web.archive.org/web/20230325201623/https://www.youtube.com/watch?v=nPBDcgNw6Pc)
 
 ### 2015
 
