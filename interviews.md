@@ -13,7 +13,7 @@ title: "Archive of King Gizzard interviews"
 * Oct 26: (video) [ABC News Australia](https://www.youtube.com/watch?v=rxle4toNKHU)
 * Oct 26: SPIN, [Supreme Ascendancy: Inside King Gizzard and the Lizard Wizard's New, Strange Trip](https://www.spin.com/2022/10/king-gizzard-and-the-lizard-wizard-three-albums-tour/) by Jonathon Cohen
 * Oct 11: [Stereogum - The Wild, Wonderful World Of King Gizzard & The Lizard Wizard](https://www.stereogum.com/2202315/king-gizzard-and-the-lizard-wizard-stu-mackenzie/interviews/cover-story/)
-* Oct 11: Couch Radio Podcast, [Ep. 0016 Ambrose of The Murlocs and King Gizzard & The Lizard Wizard](Ep. 0016 Ambrose of The Murlocs and King Gizzard & The Lizard Wizard) - [(archived)](http://web.archive.org/web/20230324201132/https://www.youtube.com/watch?v=VCDIP8edmXQ)
+* Oct 11: (video) Couch Radio Podcast, [Ep. 0016 Ambrose of The Murlocs and King Gizzard & The Lizard Wizard](Ep. 0016 Ambrose of The Murlocs and King Gizzard & The Lizard Wizard) - [(archived)](http://web.archive.org/web/20230324201132/https://www.youtube.com/watch?v=VCDIP8edmXQ)
 * Sep 28: Los Angeles Times, ["Forget the MCU, psychedelic rockers King Gizzard & the Lizard Wizard created the 'Gizzverse'"](https://www.latimes.com/entertainment-arts/music/story/2022-09-28/king-gizzard-the-lizard-wizard-prepare-for-desert-daze) by Niyaz Pirani
 * Jun 13: Exberliner, ["King Gizzard & The Lizard Wizard: 'We're a fucking weird band'](https://beat.com.au/interview-psych-rock-chameleons-king-gizzard-and-the-lizard-wizard-on-what-makes-them-unique/) by Damien Cummings (with Joey)
 * Jun 2: ABC/Triple J, [King Gizzard on their first drumless show and rapping with Grandma](https://www.abc.net.au/triplej/news/king-gizzard-interview-drumless-show-covid-rapping-98yo-grandma/13913622) by Al Newstead
@@ -90,7 +90,6 @@ title: "Archive of King Gizzard interviews"
 * Dec 4: Reddit AMA, ['Hello! King Gizzard & The Lizard Wizard here. AMA xoxoxoxoxo'](https://www.reddit.com/r/indieheads/comments/3vcjjx/hello_king_gizzard_the_lizard_wizard_here_ama/)
 * Dec 1: Rolling Stone [King Gizzard and the Lizard Wizard Talk Infinitely Looping Concept LP](https://www.rollingstone.com/music/music-features/king-gizzard-and-the-lizard-wizard-talk-infinitely-looping-concept-lp-187873/)
 * Nov 10: DIY, ["King Gizzard & the Lizard Wizard talk shedding skin: 'People can think whatever they want'"](https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon) by Tom Connick - [(archived)](https://web.archive.org/web/20230104052938/https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon)
-* Sep 2: Student Youth Network, [Interview With Joe Walker](https://soundcloud.com/monsebire/interview-with-joe-walker-king)
 * Jul: (video) Best of Baltic Entertainment, [...Plays 'Would You Rather' Game at Positivus Festival 2015](https://www.youtube.com/watch?v=ZW03AAEYaiQ)
 
 ### 2014
@@ -107,6 +106,7 @@ title: "Archive of King Gizzard interviews"
 
 * Oct 16: (video) Banalarama, [DD Dumbo, King Gizzard, Willow Beats (live) on ABABCd](https://youtu.be/MPk4viiXIUU?t=691)
 * Oct 9: (video) [2013 AIR Awards for Best Independent Hard Rock or Punk Album](https://www.youtube.com/watch?v=Sf1M4Sl6TyY) with Ambrose and Cook
+* Sep 2: (audio) Student Youth Network, [Interview With Joe Walker](https://soundcloud.com/monsebire/interview-with-joe-walker-king)
 * May 23: (video) [Lucas Harwood on Atolls; Interview with Poncho](https://www.youtube.com/watch?v=xEUcSwA3MrE)
 
 ### 2012 
