@@ -87,10 +87,11 @@ title: "Archive of King Gizzard interviews"
 
 ### 2015
 
-* Dec 4: Reddit AMA, ['Hello! King Gizzard & The Lizard Wizard here. AMA xoxoxoxoxo'](https://www.reddit.com/r/indieheads/comments/3vcjjx/hello_king_gizzard_the_lizard_wizard_here_ama/)
-* Dec 1: Rolling Stone [King Gizzard and the Lizard Wizard Talk Infinitely Looping Concept LP](https://www.rollingstone.com/music/music-features/king-gizzard-and-the-lizard-wizard-talk-infinitely-looping-concept-lp-187873/)
+* Dec 4: Reddit AMA, ['Hello! King Gizzard & The Lizard Wizard here. AMA xoxoxoxoxo'](https://www.reddit.com/r/indieheads/comments/3vcjjx/hello_king_gizzard_the_lizard_wizard_here_ama/) - [(archived)](https://web.archive.org/web/20230325193853/https://www.reddit.com/r/indieheads/comments/3vcjjx/hello_king_gizzard_the_lizard_wizard_here_ama/)
+* Dec 1: Rolling Stone [King Gizzard and the Lizard Wizard Talk Infinitely Looping Concept LP](https://www.rollingstone.com/music/music-features/king-gizzard-and-the-lizard-wizard-talk-infinitely-looping-concept-lp-187873/) - [(archived)](https://web.archive.org/web/20230325193633/https://www.rollingstone.com/music/music-features/king-gizzard-and-the-lizard-wizard-talk-infinitely-looping-concept-lp-187873/)
+
 * Nov 10: DIY, ["King Gizzard & the Lizard Wizard talk shedding skin: 'People can think whatever they want'"](https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon) by Tom Connick - [(archived)](https://web.archive.org/web/20230104052938/https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon)
-* Jul: (video) Best of Baltic Entertainment, [...Plays 'Would You Rather' Game at Positivus Festival 2015](https://www.youtube.com/watch?v=ZW03AAEYaiQ)
+* Jul: (video) Best of Baltic Entertainment, [...Plays 'Would You Rather' Game at Positivus Festival 2015](https://www.youtube.com/watch?v=ZW03AAEYaiQ) - [(archived)](https://web.archive.org/web/20230325193202/https://www.youtube.com/watch?v=ZW03AAEYaiQ)
 
 ### 2014
 
