@@ -43,12 +43,12 @@ title: "Archive of King Gizzard interviews"
 
 ### 2020
 
-* Dec 16: (video) [FaceCulture King Gizzard & The Lizard Wizard interview - Ambrose Kenny-Smith](https://www.youtube.com/watch?v=hGZ55hxXpMM)
+* Dec 16: (video) [FaceCulture King Gizzard & The Lizard Wizard interview - Ambrose Kenny-Smith](https://www.youtube.com/watch?v=hGZ55hxXpMM) - [(archived)](https://web.archive.org/web/20230326151759/https://www.youtube.com/watch?v=hGZ55hxXpMM)
 * Dec 7: NME, ["King Gizzard and the Lizard Wizard: "It's cool how divisive we are'"](https://www.nme.com/en_au/features/king-gizzard-and-the-lizard-wizard-album-kg-interview-2020-2833101?amp) by Josh Martin (with Joey) - [(archived)](http://web.archive.org/web/20230104034829/https://www.nme.com/en_au/features/king-gizzard-and-the-lizard-wizard-album-kg-interview-2020-2833101?amp)
-* Nov 19: All Things Loud, ["Pandemics, polyrhythms and prog rock with King Gizzard & the Lizard Wizard's Ambrose Kenny-Smith"](https://www.allthingsloud.com/king-gizzard-interview/) by Jack Parker (with Ambrose)
+* Nov 19: All Things Loud, ["Pandemics, polyrhythms and prog rock with King Gizzard & the Lizard Wizard's Ambrose Kenny-Smith"](https://www.allthingsloud.com/king-gizzard-interview/) by Jack Parker (with Ambrose) - [(archived)](https://web.archive.org/web/20230326151420/https://www.allthingsloud.com/king-gizzard-interview/)
 * Nov 17: Kulturnews, [King Gizzard & The Lizard Wizard: Joey Walker im Interview zu „K.G.“](https://kulturnews.de/king-gizzard-and-the-lizard-wizard-k-g/), [(english translation)](https://www.reddit.com/r/KGATLW/comments/jvszsq/new_joey_walker_interview_on_kg_translated/) - [(archived)](https://web.archive.org/web/20230324200257/https://kulturnews.de/king-gizzard-and-the-lizard-wizard-k-g/)
-* Aug 6: Stu Mackenzie: ["King Gizzard was made to be loose... we didn't have a rehearsal for years!"](https://www.guitarworld.com/features/stu-mackenzie-king-gizzard-was-made-to-be-loose-we-didnt-have-a-rehearsal-for-years)
-* Apr 18: Reddit AMA, ['Hey King Gizzard ＆ the crew from Chunky Shrapnel here for 6 hours. ASK US ANYTHING!'](https://www.reddit.com/r/Music/comments/g3bi64/hey_king_gizzard_the_crew_from_chunky_shrapnel/)
+* Aug 6: Stu Mackenzie: ["King Gizzard was made to be loose... we didn't have a rehearsal for years!"](https://www.guitarworld.com/features/stu-mackenzie-king-gizzard-was-made-to-be-loose-we-didnt-have-a-rehearsal-for-years) - [(archived)](https://web.archive.org/web/20230326151137/https://www.guitarworld.com/features/stu-mackenzie-king-gizzard-was-made-to-be-loose-we-didnt-have-a-rehearsal-for-years)
+* Apr 18: Reddit AMA, ['Hey King Gizzard ＆ the crew from Chunky Shrapnel here for 6 hours. ASK US ANYTHING!'](https://www.reddit.com/r/Music/comments/g3bi64/hey_king_gizzard_the_crew_from_chunky_shrapnel/) - [(archived)](https://web.archive.org/web/20230326150611/https://www.reddit.com/r/Music/comments/g3bi64/hey_king_gizzard_the_crew_from_chunky_shrapnel/)
 
 ### 2019
 
