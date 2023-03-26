@@ -13,6 +13,7 @@ title: "Archive of King Gizzard interviews"
 * Oct 26: (video) [ABC News Australia](https://www.youtube.com/watch?v=rxle4toNKHU)
 * Oct 26: SPIN, [Supreme Ascendancy: Inside King Gizzard and the Lizard Wizard's New, Strange Trip](https://www.spin.com/2022/10/king-gizzard-and-the-lizard-wizard-three-albums-tour/) by Jonathon Cohen
 * Oct 11: [Stereogum - The Wild, Wonderful World Of King Gizzard & The Lizard Wizard](https://www.stereogum.com/2202315/king-gizzard-and-the-lizard-wizard-stu-mackenzie/interviews/cover-story/)
+* Oct 11: (video) Couch Radio Podcast, [Ep. 0016 Ambrose of The Murlocs and King Gizzard & The Lizard Wizard](Ep. 0016 Ambrose of The Murlocs and King Gizzard & The Lizard Wizard) - [(archived)](http://web.archive.org/web/20230324201132/https://www.youtube.com/watch?v=VCDIP8edmXQ)
 * Sep 28: Los Angeles Times, ["Forget the MCU, psychedelic rockers King Gizzard & the Lizard Wizard created the 'Gizzverse'"](https://www.latimes.com/entertainment-arts/music/story/2022-09-28/king-gizzard-the-lizard-wizard-prepare-for-desert-daze) by Niyaz Pirani
 * Jun 13: Exberliner, ["King Gizzard & The Lizard Wizard: 'We're a fucking weird band'](https://beat.com.au/interview-psych-rock-chameleons-king-gizzard-and-the-lizard-wizard-on-what-makes-them-unique/) by Damien Cummings (with Joey)
 * Jun 2: ABC/Triple J, [King Gizzard on their first drumless show and rapping with Grandma](https://www.abc.net.au/triplej/news/king-gizzard-interview-drumless-show-covid-rapping-98yo-grandma/13913622) by Al Newstead
@@ -45,6 +46,7 @@ title: "Archive of King Gizzard interviews"
 * Dec 16: (video) [FaceCulture King Gizzard & The Lizard Wizard interview - Ambrose Kenny-Smith](https://www.youtube.com/watch?v=hGZ55hxXpMM)
 * Dec 7: NME, ["King Gizzard and the Lizard Wizard: "It's cool how divisive we are'"](https://www.nme.com/en_au/features/king-gizzard-and-the-lizard-wizard-album-kg-interview-2020-2833101?amp) by Josh Martin (with Joey) - [(archived)](http://web.archive.org/web/20230104034829/https://www.nme.com/en_au/features/king-gizzard-and-the-lizard-wizard-album-kg-interview-2020-2833101?amp)
 * Nov 19: All Things Loud, ["Pandemics, polyrhythms and prog rock with King Gizzard & the Lizard Wizard's Ambrose Kenny-Smith"](https://www.allthingsloud.com/king-gizzard-interview/) by Jack Parker (with Ambrose)
+* Nov 17: Kulturnews, [King Gizzard & The Lizard Wizard: Joey Walker im Interview zu „K.G.“](https://kulturnews.de/king-gizzard-and-the-lizard-wizard-k-g/), [(english translation)](https://www.reddit.com/r/KGATLW/comments/jvszsq/new_joey_walker_interview_on_kg_translated/) - [(archived)](https://web.archive.org/web/20230324200257/https://kulturnews.de/king-gizzard-and-the-lizard-wizard-k-g/)
 * Aug 6: Stu Mackenzie: ["King Gizzard was made to be loose... we didn't have a rehearsal for years!"](https://www.guitarworld.com/features/stu-mackenzie-king-gizzard-was-made-to-be-loose-we-didnt-have-a-rehearsal-for-years)
 * Apr 18: Reddit AMA, ['Hey King Gizzard ＆ the crew from Chunky Shrapnel here for 6 hours. ASK US ANYTHING!'](https://www.reddit.com/r/Music/comments/g3bi64/hey_king_gizzard_the_crew_from_chunky_shrapnel/)
 
@@ -88,34 +90,35 @@ title: "Archive of King Gizzard interviews"
 * Dec 4: Reddit AMA, ['Hello! King Gizzard & The Lizard Wizard here. AMA xoxoxoxoxo'](https://www.reddit.com/r/indieheads/comments/3vcjjx/hello_king_gizzard_the_lizard_wizard_here_ama/)
 * Dec 1: Rolling Stone [King Gizzard and the Lizard Wizard Talk Infinitely Looping Concept LP](https://www.rollingstone.com/music/music-features/king-gizzard-and-the-lizard-wizard-talk-infinitely-looping-concept-lp-187873/)
 * Nov 10: DIY, ["King Gizzard & the Lizard Wizard talk shedding skin: 'People can think whatever they want'"](https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon) by Tom Connick - [(archived)](https://web.archive.org/web/20230104052938/https://diymag.com/interview/king-gizzard-and-the-lizard-wizard-interview-2015-paper-mache-dream-balloon)
-* Jul: (video) Best of Baltic Entertainment, [...Plays 'Would You Rather' Game at Positivus Festival 2015](https://www.youtube.com/watch?v=ZW03AAEYaiQ&t=43s)
+* Jul: (video) Best of Baltic Entertainment, [...Plays 'Would You Rather' Game at Positivus Festival 2015](https://www.youtube.com/watch?v=ZW03AAEYaiQ)
 
 ### 2014
 
 * Dec 19: Louder Sound, [High Hopes: King Gizzard & The Lizard Wizard](https://www.loudersound.com/features/high-hopes-king-gizzard-the-lizard-wizard) - [(archived)](https://web.archive.org/web/20230325192414/https://www.loudersound.com/features/high-hopes-king-gizzard-the-lizard-wizard)
-* Nov: (video) [Vodafone Mexefest 2014, Portugal](https://www.youtube.com/watch?v=8604AT8aAhk) - [(archived)](https://web.archive.org/web/20230325192228/https://www.youtube.com/watch?v=8604AT8aAhk)
-* Nov: (video) Side Stage Collective, [Vodafone Mexefest 2014](https://www.youtube.com/watch?v=FAXgfld3MEM) - [(archived)](https://web.archive.org/web/20230325190705/https://www.youtube.com/watch?v=FAXgfld3MEM)
+* Nov: (video) Made of Things, [King Gizzard & the Lizard Wizard | Made of Things (2014) | Vodafone Mexefest](https://www.youtube.com/watch?v=8604AT8aAhk) - [(archived)](https://web.archive.org/web/20230324200232/https://www.youtube.com/watch?v=t_5Y5xa_Vgk)
+* Nov: (video) Side Stage Collective, [Vodafone Mexefest 2014](https://www.youtube.com/watch?v=FAXgfld3MEM)
 * Apr 23: (video) [The AU Review](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Cavs, Joey, and Lucas - [(archived)](https://web.archive.org/web/20230325190444/https://www.youtube.com/watch?v=MCpKYmrNIlg)
 * Mar: (video) 3RRRFM, [Interview at Golden Plains 2014](https://www.youtube.com/watch?v=gsCD9KlLcDk) - [(archived)](https://web.archive.org/web/20230325190118/https://www.youtube.com/watch?v=gsCD9KlLcDk)
-* Mar: (video) Speaker TV, [Six Sevenths of King Gizzard and the Lizard Wizard Descrbie Getting 'Serious' as a Band](https://www.youtube.com/watch?v=VGP5xFp0U2c) - [(archived)](https://web.archive.org/web/20230325185743/https://www.youtube.com/watch?v=VGP5xFp0U2c)
+* Mar: (video) Speaker TV, [Six Sevenths of King Gizzard and the Lizard Wizard Describe Getting 'Serious' as a Band](https://www.youtube.com/watch?v=VGP5xFp0U2c) - [(archived)](https://web.archive.org/web/20230325185743/https://www.youtube.com/watch?v=VGP5xFp0U2c)
 * unknown: (video) [Griffin Brown, School Project Interview](https://www.youtube.com/watch?v=PuL45bLHEWI) with Stu (including solo acoustic Vegemite) - [(archived)](https://web.archive.org/web/20230325185558/https://www.youtube.com/watch?v=PuL45bLHEWI)
 
 ### 2013
 
 * Oct 16: (video) Banalarama, [DD Dumbo, King Gizzard, Willow Beats (live) on ABABCd](https://youtu.be/MPk4viiXIUU?t=691) - [(archived)](https://web.archive.org/web/20230324221100/https://www.youtube.com/watch?v=MPk4viiXIUU&t=691s)
 * Oct 9: (video) [2013 AIR Awards for Best Independent Hard Rock or Punk Album](https://www.youtube.com/watch?v=Sf1M4Sl6TyY) with Ambrose and Cook - [(archived)](https://web.archive.org/web/20230324221501/https://www.youtube.com/watch?v=Sf1M4Sl6TyY)
+* Sep 2: (audio) Student Youth Network, [Interview With Joe Walker](https://soundcloud.com/monsebire/interview-with-joe-walker-king)
 * May 23: (video) [Lucas Harwood on Atolls; Interview with Poncho](https://www.youtube.com/watch?v=xEUcSwA3MrE) - [(archived)](https://web.archive.org/web/20230324220134/https://www.youtube.com/watch?v=xEUcSwA3MrE)
 
 ### 2012 
 
-* Dec 8: (video)[1700 at Face the Music 2012](https://www.youtube.com/watch?v=z6ZnE5pwPqw) with Stu & Eric - [(archived)](https://web.archive.org/web/20230324215831/https://www.youtube.com/watch?v=z6ZnE5pwPqw)
+* Dec 8: (video) [1700 at Face the Music 2012](https://www.youtube.com/watch?v=z6ZnE5pwPqw) with Stu & Eric - [(archived)](https://web.archive.org/web/20230324215831/https://www.youtube.com/watch?v=z6ZnE5pwPqw)
 * Dec: (video) [Interview on Speaker TV](https://www.youtube.com/watch?v=QIJgqO6MKO4) with Stu & Eric - [(archived)](https://web.archive.org/web/20230324215508/https://www.youtube.com/watch?v=QIJgqO6MKO4)
-
 * Nov 23: Upstart, [King Gizzard brings rock'n'roll back to town](https://www.upstart.net.au/king-gizzard-brings-rocknroll-back-to-town/) by Justin Falconer with Eric [(archived)](https://web.archive.org/web/20230324214402/https://www.upstart.net.au/king-gizzard-brings-rocknroll-back-to-town/)
+* Oct 26: The Sydney Morning Herald, [Young talent time](https://www.smh.com.au/entertainment/music/young-talent-time-20121016-27pdc.html) (includes interviews with Stu and Eric on King Gizzard and Ambrose on The Murlocs) - [(archived)](https://web.archive.org/web/20230324200041/https://www.smh.com.au/entertainment/music/young-talent-time-20121016-27pdc.html)
 * Oct 3: (video) [King Gizzard and the Lizard Wizard - Interview with Shag on FBi Radio](https://www.youtube.com/watch?v=azuedaRzLzs) - [(archived)](https://web.archive.org/web/20230324213824/https://www.youtube.com/watch?v=azuedaRzLzs)
 * May 1: (video) [Poncho](https://www.youtube.com/watch?v=LdcVrR8Fh1Q) Cavs, Stu, Eric, and Ambrose on recording their first album and prepping for first national tour. - [(archived)](https://web.archive.org/web/20230324213146/https://www.youtube.com/watch?v=LdcVrR8Fh1Q)
 
 ### 2011
 
-* Oct 220: FasterLouder/Junkee, [Features: King Gizzard And The Lizard Wizard](https://web.archive.org/web/20160322110642/http://fasterlouder.junkee.com/king-gizzard-and-the-lizard-wizard/823749)
+* Oct 20: FasterLouder/Junkee, [Features: King Gizzard And The Lizard Wizard](https://web.archive.org/web/20160322110642/http://fasterlouder.junkee.com/king-gizzard-and-the-lizard-wizard/823749)
 * Jun 18: (video) [Poncho S02E09, "LOL"](https://www.youtube.com/watch?v=gsLDMnFErOA) by Nick Clarke [(archived)](http://web.archive.org/web/20130928131241/http://www.poncho.tv/eps_s02e09.php)
