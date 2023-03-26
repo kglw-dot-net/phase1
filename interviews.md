@@ -53,15 +53,15 @@ title: "Archive of King Gizzard interviews"
 ### 2019
 
 * Aug 23: Jenkem, ["We talked with 6 musicians about skating on tour"](https://www.jenkemmag.com/home/2019/08/23/talked-6-musicians-skating-tour/) by Eli Enis (with Ambrose) - [(archived)](https://web.archive.org/web/20230104052513/https://www.jenkemmag.com/home/2019/08/23/talked-6-musicians-skating-tour/)
-* Aug 7: Beat, ["King Gizzard & The Lizard Wizard are a genre-defying behemoth"](https://beat.com.au/king-gizzard-the-lizard-wizard-are-a-genre-defying-behemoth/)
-* Apr 30: Reddit AMA, ['King Gizzard & The Lizard Wizard AMA'](https://www.reddit.com/r/indieheads/comments/biuz0b/king_gizzard_the_lizard_wizard_ama/)
+* Aug 7: Beat, ["King Gizzard & The Lizard Wizard are a genre-defying behemoth"](https://beat.com.au/king-gizzard-the-lizard-wizard-are-a-genre-defying-behemoth/) - [(archived)](https://web.archive.org/web/20230326001036/https://beat.com.au/king-gizzard-the-lizard-wizard-are-a-genre-defying-behemoth/)
+* Apr 30: Reddit AMA, ['King Gizzard & The Lizard Wizard AMA'](https://www.reddit.com/r/indieheads/comments/biuz0b/king_gizzard_the_lizard_wizard_ama/) - [(archived)](https://web.archive.org/web/20230326000809/https://www.reddit.com/r/indieheads/comments/biuz0b/king_gizzard_the_lizard_wizard_ama/)
 * Apr 23: Dork, ["King Gizzard and the Lizard Wizard return: 'We really thought we knew what we were doing, and then...'"](https://readdork.com/features/king-gizzard-and-the-lizard-wizard-interview-may19/) by Jessica Goodman - [(archived)](https://web.archive.org/web/20230104050320/https://readdork.com/features/king-gizzard-and-the-lizard-wizard-interview-may19/)
 
 ### 2018
 
-* Nov 30: (video) [Double J Take 5 Radio Show](https://www.abc.net.au/radio/programs/take-5/king-gizzard-and-the-lizard-wizard-take-5/10572370)
+* Nov 30: (video) [Double J Take 5 Radio Show](https://www.abc.net.au/radio/programs/take-5/king-gizzard-and-the-lizard-wizard-take-5/10572370) - [(archived)](https://web.archive.org/web/20230326000429/https://www.abc.net.au/radio/programs/take-5/king-gizzard-and-the-lizard-wizard-take-5/10572370)
 * Aug 28: The Quietus, ["No slowing down: King Gizzard & the Lizard Wizard interviewed"](https://thequietus.com/articles/25160-king-gizzard-and-the-lizard-wizard-interview) by Brian Coney (with Stu)
-* Jun 10: (video) [Nardwuar vs. King Gizzard & The Lizard Wizard](https://www.youtube.com/watch?v=ENCswmcSALI)
+* Jun 10: (video) [Nardwuar vs. King Gizzard & The Lizard Wizard](https://www.youtube.com/watch?v=ENCswmcSALI) - [(archived)](https://web.archive.org/web/20230325235906/https://www.youtube.com/watch?v=ENCswmcSALI)
 * Feb 14: Rolling Stone, ["Why King Gizzard and the Lizard Wizard Released Five Albums in a Single Year"](https://www.rollingstone.com/music/music-features/why-king-gizzard-and-the-lizard-wizard-released-five-albums-in-a-single-year-198057/) by Michael Dwyer - [(archived)](https://web.archive.org/web/20230104052140/https://www.rollingstone.com/music/music-features/why-king-gizzard-and-the-lizard-wizard-released-five-albums-in-a-single-year-198057/)
 
 ### 2017
