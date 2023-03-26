@@ -111,7 +111,7 @@ title: "Archive of King Gizzard interviews"
 
 ### 2012 
 
-* Dec 8: (video)[1700 at Face the Music 2012](https://www.youtube.com/watch?v=z6ZnE5pwPqw) with Stu & Eric
+* Dec 8: (video) [1700 at Face the Music 2012](https://www.youtube.com/watch?v=z6ZnE5pwPqw) with Stu & Eric
 * Dec: (video) [Interview on Speaker TV](https://www.youtube.com/watch?v=QIJgqO6MKO4) with Stu & Eric
 * Nov 23: Upstart, [King Gizzard brings rock'n'roll back to town](https://www.upstart.net.au/king-gizzard-brings-rocknroll-back-to-town/) by Justin Falconer with Eric
 * Oct 26: The Sydney Morning Herald, [Young talent time](https://www.smh.com.au/entertainment/music/young-talent-time-20121016-27pdc.html) (includes interviews with Stu and Eric on King Gizzard and Ambrose on The Murlocs) - [(archived)](https://web.archive.org/web/20230324200041/https://www.smh.com.au/entertainment/music/young-talent-time-20121016-27pdc.html)
