@@ -99,24 +99,24 @@ title: "Archive of King Gizzard interviews"
 * Nov: (video) Side Stage Collective, [Vodafone Mexefest 2014](https://www.youtube.com/watch?v=FAXgfld3MEM)
 * Apr 23: (video) [The AU Review](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Cavs, Joey, and Lucas
 * Mar: (video) 3RRRFM, [Interview at Golden Plains 2014](https://www.youtube.com/watch?v=gsCD9KlLcDk)
-* Mar: (video) Speaker TV, [Six Sevenths of King Gizzard and the Lizard Wizard Descrbie Getting 'Serious' as a Band](https://www.youtube.com/watch?v=VGP5xFp0U2c)
+* Mar: (video) Speaker TV, [Six Sevenths of King Gizzard and the Lizard Wizard Describe Getting 'Serious' as a Band](https://www.youtube.com/watch?v=VGP5xFp0U2c)
 * unknown: (video) [Griffin Brown, School Project Interview](https://www.youtube.com/watch?v=PuL45bLHEWI) with Stu (including solo acoustic Vegemite)
 
 ### 2013
 
-* Oct 16: (video) Banalarama, [DD Dumbo, King Gizzard, Willow Beats (live) on ABABCd](https://youtu.be/MPk4viiXIUU?t=691)
-* Oct 9: (video) [2013 AIR Awards for Best Independent Hard Rock or Punk Album](https://www.youtube.com/watch?v=Sf1M4Sl6TyY) with Ambrose and Cook
+* Oct 16: (video) Banalarama, [DD Dumbo, King Gizzard, Willow Beats (live) on ABABCd](https://youtu.be/MPk4viiXIUU?t=691) - [(archived)](https://web.archive.org/web/20230324221100/https://www.youtube.com/watch?v=MPk4viiXIUU&t=691s)
+* Oct 9: (video) [2013 AIR Awards for Best Independent Hard Rock or Punk Album](https://www.youtube.com/watch?v=Sf1M4Sl6TyY) with Ambrose and Cook - [(archived)](https://web.archive.org/web/20230324221501/https://www.youtube.com/watch?v=Sf1M4Sl6TyY)
 * Sep 2: (audio) Student Youth Network, [Interview With Joe Walker](https://soundcloud.com/monsebire/interview-with-joe-walker-king)
-* May 23: (video) [Lucas Harwood on Atolls; Interview with Poncho](https://www.youtube.com/watch?v=xEUcSwA3MrE)
+* May 23: (video) [Lucas Harwood on Atolls; Interview with Poncho](https://www.youtube.com/watch?v=xEUcSwA3MrE) - [(archived)](https://web.archive.org/web/20230324220134/https://www.youtube.com/watch?v=xEUcSwA3MrE)
 
 ### 2012 
 
-* Dec 8: (video) [1700 at Face the Music 2012](https://www.youtube.com/watch?v=z6ZnE5pwPqw) with Stu & Eric
-* Dec: (video) [Interview on Speaker TV](https://www.youtube.com/watch?v=QIJgqO6MKO4) with Stu & Eric
-* Nov 23: Upstart, [King Gizzard brings rock'n'roll back to town](https://www.upstart.net.au/king-gizzard-brings-rocknroll-back-to-town/) by Justin Falconer with Eric
+* Dec 8: (video) [1700 at Face the Music 2012](https://www.youtube.com/watch?v=z6ZnE5pwPqw) with Stu & Eric - [(archived)](https://web.archive.org/web/20230324215831/https://www.youtube.com/watch?v=z6ZnE5pwPqw)
+* Dec: (video) [Interview on Speaker TV](https://www.youtube.com/watch?v=QIJgqO6MKO4) with Stu & Eric - [(archived)](https://web.archive.org/web/20230324215508/https://www.youtube.com/watch?v=QIJgqO6MKO4)
+* Nov 23: Upstart, [King Gizzard brings rock'n'roll back to town](https://www.upstart.net.au/king-gizzard-brings-rocknroll-back-to-town/) by Justin Falconer with Eric [(archived)](https://web.archive.org/web/20230324214402/https://www.upstart.net.au/king-gizzard-brings-rocknroll-back-to-town/)
 * Oct 26: The Sydney Morning Herald, [Young talent time](https://www.smh.com.au/entertainment/music/young-talent-time-20121016-27pdc.html) (includes interviews with Stu and Eric on King Gizzard and Ambrose on The Murlocs) - [(archived)](https://web.archive.org/web/20230324200041/https://www.smh.com.au/entertainment/music/young-talent-time-20121016-27pdc.html)
-* Oct 3: (video) [King Gizzard and the Lizard Wizard - Interview with Shag on FBi Radio](https://www.youtube.com/watch?v=azuedaRzLzs)
-* May 1: (video) [Poncho](https://www.youtube.com/watch?v=LdcVrR8Fh1Q) Cavs, Stu, Eric, and Ambrose on recording their first album and prepping for first national tour.
+* Oct 3: (video) [King Gizzard and the Lizard Wizard - Interview with Shag on FBi Radio](https://www.youtube.com/watch?v=azuedaRzLzs) - [(archived)](https://web.archive.org/web/20230324213824/https://www.youtube.com/watch?v=azuedaRzLzs)
+* May 1: (video) [Poncho](https://www.youtube.com/watch?v=LdcVrR8Fh1Q) Cavs, Stu, Eric, and Ambrose on recording their first album and prepping for first national tour. - [(archived)](https://web.archive.org/web/20230324213146/https://www.youtube.com/watch?v=LdcVrR8Fh1Q)
 
 ### 2011
 
