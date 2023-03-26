@@ -94,13 +94,13 @@ title: "Archive of King Gizzard interviews"
 
 ### 2014
 
-* Dec 19: Louder Sound, [High Hopes: King Gizzard & The Lizard Wizard](https://www.loudersound.com/features/high-hopes-king-gizzard-the-lizard-wizard)
+* Dec 19: Louder Sound, [High Hopes: King Gizzard & The Lizard Wizard](https://www.loudersound.com/features/high-hopes-king-gizzard-the-lizard-wizard) - [(archived)](https://web.archive.org/web/20230325192414/https://www.loudersound.com/features/high-hopes-king-gizzard-the-lizard-wizard)
 * Nov: (video) Made of Things, [King Gizzard & the Lizard Wizard | Made of Things (2014) | Vodafone Mexefest](https://www.youtube.com/watch?v=8604AT8aAhk) - [(archived)](https://web.archive.org/web/20230324200232/https://www.youtube.com/watch?v=t_5Y5xa_Vgk)
 * Nov: (video) Side Stage Collective, [Vodafone Mexefest 2014](https://www.youtube.com/watch?v=FAXgfld3MEM)
-* Apr 23: (video) [The AU Review](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Cavs, Joey, and Lucas
-* Mar: (video) 3RRRFM, [Interview at Golden Plains 2014](https://www.youtube.com/watch?v=gsCD9KlLcDk)
-* Mar: (video) Speaker TV, [Six Sevenths of King Gizzard and the Lizard Wizard Describe Getting 'Serious' as a Band](https://www.youtube.com/watch?v=VGP5xFp0U2c)
-* unknown: (video) [Griffin Brown, School Project Interview](https://www.youtube.com/watch?v=PuL45bLHEWI) with Stu (including solo acoustic Vegemite)
+* Apr 23: (video) [The AU Review](https://www.youtube.com/watch?v=MCpKYmrNIlg) with Cavs, Joey, and Lucas - [(archived)](https://web.archive.org/web/20230325190444/https://www.youtube.com/watch?v=MCpKYmrNIlg)
+* Mar: (video) 3RRRFM, [Interview at Golden Plains 2014](https://www.youtube.com/watch?v=gsCD9KlLcDk) - [(archived)](https://web.archive.org/web/20230325190118/https://www.youtube.com/watch?v=gsCD9KlLcDk)
+* Mar: (video) Speaker TV, [Six Sevenths of King Gizzard and the Lizard Wizard Describe Getting 'Serious' as a Band](https://www.youtube.com/watch?v=VGP5xFp0U2c) - [(archived)](https://web.archive.org/web/20230325185743/https://www.youtube.com/watch?v=VGP5xFp0U2c)
+* unknown: (video) [Griffin Brown, School Project Interview](https://www.youtube.com/watch?v=PuL45bLHEWI) with Stu (including solo acoustic Vegemite) - [(archived)](https://web.archive.org/web/20230325185558/https://www.youtube.com/watch?v=PuL45bLHEWI)
 
 ### 2013
 
