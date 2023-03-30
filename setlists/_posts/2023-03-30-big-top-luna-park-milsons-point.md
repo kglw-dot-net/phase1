@@ -5,7 +5,7 @@ title: Big Top @ Luna Park, Milson's Point
 ---
 
 1. Wah Wah
-   {% include segue.html type=">"}
+   {% include segue.html type=">" %}
 2. Road Train
 3. Ambergris
 4. Hypertension
@@ -14,7 +14,7 @@ title: Big Top @ Luna Park, Milson's Point
 7. Shanghai
 8. The Grim Reaper
 9. Crumbling Castle
-    {include segue.html type=">"}
+    {% include segue.html type=">" %}
 10. Gila Monster
 
 
