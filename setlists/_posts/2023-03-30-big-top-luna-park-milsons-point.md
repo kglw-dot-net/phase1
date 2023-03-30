@@ -15,7 +15,8 @@ title: Big Top @ Luna Park, Milson's Point
 8. The Grim Reaper
 9. Crumbling Castle
     {% include segue.html type=">" %}
-10. Gila Monster
+10. The Fourth Colour
+11. Gila Monster
 
 
 <!--snippet-->
