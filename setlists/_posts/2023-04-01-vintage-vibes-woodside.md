@@ -16,6 +16,7 @@ title: Vintage Vibes Fest, Woodside
 7. Gaia
 8. Magma
 
+<!--snippet-->
 
 #### Notes
 This setlist is under review by KGLW.net Setlist Wizards.
