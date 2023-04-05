@@ -25,4 +25,6 @@ title: Big Top @ Luna Park, Milson's Point
 This show is under review by KGLW.net Setlist Wizards.
 
 #### Recordings
+
+{% include youtube.html id="SOR5hON-OFE" author="Canned Cow" %}
 {% include archive.html id="03.30.2023" type="AUD" credit="u/giantnoob" %}
