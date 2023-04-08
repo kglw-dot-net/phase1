@@ -40,3 +40,7 @@ modified_date: 2023-03-10
 
 #### Notes
 Sleep Drifter contained Rattlesnake and O.N.E. teases.  The Book was introduced as a song about Satan and featured a Cavs drum solo. Evil Death Roll contained a Robot Stop tease.  Lava contained Hypertension and Superposition teases.  Slow Jam 1 contained Ice V teases and Iron Lung quotes.  Self-Immolate featured another Cavs drum solo. Gila Monster was introduced as “a song about dragons and witches and shit”.
+
+### Recordings
+
+ {% include youtube.html id="xu8W6dXc5FI" author="Altered Beast Recording" %}

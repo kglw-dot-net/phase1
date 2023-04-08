@@ -40,3 +40,13 @@ The Grim Reaper contained an extra verse from Sadie Sorceress.  Shanghai was sto
 
 **KGLW.net Staff Notes**
 The available recordings of this show are incomplete (missing portions of Doom City, Wah Wah and It’s Got Old). The full setlist was confirmed via a private recording. KGLW.net Staff are working to make this recording available via the Live Music Archive; stay tuned!
+
+### Recordings
+
+{% include youtube.html id="amcQhZxELOs" author="Altered Beast Recording" %}
+
+{% include youtube.html id="MnjxrZ-_nDw" author="Altered Beast Recording" %}
+
+{% include youtube.html id="EZJgcAwtUXo" author="Altered Beast Recording" %}
+
+{% include youtube.html id="7rapf9MXULs" author="Altered Beast Recording" %}

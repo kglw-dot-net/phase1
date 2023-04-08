@@ -38,3 +38,7 @@ modified_date: 2023-03-26
 
 #### Notes 
 Gaia featured a drum solo by Cavs followed by an extended metal vamp by the band, which contained unidentified quotes, possibly from a new song.  Robot Stop contained Hot Water teases and The Dripping Tap teases/quotes.  Hot Water contained The Dripping Tap teases and had lyrics changed to "time to party".  The segue from Gamma Knife to Hypertension consisted of a full band tease of People-Vultures.  Work This Time contained a "Jungle Is Massive (Wicked)" (MC Vapour) quote. Amby shouted out Tame Impala after Shanghai.  The Grim Reaper featured an additional verse from Sadie Sorceress and contained Horology teases.  The Dripping Tap contained Am I in Heaven?, Cellophane and Head On/Pill teases.
+
+### Recordings 
+
+{% include youtube.html id="fFmynUcoI0w" author="Altered Beast Recording" %}

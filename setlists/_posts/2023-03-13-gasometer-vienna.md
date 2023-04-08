@@ -39,3 +39,9 @@ modified_date: 2023-03-16
 
 #### Notes
 Gaia featured a drum solo by Cavs with an extended metal vamp by the band and contained an unidentified quote, possibly from a new song. Shanghai featured alternate, improvised lyric phrases from Stu, different from 2023-03-09, but still based around the "Let's get real high" and other various refrains. Work This Time contained a "Jungle Is Massive (Wicked)" (MC Vapour) quote. The Dripping Tap contained Cellophane teases. Trapdoor was listed on the printed setlist after Muddy Water but was not played. The River contained Iron Lung teases.
+
+### Recordings
+
+{% include youtube.html id="j40hezsRU8c" author="Altered Beast Recording" %}
+
+{% include youtube.html id="c45OcRSV36c" author="Altered Beast Recording" %}
