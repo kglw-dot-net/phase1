@@ -45,3 +45,7 @@ modified_date: 2023-03-19
 
 #### Notes
 Joey shouted out [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) at the start of the show.  Evil Death Roll was introduced as a song about crocodiles and contained The Dripping Tap and Trapdoor teases. Alter Me I contained an Ice V tease. Billabong Valley and Honey contained Sleep Drifter teases. The Grim Reaper contained an unknown quote and an additional verse from Sadie Sorceress. Los Bitchos joined the band for Trapdoor, where Cavs and Nic from Los Bitchos traded drum solos.
+
+### Recordings
+
+{% include youtube.html id="skLpoU3ARAg" author="Altered Beast Recording" %}

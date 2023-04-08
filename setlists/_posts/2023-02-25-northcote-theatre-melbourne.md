@@ -32,3 +32,7 @@ Gaia featured a drum solo by Cavs followed by an extended full band metal vamp. 
 #### Recordings
 
 {% include archive.html id="kglw2023-02-25" type="AUD" credit="Progdog1" %}
+
+{% include youtube.html id="rzIAh3qnWBo" author="Larrikin_Grim" %}
+
+{% include youtube.html id="VWI3K0GC6QI" author="Larrikin_Grim" %}

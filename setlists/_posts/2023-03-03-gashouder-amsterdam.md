@@ -41,6 +41,8 @@ Opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) was shouted
 
 #### Recordings
 
+{% include archive.html id="kglw2023-03-03.fob.schoeps.mk41v.vms02ib.9624.flac" type="AUD" credit="jadedphan" %}
+
 {% include youtube.html id="mTGyhONzDK4" author="Altered Beast Broadcasting" %}
 
 {% include youtube.html id="xZhP6lwRGug" author="misterlorko" %}

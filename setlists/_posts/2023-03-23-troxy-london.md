@@ -39,3 +39,9 @@ modified_date: 2023-03-27
 
 #### Notes
 Sadie Sorceress was dedicated to Ambrose's 99-year-old grandmother and contained an extra verse from The Grim Reaper. Am I in Heaven? contained “animals in Australia” and I Am Not a Man Unless I Have a Woman quotes, Head On/Pill, Shanghai & unidentified/new song teases & quotes and Ice V, Hot Water, The Dripping Tap, & Sea of Trees teases.
+
+### Recordings
+
+{% include youtube.html id="nxTIf2d04oQ" author="M" %}
+
+{% include youtube.html id="cppWjwiHFMg" author="Altered Beast Recording" %}

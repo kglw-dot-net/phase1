@@ -32,3 +32,9 @@ title: The Tivoli, Brisbane
 This show is under review by KGLW.net Setlist Wizards. 
 
 **KGLW.net Staff Notes**: The setlist for this show is believed to be complete, but only partial recordings exist.  This Thing and Trapdoor have been verified by audio/video recording.  KGLW.net staff believes the setlist is complete based on contemporaneous discussions through various social media, but any additional setlist notations that require audio confirmation (segues, quotes or teases) may be incomplete. If anyone has any further information or, ideally, a complete or conclusive recording please contact KGLW.net staff at kglw.net@gmail.com.
+
+### Recordings
+
+{% include youtube.html id="_R2GqHN1yJo" author="splendourful" %}
+
+{% include youtube.html id="zx5nSOjXXOc" author="splendourful" %}
