@@ -19,4 +19,6 @@ title: Vintage Vibes Fest, Woodside
 <!--snippet-->
 
 #### Notes
-This setlist is under review by KGLW.net Setlist Wizards.
+This show was part of the 2023 Vintage Vibes Festival.
+
+**KGLW.net Staff Notes**: The setlist for this show is believed to be complete, but no recordings are available. KGLW.net staff believes the setlist is complete based on contemporaneous discussions through various social media, but any additional setlist notations that require audio confirmation (segues, quotes or teases) may be incomplete. If anyone has any further information or, ideally, a complete or conclusive recording please contact KGLW.net staff at kglw.net@gmail.com.
