@@ -10,7 +10,7 @@ modified: 2023-04-16
  1. Am I in Heaven?
  2. Work This Time
  3. Sea of Trees
-    [^1}
+    [^1]
     {% include segue.html type=">" %}
  4. Work This Time
  5. Sleep Drifter
