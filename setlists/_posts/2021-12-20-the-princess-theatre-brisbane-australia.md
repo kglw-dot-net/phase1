@@ -3,7 +3,7 @@ layout: setlist
 date: "2021-12-20"
 venue: "The Princess Theatre, Brisbane, Australia"
 tour: "2021 Princess Theatre Residency"
-modified: 2023-04-16
+modified_date: 2023-04-16
 ---
 
 
