@@ -69,6 +69,8 @@ title: "Archive of King Gizzard interviews"
 
 ### 2019
 
+* Nov: Q Magazine, ["The Hardest Working Men In Heaaaavy-Rock-Business"](https://s3.amazonaws.com/external_clips/3193744/King_Gizzard.pdf?1569332512) by Eve Barlow - [(archived)](http://web.archive.org/web/20230418221150/https://s3.amazonaws.com/external_clips/3193744/King_Gizzard.pdf?1569332512)
+* Aug 23: Flood Magazine, [King Gizzard & the Lizard Wizard Can’t Be Tamed](https://floodmagazine.com/66774/king-gizzard-the-lizard-wizard-cant-be-tamed/) by Sean Neumann - [(archived)](http://web.archive.org/web/20230418221720/https://floodmagazine.com/66774/king-gizzard-the-lizard-wizard-cant-be-tamed/)
 * Aug 23: Jenkem, ["We talked with 6 musicians about skating on tour"](https://www.jenkemmag.com/home/2019/08/23/talked-6-musicians-skating-tour/) by Eli Enis (with Ambrose) - [(archived)](https://web.archive.org/web/20230104052513/https://www.jenkemmag.com/home/2019/08/23/talked-6-musicians-skating-tour/)
 * Aug 18: (video) KEXP, [Live on KEXP](https://youtu.be/EnmFKS2eDBA?t=1114) - [(archived)](https://web.archive.org/web/20230330214328/https://www.youtube.com/watch?v=EnmFKS2eDBA)
 * Aug 7: Beat, ["King Gizzard & The Lizard Wizard are a genre-defying behemoth"](https://beat.com.au/king-gizzard-the-lizard-wizard-are-a-genre-defying-behemoth/) - [(archived)](https://web.archive.org/web/20230326001036/https://beat.com.au/king-gizzard-the-lizard-wizard-are-a-genre-defying-behemoth/)
