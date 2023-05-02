@@ -1,5 +1,5 @@
 ---
-title: Review of 
+title: Review of "Polygondwanaland" graphic novel (Courtney and Peña)
 author: David Kane
 ---
 
@@ -7,7 +7,7 @@ With their graphic novel adaptation of _Polygondwanaland_, Joe Courtney and Jorg
 
 ![image of the cover of Joe Courtney and Jorge Peña's recent graphic novel "Polygondwanaland"](https://i.imgur.com/zRvqwJrl.jpg)
 
-When you’ve listened to the 2017 album as many times as I have, it was hard not to hear the text sung in my mind fuzz as I read the comic. Courtney transposes lyrics word for word in some contexts, but playfully rearranges them in others, keeping the reader on their toes. But if you played the album while reading, it wouldn’t match up exactly. The longest song Crumbling Castle gets covered within a few pages, with the rest of the chapters delivered in a non-linear fashion. It’s a welcome alteration. The graphic novel ends up being a mix of familiar and fresh material, populated by plenty of curveballs thrown by the artistic team.
+When you’ve listened to the 2017 album as many times as I have, it was hard not to hear the text sung in my mind fuzz as I read the comic. Courtney transposes lyrics word for word in some contexts, but playfully rearranges them in others, keeping the reader on their toes. But if you played the album while reading, it wouldn’t match up exactly. The longest song _Crumbling Castle_ gets covered within a few pages, with the rest of the chapters delivered in a non-linear fashion. It’s a welcome alteration. The graphic novel ends up being a mix of familiar and fresh material, populated by plenty of curveballs thrown by the artistic team.
 
 In interpreting the album’s labyrinthine lore, the comic devotes strict fidelity to certain elements like the hermit kingdom and its failed uprising. Then the creators add creative flourishes, casting the characters in potent roles responsible for expanding the Gizzverse.
 
