@@ -12,13 +12,13 @@ When you’ve listened to [the 2017 album](/releases/polygondwanaland) as many t
 
 In interpreting the album’s labyrinthine lore, the comic devotes strict fidelity to certain elements like the hermit kingdom and its failed uprising. Then the creators add creative flourishes, casting the characters in potent roles responsible for expanding the Gizzverse.
 
-Many of the album mysteries are presented just as mysterious here. What is the Fourth Color? What is Polygondwanaland exactly? How do you get there if it defies traditional conceptions of physical reality? How do you glean sustenance from smell? Courtney and Peña don't answer all these questions, nor should they. Both artists understand the power of mystique and communicate it with delicious genre flare.
+Many of the album's mysteries are presented just as mysterious here. What is the Fourth Color? What is Polygondwanaland exactly? How do you get there if it defies traditional conceptions of physical reality? How do you glean sustenance from smell? Courtney and Peña don't answer all these questions, nor should they. Both artists understand the power of mystique and communicate it with delicious genre flare.
 
 -------
 
 In exploring the eponymous supercontinent and its inhabitants, Courtney provides some answers. He names the album’s lyrical references to mythology, which fans have been speculating on since its release. These choices suggest detailed research behind the script, coloring in the corners surrounding the narrative. While the land looms large in the first few chapters, more focus is ultimately given to the characters, who spring from the album to be fleshed out in interesting directions on the page.
 
-Peña draws the narrator as [Stu Mackenzie](/band-bio), even aging him up for the finale. This character provides a much needed connective tether between the two halves of the story. Courtney makes the sly decision to parallel the reader’s experience with this protagonist: a traveler perplexed by his experiences. One of Peña’s greatest skills lies in expression. The illustrator does an excellent job conveying the emotion on Stu’s face, changing from panel to panel as he smoothly sails through the castle in the air. The reader is able to truly connect with the adventurer on his winding mind-blowing journey.
+Peña draws the narrator as [Stu Mackenzie](/band-bio), even aging him up for the finale. This character provides a much needed connective tether between the two halves of the story. Courtney makes the sly decision to parallel the reader’s experience with this protagonist: a traveler perplexed by his experiences. One of Peña’s greatest skills lies in expression. The illustrator does an excellent job conveying the emotion on Stu’s face, changing from panel to panel as he smoothly sails through the castle in the air. The reader is able to truly connect with the adventurer on his winding, mind-blowing journey.
 
 ![Castle in the Air artwork by Joe Courtney & Joge Peña](https://i.imgur.com/4Kndj9S.jpg)
 
