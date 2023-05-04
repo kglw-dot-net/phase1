@@ -6,7 +6,7 @@ image: https://i.imgur.com/ETQt2zjl.png
 
 ![title illustration, with a Blue Morpho butterfly; subtitled: A Creative Analysis of Recurring Themes](https://i.imgur.com/ETQt2zjl.png){:.homepage--hide}
 
-The word 'anamnesis' emerges into [the Gizzverse](https://kglw.net/blog/gizzverse/2023/01/02/compendium-vol-00.html) first as the title of [an instrumental track of synth music][Anamnesis song] on the album _[Chunky Shrapnel]_, released in 2020:
+The word 'anamnesis' emerges into [the Gizzverse](https://kglw.net/blog/2023/01/02/compendium-vol-00.html) first as the title of [an instrumental track of synth music][Anamnesis song] on the album _[Chunky Shrapnel]_, released in 2020:
 
 <iframe style="border:0;width:100%;height:120px" src="https://bandcamp.com/EmbeddedPlayer/album=6509641/size=large/bgcol=333333/linkcol=0687f5/tracklist=false/artwork=small/track=1389530518/transparent=true/" seamless><a href="https://kinggizzard.bandcamp.com/album/chunky-shrapnel">"Anamnesis" on the album Chunky Shrapnel, by King Gizzard and The Lizard Wizard</a></iframe>
 

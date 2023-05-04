@@ -3,7 +3,7 @@ title: Review of "Polygondwanaland" graphic novel (by Joe Courtney and Jorge Pe�
 author: David Kane
 ---
 
-With their [graphic novel adaptation of _Polygondwanaland_](https://hellmouthcomics.bigcartel.com/product/preorder-polygondwanaland-comic), Joe Courtney and Jorge Peña have crafted a wonderful addition to the ever-expanding Gizzverse. It’s a perfect example of how the bootlegger legacy can and should evolve into uncharted territory.
+With their [graphic novel adaptation of _Polygondwanaland_](https://hellmouthcomics.bigcartel.com/product/preorder-polygondwanaland-comic), Joe Courtney and Jorge Peña have crafted a wonderful addition to the ever-expanding [Gizzverse](/blog/2023/01/02/compendium-vol-00.html). It’s a perfect example of how the bootlegger legacy can and should evolve into uncharted territory.
 
 ![front cover of Joe Courtney and Jorge Peña's recent graphic novel "Polygondwanaland"](https://i.imgur.com/zRvqwJrl.jpg)
 
