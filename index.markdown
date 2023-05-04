@@ -14,4 +14,4 @@ Official:
 [Instagram](https://www.instagram.com/kinggizzard)
 [Twitter](https://twitter.com/kinggizzard)
 
-![color drawing of a Lizard Wizard, holding a staff with a crowned bird perched atop](/assets/kglw.jpeg){: .float-right }
+![preview/promo/teaser about changes afoot here at KGLW.net! such as • personal stat tracking • setlist archives (with embedded audio and video!) • user reviews (submitted by you!) • advanced song data (histories, gap charts, debuts, times played) • every interview ever(?) • the complete guide to your favorite obsession! "obsession is gooooood goooood for ya"](https://i.imgur.com/e6LUsjwh.jpg){: .float-right }
