@@ -1,5 +1,5 @@
 ---
-title: Review of "Polygondwanaland" graphic novel (Courtney and Peña)
+title: Review of "Polygondwanaland" graphic novel (by Joe Courtney and Jorge Peña)
 author: David Kane
 ---
 
@@ -34,5 +34,5 @@ Also present are references to the sillier side of the Gizzverse. Dinosaurs and 
 All in all, the Polygondwanaland graphic novel is a perfect example of the potential of the Gizzverse. The musical juggernauts poured a foundation for other creative minds to build upon. When one embarks on a project like this, fealty to canon can entice fellow fans. But the journey also requires the courage to step outside, remix the material into a different shape, and expand the possibilities. Joe and Jorge possess such courage, and their collaborative work of art is a testament to the power of this community. When you open new doors, you explore worlds adjacent to the familiar. I believe that is the true nature of Polygondwanaland: it’s free, free as in free.
 
 <aside>
-The graphic novel is currently sold out at [Hellmouth Comics](https://hellmouthcomics.bigcartel.com/), but stay tuned for future print runs and the PDF edition coming soon..
+The graphic novel is currently sold out at <a href="https://hellmouthcomics.bigcartel.com/" target="_blank">Hellmouth Comics</a>, but stay tuned for future print runs and the PDF edition coming soon..
 </aside>
