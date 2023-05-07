@@ -1,7 +1,8 @@
 ---
 title: "Gizzverse Compendium Volume #00: Introduction"
-category: gizzverse
 author: W.B.T.G. Slinger
+redirect_from:
+- /blog/gizzverse/2023/01/02/compendium-vol-00.html
 ---
 
 "That's a word that I — don't, know where it even came from", was Stu's carefully worded response when asked about the 'Gizzverse' in early 2017.  

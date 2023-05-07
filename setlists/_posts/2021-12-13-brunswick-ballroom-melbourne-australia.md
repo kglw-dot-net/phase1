@@ -15,15 +15,19 @@ title: "Acoustic @ the Brunswick"
  8. The Bitter Boogie
  9. Muddy Water
 10. Most of What I Like
+    [^1]
 11. Sense
 12. Slow Jam 1
 13. Stressin'
 14. Her and I (Slow Jam 2)
 
+* footnotes
+{:footnotes}
+[^1]: Debut
 
 #### Notes
 
-Acoustic show.
+This show was a fully acoustic warmup gig for acoustic night of the Princess Theatre residency and featured the debut of Most of What I Like.  The intro to Sense contained "Come On" (The Notorious B.I.G.) quotes.  Following Slow Jam 1 opening band The Bush was shouted out and mention was made that Ambrose's sister Edith is in the band.
 
 
 #### Recordings

@@ -34,3 +34,5 @@ Sense was teased immediately before and during Ice V. Ambergris was introduced a
 #### Recordings
 
 {% include archive.html id="KGLW2023-03-09.dankski" type="AUD" credit="Dankskivision" %}
+
+{% include youtube.html id="j40hezsRU8c" author="Altered Beast Recording" %}

@@ -38,5 +38,12 @@ modified_date: 2023-03-24
 #### Notes
 The Grim Reaper contained an extra verse from Sadie Sorceress.  Shanghai was stopped midway through, eventually resuming with a jam that featured alternate, improvised lyric phrases based around the “Let’s get real high” and other various refrains.  The Bitter Boogie contained Crumbling Castle teases.  Prior to Lava, a pocket watch was passed up to the stage and Stu attempted to find the owner.  Lava contained Hypertension teases.  Wah Wah contained The River teases/quotes. Joey shouted out [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) after Road Train.  It’s Got Old was introduced as “a very old song that will most likely be fucking awesome and very reggae-ish."  Ice V had the intro and first verse performed without drums and contained Hypertension teases.  Prior to The Dripping Tap, Amby introduced the song as the story of his kitchen sink and Joey shouted out one of the front-of-stage security staff who had been dancing to the music.  The Dripping Tap contained Cellophane teases and closed with Amby quoting [“So Long, Farewell”](https://www.youtube.com/watch?v=mAqLovfRTro) (The Sound of Music).
 
-**KGLW.net Staff Notes**
-The available recordings of this show are incomplete (missing portions of Doom City, Wah Wah and It’s Got Old). The full setlist was confirmed via a private recording. KGLW.net Staff are working to make this recording available via the Live Music Archive; stay tuned!
+### Recordings
+
+{% include youtube.html id="amcQhZxELOs" author="Altered Beast Recording" %}
+
+{% include youtube.html id="MnjxrZ-_nDw" author="Altered Beast Recording" %}
+
+{% include youtube.html id="EZJgcAwtUXo" author="Altered Beast Recording" %}
+
+{% include youtube.html id="7rapf9MXULs" author="Altered Beast Recording" %}

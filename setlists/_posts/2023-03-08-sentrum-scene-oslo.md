@@ -36,3 +36,5 @@ Oddlife was introduced as Cookie’s favorite song and contained Rattlesnake tea
 #### Recordings
 
 {% include archive.html id="KGLW2023-03-08.dankski" type="AUD" credit="Dankskivision" %}
+
+{% include youtube.html id="mkVSWBdcwkc" author="Altered Beast Recording" %}

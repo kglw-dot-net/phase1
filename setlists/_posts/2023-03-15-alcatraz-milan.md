@@ -43,3 +43,7 @@ modified_date: 2023-03-18
 
 #### Notes
 Robot Stop contained Hot Water teases and The Dripping Tap teases/quotes.  Hot Water had lyrics changed to “time to party”.  Persistence contained Sleepwalker teases.  Hypertension contained Ice V teases/quotes.  Sadie Sorceress was introduced as a song about Amby’s nana and contained a Crumbling Castle tease and an extra verse from The Grim Reaper. Shanghai was dedicated to orange juice and featured alternate, improvised lyric phrases from Stu, different from 2023-03-09 and 2023-03-13, but still based around the “Let’s get real high” and other various refrains.  Magenta Mountain had lyrics changed to “I don’t believe Stu”.  Mars For the Rich was listed on the written setlist after Planet B but was not played.  Joey shouted out opening act [Los Bitchos](https://en.wikipedia.org/wiki/Los_Bitchos) before Gaia.  Gaia featured a drum solo by Cavs, during which Amby and Stu laid down on the stage to watch.
+
+### Recordings 
+
+{% include youtube.html id="6ZgQUgdUIFw" author="Altered Beast Recording" %}
