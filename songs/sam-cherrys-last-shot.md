@@ -4,7 +4,7 @@ title: Sam Cherry's Last Shot
 album: 12 Bar Bruise
 ---
 
-(Mackenzie)
+(Mackenzie/Dodge)
 
 # Lyrics
 
@@ -44,3 +44,4 @@ album: 12 Bar Bruise
 * Stu Mackenzie - Sing + Guitar  
 * Lucas Skinner - Bass + Sing  
 * Joe Walker - Guitar + Sing  
+* Broderick Smith - Spoken narration
