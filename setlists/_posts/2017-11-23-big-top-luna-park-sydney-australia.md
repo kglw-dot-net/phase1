@@ -48,4 +48,4 @@ tour: "Murder of the Universe"
 
 20. Lonely Steel Sheet Flyer
 
-Note: Headline set at Gizzfest Syndey 2017
+Note: Headline set at Gizzfest Sydney 2017.
