@@ -1,3 +1,5 @@
+**Retired — this site has been replaced in Phase 2 of KGLW.net by Songfish.**
+
 A [Jekyll] site for Phase 1 of kglw.net.
 
 Note that the theme is [v2.5 of Minima](https://github.com/jekyll/minima/tree/2.5-stable) (not the latest 3.0 branch)
