@@ -575,6 +575,19 @@ ul.songlist { // `/songs` page
   columns: 14em;
 }
 
+
+article.song { // each Song/Lyric page
+  ul.performers,
+  ul.credits {
+    border: 1px solid #888;
+    box-shadow: -1px 0px 5px 1px #666 inset;
+    padding: 0.5em 0.5em 0.5em 2em;
+  }
+  ul.performers + ul.credits {
+    margin-top: -1em;
+  }
+}
+
 .corrections {
   order: 3;
   width: 75%;
